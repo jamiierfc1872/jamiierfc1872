@@ -202,8 +202,14 @@ def send_telegram_html(message_html: str):
         "parse_mode": "HTML",
         "disable_web_page_preview": True,
     }
-    r = requests.post(url, json=payload, timeout=25)
-    r.raise_for_status()
+    
+    try:
+        r = requests.post(url, json=payload, timeout=25)
+        r.raise_for_status()
+        print(f"Message sent successfully to chat {CHAT_ID}")
+    except Exception as e:
+        print(f"Failed to send Telegram message: {e}")
+        print(f"Bot token length: {len(BOT_TOKEN)}, Chat ID: {CHAT_ID}")
 
 
 def _looks_like_team_or_header(line: str) -> bool:
