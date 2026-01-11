@@ -2,7 +2,127 @@ name: NBA Injury Monitor
 
 on:
   schedule:
-    - cron: '*/15 * * * *'  # Every 15 minutes
+    # ET is UTC-5, so these times are adjusted to run at :00, :15, :30, :45 ET
+    # 5 AM ET (10:00 UTC)
+    - cron: '0 10 * * *'
+    - cron: '15 10 * * *'
+    - cron: '30 10 * * *'
+    - cron: '45 10 * * *'
+    # 6 AM ET (11:00 UTC)
+    - cron: '0 11 * * *'
+    - cron: '15 11 * * *'
+    - cron: '30 11 * * *'
+    - cron: '45 11 * * *'
+    # 7 AM ET (12:00 UTC)
+    - cron: '0 12 * * *'
+    - cron: '15 12 * * *'
+    - cron: '30 12 * * *'
+    - cron: '45 12 * * *'
+    # 8 AM ET (13:00 UTC)
+    - cron: '0 13 * * *'
+    - cron: '15 13 * * *'
+    - cron: '30 13 * * *'
+    - cron: '45 13 * * *'
+    # 9 AM ET (14:00 UTC)
+    - cron: '0 14 * * *'
+    - cron: '15 14 * * *'
+    - cron: '30 14 * * *'
+    - cron: '45 14 * * *'
+    # 10 AM ET (15:00 UTC)
+    - cron: '0 15 * * *'
+    - cron: '15 15 * * *'
+    - cron: '30 15 * * *'
+    - cron: '45 15 * * *'
+    # 11 AM ET (16:00 UTC)
+    - cron: '0 16 * * *'
+    - cron: '15 16 * * *'
+    - cron: '30 16 * * *'
+    - cron: '45 16 * * *'
+    # 12 PM ET (17:00 UTC)
+    - cron: '0 17 * * *'
+    - cron: '15 17 * * *'
+    - cron: '30 17 * * *'
+    - cron: '45 17 * * *'
+    # 1 PM ET (18:00 UTC)
+    - cron: '0 18 * * *'
+    - cron: '15 18 * * *'
+    - cron: '30 18 * * *'
+    - cron: '45 18 * * *'
+    # 2 PM ET (19:00 UTC)
+    - cron: '0 19 * * *'
+    - cron: '15 19 * * *'
+    - cron: '30 19 * * *'
+    - cron: '45 19 * * *'
+    # 3 PM ET (20:00 UTC)
+    - cron: '0 20 * * *'
+    - cron: '15 20 * * *'
+    - cron: '30 20 * * *'
+    - cron: '45 20 * * *'
+    # 4 PM ET (21:00 UTC)
+    - cron: '0 21 * * *'
+    - cron: '15 21 * * *'
+    - cron: '30 21 * * *'
+    - cron: '45 21 * * *'
+    # 5 PM ET (22:00 UTC)
+    - cron: '0 22 * * *'
+    - cron: '15 22 * * *'
+    - cron: '30 22 * * *'
+    - cron: '45 22 * * *'
+    # 6 PM ET (23:00 UTC)
+    - cron: '0 23 * * *'
+    - cron: '15 23 * * *'
+    - cron: '30 23 * * *'
+    - cron: '45 23 * * *'
+    # 7 PM ET (0:00 UTC next day)
+    - cron: '0 0 * * *'
+    - cron: '15 0 * * *'
+    - cron: '30 0 * * *'
+    - cron: '45 0 * * *'
+    # 8 PM ET (1:00 UTC next day)
+    - cron: '0 1 * * *'
+    - cron: '15 1 * * *'
+    - cron: '30 1 * * *'
+    - cron: '45 1 * * *'
+    # 9 PM ET (2:00 UTC next day)
+    - cron: '0 2 * * *'
+    - cron: '15 2 * * *'
+    - cron: '30 2 * * *'
+    - cron: '45 2 * * *'
+    # 10 PM ET (3:00 UTC next day)
+    - cron: '0 3 * * *'
+    - cron: '15 3 * * *'
+    - cron: '30 3 * * *'
+    - cron: '45 3 * * *'
+    # 11 PM ET (4:00 UTC next day)
+    - cron: '0 4 * * *'
+    - cron: '15 4 * * *'
+    - cron: '30 4 * * *'
+    - cron: '45 4 * * *'
+    # 12 AM ET (5:00 UTC)
+    - cron: '0 5 * * *'
+    - cron: '15 5 * * *'
+    - cron: '30 5 * * *'
+    - cron: '45 5 * * *'
+    # 1 AM ET (6:00 UTC)
+    - cron: '0 6 * * *'
+    - cron: '15 6 * * *'
+    - cron: '30 6 * * *'
+    - cron: '45 6 * * *'
+    # 2 AM ET (7:00 UTC)
+    - cron: '0 7 * * *'
+    - cron: '15 7 * * *'
+    - cron: '30 7 * * *'
+    - cron: '45 7 * * *'
+    # 3 AM ET (8:00 UTC)
+    - cron: '0 8 * * *'
+    - cron: '15 8 * * *'
+    - cron: '30 8 * * *'
+    - cron: '45 8 * * *'
+    # 4 AM ET (9:00 UTC)
+    - cron: '0 9 * * *'
+    - cron: '15 9 * * *'
+    - cron: '30 9 * * *'
+    - cron: '45 9 * * *'
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
