@@ -56,6 +56,7 @@
     "Johni Broome": "OUT",
     "Justin Edwards": "AVAILABLE",
     "Joel -Embiid": "OUT",
+    "Paul George": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Toronto Raptors": {
@@ -67,7 +68,7 @@
   },
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
-    "Tyler Herro": "QUESTIONABLE",
+    "Tyler Herro": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
     "Norman Powell": "QUESTIONABLE",
     "Terry Rozier": "OUT",
@@ -83,10 +84,10 @@
     "David Garcia": "OUT",
     "Stanley Umude": "OUT",
     "Devin Vassell": "OUT",
-    "Victor Wembanyama": "QUESTIONABLE"
+    "Victor Wembanyama": "AVAILABLE"
   },
   "Minnesota Timberwolves": {
-    "Anthony Edwards": "QUESTIONABLE",
+    "Anthony Edwards": "AVAILABLE",
     "Enrique Freeman": "OUT",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
@@ -145,17 +146,26 @@
     "Dennis Schroder": "OUT",
     "Isaiah Stevens": "OUT"
   },
-  "Boston Celtics": {
-    "Jaylen Brown": "DOUBTFUL",
-    "Sam Hauser": "QUESTIONABLE",
-    "Josh Minott": "OUT",
-    "Jayson Tatum": "OUT"
+  "Utah Jazz": {
+    "Ace Bailey": "QUESTIONABLE",
+    "Elijah Harkless": "OUT",
+    "Walker Kessler": "OUT",
+    "Georges Niang": "OUT",
+    "Jusuf Nurkic": "PROBABLE",
+    "John Tonje": "OUT",
+    "Oscar Tshiebwe": "OUT"
   },
   "Cleveland Cavaliers": {
     "Chris Livingston": "OUT",
     "Max Strus": "OUT",
     "Luke Travers": "OUT",
     "Dean Wade": "OUT"
+  },
+  "Boston Celtics": {
+    "Jaylen Brown": "DOUBTFUL",
+    "Sam Hauser": "QUESTIONABLE",
+    "Josh Minott": "OUT",
+    "Jayson Tatum": "OUT"
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
@@ -166,14 +176,5 @@
     "Taelon Peter": "QUESTIONABLE",
     "Ethan Thompson": "QUESTIONABLE",
     "Obi Toppin": "OUT"
-  },
-  "Utah Jazz": {
-    "Ace Bailey": "QUESTIONABLE",
-    "Elijah Harkless": "OUT",
-    "Walker Kessler": "OUT",
-    "Georges Niang": "OUT",
-    "Jusuf Nurkic": "PROBABLE",
-    "John Tonje": "OUT",
-    "Oscar Tshiebwe": "OUT"
   }
 }
