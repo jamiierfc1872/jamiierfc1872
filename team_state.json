@@ -70,7 +70,7 @@
     "Vladislav Goldin": "OUT",
     "Tyler Herro": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
-    "Norman Powell": "QUESTIONABLE",
+    "Norman Powell": "OUT",
     "Terry Rozier": "OUT",
     "Jahmir Young": "OUT"
   },
@@ -100,7 +100,7 @@
   },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
-    "Christian Braun": "PROBABLE",
+    "Christian Braun": "QUESTIONABLE",
     "Aaron Gordon": "PROBABLE",
     "Cameron Johnson": "OUT",
     "Nikola Jokic": "OUT",
@@ -176,5 +176,15 @@
     "Taelon Peter": "QUESTIONABLE",
     "Ethan Thompson": "QUESTIONABLE",
     "Obi Toppin": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Dante Exum": "OUT",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "QUESTIONABLE",
+    "Dereck Lively II": "OUT",
+    "P.J. Washington": "DOUBTFUL",
+    "Brandon Williams": "DOUBTFUL"
   }
 }
