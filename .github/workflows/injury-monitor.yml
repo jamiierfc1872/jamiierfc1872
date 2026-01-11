@@ -2,17 +2,7 @@ name: NBA Injury Monitor
 
 on:
   schedule:
-    # ET is UTC-5, so these times are adjusted to run at :00, :15, :30, :45 ET
-    # 5 AM ET (10:00 UTC)
-    - cron: '0 10 * * *'
-    - cron: '15 10 * * *'
-    - cron: '30 10 * * *'
-    - cron: '45 10 * * *'
-    # 6 AM ET (11:00 UTC)
-    - cron: '0 11 * * *'
-    - cron: '15 11 * * *'
-    - cron: '30 11 * * *'
-    - cron: '45 11 * * *'
+    # Runs from 7 AM ET to 10:45 PM ET (12 PM UK to 4 AM UK next day)
     # 7 AM ET (12:00 UTC)
     - cron: '0 12 * * *'
     - cron: '15 12 * * *'
@@ -93,36 +83,6 @@ on:
     - cron: '15 3 * * *'
     - cron: '30 3 * * *'
     - cron: '45 3 * * *'
-    # 11 PM ET (4:00 UTC next day)
-    - cron: '0 4 * * *'
-    - cron: '15 4 * * *'
-    - cron: '30 4 * * *'
-    - cron: '45 4 * * *'
-    # 12 AM ET (5:00 UTC)
-    - cron: '0 5 * * *'
-    - cron: '15 5 * * *'
-    - cron: '30 5 * * *'
-    - cron: '45 5 * * *'
-    # 1 AM ET (6:00 UTC)
-    - cron: '0 6 * * *'
-    - cron: '15 6 * * *'
-    - cron: '30 6 * * *'
-    - cron: '45 6 * * *'
-    # 2 AM ET (7:00 UTC)
-    - cron: '0 7 * * *'
-    - cron: '15 7 * * *'
-    - cron: '30 7 * * *'
-    - cron: '45 7 * * *'
-    # 3 AM ET (8:00 UTC)
-    - cron: '0 8 * * *'
-    - cron: '15 8 * * *'
-    - cron: '30 8 * * *'
-    - cron: '45 8 * * *'
-    # 4 AM ET (9:00 UTC)
-    - cron: '0 9 * * *'
-    - cron: '15 9 * * *'
-    - cron: '30 9 * * *'
-    - cron: '45 9 * * *'
   workflow_dispatch:  # Allows manual triggering
 
 jobs:
