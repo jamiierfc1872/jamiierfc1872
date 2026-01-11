@@ -145,6 +145,7 @@
     "Isaiah Stevens": "OUT"
   },
   "Boston Celtics": {
+    "Jaylen Brown": "DOUBTFUL",
     "Sam Hauser": "QUESTIONABLE",
     "Josh Minott": "OUT",
     "Jayson Tatum": "OUT"
@@ -154,5 +155,24 @@
     "Max Strus": "OUT",
     "Luke Travers": "OUT",
     "Dean Wade": "OUT"
+  },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Isaiah Jackson": "OUT",
+    "Kam Jones": "QUESTIONABLE",
+    "Bennedict Mathurin": "OUT",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Taelon Peter": "QUESTIONABLE",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "OUT"
+  },
+  "Utah Jazz": {
+    "Ace Bailey": "QUESTIONABLE",
+    "Elijah Harkless": "OUT",
+    "Walker Kessler": "OUT",
+    "Georges Niang": "OUT",
+    "Jusuf Nurkic": "PROBABLE",
+    "John Tonje": "OUT",
+    "Oscar Tshiebwe": "OUT"
   }
 }
