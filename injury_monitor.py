@@ -19,7 +19,7 @@ PDF_STATE_FILE = "state.json"
 TEAM_STATE_FILE = "team_state.json"
 DEBUG_EXTRACT_FILE = "debug_extract.txt"
 
-WINDOW_SECONDS = 180
+WINDOW_SECONDS = 60
 CHECK_EVERY_SECONDS = 15
 USER_AGENT = "Mozilla/5.0 (compatible; nba-injury-watcher/19.0)"
 
