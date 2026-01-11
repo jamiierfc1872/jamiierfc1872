@@ -412,15 +412,15 @@ def run_window():
             break
         time.sleep(CHECK_EVERY_SECONDS)
 
-   if pdf_bytes is None:
-    # If next report isn't ready after 3 minutes, use the latest from the page as fallback
-    print(f"Next report not available yet: {target_url}")
-    print(f"Falling back to latest report from page: {page_latest}")
-    r = http_try_get(page_latest)
-    if r is None:
-        return  # Can't get fallback either
-    pdf_bytes = r.content
-    target_url = page_latest  # Update target_url so we save the right one
+    if pdf_bytes is None:
+        # If next report isn't ready after 3 minutes, use the latest from the page as fallback
+        print(f"Next report not available yet: {target_url}")
+        print(f"Falling back to latest report from page: {page_latest}")
+        r = http_try_get(page_latest)
+        if r is None:
+            return  # Can't get fallback either
+        pdf_bytes = r.content
+        target_url = page_latest  # Update target_url so we save the right one
 
     # 5) Parse + compare + notify
     pdf_sha = sha256_bytes(pdf_bytes)
