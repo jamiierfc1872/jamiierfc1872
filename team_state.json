@@ -25,7 +25,7 @@
     "Isaiah Jackson": "OUT",
     "Kam Jones": "QUESTIONABLE",
     "Bennedict Mathurin": "OUT",
-    "Andrew Nembhard": "QUESTIONABLE",
+    "Andrew Nembhard": "AVAILABLE",
     "Taelon Peter": "QUESTIONABLE",
     "Ethan Thompson": "QUESTIONABLE",
     "Obi Toppin": "OUT"
@@ -114,6 +114,24 @@
     "Julian Phillips": "PROBABLE",
     "Coby White": "OUT"
   },
+  "Houston Rockets": {
+    "Isaiah Crawford": "OUT",
+    "Tari Eason": "OUT",
+    "Dorian Finney-Smith": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Christian Braun": "OUT",
+    "Aaron Gordon": "PROBABLE",
+    "Cameron Johnson": "OUT",
+    "Nikola Jokic": "OUT",
+    "Curtis Jones": "OUT",
+    "Spencer Jones": "PROBABLE",
+    "Jamal Murray": "QUESTIONABLE",
+    "Jonas Valanciunas": "OUT"
+  },
   "New Orleans Pelicans": {
     "Jose Alvarado": "OUT",
     "Saddiq Bey": "QUESTIONABLE",
@@ -134,20 +152,14 @@
     "Taurean Prince": "OUT",
     "Myles Turner": "QUESTIONABLE"
   },
+  "Oklahoma City Thunder": {
+    "Isaiah Hartenstein": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT"
+  },
   "Golden State Warriors": {
     "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
     "Malevy Leons": "OUT"
-  },
-  "Denver Nuggets": {
-    "Tamar Bates": "OUT",
-    "Christian Braun": "OUT",
-    "Aaron Gordon": "PROBABLE",
-    "Cameron Johnson": "OUT",
-    "Nikola Jokic": "OUT",
-    "Curtis Jones": "OUT",
-    "Spencer Jones": "PROBABLE",
-    "Jamal Murray": "QUESTIONABLE",
-    "Jonas Valanciunas": "OUT"
   }
 }
