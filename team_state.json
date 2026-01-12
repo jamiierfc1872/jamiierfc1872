@@ -136,7 +136,7 @@
   "Houston Rockets": {
     "Tari Eason": "OUT",
     "Tristen Newton": "OUT",
-    "Alperen Sengun": "QUESTIONABLE",
+    "Alperen Sengun": "AVAILABLE",
     "Fred VanVleet": "OUT"
   },
   "Sacramento Kings": {
@@ -204,6 +204,7 @@
     "Bradley Beal": "OUT",
     "Bogdan Bogdanovic": "OUT",
     "Derrick Jones Jr.": "OUT",
+    "Kawhi Leonard": "QUESTIONABLE",
     "Chris Paul": "OUT"
   }
 }
