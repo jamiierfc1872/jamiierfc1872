@@ -90,6 +90,15 @@
     "Kawhi Leonard": "QUESTIONABLE",
     "Chris Paul": "OUT"
   },
+  "Miami Heat": {
+    "Myron Gardner": "OUT",
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "AVAILABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Norman Powell": "QUESTIONABLE",
+    "Terry Rozier": "OUT",
+    "Jahmir Young": "OUT"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -110,14 +119,5 @@
     "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
     "Malevy Leons": "OUT"
-  },
-  "Miami Heat": {
-    "Myron Gardner": "OUT",
-    "Vladislav Goldin": "OUT",
-    "Tyler Herro": "AVAILABLE",
-    "Pelle Larsson": "AVAILABLE",
-    "Norman Powell": "QUESTIONABLE",
-    "Terry Rozier": "OUT",
-    "Jahmir Young": "OUT"
   }
 }
