@@ -95,18 +95,18 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Pete Nance": "OUT",
-    "Kevin Porter Jr.": "PROBABLE",
+    "Kevin Porter Jr.": "AVAILABLE",
     "Taurean Prince": "OUT"
   },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
-    "Christian Braun": "QUESTIONABLE",
-    "Aaron Gordon": "PROBABLE",
+    "Christian Braun": "OUT",
+    "Aaron Gordon": "AVAILABLE",
     "Cameron Johnson": "OUT",
     "Nikola Jokic": "OUT",
     "Curtis Jones": "OUT",
-    "Spencer Jones": "QUESTIONABLE",
-    "Jamal Murray": "QUESTIONABLE",
+    "Spencer Jones": "AVAILABLE",
+    "Jamal Murray": "OUT",
     "Jonas Valanciunas": "OUT"
   },
   "Washington Wizards": {
@@ -125,7 +125,7 @@
     "RayJ Dennis": "OUT",
     "Nikola Djurisic": "OUT",
     "Caleb Houstan": "OUT",
-    "Kristaps Porzingis": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
     "Zaccharie Risacher": "OUT"
   },
   "Golden State Warriors": {
@@ -186,5 +186,24 @@
     "Dereck Lively II": "OUT",
     "P.J. Washington": "DOUBTFUL",
     "Brandon Williams": "DOUBTFUL"
+  },
+  "Los Angeles Lakers": {
+    "Austin Reaves": "OUT",
+    "Adou Thiero": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Miles Bridges": "PROBABLE",
+    "Pat Connaughton": "QUESTIONABLE",
+    "Liam McNeeley": "OUT",
+    "Mason Plumlee": "OUT",
+    "Antonio Reeves": "OUT",
+    "Collin Sexton": "QUESTIONABLE",
+    "KJ Simpson": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Bogdan Bogdanovic": "OUT",
+    "Derrick Jones Jr.": "OUT",
+    "Chris Paul": "OUT"
   }
 }
