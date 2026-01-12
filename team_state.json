@@ -76,7 +76,7 @@
   },
   "Charlotte Hornets": {
     "Miles Bridges": "PROBABLE",
-    "Pat Connaughton": "QUESTIONABLE",
+    "Pat Connaughton": "OUT",
     "Liam McNeeley": "OUT",
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
@@ -90,12 +90,64 @@
     "Kawhi Leonard": "QUESTIONABLE",
     "Chris Paul": "OUT"
   },
-  "Phoenix Suns": {},
-  "Miami Heat": {},
-  "Chicago Bulls": {},
-  "Denver Nuggets": {},
-  "New Orleans Pelicans": {},
-  "Minnesota Timberwolves": {},
-  "Milwaukee Bucks": {},
-  "Golden State Warriors": {}
+  "Phoenix Suns": {
+    "Jamaree Bouyea": "OUT",
+    "Jordan Goodwin": "AVAILABLE",
+    "Jalen Green": "OUT"
+  },
+  "Miami Heat": {
+    "Myron Gardner": "OUT",
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "AVAILABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Norman Powell": "QUESTIONABLE",
+    "Terry Rozier": "OUT",
+    "Jahmir Young": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "OUT",
+    "Yuki Kawamura": "OUT",
+    "Emanuel Miller": "OUT",
+    "Lachlan Olbrich": "OUT",
+    "Julian Phillips": "PROBABLE",
+    "Coby White": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Jose Alvarado": "OUT",
+    "Saddiq Bey": "QUESTIONABLE",
+    "Hunter Dickinson": "OUT",
+    "Herbert Jones": "OUT",
+    "Dejounte Murray": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "OUT",
+    "Enrique Freeman": "OUT",
+    "Rudy Gobert": "OUT",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Pete Nance": "OUT",
+    "Taurean Prince": "OUT",
+    "Myles Turner": "QUESTIONABLE"
+  },
+  "Golden State Warriors": {
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Malevy Leons": "OUT"
+  },
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Christian Braun": "OUT",
+    "Aaron Gordon": "PROBABLE",
+    "Cameron Johnson": "OUT",
+    "Nikola Jokic": "OUT",
+    "Curtis Jones": "OUT",
+    "Spencer Jones": "PROBABLE",
+    "Jamal Murray": "QUESTIONABLE",
+    "Jonas Valanciunas": "OUT"
+  }
 }
