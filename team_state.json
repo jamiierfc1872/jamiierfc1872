@@ -76,7 +76,7 @@
   },
   "Charlotte Hornets": {
     "Miles Bridges": "PROBABLE",
-    "Pat Connaughton": "QUESTIONABLE",
+    "Pat Connaughton": "OUT",
     "Liam McNeeley": "OUT",
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
@@ -99,5 +99,10 @@
     "Lachlan Olbrich": "OUT",
     "Julian Phillips": "PROBABLE",
     "Coby White": "OUT"
+  },
+  "Golden State Warriors": {
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Malevy Leons": "OUT"
   }
 }
