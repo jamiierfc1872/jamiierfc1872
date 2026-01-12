@@ -90,6 +90,11 @@
     "Kawhi Leonard": "QUESTIONABLE",
     "Chris Paul": "OUT"
   },
+  "Phoenix Suns": {
+    "Jamaree Bouyea": "OUT",
+    "Jordan Goodwin": "AVAILABLE",
+    "Jalen Green": "OUT"
+  },
   "Miami Heat": {
     "Myron Gardner": "OUT",
     "Vladislav Goldin": "OUT",
@@ -108,6 +113,13 @@
     "Lachlan Olbrich": "OUT",
     "Julian Phillips": "PROBABLE",
     "Coby White": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "OUT",
+    "Enrique Freeman": "OUT",
+    "Rudy Gobert": "OUT",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
