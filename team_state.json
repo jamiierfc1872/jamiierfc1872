@@ -1,10 +1,10 @@
 {
   "Utah Jazz": {
-    "Ace Bailey": "QUESTIONABLE",
+    "Ace Bailey": "AVAILABLE",
     "Elijah Harkless": "OUT",
     "Walker Kessler": "OUT",
     "Georges Niang": "OUT",
-    "Jusuf Nurkic": "PROBABLE",
+    "Jusuf Nurkic": "AVAILABLE",
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT"
   },
@@ -29,6 +29,14 @@
     "Taelon Peter": "QUESTIONABLE",
     "Ethan Thompson": "QUESTIONABLE",
     "Obi Toppin": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Egor Demin": "OUT",
+    "Haywood Highsmith": "OUT",
+    "E.J. Liddell": "OUT",
+    "Ben Saraf": "OUT",
+    "Cam Thomas": "OUT",
+    "Ziaire Williams": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "QUESTIONABLE",
