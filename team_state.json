@@ -100,9 +100,24 @@
     "Julian Phillips": "PROBABLE",
     "Coby White": "OUT"
   },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Pete Nance": "OUT",
+    "Taurean Prince": "OUT",
+    "Myles Turner": "QUESTIONABLE"
+  },
   "Golden State Warriors": {
     "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
     "Malevy Leons": "OUT"
+  },
+  "Miami Heat": {
+    "Myron Gardner": "OUT",
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "AVAILABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Norman Powell": "QUESTIONABLE",
+    "Terry Rozier": "OUT",
+    "Jahmir Young": "OUT"
   }
 }
