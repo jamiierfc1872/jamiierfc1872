@@ -30,6 +30,20 @@
     "Ethan Thompson": "QUESTIONABLE",
     "Obi Toppin": "OUT"
   },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "OUT",
+    "Johni Broome": "OUT",
+    "Joel Embiid": "QUESTIONABLE",
+    "Paul George": "QUESTIONABLE",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Toronto Raptors": {
+    "RJ Barrett": "OUT",
+    "Chucky Hepburn": "OUT",
+    "Brandon Ingram": "QUESTIONABLE",
+    "Jakob Poeltl": "OUT",
+    "Ja'Kobe Walter": "OUT"
+  },
   "Brooklyn Nets": {
     "Egor Demin": "OUT",
     "Haywood Highsmith": "OUT",
@@ -39,9 +53,10 @@
     "Ziaire Williams": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "PROBABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
+    "Daniel Gafford": "QUESTIONABLE",
     "Kyrie Irving": "OUT",
     "Miles Kelly": "QUESTIONABLE",
     "Dereck Lively II": "OUT",
