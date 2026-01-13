@@ -59,7 +59,7 @@
     "Alex Antetokounmpo": "OUT",
     "Pete Nance": "AVAILABLE",
     "Taurean Prince": "OUT",
-    "Myles Turner": "QUESTIONABLE"
+    "Myles Turner": "OUT"
   },
   "San Antonio Spurs": {
     "Harrison Ingram": "OUT",
@@ -121,6 +121,7 @@
   "Toronto Raptors": {
     "RJ Barrett": "OUT",
     "Chucky Hepburn": "OUT",
+    "Sandro Mamukelashvili": "QUESTIONABLE",
     "Jakob Poeltl": "OUT",
     "Ja'Kobe Walter": "OUT"
   },
@@ -138,6 +139,14 @@
     "Ben Saraf": "OUT",
     "Ziaire Williams": "OUT"
   },
+  "Utah Jazz": {
+    "Elijah Harkless": "OUT",
+    "Walker Kessler": "OUT",
+    "Kevin Love": "OUT",
+    "Georges Niang": "OUT",
+    "John Tonje": "OUT",
+    "Oscar Tshiebwe": "OUT"
+  },
   "Dallas Mavericks": {
     "Max Christie": "DOUBTFUL",
     "Moussa Cisse": "QUESTIONABLE",
@@ -148,5 +157,9 @@
     "Dereck Lively II": "OUT",
     "P.J. Washington": "QUESTIONABLE",
     "Brandon Williams": "QUESTIONABLE"
+  },
+  "New York Knicks": {
+    "Trey Jemison III": "OUT",
+    "Landry Shamet": "OUT"
   }
 }
