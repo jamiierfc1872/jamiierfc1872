@@ -68,7 +68,7 @@
     "Devin Vassell": "OUT"
   },
   "Oklahoma City Thunder": {
-    "Luguentz Dort": "QUESTIONABLE",
+    "Luguentz Dort": "OUT",
     "Isaiah Hartenstein": "OUT",
     "Thomas Sorber": "OUT",
     "Nikola Topic": "OUT"
@@ -109,5 +109,27 @@
     "Max Strus": "OUT",
     "Luke Travers": "OUT",
     "Dean Wade": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "DOUBTFUL",
+    "VJ Edgecombe": "PROBABLE",
+    "Joel Embiid": "PROBABLE",
+    "Paul George": "PROBABLE",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Toronto Raptors": {
+    "RJ Barrett": "OUT",
+    "Chucky Hepburn": "OUT",
+    "Jakob Poeltl": "OUT",
+    "Ja'Kobe Walter": "OUT"
+  },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Isaiah Jackson": "OUT",
+    "Bennedict Mathurin": "OUT",
+    "Taelon Peter": "DOUBTFUL",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "OUT"
   }
 }
