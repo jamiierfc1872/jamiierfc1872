@@ -75,12 +75,12 @@
     "Isaiah Stevens": "OUT"
   },
   "Charlotte Hornets": {
-    "Miles Bridges": "PROBABLE",
+    "Miles Bridges": "AVAILABLE",
     "Pat Connaughton": "OUT",
     "Liam McNeeley": "OUT",
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
-    "Collin Sexton": "QUESTIONABLE",
+    "Collin Sexton": "OUT",
     "KJ Simpson": "OUT"
   },
   "LA Clippers": {
@@ -162,6 +162,25 @@
     "Isaiah Hartenstein": "OUT",
     "Thomas Sorber": "OUT",
     "Nikola Topic": "OUT"
+  },
+  "Atlanta Hawks": {
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "DOUBTFUL",
+    "Nikola Djurisic": "DOUBTFUL",
+    "Caleb Houstan": "DOUBTFUL",
+    "Luke Kennard": "QUESTIONABLE",
+    "Asa Newell": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Zaccharie Risacher": "QUESTIONABLE"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "OUT",
+    "Jerami Grant": "DOUBTFUL",
+    "Scoot Henderson": "OUT",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Matisse Thybulle": "OUT",
+    "Blake Wesley": "OUT"
   },
   "Golden State Warriors": {
     "LJ Cryer": "OUT",
