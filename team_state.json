@@ -75,13 +75,20 @@
   },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
-    "RayJ Dennis": "DOUBTFUL",
-    "Nikola Djurisic": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
-    "Luke Kennard": "QUESTIONABLE",
-    "Asa Newell": "QUESTIONABLE",
+    "RayJ Dennis": "OUT",
+    "Nikola Djurisic": "OUT",
+    "Caleb Houstan": "OUT",
+    "Luke Kennard": "OUT",
+    "Asa Newell": "AVAILABLE",
     "Kristaps Porzingis": "OUT",
-    "Zaccharie Risacher": "QUESTIONABLE"
+    "Zaccharie Risacher": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "QUESTIONABLE",
+    "Jaxson Hayes": "OUT",
+    "LeBron James": "QUESTIONABLE",
+    "Austin Reaves": "OUT",
+    "Adou Thiero": "OUT"
   },
   "Portland Trail Blazers": {
     "Deni Avdija": "OUT",
