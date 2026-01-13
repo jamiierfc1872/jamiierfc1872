@@ -15,8 +15,8 @@
     "Dean Wade": "OUT"
   },
   "Boston Celtics": {
-    "Jaylen Brown": "DOUBTFUL",
-    "Sam Hauser": "QUESTIONABLE",
+    "Jaylen Brown": "OUT",
+    "Sam Hauser": "AVAILABLE",
     "Josh Minott": "OUT",
     "Jayson Tatum": "OUT"
   },
@@ -33,14 +33,14 @@
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
-    "Joel Embiid": "QUESTIONABLE",
-    "Paul George": "QUESTIONABLE",
+    "Joel Embiid": "AVAILABLE",
+    "Paul George": "AVAILABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Toronto Raptors": {
     "RJ Barrett": "OUT",
     "Chucky Hepburn": "OUT",
-    "Brandon Ingram": "QUESTIONABLE",
+    "Brandon Ingram": "AVAILABLE",
     "Jakob Poeltl": "OUT",
     "Ja'Kobe Walter": "OUT"
   },
@@ -53,15 +53,15 @@
     "Ziaire Williams": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "PROBABLE",
+    "Moussa Cisse": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
-    "Daniel Gafford": "QUESTIONABLE",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "QUESTIONABLE",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
-    "P.J. Washington": "DOUBTFUL",
-    "Brandon Williams": "DOUBTFUL"
+    "P.J. Washington": "OUT",
+    "Brandon Williams": "OUT"
   },
   "Los Angeles Lakers": {
     "Austin Reaves": "OUT",
