@@ -36,6 +36,12 @@
     "Ben Saraf": "OUT",
     "Ziaire Williams": "OUT"
   },
+  "New Orleans Pelicans": {
+    "Jose Alvarado": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Herbert Jones": "OUT",
+    "Dejounte Murray": "OUT"
+  },
   "Utah Jazz": {
     "Elijah Harkless": "OUT",
     "Walker Kessler": "OUT",
@@ -77,6 +83,7 @@
     "Brandon Williams": "QUESTIONABLE"
   },
   "New York Knicks": {
+    "Ariel Hukporti": "QUESTIONABLE",
     "Trey Jemison III": "OUT",
     "Landry Shamet": "OUT"
   },
@@ -111,11 +118,5 @@
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Jalen Suggs": "OUT"
-  },
-  "New Orleans Pelicans": {
-    "Jose Alvarado": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Herbert Jones": "OUT",
-    "Dejounte Murray": "OUT"
   }
 }
