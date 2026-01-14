@@ -6,12 +6,12 @@
     "Dean Wade": "OUT"
   },
   "Philadelphia 76ers": {
-    "MarJon Beauchamp": "DOUBTFUL",
-    "Johni Broome": "DOUBTFUL",
+    "MarJon Beauchamp": "OUT",
+    "Johni Broome": "OUT",
     "VJ Edgecombe": "PROBABLE",
     "Joel Embiid": "PROBABLE",
     "Paul George": "PROBABLE",
-    "Kelly Oubre Jr.": "AVAILABLE"
+    "Kelly Oubre Jr.": "PROBABLE"
   },
   "Toronto Raptors": {
     "RJ Barrett": "OUT",
@@ -44,6 +44,15 @@
     "Georges Niang": "OUT",
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "OUT",
+    "Yuki Kawamura": "OUT",
+    "Emanuel Miller": "OUT",
+    "Lachlan Olbrich": "OUT",
+    "Julian Phillips": "QUESTIONABLE"
   },
   "Dallas Mavericks": {
     "Max Christie": "DOUBTFUL",
