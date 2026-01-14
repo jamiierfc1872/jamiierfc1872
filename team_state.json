@@ -8,10 +8,10 @@
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
-    "VJ Edgecombe": "PROBABLE",
+    "VJ Edgecombe": "AVAILABLE",
     "Joel Embiid": "PROBABLE",
     "Paul George": "PROBABLE",
-    "Kelly Oubre Jr.": "PROBABLE"
+    "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Toronto Raptors": {
     "RJ Barrett": "OUT",
@@ -26,8 +26,8 @@
     "Tyrese Haliburton": "OUT",
     "Isaiah Jackson": "OUT",
     "Bennedict Mathurin": "OUT",
-    "Taelon Peter": "DOUBTFUL",
-    "Ethan Thompson": "QUESTIONABLE",
+    "Taelon Peter": "OUT",
+    "Ethan Thompson": "AVAILABLE",
     "Obi Toppin": "OUT"
   },
   "Brooklyn Nets": {
@@ -58,7 +58,7 @@
     "Yuki Kawamura": "OUT",
     "Emanuel Miller": "OUT",
     "Lachlan Olbrich": "OUT",
-    "Julian Phillips": "QUESTIONABLE"
+    "Julian Phillips": "OUT"
   },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
@@ -170,5 +170,11 @@
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "PROBABLE",
     "Taurean Prince": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Stanley Umude": "OUT",
+    "Devin Vassell": "OUT"
   }
 }
