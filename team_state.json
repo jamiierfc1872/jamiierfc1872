@@ -33,17 +33,17 @@
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
     "Christian Braun": "OUT",
-    "Aaron Gordon": "PROBABLE",
+    "Aaron Gordon": "AVAILABLE",
     "Cameron Johnson": "OUT",
     "Nikola Jokic": "OUT",
     "Curtis Jones": "OUT",
-    "Spencer Jones": "PROBABLE",
-    "Jamal Murray": "QUESTIONABLE",
+    "Spencer Jones": "AVAILABLE",
+    "Jamal Murray": "AVAILABLE",
     "Jonas Valanciunas": "OUT"
   },
   "New Orleans Pelicans": {
     "Jose Alvarado": "OUT",
-    "Saddiq Bey": "PROBABLE",
+    "Saddiq Bey": "AVAILABLE",
     "Hunter Dickinson": "OUT",
     "Herbert Jones": "OUT",
     "Dejounte Murray": "OUT"
@@ -161,5 +161,19 @@
   "New York Knicks": {
     "Trey Jemison III": "OUT",
     "Landry Shamet": "OUT"
+  },
+  "Washington Wizards": {
+    "Sharife Cooper": "OUT",
+    "Jamir Watkins": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Bogdan Bogdanovic": "OUT",
+    "Derrick Jones Jr.": "OUT",
+    "Kawhi Leonard": "QUESTIONABLE",
+    "Chris Paul": "OUT",
+    "Ivica Zubac": "QUESTIONABLE"
   }
 }
