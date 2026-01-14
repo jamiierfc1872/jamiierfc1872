@@ -119,6 +119,16 @@
     "Colin Castleton": "OUT",
     "Jalen Suggs": "OUT"
   },
+  "Detroit Pistons": {
+    "Jalen Duren": "PROBABLE",
+    "Tobias Harris": "PROBABLE",
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Chaz Lanier": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Tolu Smith": "OUT",
+    "Isaiah Stewart": "PROBABLE"
+  },
   "Boston Celtics": {
     "Josh Minott": "OUT",
     "Jayson Tatum": "OUT"
@@ -135,14 +145,17 @@
     "Terry Rozier": "OUT",
     "Jahmir Young": "OUT"
   },
-  "Detroit Pistons": {
-    "Jalen Duren": "PROBABLE",
-    "Tobias Harris": "PROBABLE",
-    "Isaac Jones": "OUT",
-    "Bobi Klintman": "OUT",
-    "Chaz Lanier": "OUT",
-    "Wendell Moore Jr.": "OUT",
-    "Tolu Smith": "OUT",
-    "Isaiah Stewart": "PROBABLE"
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "PROBABLE",
+    "Taurean Prince": "OUT"
+  },
+  "Phoenix Suns": {
+    "Devin Booker": "QUESTIONABLE",
+    "Jamaree Bouyea": "OUT",
+    "Jordan Goodwin": "AVAILABLE",
+    "Jalen Green": "OUT",
+    "Nigel Hayes-Davis": "QUESTIONABLE",
+    "Royce O'Neale": "PROBABLE"
   }
 }
