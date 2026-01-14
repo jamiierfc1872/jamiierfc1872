@@ -119,6 +119,14 @@
     "Colin Castleton": "OUT",
     "Jalen Suggs": "OUT"
   },
+  "Phoenix Suns": {
+    "Devin Booker": "QUESTIONABLE",
+    "Jamaree Bouyea": "OUT",
+    "Jordan Goodwin": "AVAILABLE",
+    "Jalen Green": "OUT",
+    "Nigel Hayes-Davis": "QUESTIONABLE",
+    "Royce O'Neale": "PROBABLE"
+  },
   "Detroit Pistons": {
     "Jalen Duren": "PROBABLE",
     "Tobias Harris": "PROBABLE",
@@ -149,13 +157,5 @@
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "PROBABLE",
     "Taurean Prince": "OUT"
-  },
-  "Phoenix Suns": {
-    "Devin Booker": "QUESTIONABLE",
-    "Jamaree Bouyea": "OUT",
-    "Jordan Goodwin": "AVAILABLE",
-    "Jalen Green": "OUT",
-    "Nigel Hayes-Davis": "QUESTIONABLE",
-    "Royce O'Neale": "PROBABLE"
   }
 }
