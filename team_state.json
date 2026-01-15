@@ -136,6 +136,30 @@
     "Austin Reaves": "OUT",
     "Adou Thiero": "OUT"
   },
+  "Cleveland Cavaliers": {
+    "Darius Garland": "OUT",
+    "Chris Livingston": "OUT",
+    "Sam Merrill": "OUT",
+    "Max Strus": "OUT",
+    "Luke Travers": "OUT",
+    "Dean Wade": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Dominick Barlow": "QUESTIONABLE",
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "DOUBTFUL",
+    "Joel Embiid": "PROBABLE",
+    "Paul George": "PROBABLE",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Isaiah Jackson": "OUT",
+    "Bennedict Mathurin": "OUT",
+    "Taelon Peter": "DOUBTFUL",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "OUT"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -152,6 +176,15 @@
     "Ben Saraf": "OUT",
     "Ziaire Williams": "OUT"
   },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Bogdan Bogdanovic": "OUT",
+    "John Collins": "QUESTIONABLE",
+    "Derrick Jones Jr.": "OUT",
+    "Kawhi Leonard": "QUESTIONABLE",
+    "Chris Paul": "OUT",
+    "Ivica Zubac": "QUESTIONABLE"
+  },
   "Toronto Raptors": {
     "RJ Barrett": "OUT",
     "Jamison Battle": "DOUBTFUL",
@@ -161,5 +194,11 @@
     "Immanuel Quickley": "QUESTIONABLE",
     "Garrett Temple": "QUESTIONABLE",
     "Ja'Kobe Walter": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Jose Alvarado": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Herbert Jones": "OUT",
+    "Dejounte Murray": "OUT"
   }
 }
