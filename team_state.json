@@ -72,15 +72,15 @@
     "Jonas Valanciunas": "OUT"
   },
   "Dallas Mavericks": {
-    "Max Christie": "DOUBTFUL",
-    "Moussa Cisse": "QUESTIONABLE",
+    "Max Christie": "OUT",
+    "Moussa Cisse": "OUT",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "QUESTIONABLE",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
-    "P.J. Washington": "QUESTIONABLE",
-    "Brandon Williams": "QUESTIONABLE"
+    "P.J. Washington": "AVAILABLE",
+    "Brandon Williams": "AVAILABLE"
   },
   "New York Knicks": {
     "Ariel Hukporti": "QUESTIONABLE",
@@ -176,5 +176,42 @@
     "David Garcia": "OUT",
     "Stanley Umude": "OUT",
     "Devin Vassell": "OUT"
+  },
+  "Atlanta Hawks": {
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "DOUBTFUL",
+    "Nikola Djurisic": "DOUBTFUL",
+    "Mouhamed Gueye": "QUESTIONABLE",
+    "Caleb Houstan": "DOUBTFUL",
+    "Luke Kennard": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Zaccharie Risacher": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "DOUBTFUL",
+    "Jerami Grant": "QUESTIONABLE",
+    "Scoot Henderson": "OUT",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Matisse Thybulle": "OUT",
+    "Blake Wesley": "OUT"
+  },
+  "Golden State Warriors": {
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Malevy Leons": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Moussa Diabate": "QUESTIONABLE",
+    "Liam McNeeley": "OUT",
+    "Mason Plumlee": "OUT",
+    "Antonio Reeves": "OUT",
+    "Collin Sexton": "QUESTIONABLE",
+    "KJ Simpson": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Jaxson Hayes": "QUESTIONABLE",
+    "Austin Reaves": "OUT",
+    "Adou Thiero": "OUT"
   }
 }
