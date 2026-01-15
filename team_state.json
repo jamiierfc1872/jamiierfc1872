@@ -18,19 +18,19 @@
     "Jamaree Bouyea": "OUT",
     "Jordan Goodwin": "AVAILABLE",
     "Jalen Green": "OUT",
-    "Nigel Hayes-Davis": "QUESTIONABLE",
+    "Nigel Hayes-Davis": "AVAILABLE",
     "Royce O'Neale": "AVAILABLE"
   },
   "Detroit Pistons": {
-    "Jalen Duren": "PROBABLE",
-    "Tobias Harris": "PROBABLE",
+    "Jalen Duren": "AVAILABLE",
+    "Tobias Harris": "AVAILABLE",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Paul Reed": "OUT",
     "Tolu Smith": "OUT",
-    "Isaiah Stewart": "PROBABLE"
+    "Isaiah Stewart": "AVAILABLE"
   },
   "Boston Celtics": {
     "Josh Minott": "OUT",
@@ -200,5 +200,17 @@
     "Immanuel Quickley": "QUESTIONABLE",
     "Garrett Temple": "QUESTIONABLE",
     "Ja'Kobe Walter": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "OUT",
+    "Enrique Freeman": "OUT",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
+  "Sacramento Kings": {
+    "Keegan Murray": "OUT",
+    "Daeqwon Plowden": "OUT",
+    "Domantas Sabonis": "QUESTIONABLE",
+    "Isaiah Stevens": "OUT"
   }
 }
