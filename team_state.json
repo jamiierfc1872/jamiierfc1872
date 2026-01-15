@@ -63,27 +63,27 @@
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
     "Christian Braun": "OUT",
-    "Bruce Brown": "AVAILABLE",
-    "Aaron Gordon": "AVAILABLE",
+    "Bruce Brown": "QUESTIONABLE",
+    "Aaron Gordon": "PROBABLE",
     "Cameron Johnson": "OUT",
     "Nikola Jokic": "OUT",
-    "Spencer Jones": "AVAILABLE",
-    "Jamal Murray": "AVAILABLE",
+    "Spencer Jones": "PROBABLE",
+    "Jamal Murray": "QUESTIONABLE",
     "Jonas Valanciunas": "OUT"
   },
   "Dallas Mavericks": {
-    "Max Christie": "OUT",
-    "Moussa Cisse": "OUT",
+    "Max Christie": "DOUBTFUL",
+    "Moussa Cisse": "QUESTIONABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "AVAILABLE",
+    "Miles Kelly": "QUESTIONABLE",
     "Dereck Lively II": "OUT",
-    "P.J. Washington": "AVAILABLE",
-    "Brandon Williams": "AVAILABLE"
+    "P.J. Washington": "QUESTIONABLE",
+    "Brandon Williams": "QUESTIONABLE"
   },
   "New York Knicks": {
-    "Ariel Hukporti": "AVAILABLE",
+    "Ariel Hukporti": "QUESTIONABLE",
     "Trey Jemison III": "OUT",
     "Landry Shamet": "OUT"
   },
@@ -103,9 +103,8 @@
   "LA Clippers": {
     "Bradley Beal": "OUT",
     "Bogdan Bogdanovic": "OUT",
-    "John Collins": "OUT",
     "Derrick Jones Jr.": "OUT",
-    "Kawhi Leonard": "AVAILABLE",
+    "Kawhi Leonard": "QUESTIONABLE",
     "Chris Paul": "OUT",
     "Ivica Zubac": "OUT"
   },
@@ -178,41 +177,9 @@
     "Stanley Umude": "OUT",
     "Devin Vassell": "OUT"
   },
-  "Atlanta Hawks": {
-    "N'Faly Dante": "OUT",
-    "RayJ Dennis": "DOUBTFUL",
-    "Nikola Djurisic": "DOUBTFUL",
-    "Mouhamed Gueye": "QUESTIONABLE",
-    "Caleb Houstan": "DOUBTFUL",
-    "Luke Kennard": "QUESTIONABLE",
-    "Kristaps Porzingis": "OUT",
-    "Zaccharie Risacher": "OUT"
-  },
-  "Portland Trail Blazers": {
-    "Deni Avdija": "DOUBTFUL",
-    "Jerami Grant": "QUESTIONABLE",
-    "Scoot Henderson": "OUT",
-    "Damian Lillard": "OUT",
-    "Kris Murray": "OUT",
-    "Matisse Thybulle": "OUT",
-    "Blake Wesley": "OUT"
-  },
-  "Golden State Warriors": {
-    "LJ Cryer": "OUT",
-    "Seth Curry": "OUT",
-    "Malevy Leons": "OUT"
-  },
-  "Charlotte Hornets": {
-    "Moussa Diabate": "QUESTIONABLE",
-    "Liam McNeeley": "OUT",
-    "Mason Plumlee": "OUT",
-    "Antonio Reeves": "OUT",
-    "Collin Sexton": "QUESTIONABLE",
-    "KJ Simpson": "OUT"
-  },
-  "Los Angeles Lakers": {
-    "Jaxson Hayes": "QUESTIONABLE",
-    "Austin Reaves": "OUT",
-    "Adou Thiero": "OUT"
-  }
+  "Atlanta Hawks": {},
+  "Portland Trail Blazers": {},
+  "Golden State Warriors": {},
+  "Charlotte Hornets": {},
+  "Los Angeles Lakers": {}
 }
