@@ -28,6 +28,7 @@
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
     "Wendell Moore Jr.": "OUT",
+    "Paul Reed": "OUT",
     "Tolu Smith": "OUT",
     "Isaiah Stewart": "PROBABLE"
   },
@@ -103,8 +104,8 @@
     "Zaccharie Risacher": "OUT"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "DOUBTFUL",
-    "Jerami Grant": "QUESTIONABLE",
+    "Deni Avdija": "OUT",
+    "Jerami Grant": "PROBABLE",
     "Scoot Henderson": "OUT",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
@@ -128,5 +129,15 @@
     "Jaxson Hayes": "QUESTIONABLE",
     "Austin Reaves": "OUT",
     "Adou Thiero": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "OUT",
+    "Kevin Huerter": "PROBABLE",
+    "Yuki Kawamura": "OUT",
+    "Emanuel Miller": "OUT",
+    "Lachlan Olbrich": "OUT",
+    "Julian Phillips": "QUESTIONABLE"
   }
 }
