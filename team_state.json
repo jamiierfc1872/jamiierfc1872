@@ -63,12 +63,12 @@
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
     "Christian Braun": "OUT",
-    "Bruce Brown": "QUESTIONABLE",
-    "Aaron Gordon": "PROBABLE",
+    "Bruce Brown": "AVAILABLE",
+    "Aaron Gordon": "AVAILABLE",
     "Cameron Johnson": "OUT",
     "Nikola Jokic": "OUT",
-    "Spencer Jones": "PROBABLE",
-    "Jamal Murray": "QUESTIONABLE",
+    "Spencer Jones": "AVAILABLE",
+    "Jamal Murray": "AVAILABLE",
     "Jonas Valanciunas": "OUT"
   },
   "Dallas Mavericks": {
@@ -83,7 +83,7 @@
     "Brandon Williams": "AVAILABLE"
   },
   "New York Knicks": {
-    "Ariel Hukporti": "QUESTIONABLE",
+    "Ariel Hukporti": "AVAILABLE",
     "Trey Jemison III": "OUT",
     "Landry Shamet": "OUT"
   },
