@@ -94,8 +94,29 @@
     "Domantas Sabonis": "QUESTIONABLE",
     "Isaiah Stevens": "OUT"
   },
+  "Detroit Pistons": {
+    "Cade Cunningham": "PROBABLE",
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Chaz Lanier": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Paul Reed": "QUESTIONABLE",
+    "Tolu Smith": "OUT",
+    "Ausar Thompson": "PROBABLE"
+  },
   "New York Knicks": {
     "Jalen Brunson": "QUESTIONABLE",
     "Trey Jemison III": "OUT"
+  },
+  "Miami Heat": {
+    "Myron Gardner": "OUT",
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "QUESTIONABLE",
+    "Jaime Jaquez Jr.": "OUT",
+    "Nikola Jovic": "AVAILABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "OUT",
+    "Terry Rozier": "OUT",
+    "Jahmir Young": "OUT"
   }
 }
