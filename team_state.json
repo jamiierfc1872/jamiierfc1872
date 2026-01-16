@@ -73,6 +73,12 @@
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
+  "Houston Rockets": {
+    "Isaiah Crawford": "OUT",
+    "Tari Eason": "QUESTIONABLE",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
   "Washington Wizards": {
     "Sharife Cooper": "OUT",
     "Bilal Coulibaly": "OUT",
@@ -90,11 +96,5 @@
   "New York Knicks": {
     "Jalen Brunson": "QUESTIONABLE",
     "Trey Jemison III": "OUT"
-  },
-  "Houston Rockets": {
-    "Isaiah Crawford": "OUT",
-    "Tari Eason": "QUESTIONABLE",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
   }
 }
