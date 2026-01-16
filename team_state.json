@@ -82,16 +82,16 @@
     "Oscar Tshiebwe": "OUT"
   },
   "Dallas Mavericks": {
-    "Max Christie": "DOUBTFUL",
-    "Moussa Cisse": "QUESTIONABLE",
+    "Max Christie": "OUT",
+    "Moussa Cisse": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
-    "Cooper Flagg": "DOUBTFUL",
-    "Daniel Gafford": "QUESTIONABLE",
+    "Cooper Flagg": "OUT",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "QUESTIONABLE",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
-    "P.J. Washington": "QUESTIONABLE"
+    "P.J. Washington": "OUT"
   },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
@@ -212,5 +212,13 @@
     "Daeqwon Plowden": "OUT",
     "Domantas Sabonis": "QUESTIONABLE",
     "Isaiah Stevens": "OUT"
+  },
+  "Washington Wizards": {
+    "Sharife Cooper": "OUT",
+    "Bilal Coulibaly": "OUT",
+    "Khris Middleton": "OUT",
+    "Tristan Vukcevic": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
   }
 }
