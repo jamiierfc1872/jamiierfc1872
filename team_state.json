@@ -97,15 +97,15 @@
     "N'Faly Dante": "OUT",
     "RayJ Dennis": "OUT",
     "Nikola Djurisic": "OUT",
-    "Mouhamed Gueye": "PROBABLE",
+    "Mouhamed Gueye": "AVAILABLE",
     "Caleb Houstan": "OUT",
-    "Luke Kennard": "PROBABLE",
+    "Luke Kennard": "AVAILABLE",
     "Kristaps Porzingis": "OUT",
     "Zaccharie Risacher": "OUT"
   },
   "Portland Trail Blazers": {
     "Deni Avdija": "OUT",
-    "Jerami Grant": "PROBABLE",
+    "Jerami Grant": "AVAILABLE",
     "Scoot Henderson": "OUT",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
@@ -116,7 +116,7 @@
     "Jalen Brunson": "OUT",
     "Trey Jemison III": "OUT",
     "Mitchell Robinson": "OUT",
-    "Landry Shamet": "QUESTIONABLE"
+    "Landry Shamet": "AVAILABLE"
   },
   "Golden State Warriors": {
     "LJ Cryer": "OUT",
@@ -124,11 +124,11 @@
     "Malevy Leons": "OUT"
   },
   "Charlotte Hornets": {
-    "Moussa Diabate": "PROBABLE",
+    "Moussa Diabate": "AVAILABLE",
     "Liam McNeeley": "OUT",
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
-    "Collin Sexton": "PROBABLE",
+    "Collin Sexton": "AVAILABLE",
     "KJ Simpson": "OUT"
   },
   "Los Angeles Lakers": {
@@ -207,12 +207,6 @@
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
-  "Sacramento Kings": {
-    "Keegan Murray": "OUT",
-    "Daeqwon Plowden": "OUT",
-    "Domantas Sabonis": "QUESTIONABLE",
-    "Isaiah Stevens": "OUT"
-  },
   "Washington Wizards": {
     "Sharife Cooper": "OUT",
     "Bilal Coulibaly": "OUT",
@@ -220,5 +214,11 @@
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "Sacramento Kings": {
+    "Keegan Murray": "OUT",
+    "Daeqwon Plowden": "OUT",
+    "Domantas Sabonis": "QUESTIONABLE",
+    "Isaiah Stevens": "OUT"
   }
 }
