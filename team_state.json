@@ -55,7 +55,7 @@
     "Derrick Jones Jr.": "OUT",
     "Kawhi Leonard": "OUT",
     "Chris Paul": "OUT",
-    "Ivica Zubac": "QUESTIONABLE"
+    "Ivica Zubac": "AVAILABLE"
   },
   "Toronto Raptors": {
     "RJ Barrett": "OUT",
@@ -148,6 +148,13 @@
     "Jalen Brunson": "QUESTIONABLE",
     "Trey Jemison III": "OUT"
   },
+  "San Antonio Spurs": {
+    "Stephon Castle": "QUESTIONABLE",
+    "Harrison Ingram": "QUESTIONABLE",
+    "David Garcia": "OUT",
+    "Stanley Umude": "QUESTIONABLE",
+    "Devin Vassell": "OUT"
+  },
   "Oklahoma City Thunder": {
     "Isaiah Hartenstein": "OUT",
     "Thomas Sorber": "OUT",
@@ -174,11 +181,5 @@
     "Curtis Jones": "OUT",
     "Jamal Murray": "PROBABLE",
     "Jonas Valanciunas": "OUT"
-  },
-  "San Antonio Spurs": {
-    "Harrison Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Stanley Umude": "OUT",
-    "Devin Vassell": "OUT"
   }
 }
