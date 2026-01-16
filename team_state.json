@@ -11,8 +11,8 @@
     "Dominick Barlow": "AVAILABLE",
     "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
-    "Joel Embiid": "PROBABLE",
-    "Paul George": "PROBABLE",
+    "Joel Embiid": "AVAILABLE",
+    "Paul George": "AVAILABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "New Orleans Pelicans": {
@@ -24,10 +24,10 @@
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
     "Isaiah Jackson": "OUT",
-    "Kam Jones": "QUESTIONABLE",
+    "Kam Jones": "AVAILABLE",
     "Bennedict Mathurin": "OUT",
-    "Taelon Peter": "DOUBTFUL",
-    "Ethan Thompson": "QUESTIONABLE",
+    "Taelon Peter": "OUT",
+    "Ethan Thompson": "AVAILABLE",
     "Obi Toppin": "OUT"
   },
   "Chicago Bulls": {
@@ -51,7 +51,7 @@
   "LA Clippers": {
     "Bradley Beal": "OUT",
     "Bogdan Bogdanovic": "OUT",
-    "John Collins": "QUESTIONABLE",
+    "John Collins": "AVAILABLE",
     "Derrick Jones Jr.": "OUT",
     "Kawhi Leonard": "OUT",
     "Chris Paul": "OUT",
@@ -174,5 +174,11 @@
     "Curtis Jones": "OUT",
     "Jamal Murray": "PROBABLE",
     "Jonas Valanciunas": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Stanley Umude": "OUT",
+    "Devin Vassell": "OUT"
   }
 }
