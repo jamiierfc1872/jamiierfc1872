@@ -61,10 +61,10 @@
     "RJ Barrett": "OUT",
     "Jamison Battle": "OUT",
     "Chucky Hepburn": "OUT",
-    "Sandro Mamukelashvili": "PROBABLE",
+    "Sandro Mamukelashvili": "AVAILABLE",
     "Jakob Poeltl": "OUT",
-    "Immanuel Quickley": "DOUBTFUL",
-    "Garrett Temple": "PROBABLE",
+    "Immanuel Quickley": "OUT",
+    "Garrett Temple": "AVAILABLE",
     "Ja'Kobe Walter": "OUT"
   },
   "Minnesota Timberwolves": {
@@ -93,6 +93,14 @@
     "Daeqwon Plowden": "OUT",
     "Domantas Sabonis": "QUESTIONABLE",
     "Isaiah Stevens": "OUT"
+  },
+  "Utah Jazz": {
+    "Elijah Harkless": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Georges Niang": "OUT",
+    "John Tonje": "OUT",
+    "Oscar Tshiebwe": "OUT"
   },
   "Dallas Mavericks": {
     "Max Christie": "PROBABLE",
@@ -155,5 +163,16 @@
     "Davion Mitchell": "OUT",
     "Terry Rozier": "OUT",
     "Jahmir Young": "OUT"
+  },
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Christian Braun": "OUT",
+    "Bruce Brown": "PROBABLE",
+    "Aaron Gordon": "PROBABLE",
+    "Cameron Johnson": "OUT",
+    "Nikola Jokic": "OUT",
+    "Curtis Jones": "OUT",
+    "Jamal Murray": "PROBABLE",
+    "Jonas Valanciunas": "OUT"
   }
 }
