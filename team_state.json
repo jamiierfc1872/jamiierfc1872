@@ -9,8 +9,8 @@
   },
   "Philadelphia 76ers": {
     "Dominick Barlow": "QUESTIONABLE",
-    "MarJon Beauchamp": "DOUBTFUL",
-    "Johni Broome": "DOUBTFUL",
+    "MarJon Beauchamp": "OUT",
+    "Johni Broome": "OUT",
     "Joel Embiid": "PROBABLE",
     "Paul George": "PROBABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
@@ -83,5 +83,9 @@
     "Daeqwon Plowden": "OUT",
     "Domantas Sabonis": "QUESTIONABLE",
     "Isaiah Stevens": "OUT"
+  },
+  "New York Knicks": {
+    "Jalen Brunson": "QUESTIONABLE",
+    "Trey Jemison III": "OUT"
   }
 }
