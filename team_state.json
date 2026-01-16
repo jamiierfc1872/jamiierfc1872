@@ -99,6 +99,15 @@
     "Payton Pritchard": "DOUBTFUL",
     "Jayson Tatum": "OUT"
   },
+  "Atlanta Hawks": {
+    "Dyson Daniels": "QUESTIONABLE",
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "QUESTIONABLE",
+    "Nikola Djurisic": "QUESTIONABLE",
+    "Caleb Houstan": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Zaccharie Risacher": "OUT"
+  },
   "Detroit Pistons": {
     "Cade Cunningham": "PROBABLE",
     "Isaac Jones": "OUT",
@@ -113,6 +122,11 @@
     "Jalen Brunson": "QUESTIONABLE",
     "Trey Jemison III": "OUT"
   },
+  "Oklahoma City Thunder": {
+    "Isaiah Hartenstein": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT"
+  },
   "Miami Heat": {
     "Myron Gardner": "OUT",
     "Vladislav Goldin": "OUT",
@@ -123,5 +137,11 @@
     "Davion Mitchell": "OUT",
     "Terry Rozier": "OUT",
     "Jahmir Young": "OUT"
+  },
+  "Phoenix Suns": {
+    "Devin Booker": "QUESTIONABLE",
+    "Jamaree Bouyea": "OUT",
+    "Jordan Goodwin": "AVAILABLE",
+    "Jalen Green": "OUT"
   }
 }
