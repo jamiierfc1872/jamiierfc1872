@@ -8,7 +8,7 @@
     "Dean Wade": "OUT"
   },
   "Philadelphia 76ers": {
-    "Dominick Barlow": "QUESTIONABLE",
+    "Dominick Barlow": "AVAILABLE",
     "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
     "Joel Embiid": "PROBABLE",
@@ -94,6 +94,18 @@
     "Domantas Sabonis": "QUESTIONABLE",
     "Isaiah Stevens": "OUT"
   },
+  "Dallas Mavericks": {
+    "Max Christie": "PROBABLE",
+    "Moussa Cisse": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Dante Exum": "OUT",
+    "Cooper Flagg": "DOUBTFUL",
+    "Daniel Gafford": "DOUBTFUL",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "QUESTIONABLE",
+    "Dereck Lively II": "OUT",
+    "P.J. Washington": "PROBABLE"
+  },
   "Boston Celtics": {
     "Josh Minott": "OUT",
     "Payton Pritchard": "DOUBTFUL",
@@ -118,6 +130,12 @@
     "Tolu Smith": "OUT",
     "Ausar Thompson": "PROBABLE"
   },
+  "Phoenix Suns": {
+    "Devin Booker": "QUESTIONABLE",
+    "Jamaree Bouyea": "OUT",
+    "Jordan Goodwin": "AVAILABLE",
+    "Jalen Green": "OUT"
+  },
   "New York Knicks": {
     "Jalen Brunson": "QUESTIONABLE",
     "Trey Jemison III": "OUT"
@@ -137,11 +155,5 @@
     "Davion Mitchell": "OUT",
     "Terry Rozier": "OUT",
     "Jahmir Young": "OUT"
-  },
-  "Phoenix Suns": {
-    "Devin Booker": "QUESTIONABLE",
-    "Jamaree Bouyea": "OUT",
-    "Jordan Goodwin": "AVAILABLE",
-    "Jalen Green": "OUT"
   }
 }
