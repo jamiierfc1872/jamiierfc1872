@@ -64,8 +64,8 @@
     "Jalen Green": "OUT"
   },
   "New York Knicks": {
-    "Jalen Brunson": "QUESTIONABLE",
-    "Josh Hart": "QUESTIONABLE",
+    "Jalen Brunson": "OUT",
+    "Josh Hart": "OUT",
     "Trey Jemison III": "OUT"
   },
   "Minnesota Timberwolves": {
@@ -166,6 +166,13 @@
     "Emanuel Miller": "OUT",
     "Patrick Williams": "QUESTIONABLE"
   },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Jose Alvarado": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Herbert Jones": "OUT",
+    "Dejounte Murray": "OUT"
+  },
   "Houston Rockets": {
     "Isaiah Crawford": "OUT",
     "Tari Eason": "QUESTIONABLE",
@@ -184,12 +191,5 @@
     "Ty Jerome": "OUT",
     "Ja Morant": "PROBABLE",
     "Scotty Pippen Jr.": "OUT"
-  },
-  "New Orleans Pelicans": {
-    "Trey Alexander": "OUT",
-    "Jose Alvarado": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Herbert Jones": "OUT",
-    "Dejounte Murray": "OUT"
   }
 }
