@@ -8,14 +8,14 @@
     "Oscar Tshiebwe": "OUT"
   },
   "Dallas Mavericks": {
-    "Max Christie": "PROBABLE",
-    "Moussa Cisse": "QUESTIONABLE",
+    "Max Christie": "AVAILABLE",
+    "Moussa Cisse": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
-    "Cooper Flagg": "DOUBTFUL",
-    "Daniel Gafford": "DOUBTFUL",
+    "Cooper Flagg": "OUT",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "QUESTIONABLE",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
     "D'Angelo Russell": "OUT",
     "P.J. Washington": "OUT"
@@ -99,7 +99,7 @@
     "Jahmir Young": "OUT"
   },
   "Charlotte Hornets": {
-    "Moussa Diabate": "QUESTIONABLE",
+    "Moussa Diabate": "OUT",
     "Liam McNeeley": "OUT",
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
@@ -132,20 +132,20 @@
   "Los Angeles Lakers": {
     "Deandre Ayton": "QUESTIONABLE",
     "Luka Doncic": "OUT",
-    "Jaxson Hayes": "QUESTIONABLE",
+    "Jaxson Hayes": "OUT",
     "Austin Reaves": "OUT",
     "Adou Thiero": "OUT"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "DOUBTFUL",
-    "Jerami Grant": "QUESTIONABLE",
+    "Deni Avdija": "OUT",
+    "Jerami Grant": "PROBABLE",
     "Scoot Henderson": "OUT",
-    "Jrue Holiday": "QUESTIONABLE",
+    "Jrue Holiday": "PROBABLE",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
     "Matisse Thybulle": "OUT",
     "Blake Wesley": "OUT",
-    "Hansen Yang": "QUESTIONABLE"
+    "Hansen Yang": "AVAILABLE"
   },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
@@ -159,5 +159,11 @@
     "Ty Jerome": "OUT",
     "Ja Morant": "PROBABLE",
     "Scotty Pippen Jr.": "OUT"
+  },
+  "Houston Rockets": {
+    "Isaiah Crawford": "OUT",
+    "Tari Eason": "QUESTIONABLE",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
   }
 }
