@@ -27,7 +27,7 @@
     "Jayson Tatum": "OUT"
   },
   "Atlanta Hawks": {
-    "Dyson Daniels": "QUESTIONABLE",
+    "Dyson Daniels": "OUT",
     "N'Faly Dante": "OUT",
     "RayJ Dennis": "AVAILABLE",
     "Nikola Djurisic": "OUT",
@@ -184,5 +184,12 @@
     "Ty Jerome": "OUT",
     "Ja Morant": "PROBABLE",
     "Scotty Pippen Jr.": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Jose Alvarado": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Herbert Jones": "OUT",
+    "Dejounte Murray": "OUT"
   }
 }
