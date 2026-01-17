@@ -91,8 +91,8 @@
     "Keon Ellis": "QUESTIONABLE",
     "Keegan Murray": "OUT",
     "Daeqwon Plowden": "OUT",
-    "Domantas Sabonis": "QUESTIONABLE",
-    "Isaiah Stevens": "OUT"
+    "Domantas Sabonis": "AVAILABLE",
+    "Isaiah -Stevens": "OUT"
   },
   "Utah Jazz": {
     "Elijah Harkless": "OUT",
@@ -171,6 +171,19 @@
     "Terry Rozier": "OUT",
     "Jahmir Young": "OUT"
   },
+  "Charlotte Hornets": {
+    "Moussa Diabate": "QUESTIONABLE",
+    "Liam McNeeley": "OUT",
+    "Mason Plumlee": "OUT",
+    "Antonio Reeves": "OUT",
+    "KJ Simpson": "OUT"
+  },
+  "Golden State Warriors": {
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Malevy Leons": "OUT",
+    "Gui Santos": "OUT"
+  },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
     "Christian Braun": "OUT",
@@ -181,5 +194,23 @@
     "Curtis Jones": "OUT",
     "Jamal Murray": "PROBABLE",
     "Jonas Valanciunas": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Deandre Ayton": "QUESTIONABLE",
+    "Luka Doncic": "OUT",
+    "Jaxson Hayes": "QUESTIONABLE",
+    "Austin Reaves": "OUT",
+    "Adou Thiero": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "DOUBTFUL",
+    "Jerami Grant": "QUESTIONABLE",
+    "Scoot Henderson": "OUT",
+    "Jrue Holiday": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Matisse Thybulle": "OUT",
+    "Blake Wesley": "OUT",
+    "Hansen Yang": "QUESTIONABLE"
   }
 }
