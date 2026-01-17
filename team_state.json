@@ -147,6 +147,12 @@
     "Blake Wesley": "OUT",
     "Hansen Yang": "AVAILABLE"
   },
+  "Houston Rockets": {
+    "Isaiah Crawford": "OUT",
+    "Tari Eason": "QUESTIONABLE",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Jett Howard": "QUESTIONABLE",
@@ -159,11 +165,5 @@
     "Ty Jerome": "OUT",
     "Ja Morant": "PROBABLE",
     "Scotty Pippen Jr.": "OUT"
-  },
-  "Houston Rockets": {
-    "Isaiah Crawford": "OUT",
-    "Tari Eason": "QUESTIONABLE",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
   }
 }
