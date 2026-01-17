@@ -21,7 +21,7 @@
   },
   "Boston Celtics": {
     "Josh Minott": "OUT",
-    "Payton Pritchard": "DOUBTFUL",
+    "Payton Pritchard": "OUT",
     "Jayson Tatum": "OUT"
   },
   "Atlanta Hawks": {
@@ -32,6 +32,18 @@
     "Caleb Houstan": "AVAILABLE",
     "Kristaps Porzingis": "OUT",
     "Zaccharie Risacher": "OUT"
+  },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Isaiah Jackson": "QUESTIONABLE",
+    "Bennedict Mathurin": "OUT",
+    "T.J. McConnell": "OUT",
+    "Andrew Nembhard": "OUT",
+    "Aaron Nesmith": "OUT",
+    "Taelon Peter": "PROBABLE",
+    "Pascal Siakam": "OUT",
+    "Ethan Thompson": "PROBABLE",
+    "Obi Toppin": "OUT"
   },
   "Detroit Pistons": {
     "Cade Cunningham": "PROBABLE",
