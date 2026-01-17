@@ -66,6 +66,14 @@
     "Josh Hart": "QUESTIONABLE",
     "Trey Jemison III": "OUT"
   },
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "AVAILABLE",
+    "Enrique Freeman": "OUT",
+    "Rudy Gobert": "QUESTIONABLE",
+    "Joe Ingles": "OUT",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
   "San Antonio Spurs": {
     "Stephon Castle": "QUESTIONABLE",
     "Harrison Ingram": "QUESTIONABLE",
@@ -143,13 +151,5 @@
     "Ty Jerome": "OUT",
     "Ja Morant": "PROBABLE",
     "Scotty Pippen Jr.": "OUT"
-  },
-  "Minnesota Timberwolves": {
-    "Anthony Edwards": "AVAILABLE",
-    "Enrique Freeman": "OUT",
-    "Rudy Gobert": "QUESTIONABLE",
-    "Joe Ingles": "OUT",
-    "Terrence Shannon Jr.": "OUT",
-    "Rocco Zikarsky": "OUT"
   }
 }
