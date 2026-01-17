@@ -37,14 +37,14 @@
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
-    "Isaiah Jackson": "QUESTIONABLE",
+    "Isaiah Jackson": "AVAILABLE",
     "Bennedict Mathurin": "OUT",
     "T.J. McConnell": "OUT",
     "Andrew Nembhard": "OUT",
     "Aaron Nesmith": "OUT",
-    "Taelon Peter": "PROBABLE",
+    "Taelon Peter": "AVAILABLE",
     "Pascal Siakam": "OUT",
-    "Ethan Thompson": "PROBABLE",
+    "Ethan Thompson": "AVAILABLE",
     "Obi Toppin": "OUT"
   },
   "Detroit Pistons": {
@@ -58,7 +58,7 @@
     "Ausar Thompson": "PROBABLE"
   },
   "Phoenix Suns": {
-    "Devin Booker": "QUESTIONABLE",
+    "Devin Booker": "AVAILABLE",
     "Jamaree Bouyea": "OUT",
     "Jordan Goodwin": "AVAILABLE",
     "Jalen Green": "OUT"
@@ -91,9 +91,9 @@
   "Miami Heat": {
     "Myron Gardner": "AVAILABLE",
     "Vladislav Goldin": "OUT",
-    "Tyler Herro": "QUESTIONABLE",
+    "Tyler Herro": "OUT",
     "Jaime Jaquez Jr.": "OUT",
-    "Nikola Jovic": "QUESTIONABLE",
+    "Nikola Jovic": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
     "Davion Mitchell": "OUT",
     "Terry Rozier": "OUT",
