@@ -129,5 +129,19 @@
     "Isaac Jones": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Taurean Prince": "OUT"
+  },
+  "New York Knicks": {
+    "Jalen Brunson": "QUESTIONABLE",
+    "Josh Hart": "QUESTIONABLE"
+  },
+  "Washington Wizards": {
+    "Bilal Coulibaly": "OUT",
+    "Tristan Vukcevic": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
   }
 }
