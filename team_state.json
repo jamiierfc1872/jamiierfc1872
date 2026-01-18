@@ -167,6 +167,12 @@
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT"
   },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Stanley Umude": "OUT",
+    "Devin Vassell": "OUT"
+  },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
     "Kam Jones": "DOUBTFUL",
@@ -212,11 +218,5 @@
     "Davion Mitchell": "PROBABLE",
     "Terry Rozier": "OUT",
     "Jahmir Young": "OUT"
-  },
-  "San Antonio Spurs": {
-    "Harrison Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Stanley Umude": "OUT",
-    "Devin Vassell": "OUT"
   }
 }
