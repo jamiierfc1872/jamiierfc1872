@@ -21,12 +21,13 @@
     "P.J. Washington": "OUT"
   },
   "Boston Celtics": {
+    "Chris Boucher": "OUT",
     "Josh Minott": "OUT",
     "Payton Pritchard": "OUT",
     "Jayson Tatum": "OUT"
   },
   "Atlanta Hawks": {
-    "Dyson Daniels": "QUESTIONABLE",
+    "Dyson Daniels": "OUT",
     "N'Faly Dante": "OUT",
     "RayJ Dennis": "AVAILABLE",
     "Nikola Djurisic": "OUT",
@@ -36,50 +37,50 @@
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
-    "Isaiah Jackson": "QUESTIONABLE",
+    "Isaiah Jackson": "AVAILABLE",
     "Bennedict Mathurin": "OUT",
     "T.J. McConnell": "OUT",
     "Andrew Nembhard": "OUT",
     "Aaron Nesmith": "OUT",
-    "Taelon Peter": "PROBABLE",
+    "Taelon Peter": "AVAILABLE",
     "Pascal Siakam": "OUT",
-    "Ethan Thompson": "PROBABLE",
+    "Ethan Thompson": "AVAILABLE",
     "Obi Toppin": "OUT"
   },
   "Detroit Pistons": {
-    "Cade Cunningham": "PROBABLE",
+    "Cade Cunningham": "AVAILABLE",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
     "Wendell Moore Jr.": "OUT",
-    "Paul Reed": "PROBABLE",
+    "Paul Reed": "AVAILABLE",
     "Tolu Smith": "OUT",
-    "Ausar Thompson": "PROBABLE"
+    "Ausar Thompson": "AVAILABLE"
   },
   "Phoenix Suns": {
-    "Devin Booker": "QUESTIONABLE",
+    "Devin Booker": "AVAILABLE",
     "Jamaree Bouyea": "OUT",
     "Jordan Goodwin": "AVAILABLE",
     "Jalen Green": "OUT"
   },
   "New York Knicks": {
-    "Jalen Brunson": "QUESTIONABLE",
-    "Josh Hart": "QUESTIONABLE",
+    "Jalen Brunson": "OUT",
+    "Josh Hart": "OUT",
     "Trey Jemison III": "OUT"
   },
   "Minnesota Timberwolves": {
     "Anthony Edwards": "AVAILABLE",
     "Enrique Freeman": "OUT",
-    "Rudy Gobert": "QUESTIONABLE",
+    "Rudy Gobert": "OUT",
     "Joe Ingles": "OUT",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
   "San Antonio Spurs": {
-    "Stephon Castle": "QUESTIONABLE",
-    "Harrison Ingram": "QUESTIONABLE",
+    "Stephon Castle": "AVAILABLE",
+    "Harrison -Ingram": "AVAILABLE",
     "David Garcia": "OUT",
-    "Stanley Umude": "QUESTIONABLE",
+    "Stanley Umude": "OUT",
     "Devin Vassell": "OUT"
   },
   "Oklahoma City Thunder": {
@@ -90,9 +91,9 @@
   "Miami Heat": {
     "Myron Gardner": "AVAILABLE",
     "Vladislav Goldin": "OUT",
-    "Tyler Herro": "QUESTIONABLE",
+    "Tyler Herro": "OUT",
     "Jaime Jaquez Jr.": "OUT",
-    "Nikola Jovic": "QUESTIONABLE",
+    "Nikola Jovic": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
     "Davion Mitchell": "OUT",
     "Terry Rozier": "OUT",
@@ -121,16 +122,16 @@
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
     "Christian Braun": "OUT",
-    "Bruce Brown": "PROBABLE",
-    "Aaron Gordon": "PROBABLE",
+    "Bruce Brown": "AVAILABLE",
+    "Aaron Gordon": "AVAILABLE",
     "Cameron Johnson": "OUT",
     "Nikola Jokic": "OUT",
     "Curtis Jones": "OUT",
-    "Jamal Murray": "PROBABLE",
+    "Jamal Murray": "AVAILABLE",
     "Jonas Valanciunas": "OUT"
   },
   "Los Angeles Lakers": {
-    "Deandre Ayton": "QUESTIONABLE",
+    "Deandre Ayton": "OUT",
     "Luka Doncic": "OUT",
     "Jaxson Hayes": "OUT",
     "Austin Reaves": "OUT",
@@ -138,9 +139,9 @@
   },
   "Portland Trail Blazers": {
     "Deni Avdija": "OUT",
-    "Jerami Grant": "PROBABLE",
+    "Jerami Grant": "AVAILABLE",
     "Scoot Henderson": "OUT",
-    "Jrue Holiday": "PROBABLE",
+    "Jrue Holiday": "AVAILABLE",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
     "Matisse Thybulle": "OUT",
@@ -157,16 +158,41 @@
     "Ben Saraf": "OUT",
     "Ziaire Williams": "OUT"
   },
-  "Chicago Bulls": {},
-  "New Orleans Pelicans": {},
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "DOUBTFUL",
+    "Yuki Kawamura": "OUT",
+    "Emanuel Miller": "OUT",
+    "Patrick Williams": "QUESTIONABLE"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Jose Alvarado": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Herbert Jones": "OUT",
+    "Dejounte Murray": "OUT"
+  },
   "Houston Rockets": {
     "Isaiah Crawford": "OUT",
     "Tari Eason": "QUESTIONABLE",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
   },
-  "Sacramento Kings": {},
-  "Toronto Raptors": {},
+  "Sacramento Kings": {
+    "Keon Ellis": "QUESTIONABLE",
+    "Keegan Murray": "OUT",
+    "Daeqwon Plowden": "OUT",
+    "Isaiah Stevens": "OUT"
+  },
+  "Toronto Raptors": {
+    "RJ Barrett": "OUT",
+    "Jamison Battle": "QUESTIONABLE",
+    "Chucky Hepburn": "OUT",
+    "Jakob Poeltl": "OUT",
+    "Immanuel Quickley": "QUESTIONABLE",
+    "Ja'Kobe Walter": "OUT"
+  },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Jett Howard": "QUESTIONABLE",
