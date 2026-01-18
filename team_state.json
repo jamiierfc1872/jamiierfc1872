@@ -48,14 +48,14 @@
     "Obi Toppin": "OUT"
   },
   "Detroit Pistons": {
-    "Cade Cunningham": "PROBABLE",
+    "Cade Cunningham": "AVAILABLE",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
     "Wendell Moore Jr.": "OUT",
-    "Paul Reed": "PROBABLE",
+    "Paul Reed": "AVAILABLE",
     "Tolu Smith": "OUT",
-    "Ausar Thompson": "PROBABLE"
+    "Ausar Thompson": "AVAILABLE"
   },
   "Phoenix Suns": {
     "Devin Booker": "AVAILABLE",
@@ -71,16 +71,16 @@
   "Minnesota Timberwolves": {
     "Anthony Edwards": "AVAILABLE",
     "Enrique Freeman": "OUT",
-    "Rudy Gobert": "QUESTIONABLE",
+    "Rudy Gobert": "OUT",
     "Joe Ingles": "OUT",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
   "San Antonio Spurs": {
-    "Stephon Castle": "QUESTIONABLE",
-    "Harrison Ingram": "QUESTIONABLE",
+    "Stephon Castle": "AVAILABLE",
+    "Harrison -Ingram": "AVAILABLE",
     "David Garcia": "OUT",
-    "Stanley Umude": "QUESTIONABLE",
+    "Stanley Umude": "OUT",
     "Devin Vassell": "OUT"
   },
   "Oklahoma City Thunder": {
@@ -131,7 +131,7 @@
     "Jonas Valanciunas": "OUT"
   },
   "Los Angeles Lakers": {
-    "Deandre Ayton": "QUESTIONABLE",
+    "Deandre Ayton": "OUT",
     "Luka Doncic": "OUT",
     "Jaxson Hayes": "OUT",
     "Austin Reaves": "OUT",
@@ -178,6 +178,20 @@
     "Tari Eason": "QUESTIONABLE",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Sacramento Kings": {
+    "Keon Ellis": "QUESTIONABLE",
+    "Keegan Murray": "OUT",
+    "Daeqwon Plowden": "OUT",
+    "Isaiah Stevens": "OUT"
+  },
+  "Toronto Raptors": {
+    "RJ Barrett": "OUT",
+    "Jamison Battle": "QUESTIONABLE",
+    "Chucky Hepburn": "OUT",
+    "Jakob Poeltl": "OUT",
+    "Immanuel Quickley": "QUESTIONABLE",
+    "Ja'Kobe Walter": "OUT"
   },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
