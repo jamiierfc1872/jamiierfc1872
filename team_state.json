@@ -30,6 +30,25 @@
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
   },
+  "Charlotte Hornets": {
+    "Moussa Diabate": "PROBABLE",
+    "Liam McNeeley": "OUT",
+    "Mason Plumlee": "OUT",
+    "Antonio Reeves": "OUT",
+    "KJ Simpson": "OUT",
+    "Grant Williams": "OUT"
+  },
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Christian Braun": "OUT",
+    "Bruce Brown": "PROBABLE",
+    "Aaron Gordon": "QUESTIONABLE",
+    "Cameron Johnson": "OUT",
+    "Nikola Jokic": "OUT",
+    "Curtis Jones": "OUT",
+    "Jamal Murray": "PROBABLE",
+    "Jonas Valanciunas": "OUT"
+  },
   "Sacramento Kings": {
     "Keon Ellis": "QUESTIONABLE",
     "Keegan Murray": "OUT",
@@ -38,7 +57,7 @@
   },
   "Toronto Raptors": {
     "RJ Barrett": "OUT",
-    "Jamison Battle": "QUESTIONABLE",
+    "Jamison Battle": "PROBABLE",
     "Chucky Hepburn": "OUT",
     "Jakob Poeltl": "OUT",
     "Immanuel Quickley": "QUESTIONABLE",
@@ -72,16 +91,5 @@
     "Ryan Nembhard": "PROBABLE",
     "D'Angelo Russell": "OUT",
     "P.J. Washington": "OUT"
-  },
-  "Denver Nuggets": {
-    "Tamar Bates": "OUT",
-    "Christian Braun": "OUT",
-    "Bruce Brown": "PROBABLE",
-    "Aaron Gordon": "QUESTIONABLE",
-    "Cameron Johnson": "OUT",
-    "Nikola Jokic": "OUT",
-    "Curtis Jones": "OUT",
-    "Jamal Murray": "PROBABLE",
-    "Jonas Valanciunas": "OUT"
   }
 }
