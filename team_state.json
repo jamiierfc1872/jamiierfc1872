@@ -12,10 +12,10 @@
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
-    "Josh Giddey": "DOUBTFUL",
+    "Josh Giddey": "OUT",
     "Yuki Kawamura": "OUT",
     "Emanuel Miller": "OUT",
-    "Patrick Williams": "QUESTIONABLE"
+    "Patrick Williams": "OUT"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
@@ -96,12 +96,49 @@
     "Scotty Pippen Jr.": "OUT",
     "Javon Small": "OUT"
   },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Taurean Prince": "OUT"
+  },
+  "Atlanta Hawks": {
+    "Dyson Daniels": "QUESTIONABLE",
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "QUESTIONABLE",
+    "Nikola Djurisic": "QUESTIONABLE",
+    "Caleb Houstan": "QUESTIONABLE",
+    "Christian Koloko": "QUESTIONABLE",
+    "Asa Newell": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Zaccharie Risacher": "OUT"
+  },
   "Oklahoma City Thunder": {
     "Brooks Barnhizer": "DOUBTFUL",
     "Isaiah Hartenstein": "OUT",
     "Thomas Sorber": "OUT",
     "Nikola Topic": "OUT",
     "Jalen Williams": "OUT"
+  },
+  "Cleveland Cavaliers": {
+    "Darius Garland": "OUT",
+    "Chris Livingston": "OUT",
+    "Sam Merrill": "OUT",
+    "Max Strus": "OUT",
+    "Luke Travers": "OUT",
+    "Dean Wade": "PROBABLE"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Bogdan Bogdanovic": "OUT",
+    "John Collins": "AVAILABLE",
+    "Derrick Jones Jr.": "OUT",
+    "Kawhi Leonard": "OUT",
+    "Chris Paul": "OUT"
+  },
+  "Washington Wizards": {
+    "Bilal Coulibaly": "OUT",
+    "Tristan Vukcevic": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "PROBABLE",
@@ -116,53 +153,10 @@
     "D'Angelo Russell": "OUT",
     "P.J. Washington": "OUT"
   },
-  "Boston Celtics": {
-    "Chris Boucher": "QUESTIONABLE",
-    "Ron Harper Jr.": "OUT",
-    "Josh Minott": "OUT",
-    "Payton Pritchard": "QUESTIONABLE",
-    "Max Shulga": "OUT",
-    "Jayson Tatum": "OUT",
-    "Amari Williams": "OUT"
-  },
-  "Detroit Pistons": {
-    "Isaac Jones": "OUT",
-    "Wendell Moore Jr.": "OUT",
-    "Tolu Smith": "OUT"
-  },
-  "Milwaukee Bucks": {
-    "Alex Antetokounmpo": "OUT",
-    "Taurean Prince": "OUT"
-  },
   "New York Knicks": {
     "Jalen Brunson": "QUESTIONABLE",
     "Josh Hart": "QUESTIONABLE",
     "Trey Jemison III": "OUT"
-  },
-  "Washington Wizards": {
-    "Bilal Coulibaly": "OUT",
-    "Tristan Vukcevic": "OUT",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
-  },
-  "Atlanta Hawks": {
-    "Dyson Daniels": "QUESTIONABLE",
-    "N'Faly Dante": "OUT",
-    "RayJ Dennis": "QUESTIONABLE",
-    "Nikola Djurisic": "QUESTIONABLE",
-    "Caleb Houstan": "QUESTIONABLE",
-    "Christian Koloko": "QUESTIONABLE",
-    "Asa Newell": "QUESTIONABLE",
-    "Kristaps Porzingis": "OUT",
-    "Zaccharie Risacher": "OUT"
-  },
-  "Cleveland Cavaliers": {
-    "Darius Garland": "OUT",
-    "Chris Livingston": "OUT",
-    "Sam Merrill": "OUT",
-    "Max Strus": "OUT",
-    "Luke Travers": "OUT",
-    "Dean Wade": "PROBABLE"
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
@@ -179,5 +173,25 @@
     "Paul George": "QUESTIONABLE",
     "Jared McCain": "DOUBTFUL",
     "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Phoenix Suns": {
+    "Devin Booker": "QUESTIONABLE",
+    "Jamaree Bouyea": "QUESTIONABLE",
+    "Jordan Goodwin": "AVAILABLE",
+    "Jalen Green": "QUESTIONABLE"
+  },
+  "Boston Celtics": {
+    "Chris Boucher": "QUESTIONABLE",
+    "Ron Harper Jr.": "OUT",
+    "Josh Minott": "OUT",
+    "Payton Pritchard": "QUESTIONABLE",
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT",
+    "Amari Williams": "OUT"
+  },
+  "Detroit Pistons": {
+    "Isaac Jones": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Tolu Smith": "OUT"
   }
 }
