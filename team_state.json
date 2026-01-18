@@ -26,7 +26,7 @@
   },
   "Houston Rockets": {
     "Isaiah Crawford": "OUT",
-    "Tari Eason": "QUESTIONABLE",
+    "Tari Eason": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
   },
@@ -158,6 +158,15 @@
     "Josh Hart": "QUESTIONABLE",
     "Trey Jemison III": "OUT"
   },
+  "Utah Jazz": {
+    "Isaiah Collier": "QUESTIONABLE",
+    "Elijah Harkless": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Georges Niang": "OUT",
+    "John Tonje": "OUT",
+    "Oscar Tshiebwe": "OUT"
+  },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
     "Kam Jones": "DOUBTFUL",
@@ -193,5 +202,15 @@
     "Isaac Jones": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
+  },
+  "Miami Heat": {
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "OUT",
+    "Jaime Jaquez Jr.": "PROBABLE",
+    "Nikola Jovic": "AVAILABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "PROBABLE",
+    "Terry Rozier": "OUT",
+    "Jahmir Young": "OUT"
   }
 }
