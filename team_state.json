@@ -50,7 +50,7 @@
     "Jonas Valanciunas": "OUT"
   },
   "Sacramento Kings": {
-    "Keon Ellis": "QUESTIONABLE",
+    "Keon Ellis": "OUT",
     "Keegan Murray": "OUT",
     "Daeqwon Plowden": "OUT",
     "Isaiah Stevens": "OUT"
@@ -91,5 +91,12 @@
     "Ryan Nembhard": "PROBABLE",
     "D'Angelo Russell": "OUT",
     "P.J. Washington": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Brooks Barnhizer": "DOUBTFUL",
+    "Isaiah Hartenstein": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Jalen Williams": "OUT"
   }
 }
