@@ -136,12 +136,48 @@
   },
   "New York Knicks": {
     "Jalen Brunson": "QUESTIONABLE",
-    "Josh Hart": "QUESTIONABLE"
+    "Josh Hart": "QUESTIONABLE",
+    "Trey Jemison III": "OUT"
   },
   "Washington Wizards": {
     "Bilal Coulibaly": "OUT",
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "Atlanta Hawks": {
+    "Dyson Daniels": "QUESTIONABLE",
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "QUESTIONABLE",
+    "Nikola Djurisic": "QUESTIONABLE",
+    "Caleb Houstan": "QUESTIONABLE",
+    "Christian Koloko": "QUESTIONABLE",
+    "Asa Newell": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Zaccharie Risacher": "OUT"
+  },
+  "Cleveland Cavaliers": {
+    "Darius Garland": "OUT",
+    "Chris Livingston": "OUT",
+    "Sam Merrill": "OUT",
+    "Max Strus": "OUT",
+    "Luke Travers": "OUT",
+    "Dean Wade": "PROBABLE"
+  },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Kam Jones": "DOUBTFUL",
+    "Bennedict Mathurin": "OUT",
+    "Taelon Peter": "DOUBTFUL",
+    "Ethan Thompson": "DOUBTFUL",
+    "Obi Toppin": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "DOUBTFUL",
+    "Joel Embiid": "QUESTIONABLE",
+    "Paul George": "QUESTIONABLE",
+    "Jared McCain": "DOUBTFUL",
+    "Kelly Oubre Jr.": "AVAILABLE"
   }
 }
