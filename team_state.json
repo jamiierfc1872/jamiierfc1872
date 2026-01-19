@@ -50,15 +50,15 @@
     "Jonas Valanciunas": "OUT"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
-    "Jerami Grant": "DOUBTFUL",
+    "Deni Avdija": "AVAILABLE",
+    "Jerami Grant": "OUT",
     "Scoot Henderson": "OUT",
-    "Jrue Holiday": "DOUBTFUL",
+    "Jrue Holiday": "OUT",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
     "Matisse Thybulle": "OUT",
     "Blake Wesley": "OUT",
-    "Robert Williams III": "DOUBTFUL"
+    "Robert Williams III": "OUT"
   },
   "Sacramento Kings": {
     "Keon Ellis": "OUT",
@@ -68,15 +68,15 @@
   },
   "Toronto Raptors": {
     "RJ Barrett": "OUT",
-    "Jamison Battle": "PROBABLE",
+    "Jamison Battle": "AVAILABLE",
     "Chucky Hepburn": "OUT",
     "Jakob Poeltl": "OUT",
-    "Immanuel Quickley": "QUESTIONABLE",
+    "Immanuel Quickley": "AVAILABLE",
     "Ja'Kobe Walter": "OUT"
   },
   "Los Angeles Lakers": {
-    "Luka Doncic": "QUESTIONABLE",
-    "LeBron James": "QUESTIONABLE",
+    "Luka Doncic": "AVAILABLE",
+    "LeBron James": "AVAILABLE",
     "Austin Reaves": "OUT",
     "Adou Thiero": "OUT"
   },
@@ -218,5 +218,11 @@
     "Davion Mitchell": "PROBABLE",
     "Terry Rozier": "OUT",
     "Jahmir Young": "OUT"
+  },
+  "Golden State Warriors": {
+    "Seth Curry": "OUT",
+    "Draymond Green": "PROBABLE",
+    "De'Anthony Melton": "OUT",
+    "Gui Santos": "OUT"
   }
 }
