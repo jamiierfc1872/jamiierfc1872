@@ -80,25 +80,25 @@
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
-    "Kam Jones": "OUT",
+    "Kam Jones": "DOUBTFUL",
     "Bennedict Mathurin": "OUT",
-    "Taelon Peter": "OUT",
-    "Ethan Thompson": "OUT",
+    "Taelon Peter": "DOUBTFUL",
+    "Ethan Thompson": "DOUBTFUL",
     "Obi Toppin": "OUT"
   },
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
-    "Joel Embiid": "AVAILABLE",
+    "Joel Embiid": "QUESTIONABLE",
     "Paul George": "OUT",
     "Jared McCain": "AVAILABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Phoenix Suns": {
-    "Devin Booker": "AVAILABLE",
+    "Devin Booker": "QUESTIONABLE",
     "Jamaree Bouyea": "AVAILABLE",
     "Jordan Goodwin": "AVAILABLE",
-    "Jalen Green": "OUT"
+    "Jalen Green": "QUESTIONABLE"
   },
   "Brooklyn Nets": {
     "Egor Demin": "OUT",
@@ -111,7 +111,7 @@
     "Cam Thomas": "OUT"
   },
   "Boston Celtics": {
-    "Chris Boucher": "AVAILABLE",
+    "Chris Boucher": "PROBABLE",
     "Ron Harper Jr.": "OUT",
     "Josh Minott": "OUT",
     "Payton Pritchard": "AVAILABLE",
@@ -120,7 +120,7 @@
     "Amari Williams": "OUT"
   },
   "Detroit Pistons": {
-    "Ronald Holland II": "AVAILABLE",
+    "Ronald Holland II": "QUESTIONABLE",
     "Isaac Jones": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
@@ -137,7 +137,7 @@
   },
   "Golden State Warriors": {
     "Seth Curry": "OUT",
-    "Draymond Green": "OUT",
+    "Draymond Green": "QUESTIONABLE",
     "De'Anthony Melton": "OUT",
     "Gui Santos": "OUT"
   },
@@ -156,24 +156,7 @@
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
   },
-  "Denver Nuggets": {
-    "Tamar Bates": "OUT",
-    "Christian Braun": "OUT",
-    "Aaron Gordon": "PROBABLE",
-    "Tim Hardaway Jr.": "PROBABLE",
-    "Cameron Johnson": "OUT",
-    "Nikola Jokic": "OUT",
-    "Curtis Jones": "OUT",
-    "Jamal Murray": "PROBABLE",
-    "Jonas Valanciunas": "OUT"
-  },
-  "Los Angeles Lakers": {
-    "Austin Reaves": "OUT",
-    "Adou Thiero": "OUT"
-  },
-  "Minnesota Timberwolves": {
-    "Naz Reid": "QUESTIONABLE",
-    "Terrence Shannon Jr.": "OUT",
-    "Rocco Zikarsky": "OUT"
-  }
+  "Denver Nuggets": {},
+  "Los Angeles Lakers": {},
+  "Minnesota Timberwolves": {}
 }
