@@ -12,10 +12,10 @@
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
-    "Josh Giddey": "OUT",
+    "Josh Giddey": "DOUBTFUL",
     "Yuki Kawamura": "OUT",
     "Emanuel Miller": "OUT",
-    "Patrick Williams": "OUT"
+    "Patrick Williams": "QUESTIONABLE"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
@@ -26,12 +26,12 @@
   },
   "Houston Rockets": {
     "Isaiah Crawford": "OUT",
-    "Tari Eason": "OUT",
+    "Tari Eason": "QUESTIONABLE",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
   },
   "Charlotte Hornets": {
-    "Moussa Diabate": "AVAILABLE",
+    "Moussa Diabate": "PROBABLE",
     "Liam McNeeley": "OUT",
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
@@ -41,24 +41,24 @@
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
     "Christian Braun": "OUT",
-    "Bruce Brown": "AVAILABLE",
-    "Aaron Gordon": "OUT",
+    "Bruce Brown": "PROBABLE",
+    "Aaron Gordon": "QUESTIONABLE",
     "Cameron Johnson": "OUT",
     "Nikola Jokic": "OUT",
     "Curtis Jones": "OUT",
-    "Jamal Murray": "AVAILABLE",
+    "Jamal Murray": "PROBABLE",
     "Jonas Valanciunas": "OUT"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "AVAILABLE",
-    "Jerami Grant": "OUT",
+    "Deni Avdija": "QUESTIONABLE",
+    "Jerami Grant": "DOUBTFUL",
     "Scoot Henderson": "OUT",
-    "Jrue Holiday": "OUT",
+    "Jrue Holiday": "DOUBTFUL",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
     "Matisse Thybulle": "OUT",
     "Blake Wesley": "OUT",
-    "Robert Williams III": "OUT"
+    "Robert Williams III": "DOUBTFUL"
   },
   "Sacramento Kings": {
     "Keon Ellis": "OUT",
@@ -68,15 +68,15 @@
   },
   "Toronto Raptors": {
     "RJ Barrett": "OUT",
-    "Jamison Battle": "AVAILABLE",
+    "Jamison Battle": "PROBABLE",
     "Chucky Hepburn": "OUT",
     "Jakob Poeltl": "OUT",
-    "Immanuel Quickley": "AVAILABLE",
+    "Immanuel Quickley": "QUESTIONABLE",
     "Ja'Kobe Walter": "OUT"
   },
   "Los Angeles Lakers": {
-    "Luka Doncic": "AVAILABLE",
-    "LeBron James": "AVAILABLE",
+    "Luka Doncic": "QUESTIONABLE",
+    "LeBron James": "QUESTIONABLE",
     "Austin Reaves": "OUT",
     "Adou Thiero": "OUT"
   },
@@ -126,14 +126,7 @@
     "Luke Travers": "OUT",
     "Dean Wade": "PROBABLE"
   },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "Bogdan Bogdanovic": "OUT",
-    "John Collins": "AVAILABLE",
-    "Derrick Jones Jr.": "OUT",
-    "Kawhi Leonard": "OUT",
-    "Chris Paul": "OUT"
-  },
+  "LA Clippers": {},
   "Washington Wizards": {
     "Bilal Coulibaly": "OUT",
     "Tristan Vukcevic": "OUT",
@@ -158,21 +151,8 @@
     "Josh Hart": "QUESTIONABLE",
     "Trey Jemison III": "OUT"
   },
-  "Utah Jazz": {
-    "Isaiah Collier": "QUESTIONABLE",
-    "Elijah Harkless": "OUT",
-    "Walker Kessler": "OUT",
-    "Lauri Markkanen": "OUT",
-    "Georges Niang": "OUT",
-    "John Tonje": "OUT",
-    "Oscar Tshiebwe": "OUT"
-  },
-  "San Antonio Spurs": {
-    "Harrison Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Stanley Umude": "OUT",
-    "Devin Vassell": "OUT"
-  },
+  "Utah Jazz": {},
+  "San Antonio Spurs": {},
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
     "Kam Jones": "DOUBTFUL",
@@ -189,12 +169,7 @@
     "Jared McCain": "DOUBTFUL",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
-  "Phoenix Suns": {
-    "Devin Booker": "QUESTIONABLE",
-    "Jamaree Bouyea": "QUESTIONABLE",
-    "Jordan Goodwin": "AVAILABLE",
-    "Jalen Green": "QUESTIONABLE"
-  },
+  "Phoenix Suns": {},
   "Boston Celtics": {
     "Chris Boucher": "QUESTIONABLE",
     "Ron Harper Jr.": "OUT",
@@ -209,20 +184,6 @@
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
   },
-  "Miami Heat": {
-    "Vladislav Goldin": "OUT",
-    "Tyler Herro": "OUT",
-    "Jaime Jaquez Jr.": "PROBABLE",
-    "Nikola Jovic": "AVAILABLE",
-    "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "PROBABLE",
-    "Terry Rozier": "OUT",
-    "Jahmir Young": "OUT"
-  },
-  "Golden State Warriors": {
-    "Seth Curry": "OUT",
-    "Draymond Green": "PROBABLE",
-    "De'Anthony Melton": "OUT",
-    "Gui Santos": "OUT"
-  }
+  "Miami Heat": {},
+  "Golden State Warriors": {}
 }
