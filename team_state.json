@@ -111,7 +111,7 @@
     "Cam Thomas": "OUT"
   },
   "Boston Celtics": {
-    "Chris Boucher": "PROBABLE",
+    "Chris Boucher": "AVAILABLE",
     "Ron Harper Jr.": "OUT",
     "Josh Minott": "OUT",
     "Payton Pritchard": "AVAILABLE",
@@ -170,5 +170,10 @@
   "Los Angeles Lakers": {
     "Austin Reaves": "OUT",
     "Adou Thiero": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Naz Reid": "QUESTIONABLE",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
   }
 }
