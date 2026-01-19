@@ -45,15 +45,15 @@
     "Trae Young": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "PROBABLE",
+    "Moussa Cisse": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
-    "Cooper Flagg": "QUESTIONABLE",
+    "Cooper Flagg": "AVAILABLE",
     "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "PROBABLE",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
-    "Ryan Nembhard": "PROBABLE",
+    "Ryan Nembhard": "AVAILABLE",
     "D'Angelo Russell": "OUT",
     "P.J. Washington": "OUT"
   },
@@ -140,5 +140,13 @@
     "Draymond Green": "PROBABLE",
     "De'Anthony Melton": "OUT",
     "Gui Santos": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "QUESTIONABLE",
+    "Yuki Kawamura": "OUT",
+    "Emanuel Miller": "OUT",
+    "Patrick Williams": "QUESTIONABLE"
   }
 }
