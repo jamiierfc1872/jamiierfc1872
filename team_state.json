@@ -15,7 +15,7 @@
     "Zaccharie Risacher": "OUT"
   },
   "Oklahoma City Thunder": {
-    "Brooks Barnhizer": "DOUBTFUL",
+    "Brooks Barnhizer": "OUT",
     "Isaiah Hartenstein": "OUT",
     "Thomas Sorber": "OUT",
     "Nikola Topic": "OUT",
@@ -86,8 +86,8 @@
     "Obi Toppin": "OUT"
   },
   "Philadelphia 76ers": {
-    "MarJon Beauchamp": "DOUBTFUL",
-    "Johni Broome": "DOUBTFUL",
+    "MarJon Beauchamp": "OUT",
+    "Johni Broome": "OUT",
     "Joel Embiid": "QUESTIONABLE",
     "Paul George": "QUESTIONABLE",
     "Jared McCain": "DOUBTFUL",
@@ -95,9 +95,19 @@
   },
   "Phoenix Suns": {
     "Devin Booker": "QUESTIONABLE",
-    "Jamaree Bouyea": "QUESTIONABLE",
+    "Jamaree Bouyea": "AVAILABLE",
     "Jordan Goodwin": "AVAILABLE",
     "Jalen Green": "QUESTIONABLE"
+  },
+  "Brooklyn Nets": {
+    "Egor Demin": "OUT",
+    "Tyson Etienne": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Chaney Johnson": "OUT",
+    "E.J. Liddell": "OUT",
+    "Ben Saraf": "OUT",
+    "Day'Ron Sharpe": "OUT",
+    "Cam Thomas": "OUT"
   },
   "Boston Celtics": {
     "Chris Boucher": "PROBABLE",
