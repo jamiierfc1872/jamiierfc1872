@@ -80,16 +80,16 @@
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
-    "Kam Jones": "DOUBTFUL",
+    "Kam Jones": "OUT",
     "Bennedict Mathurin": "OUT",
-    "Taelon Peter": "DOUBTFUL",
-    "Ethan Thompson": "DOUBTFUL",
+    "Taelon Peter": "OUT",
+    "Ethan Thompson": "OUT",
     "Obi Toppin": "OUT"
   },
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
-    "Joel Embiid": "QUESTIONABLE",
+    "Joel Embiid": "AVAILABLE",
     "Paul George": "OUT",
     "Jared McCain": "AVAILABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
@@ -120,7 +120,7 @@
     "Amari Williams": "OUT"
   },
   "Detroit Pistons": {
-    "Ronald Holland II": "QUESTIONABLE",
+    "Ronald Holland II": "AVAILABLE",
     "Isaac Jones": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
@@ -166,5 +166,9 @@
     "Curtis Jones": "OUT",
     "Jamal Murray": "PROBABLE",
     "Jonas Valanciunas": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Austin Reaves": "OUT",
+    "Adou Thiero": "OUT"
   }
 }
