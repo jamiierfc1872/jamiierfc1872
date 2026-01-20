@@ -5,9 +5,9 @@
   },
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "OUT",
-    "Johni Broome": "QUESTIONABLE",
+    "Johni Broome": "AVAILABLE",
     "Joel Embiid": "OUT",
-    "Paul George": "QUESTIONABLE",
+    "Paul George": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "LA Clippers": {
@@ -147,6 +147,13 @@
     "Kristaps Porzingis": "OUT",
     "Zaccharie Risacher": "OUT"
   },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "QUESTIONABLE",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Ty Jerome": "OUT",
+    "Scotty Pippen Jr.": "OUT"
+  },
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
@@ -174,12 +181,5 @@
     "Kevin Porter Jr.": "QUESTIONABLE",
     "Taurean Prince": "OUT",
     "Myles Turner": "QUESTIONABLE"
-  },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "QUESTIONABLE",
-    "Brandon Clarke": "OUT",
-    "Zach Edey": "OUT",
-    "Ty Jerome": "OUT",
-    "Scotty Pippen Jr.": "OUT"
   }
 }
