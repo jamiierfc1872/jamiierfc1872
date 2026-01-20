@@ -1,7 +1,7 @@
 {
   "Phoenix Suns": {
     "Jordan Goodwin": "AVAILABLE",
-    "Mark Williams": "QUESTIONABLE"
+    "Mark Williams": "AVAILABLE"
   },
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "OUT",
@@ -138,18 +138,28 @@
     "Jayson Tatum": "OUT",
     "Amari Williams": "OUT"
   },
+  "Atlanta Hawks": {
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "DOUBTFUL",
+    "Nikola Djurisic": "DOUBTFUL",
+    "Caleb Houstan": "DOUBTFUL",
+    "Asa Newell": "DOUBTFUL",
+    "Kristaps Porzingis": "OUT",
+    "Zaccharie Risacher": "OUT"
+  },
+  "Detroit Pistons": {
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Chaz Lanier": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Tolu Smith": "OUT"
+  },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Jose Alvarado": "OUT",
     "Hunter Dickinson": "OUT",
     "Herbert Jones": "QUESTIONABLE",
     "Dejounte Murray": "OUT"
-  },
-  "Milwaukee Bucks": {
-    "Alex Antetokounmpo": "OUT",
-    "Kevin Porter Jr.": "QUESTIONABLE",
-    "Taurean Prince": "OUT",
-    "Myles Turner": "QUESTIONABLE"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
@@ -158,5 +168,18 @@
     "Nikola Topic": "OUT",
     "Jalen Williams": "OUT",
     "Jaylin Williams": "QUESTIONABLE"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Kevin Porter Jr.": "QUESTIONABLE",
+    "Taurean Prince": "OUT",
+    "Myles Turner": "QUESTIONABLE"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "QUESTIONABLE",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Ty Jerome": "OUT",
+    "Scotty Pippen Jr.": "OUT"
   }
 }
