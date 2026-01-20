@@ -80,25 +80,25 @@
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
-    "Kam Jones": "DOUBTFUL",
+    "Kam Jones": "OUT",
     "Bennedict Mathurin": "OUT",
-    "Taelon Peter": "DOUBTFUL",
-    "Ethan Thompson": "DOUBTFUL",
+    "Taelon Peter": "OUT",
+    "Ethan Thompson": "OUT",
     "Obi Toppin": "OUT"
   },
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
-    "Joel Embiid": "QUESTIONABLE",
+    "Joel Embiid": "AVAILABLE",
     "Paul George": "OUT",
     "Jared McCain": "AVAILABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Phoenix Suns": {
-    "Devin Booker": "QUESTIONABLE",
+    "Devin Booker": "AVAILABLE",
     "Jamaree Bouyea": "AVAILABLE",
     "Jordan Goodwin": "AVAILABLE",
-    "Jalen Green": "QUESTIONABLE"
+    "Jalen Green": "OUT"
   },
   "Brooklyn Nets": {
     "Egor Demin": "OUT",
@@ -111,7 +111,7 @@
     "Cam Thomas": "OUT"
   },
   "Boston Celtics": {
-    "Chris Boucher": "PROBABLE",
+    "Chris Boucher": "AVAILABLE",
     "Ron Harper Jr.": "OUT",
     "Josh Minott": "OUT",
     "Payton Pritchard": "AVAILABLE",
@@ -120,7 +120,7 @@
     "Amari Williams": "OUT"
   },
   "Detroit Pistons": {
-    "Ronald Holland II": "QUESTIONABLE",
+    "Ronald Holland II": "AVAILABLE",
     "Isaac Jones": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
@@ -128,16 +128,16 @@
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
     "Tyler Herro": "OUT",
-    "Jaime Jaquez Jr.": "PROBABLE",
+    "Jaime Jaquez Jr.": "AVAILABLE",
     "Nikola Jovic": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "PROBABLE",
+    "Davion Mitchell": "AVAILABLE",
     "Terry Rozier": "OUT",
     "Jahmir Young": "OUT"
   },
   "Golden State Warriors": {
     "Seth Curry": "OUT",
-    "Draymond Green": "QUESTIONABLE",
+    "Draymond Green": "OUT",
     "De'Anthony Melton": "OUT",
     "Gui Santos": "OUT"
   },
@@ -156,7 +156,36 @@
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
   },
-  "Denver Nuggets": {},
-  "Los Angeles Lakers": {},
-  "Minnesota Timberwolves": {}
+  "Minnesota Timberwolves": {
+    "Naz Reid": "QUESTIONABLE",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Austin Reaves": "OUT",
+    "Adou Thiero": "OUT"
+  },
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Christian Braun": "OUT",
+    "Aaron Gordon": "PROBABLE",
+    "Tim Hardaway Jr.": "PROBABLE",
+    "Cameron Johnson": "OUT",
+    "Nikola Jokic": "OUT",
+    "Curtis Jones": "OUT",
+    "Jamal Murray": "PROBABLE",
+    "Jonas Valanciunas": "OUT"
+  },
+  "Sacramento Kings": {
+    "Keegan Murray": "OUT",
+    "Daeqwon Plowden": "OUT",
+    "Isaiah Stevens": "OUT"
+  },
+  "Toronto Raptors": {
+    "RJ Barrett": "OUT",
+    "Chucky Hepburn": "OUT",
+    "Collin Murray-Boyles": "QUESTIONABLE",
+    "Jakob Poeltl": "OUT",
+    "Ja'Kobe Walter": "OUT"
+  }
 }
