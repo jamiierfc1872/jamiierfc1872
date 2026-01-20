@@ -10,6 +10,14 @@
     "Paul George": "QUESTIONABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Bogdan Bogdanovic": "OUT",
+    "Cam Christie": "QUESTIONABLE",
+    "Derrick Jones Jr.": "OUT",
+    "Kawhi Leonard": "OUT",
+    "Chris Paul": "OUT"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -26,7 +34,7 @@
     "Fred VanVleet": "OUT"
   },
   "Minnesota Timberwolves": {
-    "Naz Reid": "QUESTIONABLE",
+    "Naz Reid": "AVAILABLE",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
