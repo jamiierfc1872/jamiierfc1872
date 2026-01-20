@@ -88,5 +88,23 @@
     "Al Horford": "OUT",
     "Will Richard": "QUESTIONABLE",
     "Gui Santos": "QUESTIONABLE"
+  },
+  "Miami Heat": {
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "OUT",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Nikola Jovic": "AVAILABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "AVAILABLE",
+    "Terry Rozier": "OUT",
+    "Kel'el Ware": "QUESTIONABLE",
+    "Jahmir Young": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Jose Alvarado": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Herbert Jones": "QUESTIONABLE",
+    "Dejounte Murray": "OUT"
   }
 }
