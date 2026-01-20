@@ -5,7 +5,7 @@
   },
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "OUT",
-    "Johni Broome": "DOUBTFUL",
+    "Johni Broome": "QUESTIONABLE",
     "Joel Embiid": "OUT",
     "Paul George": "QUESTIONABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
@@ -100,6 +100,13 @@
     "Will Richard": "QUESTIONABLE",
     "Gui Santos": "QUESTIONABLE"
   },
+  "Cleveland Cavaliers": {
+    "Darius Garland": "OUT",
+    "Chris Livingston": "OUT",
+    "Sam Merrill": "OUT",
+    "Max Strus": "OUT",
+    "Luke Travers": "OUT"
+  },
   "Charlotte Hornets": {
     "PJ Hall": "OUT",
     "Liam McNeeley": "OUT",
@@ -115,6 +122,21 @@
     "E.J. Liddell": "OUT",
     "Ben Saraf": "OUT",
     "Day'Ron Sharpe": "QUESTIONABLE"
+  },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Bennedict Mathurin": "OUT",
+    "Taelon Peter": "QUESTIONABLE",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "OUT"
+  },
+  "Boston Celtics": {
+    "Jaylen Brown": "PROBABLE",
+    "Ron Harper Jr.": "OUT",
+    "Josh Minott": "OUT",
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT",
+    "Amari Williams": "OUT"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
