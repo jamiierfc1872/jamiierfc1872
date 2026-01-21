@@ -26,12 +26,12 @@
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
     "Bennedict Mathurin": "OUT",
-    "Taelon Peter": "OUT",
-    "Ethan Thompson": "OUT",
+    "Taelon Peter": "DOUBTFUL",
+    "Ethan Thompson": "DOUBTFUL",
     "Obi Toppin": "OUT"
   },
   "Boston Celtics": {
-    "Jaylen Brown": "AVAILABLE",
+    "Jaylen Brown": "PROBABLE",
     "Ron Harper Jr.": "AVAILABLE",
     "Josh Minott": "OUT",
     "Max Shulga": "AVAILABLE",
@@ -56,11 +56,11 @@
     "Scotty Pippen Jr.": "OUT"
   },
   "Detroit Pistons": {
-    "Cade Cunningham": "OUT",
+    "Cade Cunningham": "QUESTIONABLE",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
-    "Caris LeVert": "OUT",
+    "Caris LeVert": "QUESTIONABLE",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
   },
