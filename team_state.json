@@ -8,6 +8,7 @@
   },
   "Charlotte Hornets": {
     "PJ Hall": "OUT",
+    "Tre Mann": "QUESTIONABLE",
     "Liam McNeeley": "OUT",
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
@@ -20,13 +21,13 @@
     "Chaney Johnson": "OUT",
     "E.J. Liddell": "OUT",
     "Ben Saraf": "OUT",
-    "Day'Ron Sharpe": "QUESTIONABLE"
+    "Day'Ron Sharpe": "AVAILABLE"
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
     "Bennedict Mathurin": "OUT",
-    "Taelon Peter": "QUESTIONABLE",
-    "Ethan Thompson": "QUESTIONABLE",
+    "Taelon Peter": "DOUBTFUL",
+    "Ethan Thompson": "DOUBTFUL",
     "Obi Toppin": "OUT"
   },
   "Boston Celtics": {
@@ -47,13 +48,15 @@
     "Zaccharie Risacher": "OUT"
   },
   "Memphis Grizzlies": {
-    "Santi Aldama": "QUESTIONABLE",
+    "Santi Aldama": "DOUBTFUL",
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
     "Ty Jerome": "OUT",
+    "Jahmai Mashack": "OUT",
     "Scotty Pippen Jr.": "OUT"
   },
   "Detroit Pistons": {
+    "Cade Cunningham": "QUESTIONABLE",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
@@ -65,8 +68,9 @@
     "Trey Alexander": "OUT",
     "Jose Alvarado": "OUT",
     "Hunter Dickinson": "OUT",
-    "Herbert Jones": "QUESTIONABLE",
-    "Dejounte Murray": "OUT"
+    "Herbert Jones": "OUT",
+    "Dejounte Murray": "OUT",
+    "Zion Williamson": "QUESTIONABLE"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
