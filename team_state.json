@@ -8,7 +8,7 @@
   },
   "Charlotte Hornets": {
     "PJ Hall": "OUT",
-    "Tre Mann": "QUESTIONABLE",
+    "Tre Mann": "PROBABLE",
     "Liam McNeeley": "OUT",
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
@@ -124,6 +124,12 @@
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Aaron Holiday": "QUESTIONABLE",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
