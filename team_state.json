@@ -8,7 +8,6 @@
   },
   "Charlotte Hornets": {
     "PJ Hall": "OUT",
-    "Tre Mann": "QUESTIONABLE",
     "Liam McNeeley": "OUT",
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
@@ -48,11 +47,10 @@
     "Zaccharie Risacher": "OUT"
   },
   "Memphis Grizzlies": {
-    "Santi Aldama": "DOUBTFUL",
+    "Santi Aldama": "QUESTIONABLE",
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
     "Ty Jerome": "OUT",
-    "Jahmai Mashack": "OUT",
     "Scotty Pippen Jr.": "OUT"
   },
   "Detroit Pistons": {
@@ -77,9 +75,8 @@
     "Isaiah Hartenstein": "OUT",
     "Thomas Sorber": "OUT",
     "Nikola Topic": "OUT",
-    "Aaron Wiggins": "OUT",
     "Jalen Williams": "OUT",
-    "Jaylin Williams": "OUT"
+    "Jaylin Williams": "QUESTIONABLE"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
