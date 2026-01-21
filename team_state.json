@@ -61,12 +61,12 @@
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
     "Christian Braun": "OUT",
-    "Aaron Gordon": "PROBABLE",
-    "Tim Hardaway Jr.": "PROBABLE",
+    "Aaron Gordon": "AVAILABLE",
+    "Tim Hardaway Jr.": "AVAILABLE",
     "Cameron Johnson": "OUT",
     "Nikola Jokic": "OUT",
     "Curtis Jones": "OUT",
-    "Jamal Murray": "PROBABLE",
+    "Jamal Murray": "AVAILABLE",
     "Jonas Valanciunas": "OUT"
   },
   "Miami Heat": {
@@ -95,10 +95,10 @@
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "Seth Curry": "OUT",
-    "Draymond Green": "QUESTIONABLE",
+    "Draymond Green": "AVAILABLE",
     "Al Horford": "OUT",
     "Will Richard": "AVAILABLE",
-    "Gui Santos": "QUESTIONABLE"
+    "Gui Santos": "AVAILABLE"
   },
   "Cleveland Cavaliers": {
     "Darius Garland": "OUT",
