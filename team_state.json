@@ -152,5 +152,30 @@
     "Yuki Kawamura": "OUT",
     "Emanuel Miller": "OUT",
     "Patrick Williams": "QUESTIONABLE"
+  },
+  "Minnesota Timberwolves": {
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Dante Exum": "OUT",
+    "Daniel Gafford": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "QUESTIONABLE",
+    "Dereck Lively II": "OUT",
+    "Ryan Nembhard": "PROBABLE"
+  },
+  "Miami Heat": {
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "OUT",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Nikola Jovic": "AVAILABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "AVAILABLE",
+    "Terry Rozier": "OUT",
+    "Kel'el Ware": "QUESTIONABLE",
+    "Jahmir Young": "OUT"
   }
 }
