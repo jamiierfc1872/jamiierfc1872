@@ -8,11 +8,11 @@
   },
   "Charlotte Hornets": {
     "PJ Hall": "OUT",
-    "Tre Mann": "PROBABLE",
+    "Tre Mann": "AVAILABLE",
     "Liam McNeeley": "OUT",
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
-    "Tidjane Salaun": "PROBABLE",
+    "Tidjane Salaun": "AVAILABLE",
     "KJ Simpson": "OUT"
   },
   "Brooklyn Nets": {
@@ -32,18 +32,18 @@
   },
   "Boston Celtics": {
     "Jaylen Brown": "PROBABLE",
-    "Ron Harper Jr.": "OUT",
+    "Ron Harper Jr.": "AVAILABLE",
     "Josh Minott": "OUT",
-    "Max Shulga": "OUT",
+    "Max Shulga": "AVAILABLE",
     "Jayson Tatum": "OUT",
-    "Amari Williams": "OUT"
+    "Amari Williams": "AVAILABLE"
   },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
-    "RayJ Dennis": "DOUBTFUL",
-    "Nikola Djurisic": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
-    "Asa Newell": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Nikola Djurisic": "OUT",
+    "Caleb Houstan": "OUT",
+    "Asa Newell": "OUT",
     "Kristaps Porzingis": "OUT",
     "Zaccharie Risacher": "OUT"
   },
@@ -130,6 +130,13 @@
     "Aaron Holiday": "QUESTIONABLE",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "DOUBTFUL",
+    "Joel Embiid": "PROBABLE",
+    "Paul George": "QUESTIONABLE",
+    "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
