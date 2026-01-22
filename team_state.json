@@ -1,10 +1,10 @@
 {
   "Charlotte Hornets": {
-    "LaMelo Ball": "QUESTIONABLE",
+    "LaMelo Ball": "AVAILABLE",
     "PJ Hall": "OUT",
     "Tre Mann": "OUT",
     "Liam McNeeley": "OUT",
-    "Brandon Miller": "PROBABLE",
+    "Brandon Miller": "AVAILABLE",
     "Mason Plumlee": "OUT",
     "KJ Simpson": "OUT",
     "Grant Williams": "OUT"
@@ -17,13 +17,13 @@
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
     "Christian Braun": "OUT",
-    "Aaron Gordon": "PROBABLE",
-    "Tim Hardaway Jr.": "PROBABLE",
+    "Aaron Gordon": "AVAILABLE",
+    "Tim Hardaway Jr.": "AVAILABLE",
     "Cameron Johnson": "OUT",
     "Nikola Jokic": "OUT",
     "Curtis Jones": "OUT",
-    "Jamal Murray": "PROBABLE",
-    "Jonas Valanciunas": "QUESTIONABLE"
+    "Jamal Murray": "AVAILABLE",
+    "Jonas Valanciunas": "AVAILABLE"
   },
   "Washington Wizards": {
     "Marvin Bagley III": "OUT",
@@ -52,17 +52,17 @@
     "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
     "Malevy Leons": "OUT",
-    "Gary Payton II": "QUESTIONABLE"
+    "Gary Payton II": "AVAILABLE"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "PROBABLE",
+    "Moussa Cisse": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
-    "Daniel Gafford": "DOUBTFUL",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "QUESTIONABLE",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
-    "Ryan Nembhard": "PROBABLE"
+    "Ryan Nembhard": "AVAILABLE"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
@@ -73,7 +73,7 @@
     "Patrick Williams": "QUESTIONABLE"
   },
   "Minnesota Timberwolves": {
-    "Julius Randle": "QUESTIONABLE",
+    "Julius Randle": "AVAILABLE",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
@@ -183,10 +183,37 @@
     "Herbert Jones": "QUESTIONABLE",
     "Dejounte Murray": "OUT"
   },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Ty Jerome": "OUT",
+    "Jahmai Mashack": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT"
+  },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Kevin Porter Jr.": "OUT",
     "Taurean Prince": "OUT",
     "Myles Turner": "PROBABLE"
+  },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "Bennedict Mathurin": "OUT",
+    "Taelon Peter": "DOUBTFUL",
+    "Ethan Thompson": "PROBABLE",
+    "Obi Toppin": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Alex Caruso": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Aaron Wiggins": "QUESTIONABLE",
+    "Jalen Williams": "OUT",
+    "Jaylin Williams": "QUESTIONABLE"
   }
 }
