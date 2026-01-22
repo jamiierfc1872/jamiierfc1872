@@ -1,4 +1,13 @@
 {
+  "Charlotte Hornets": {
+    "LaMelo Ball": "QUESTIONABLE",
+    "PJ Hall": "OUT",
+    "Tre Mann": "OUT",
+    "Liam McNeeley": "OUT",
+    "Brandon Miller": "PROBABLE",
+    "Mason Plumlee": "OUT",
+    "KJ Simpson": "OUT"
+  },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Jalen Suggs": "OUT"
@@ -25,7 +34,7 @@
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
-    "Aaron Holiday": "QUESTIONABLE",
+    "Aaron Holiday": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
   },
