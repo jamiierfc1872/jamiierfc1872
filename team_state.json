@@ -112,9 +112,10 @@
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Nikola Jovic": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "AVAILABLE",
+    "Davion Mitchell": "QUESTIONABLE",
+    "Norman Powell": "PROBABLE",
     "Terry Rozier": "OUT",
-    "Kel'el Ware": "QUESTIONABLE",
+    "Kel'el Ware": "OUT",
     "Jahmir Young": "OUT"
   },
   "Portland Trail Blazers": {
@@ -127,6 +128,13 @@
     "Matisse Thybulle": "OUT",
     "Blake Wesley": "OUT",
     "Robert Williams III": "QUESTIONABLE"
+  },
+  "Brooklyn Nets": {
+    "Tyson Etienne": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Chaney Johnson": "OUT",
+    "E.J. Liddell": "OUT",
+    "Ben Saraf": "OUT"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
