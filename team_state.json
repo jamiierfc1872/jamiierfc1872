@@ -26,12 +26,12 @@
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
     "Bennedict Mathurin": "OUT",
-    "Taelon Peter": "DOUBTFUL",
-    "Ethan Thompson": "DOUBTFUL",
+    "Taelon Peter": "OUT",
+    "Ethan Thompson": "OUT",
     "Obi Toppin": "OUT"
   },
   "Boston Celtics": {
-    "Jaylen Brown": "PROBABLE",
+    "Jaylen Brown": "AVAILABLE",
     "Ron Harper Jr.": "AVAILABLE",
     "Josh Minott": "OUT",
     "Max Shulga": "AVAILABLE",
@@ -48,19 +48,20 @@
     "Zaccharie Risacher": "OUT"
   },
   "Memphis Grizzlies": {
-    "Santi Aldama": "DOUBTFUL",
+    "Santi Aldama": "OUT",
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
     "Ty Jerome": "OUT",
     "Jahmai Mashack": "OUT",
-    "Scotty Pippen Jr.": "OUT"
+    "Scotty Pippen Jr.": "OUT",
+    "Javon Small": "OUT"
   },
   "Detroit Pistons": {
-    "Cade Cunningham": "QUESTIONABLE",
+    "Cade Cunningham": "OUT",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
-    "Caris LeVert": "QUESTIONABLE",
+    "Caris LeVert": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
   },
@@ -70,7 +71,7 @@
     "Hunter Dickinson": "OUT",
     "Herbert Jones": "OUT",
     "Dejounte Murray": "OUT",
-    "Zion Williamson": "QUESTIONABLE"
+    "Zion Williamson": "AVAILABLE"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
@@ -167,6 +168,24 @@
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Luke Kornet": "QUESTIONABLE",
+    "Jeremy Sochan": "QUESTIONABLE",
+    "Stanley Umude": "OUT",
+    "Devin Vassell": "OUT"
+  },
+  "Utah Jazz": {
+    "Keyonte George": "QUESTIONABLE",
+    "Elijah Harkless": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Georges Niang": "OUT",
+    "Brice Sensabaugh": "QUESTIONABLE",
+    "John Tonje": "OUT",
+    "Oscar Tshiebwe": "OUT"
+  },
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
     "Tyler Herro": "OUT",
@@ -177,5 +196,16 @@
     "Terry Rozier": "OUT",
     "Kel'el Ware": "QUESTIONABLE",
     "Jahmir Young": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Sidy Cissoko": "QUESTIONABLE",
+    "Jerami Grant": "QUESTIONABLE",
+    "Scoot Henderson": "OUT",
+    "Jrue Holiday": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Matisse Thybulle": "OUT",
+    "Blake Wesley": "OUT",
+    "Robert Williams III": "QUESTIONABLE"
   }
 }
