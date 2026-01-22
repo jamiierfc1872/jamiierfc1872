@@ -96,8 +96,8 @@
     "Ja'Kobe Walter": "OUT"
   },
   "Sacramento Kings": {
-    "Precious Achiuwa": "QUESTIONABLE",
-    "Keegan Murray": "OUT",
+    "Precious Achiuwa": "AVAILABLE",
+    "Keegan -Murray": "OUT",
     "Daeqwon Plowden": "OUT",
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
@@ -185,6 +185,17 @@
     "Brice Sensabaugh": "QUESTIONABLE",
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Austin Reaves": "OUT",
+    "Adou Thiero": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Bogdan Bogdanovic": "OUT",
+    "Derrick Jones Jr.": "OUT",
+    "Kawhi Leonard": "QUESTIONABLE",
+    "Chris Paul": "OUT"
   },
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
