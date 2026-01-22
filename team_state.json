@@ -28,7 +28,7 @@
   "Washington Wizards": {
     "Marvin Bagley III": "OUT",
     "Bilal Coulibaly": "OUT",
-    "AJ Johnson": "QUESTIONABLE",
+    "AJ Johnson": "AVAILABLE",
     "Khris Middleton": "AVAILABLE",
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
@@ -112,8 +112,8 @@
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Nikola Jovic": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "QUESTIONABLE",
-    "Norman Powell": "PROBABLE",
+    "Davion Mitchell": "DOUBTFUL",
+    "Norman Powell": "QUESTIONABLE",
     "Terry Rozier": "OUT",
     "Kel'el Ware": "OUT",
     "Jahmir Young": "OUT"
@@ -129,6 +129,23 @@
     "Blake Wesley": "OUT",
     "Robert Williams III": "QUESTIONABLE"
   },
+  "Detroit Pistons": {
+    "Cade Cunningham": "QUESTIONABLE",
+    "Ronald Holland II": "PROBABLE",
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Chaz Lanier": "QUESTIONABLE",
+    "Caris LeVert": "DOUBTFUL",
+    "Wendell Moore Jr.": "OUT",
+    "Duncan Robinson": "PROBABLE",
+    "Tolu Smith": "OUT"
+  },
+  "Boston Celtics": {
+    "Josh Minott": "OUT",
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT",
+    "Amari Williams": "OUT"
+  },
   "Brooklyn Nets": {
     "Tyson Etienne": "OUT",
     "Haywood Highsmith": "OUT",
@@ -136,21 +153,40 @@
     "E.J. Liddell": "OUT",
     "Ben Saraf": "OUT"
   },
+  "Phoenix Suns": {
+    "Jordan Goodwin": "AVAILABLE"
+  },
+  "Atlanta Hawks": {
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "QUESTIONABLE",
+    "Nikola Djurisic": "QUESTIONABLE",
+    "Caleb Houstan": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Zaccharie Risacher": "OUT"
+  },
   "Sacramento Kings": {
     "Keegan Murray": "OUT",
     "Daeqwon Plowden": "OUT",
     "Isaiah Stevens": "OUT"
+  },
+  "Cleveland Cavaliers": {
+    "Darius Garland": "OUT",
+    "Chris Livingston": "OUT",
+    "Sam Merrill": "OUT",
+    "Max Strus": "OUT",
+    "Luke Travers": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Jose Alvarado": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Herbert Jones": "QUESTIONABLE",
+    "Dejounte Murray": "OUT"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Kevin Porter Jr.": "OUT",
     "Taurean Prince": "OUT",
     "Myles Turner": "PROBABLE"
-  },
-  "Boston Celtics": {
-    "Josh Minott": "OUT",
-    "Max Shulga": "OUT",
-    "Jayson Tatum": "OUT",
-    "Amari Williams": "OUT"
   }
 }
