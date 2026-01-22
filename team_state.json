@@ -1,17 +1,8 @@
 {
-  "Charlotte Hornets": {
-    "LaMelo Ball": "QUESTIONABLE",
-    "PJ Hall": "OUT",
-    "Tre Mann": "OUT",
-    "Liam McNeeley": "OUT",
-    "Brandon Miller": "PROBABLE",
-    "Mason Plumlee": "OUT",
-    "KJ Simpson": "OUT"
-  },
+  "Charlotte Hornets": {},
   "Orlando Magic": {
     "Colin Castleton": "OUT",
-    "Jalen Suggs": "OUT",
-    "Franz Wagner": "OUT"
+    "Jalen Suggs": "OUT"
   },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
@@ -26,22 +17,22 @@
   },
   "Washington Wizards": {
     "Marvin Bagley III": "QUESTIONABLE",
-    "Bilal Coulibaly": "OUT",
+    "Bilal Coulibaly": "QUESTIONABLE",
     "AJ Johnson": "QUESTIONABLE",
-    "Khris Middleton": "AVAILABLE",
+    "Khris Middleton": "QUESTIONABLE",
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
-    "Aaron Holiday": "OUT",
+    "Aaron Holiday": "QUESTIONABLE",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
   },
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "DOUBTFUL",
-    "Johni Broome": "QUESTIONABLE",
+    "Johni Broome": "DOUBTFUL",
     "Joel Embiid": "PROBABLE",
     "Paul George": "QUESTIONABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
@@ -54,10 +45,10 @@
     "Gary Payton II": "QUESTIONABLE"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "PROBABLE",
+    "Moussa Cisse": "QUESTIONABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
-    "Daniel Gafford": "DOUBTFUL",
+    "Daniel Gafford": "QUESTIONABLE",
     "Kyrie Irving": "OUT",
     "Miles Kelly": "QUESTIONABLE",
     "Dereck Lively II": "OUT",
@@ -66,7 +57,7 @@
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
-    "Josh Giddey": "PROBABLE",
+    "Josh Giddey": "QUESTIONABLE",
     "Yuki Kawamura": "OUT",
     "Emanuel Miller": "OUT",
     "Patrick Williams": "QUESTIONABLE"
