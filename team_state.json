@@ -37,9 +37,9 @@
   },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
-    "RayJ Dennis": "QUESTIONABLE",
-    "Nikola Djurisic": "QUESTIONABLE",
-    "Caleb Houstan": "QUESTIONABLE",
+    "RayJ Dennis": "OUT",
+    "Nikola Djurisic": "OUT",
+    "Caleb Houstan": "OUT",
     "Kristaps Porzingis": "OUT",
     "Zaccharie Risacher": "OUT"
   },
@@ -124,5 +124,15 @@
     "Matisse Thybulle": "OUT",
     "Blake Wesley": "OUT",
     "Robert Williams III": "QUESTIONABLE"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "PROBABLE",
+    "Tre Jones": "DOUBTFUL",
+    "Yuki Kawamura": "OUT",
+    "Emanuel Miller": "OUT",
+    "Lachlan Olbrich": "PROBABLE",
+    "Patrick Williams": "PROBABLE"
   }
 }
