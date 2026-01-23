@@ -8,8 +8,8 @@
     "Fred VanVleet": "OUT"
   },
   "Detroit Pistons": {
-    "Cade Cunningham": "PROBABLE",
-    "Ronald Holland II": "PROBABLE",
+    "Cade Cunningham": "AVAILABLE",
+    "Ronald Holland II": "AVAILABLE",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "AVAILABLE",
     "Chaz -Lanier": "AVAILABLE",
@@ -20,10 +20,11 @@
   },
   "Boston Celtics": {
     "Josh Minott": "OUT",
-    "Neemias Queta": "QUESTIONABLE",
+    "Neemias Queta": "AVAILABLE",
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT",
-    "Amari Williams": "QUESTIONABLE"
+    "Derrick White": "OUT",
+    "Amari Williams": "AVAILABLE"
   },
   "Brooklyn Nets": {
     "Tyson Etienne": "OUT",
@@ -33,7 +34,10 @@
     "Ben Saraf": "OUT"
   },
   "Phoenix Suns": {
-    "Jordan Goodwin": "AVAILABLE"
+    "Jamaree Bouyea": "OUT",
+    "Koby Brea": "OUT",
+    "Jordan Goodwin": "AVAILABLE",
+    "Isaiah Livers": "OUT"
   },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
