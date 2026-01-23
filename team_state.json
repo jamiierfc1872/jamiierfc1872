@@ -3,7 +3,7 @@
     "Steven Adams": "OUT",
     "Tari Eason": "OUT",
     "Dorian Finney-Smith": "OUT",
-    "Aaron Holiday": "QUESTIONABLE",
+    "Aaron Holiday": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
   },
@@ -140,6 +140,11 @@
     "Paul George": "PROBABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
+  "Minnesota Timberwolves": {
+    "Enrique Freeman": "OUT",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Jalen Suggs": "PROBABLE",
@@ -154,6 +159,16 @@
     "Emanuel Miller": "OUT",
     "Lachlan Olbrich": "PROBABLE",
     "Patrick Williams": "PROBABLE"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Dante Exum": "OUT",
+    "Daniel Gafford": "PROBABLE",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "QUESTIONABLE",
+    "Dereck Lively II": "OUT",
+    "Ryan Nembhard": "PROBABLE"
   },
   "Washington Wizards": {
     "Marvin Bagley III": "OUT",
@@ -172,5 +187,16 @@
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
     "KJ Simpson": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Jonathan Kuminga": "OUT",
+    "Malevy Leons": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Austin Reaves": "OUT",
+    "Adou Thiero": "OUT"
   }
 }
