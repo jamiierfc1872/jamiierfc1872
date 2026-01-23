@@ -1,4 +1,12 @@
 {
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tari Eason": "OUT",
+    "Dorian Finney-Smith": "OUT",
+    "Aaron Holiday": "QUESTIONABLE",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
   "Detroit Pistons": {
     "Cade Cunningham": "PROBABLE",
     "Ronald Holland II": "PROBABLE",
@@ -61,9 +69,9 @@
     "Ajay Mitchell": "OUT",
     "Thomas Sorber": "OUT",
     "Nikola Topic": "OUT",
-    "Aaron Wiggins": "QUESTIONABLE",
+    "Aaron Wiggins": "OUT",
     "Jalen Williams": "OUT",
-    "Jaylin Williams": "QUESTIONABLE"
+    "Jaylin Williams": "AVAILABLE"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
@@ -77,6 +85,7 @@
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
     "Ty Jerome": "OUT",
+    "Jock Landale": "QUESTIONABLE",
     "Jahmai Mashack": "OUT",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT"
