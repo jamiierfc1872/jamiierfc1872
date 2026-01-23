@@ -81,17 +81,17 @@
     "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
     "Luke Kornet": "OUT",
-    "Jeremy Sochan": "QUESTIONABLE",
-    "Stanley Umude": "OUT",
+    "Jeremy Sochan": "AVAILABLE",
+    "Stanley -Umude": "OUT",
     "Devin Vassell": "OUT"
   },
   "Utah Jazz": {
-    "Keyonte George": "QUESTIONABLE",
+    "Keyonte George": "AVAILABLE",
     "Elijah Harkless": "OUT",
     "Walker Kessler": "OUT",
     "Lauri Markkanen": "OUT",
     "Georges Niang": "OUT",
-    "Brice Sensabaugh": "QUESTIONABLE",
+    "Brice Sensabaugh": "AVAILABLE",
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT"
   },
@@ -112,22 +112,22 @@
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Nikola Jovic": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "DOUBTFUL",
+    "Davion Mitchell": "OUT",
     "Norman Powell": "QUESTIONABLE",
     "Terry Rozier": "OUT",
     "Kel'el Ware": "OUT",
     "Jahmir Young": "OUT"
   },
   "Portland Trail Blazers": {
-    "Sidy Cissoko": "QUESTIONABLE",
-    "Jerami Grant": "QUESTIONABLE",
+    "Sidy Cissoko": "PROBABLE",
+    "Jerami Grant": "PROBABLE",
     "Scoot Henderson": "OUT",
-    "Jrue Holiday": "QUESTIONABLE",
+    "Jrue Holiday": "PROBABLE",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
     "Matisse Thybulle": "OUT",
     "Blake Wesley": "OUT",
-    "Robert Williams III": "QUESTIONABLE"
+    "Robert Williams III": "PROBABLE"
   },
   "Detroit Pistons": {
     "Cade Cunningham": "QUESTIONABLE",
@@ -176,6 +176,24 @@
     "Max Strus": "OUT",
     "Luke Travers": "OUT"
   },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "Bennedict Mathurin": "OUT",
+    "Taelon Peter": "DOUBTFUL",
+    "Ethan Thompson": "PROBABLE",
+    "Obi Toppin": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Alex Caruso": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Aaron Wiggins": "QUESTIONABLE",
+    "Jalen Williams": "OUT",
+    "Jaylin Williams": "QUESTIONABLE"
+  },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Jose Alvarado": "OUT",
@@ -198,22 +216,11 @@
     "Taurean Prince": "OUT",
     "Myles Turner": "PROBABLE"
   },
-  "Indiana Pacers": {
-    "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "QUESTIONABLE",
-    "Bennedict Mathurin": "OUT",
-    "Taelon Peter": "DOUBTFUL",
-    "Ethan Thompson": "PROBABLE",
-    "Obi Toppin": "OUT"
-  },
-  "Oklahoma City Thunder": {
-    "Alex Caruso": "OUT",
-    "Isaiah Hartenstein": "OUT",
-    "Ajay Mitchell": "OUT",
-    "Thomas Sorber": "OUT",
-    "Nikola Topic": "OUT",
-    "Aaron Wiggins": "QUESTIONABLE",
-    "Jalen Williams": "OUT",
-    "Jaylin Williams": "QUESTIONABLE"
+  "Toronto Raptors": {
+    "RJ Barrett": "QUESTIONABLE",
+    "Chucky Hepburn": "OUT",
+    "Collin Murray-Boyles": "QUESTIONABLE",
+    "Jakob Poeltl": "OUT",
+    "Ja'Kobe Walter": "OUT"
   }
 }
