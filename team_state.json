@@ -59,7 +59,7 @@
     "Tyrese Haliburton": "OUT",
     "Quenton Jackson": "QUESTIONABLE",
     "Bennedict Mathurin": "OUT",
-    "Taelon Peter": "DOUBTFUL",
+    "Taelon Peter": "OUT",
     "Ethan Thompson": "PROBABLE",
     "Obi Toppin": "OUT"
   },
@@ -85,15 +85,27 @@
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
     "Ty Jerome": "OUT",
+    "Jock Landale": "QUESTIONABLE",
     "Jahmai Mashack": "OUT",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT"
   },
-  "Denver Nuggets": {},
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Christian Braun": "OUT",
+    "Aaron Gordon": "PROBABLE",
+    "Cameron Johnson": "OUT",
+    "Nikola Jokic": "OUT",
+    "Jamal Murray": "QUESTIONABLE",
+    "Jonas Valanciunas": "QUESTIONABLE",
+    "Peyton Watson": "QUESTIONABLE"
+  },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
+    "AJ Green": "QUESTIONABLE",
     "Kevin Porter Jr.": "OUT",
     "Taurean Prince": "OUT",
+    "Gary Trent Jr.": "QUESTIONABLE",
     "Myles Turner": "PROBABLE"
   },
   "Toronto Raptors": {
