@@ -125,6 +125,21 @@
     "Blake Wesley": "OUT",
     "Robert Williams III": "QUESTIONABLE"
   },
+  "New York Knicks": {
+    "Pacome Dadiet": "QUESTIONABLE",
+    "Mohamed Diawara": "QUESTIONABLE",
+    "Ariel Hukporti": "QUESTIONABLE",
+    "Trey Jemison III": "OUT",
+    "Dillon Jones": "OUT",
+    "Kevin McCullar Jr.": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "DOUBTFUL",
+    "Joel Embiid": "PROBABLE",
+    "Paul George": "PROBABLE",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -143,5 +158,14 @@
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "Charlotte Hornets": {
+    "PJ Hall": "OUT",
+    "Ryan Kalkbrenner": "PROBABLE",
+    "Liam McNeeley": "OUT",
+    "Brandon Miller": "PROBABLE",
+    "Mason Plumlee": "OUT",
+    "Antonio Reeves": "OUT",
+    "KJ Simpson": "OUT"
   }
 }
