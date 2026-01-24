@@ -16,6 +16,7 @@
   },
   "Cleveland Cavaliers": {
     "Darius Garland": "OUT",
+    "De'Andre Hunter": "QUESTIONABLE",
     "Chris Livingston": "OUT",
     "Sam Merrill": "OUT",
     "Max Strus": "OUT",
@@ -23,7 +24,7 @@
   },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
-    "Jalen Suggs": "PROBABLE",
+    "Jalen Suggs": "AVAILABLE",
     "Franz Wagner": "OUT"
   },
   "Boston Celtics": {
@@ -41,7 +42,7 @@
     "Yuki Kawamura": "OUT",
     "Emanuel Miller": "OUT",
     "Lachlan Olbrich": "AVAILABLE",
-    "Patrick -Williams": "AVAILABLE"
+    "Patrick Williams": "AVAILABLE"
   },
   "Los Angeles Lakers": {
     "Austin Reaves": "OUT",
@@ -135,5 +136,25 @@
     "Jose Alvarado": "QUESTIONABLE",
     "Hunter Dickinson": "OUT",
     "Dejounte Murray": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Luke Kornet": "QUESTIONABLE",
+    "Stanley Umude": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Collin Murray-Boyles": "QUESTIONABLE",
+    "Jakob Poeltl": "OUT",
+    "Ja'Kobe Walter": "QUESTIONABLE"
+  },
+  "Brooklyn Nets": {
+    "Noah Clowney": "DOUBTFUL",
+    "Tyson Etienne": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Chaney Johnson": "OUT",
+    "Cam Thomas": "OUT",
+    "Nolan Traore": "OUT"
   }
 }
