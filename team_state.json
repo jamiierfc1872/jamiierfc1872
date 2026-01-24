@@ -130,10 +130,11 @@
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
-    "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
+    "Stephen Curry": "QUESTIONABLE",
+    "Al Horford": "QUESTIONABLE",
     "Jonathan Kuminga": "OUT",
-    "Malevy Leons": "OUT"
+    "De'Anthony Melton": "QUESTIONABLE"
   },
   "Minnesota Timberwolves": {
     "Enrique Freeman": "OUT",
@@ -166,14 +167,6 @@
     "Jakob Poeltl": "OUT",
     "Ja'Kobe Walter": "QUESTIONABLE"
   },
-  "Brooklyn Nets": {
-    "Noah Clowney": "DOUBTFUL",
-    "Tyson Etienne": "OUT",
-    "Haywood Highsmith": "OUT",
-    "Chaney Johnson": "OUT",
-    "Cam Thomas": "OUT",
-    "Nolan Traore": "OUT"
-  },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
     "Isaiah Hartenstein": "OUT",
@@ -182,5 +175,13 @@
     "Nikola Topic": "OUT",
     "Aaron Wiggins": "QUESTIONABLE",
     "Jalen Williams": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Noah Clowney": "DOUBTFUL",
+    "Tyson Etienne": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Chaney Johnson": "OUT",
+    "Cam Thomas": "OUT",
+    "Nolan Traore": "OUT"
   }
 }
