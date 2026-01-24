@@ -61,10 +61,10 @@
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "QUESTIONABLE",
+    "Quenton Jackson": "OUT",
     "Bennedict Mathurin": "OUT",
     "Taelon Peter": "OUT",
-    "Ethan Thompson": "PROBABLE",
+    "Ethan Thompson": "AVAILABLE",
     "Obi Toppin": "OUT"
   },
   "Oklahoma City Thunder": {
@@ -81,7 +81,7 @@
     "Trey Alexander": "OUT",
     "Jose Alvarado": "OUT",
     "Hunter Dickinson": "OUT",
-    "Herbert Jones": "QUESTIONABLE",
+    "Herbert Jones": "AVAILABLE",
     "Dejounte Murray": "OUT"
   },
   "Memphis Grizzlies": {
@@ -89,7 +89,7 @@
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
     "Ty Jerome": "OUT",
-    "Jock Landale": "QUESTIONABLE",
+    "Jock Landale": "AVAILABLE",
     "Jahmai Mashack": "OUT",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT"
@@ -106,11 +106,11 @@
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
-    "AJ Green": "QUESTIONABLE",
+    "AJ Green": "OUT",
     "Kevin Porter Jr.": "OUT",
     "Taurean Prince": "OUT",
-    "Gary Trent Jr.": "QUESTIONABLE",
-    "Myles Turner": "PROBABLE"
+    "Gary Trent Jr.": "OUT",
+    "Myles Turner": "AVAILABLE"
   },
   "Toronto Raptors": {
     "RJ Barrett": "QUESTIONABLE",
@@ -144,6 +144,13 @@
     "Paul George": "PROBABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Jonathan Kuminga": "OUT",
+    "Malevy Leons": "OUT"
+  },
   "Minnesota Timberwolves": {
     "Enrique Freeman": "OUT",
     "Terrence Shannon Jr.": "OUT",
@@ -164,6 +171,10 @@
     "Lachlan Olbrich": "PROBABLE",
     "Patrick Williams": "PROBABLE"
   },
+  "Los Angeles Lakers": {
+    "Austin Reaves": "OUT",
+    "Adou Thiero": "OUT"
+  },
   "Dallas Mavericks": {
     "Moussa Cisse": "QUESTIONABLE",
     "Anthony Davis": "OUT",
@@ -173,6 +184,27 @@
     "Miles Kelly": "QUESTIONABLE",
     "Dereck Lively II": "OUT",
     "Ryan Nembhard": "PROBABLE"
+  },
+  "Miami Heat": {
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "OUT",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Pelle Larsson": "PROBABLE",
+    "Davion Mitchell": "QUESTIONABLE",
+    "Norman Powell": "QUESTIONABLE",
+    "Terry Rozier": "OUT",
+    "Kel'el Ware": "OUT",
+    "Jahmir Young": "OUT"
+  },
+  "Utah Jazz": {
+    "Elijah Harkless": "OUT",
+    "Walker Kessler": "OUT",
+    "Kevin Love": "OUT",
+    "Lauri Markkanen": "QUESTIONABLE",
+    "Georges Niang": "OUT",
+    "Jusuf Nurkic": "DOUBTFUL",
+    "John Tonje": "OUT",
+    "Oscar Tshiebwe": "OUT"
   },
   "Washington Wizards": {
     "Marvin Bagley III": "OUT",
@@ -191,16 +223,5 @@
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
     "KJ Simpson": "OUT"
-  },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "LJ Cryer": "OUT",
-    "Seth Curry": "OUT",
-    "Jonathan Kuminga": "OUT",
-    "Malevy Leons": "OUT"
-  },
-  "Los Angeles Lakers": {
-    "Austin Reaves": "OUT",
-    "Adou Thiero": "OUT"
   }
 }
