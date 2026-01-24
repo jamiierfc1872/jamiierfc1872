@@ -1,14 +1,14 @@
 {
   "New York Knicks": {
-    "Pacome Dadiet": "QUESTIONABLE",
-    "Mohamed Diawara": "QUESTIONABLE",
-    "Ariel Hukporti": "QUESTIONABLE",
+    "Pacome Dadiet": "OUT",
+    "Mohamed Diawara": "AVAILABLE",
+    "Ariel Hukporti": "AVAILABLE",
     "Trey Jemison III": "OUT",
     "Dillon Jones": "OUT",
     "Kevin McCullar Jr.": "OUT"
   },
   "Philadelphia 76ers": {
-    "MarJon Beauchamp": "DOUBTFUL",
+    "MarJon Beauchamp": "OUT",
     "Johni Broome": "DOUBTFUL",
     "Joel Embiid": "PROBABLE",
     "Paul George": "PROBABLE",
@@ -80,16 +80,16 @@
     "Marvin Bagley III": "OUT",
     "Bilal Coulibaly": "OUT",
     "AJ Johnson": "OUT",
-    "Khris Middleton": "QUESTIONABLE",
+    "Khris Middleton": "OUT",
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
   "Charlotte Hornets": {
     "PJ Hall": "OUT",
-    "Ryan Kalkbrenner": "PROBABLE",
+    "Ryan Kalkbrenner": "AVAILABLE",
     "Liam McNeeley": "OUT",
-    "Brandon Miller": "PROBABLE",
+    "Brandon Miller": "AVAILABLE",
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
     "KJ Simpson": "OUT"
