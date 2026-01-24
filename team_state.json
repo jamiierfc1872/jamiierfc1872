@@ -9,7 +9,7 @@
   },
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "OUT",
-    "Johni Broome": "DOUBTFUL",
+    "Johni Broome": "OUT",
     "Joel Embiid": "PROBABLE",
     "Paul George": "PROBABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
@@ -38,11 +38,18 @@
     "Jalen Suggs": "PROBABLE",
     "Franz Wagner": "OUT"
   },
+  "Boston Celtics": {
+    "Jaylen Brown": "PROBABLE",
+    "Josh Minott": "OUT",
+    "Neemias Queta": "PROBABLE",
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
     "Josh Giddey": "AVAILABLE",
-    "Tre Jones": "OUT",
+    "Tre -Jones": "OUT",
     "Yuki Kawamura": "OUT",
     "Emanuel Miller": "OUT",
     "Lachlan Olbrich": "AVAILABLE",
@@ -53,7 +60,7 @@
     "Adou Thiero": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "DOUBTFUL",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
     "Daniel Gafford": "PROBABLE",
