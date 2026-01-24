@@ -16,7 +16,7 @@
   },
   "Cleveland Cavaliers": {
     "Darius Garland": "OUT",
-    "De'Andre Hunter": "QUESTIONABLE",
+    "De'Andre Hunter": "OUT",
     "Chris Livingston": "OUT",
     "Sam Merrill": "OUT",
     "Max Strus": "OUT",
@@ -119,6 +119,15 @@
     "Jonas Valanciunas": "QUESTIONABLE",
     "Peyton Watson": "QUESTIONABLE"
   },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Ty Jerome": "OUT",
+    "Jahmai Mashack": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT"
+  },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "OUT",
@@ -130,6 +139,14 @@
     "Enrique Freeman": "OUT",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "AJ Green": "QUESTIONABLE",
+    "Kevin Porter Jr.": "OUT",
+    "Taurean Prince": "OUT",
+    "Gary Trent Jr.": "PROBABLE"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
@@ -156,5 +173,14 @@
     "Chaney Johnson": "OUT",
     "Cam Thomas": "OUT",
     "Nolan Traore": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Alex Caruso": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Aaron Wiggins": "QUESTIONABLE",
+    "Jalen Williams": "OUT"
   }
 }
