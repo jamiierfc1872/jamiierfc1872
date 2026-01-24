@@ -9,9 +9,9 @@
   },
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "OUT",
-    "Johni Broome": "DOUBTFUL",
-    "Joel Embiid": "PROBABLE",
-    "Paul George": "PROBABLE",
+    "Johni Broome": "OUT",
+    "Joel Embiid": "AVAILABLE",
+    "Paul George": "AVAILABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Cleveland Cavaliers": {
@@ -26,12 +26,18 @@
     "Jalen Suggs": "PROBABLE",
     "Franz Wagner": "OUT"
   },
-  "Boston Celtics": {},
+  "Boston Celtics": {
+    "Jaylen Brown": "PROBABLE",
+    "Josh Minott": "OUT",
+    "Neemias Queta": "PROBABLE",
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
     "Josh Giddey": "AVAILABLE",
-    "Tre Jones": "OUT",
+    "Tre -Jones": "OUT",
     "Yuki Kawamura": "OUT",
     "Emanuel Miller": "OUT",
     "Lachlan Olbrich": "AVAILABLE",
@@ -42,7 +48,7 @@
     "Adou Thiero": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "DOUBTFUL",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
     "Daniel Gafford": "PROBABLE",
@@ -90,7 +96,18 @@
     "Antonio Reeves": "OUT",
     "KJ Simpson": "OUT"
   },
-  "Detroit Pistons": {},
+  "Sacramento Kings": {
+    "Keegan Murray": "OUT",
+    "Daeqwon Plowden": "OUT",
+    "Isaiah Stevens": "OUT"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "PROBABLE",
+    "Isaac Jones": "OUT",
+    "Caris LeVert": "DOUBTFUL",
+    "Wendell Moore Jr.": "OUT",
+    "Tolu Smith": "OUT"
+  },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "OUT",
@@ -102,6 +119,5 @@
     "Enrique Freeman": "OUT",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
-  },
-  "Sacramento Kings": {}
+  }
 }
