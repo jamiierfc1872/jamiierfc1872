@@ -34,12 +34,12 @@
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
-    "Josh Giddey": "PROBABLE",
-    "Tre Jones": "DOUBTFUL",
+    "Josh Giddey": "AVAILABLE",
+    "Tre -Jones": "OUT",
     "Yuki Kawamura": "OUT",
     "Emanuel Miller": "OUT",
-    "Lachlan Olbrich": "PROBABLE",
-    "Patrick Williams": "PROBABLE"
+    "Lachlan Olbrich": "AVAILABLE",
+    "Patrick Williams": "AVAILABLE"
   },
   "Los Angeles Lakers": {
     "Austin Reaves": "OUT",
@@ -72,7 +72,7 @@
     "Kevin Love": "OUT",
     "Lauri Markkanen": "QUESTIONABLE",
     "Georges Niang": "OUT",
-    "Jusuf Nurkic": "DOUBTFUL",
+    "Jusuf Nurkic": "QUESTIONABLE",
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT"
   },
