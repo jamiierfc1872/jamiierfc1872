@@ -14,18 +14,6 @@
     "Paul George": "AVAILABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "LJ Cryer": "OUT",
-    "Seth Curry": "OUT",
-    "Jonathan Kuminga": "OUT",
-    "Malevy Leons": "OUT"
-  },
-  "Minnesota Timberwolves": {
-    "Enrique Freeman": "OUT",
-    "Terrence Shannon Jr.": "OUT",
-    "Rocco Zikarsky": "OUT"
-  },
   "Cleveland Cavaliers": {
     "Darius Garland": "OUT",
     "Chris Livingston": "OUT",
@@ -107,5 +95,17 @@
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
     "KJ Simpson": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Jonathan Kuminga": "OUT",
+    "Malevy Leons": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Enrique Freeman": "OUT",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
   }
 }
