@@ -25,8 +25,6 @@
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
-  "Dallas Mavericks": {},
-  "Milwaukee Bucks": {},
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Jose Alvarado": "QUESTIONABLE",
@@ -92,5 +90,13 @@
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Franz Wagner": "OUT"
+  },
+  "Cleveland Cavaliers": {
+    "Darius Garland": "OUT",
+    "De'Andre Hunter": "QUESTIONABLE",
+    "Chris Livingston": "OUT",
+    "Sam Merrill": "QUESTIONABLE",
+    "Max Strus": "OUT",
+    "Luke Travers": "OUT"
   }
 }
