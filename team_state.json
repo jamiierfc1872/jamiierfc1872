@@ -87,6 +87,14 @@
     "Kawhi Leonard": "QUESTIONABLE",
     "Chris Paul": "OUT"
   },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "Bennedict Mathurin": "QUESTIONABLE",
+    "Taelon Peter": "OUT",
+    "Ethan Thompson": "PROBABLE",
+    "Obi Toppin": "OUT"
+  },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
     "RayJ Dennis": "DOUBTFUL",
@@ -123,6 +131,17 @@
     "Max Strus": "OUT",
     "Luke Travers": "OUT"
   },
+  "Los Angeles Lakers": {
+    "Jake LaRavia": "QUESTIONABLE",
+    "Austin Reaves": "OUT",
+    "Adou Thiero": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Aaron Holiday": "PROBABLE",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
   "Portland Trail Blazers": {
     "Deni Avdija": "QUESTIONABLE",
     "Scoot Henderson": "OUT",
@@ -137,19 +156,5 @@
     "Josh Minott": "QUESTIONABLE",
     "Neemias Queta": "QUESTIONABLE",
     "Jayson Tatum": "OUT"
-  },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Aaron Holiday": "PROBABLE",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
-  },
-  "Indiana Pacers": {
-    "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "QUESTIONABLE",
-    "Bennedict Mathurin": "QUESTIONABLE",
-    "Taelon Peter": "OUT",
-    "Ethan Thompson": "PROBABLE",
-    "Obi Toppin": "OUT"
   }
 }
