@@ -15,7 +15,7 @@
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "Seth Curry": "OUT",
-    "Stephen Curry": "QUESTIONABLE",
+    "Stephen Curry": "AVAILABLE",
     "Al Horford": "AVAILABLE",
     "Jonathan Kuminga": "OUT",
     "De'Anthony Melton": "AVAILABLE"
@@ -91,5 +91,17 @@
     "Colin Castleton": "OUT",
     "Franz Wagner": "OUT"
   },
-  "Cleveland Cavaliers": {}
+  "Cleveland Cavaliers": {
+    "Darius Garland": "OUT",
+    "De'Andre Hunter": "QUESTIONABLE",
+    "Chris Livingston": "OUT",
+    "Sam Merrill": "QUESTIONABLE",
+    "Max Strus": "OUT",
+    "Luke Travers": "OUT"
+  },
+  "Boston Celtics": {
+    "Josh Minott": "QUESTIONABLE",
+    "Neemias Queta": "QUESTIONABLE",
+    "Jayson Tatum": "OUT"
+  }
 }
