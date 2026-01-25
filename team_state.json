@@ -27,17 +27,17 @@
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
-    "Jose Alvarado": "QUESTIONABLE",
+    "Jose Alvarado": "AVAILABLE",
     "Hunter Dickinson": "OUT",
-    "Trey Murphy III": "PROBABLE",
+    "Trey Murphy III": "AVAILABLE",
     "Dejounte Murray": "OUT"
   },
   "San Antonio Spurs": {
     "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
-    "Luke Kornet": "QUESTIONABLE",
-    "Jordan McLaughlin": "QUESTIONABLE",
-    "Stanley Umude": "OUT"
+    "Luke Kornet": "AVAILABLE",
+    "Jordan -McLaughlin": "AVAILABLE",
+    "Stanley -Umude": "OUT"
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
@@ -52,7 +52,7 @@
     "Ajay Mitchell": "OUT",
     "Thomas Sorber": "OUT",
     "Nikola Topic": "OUT",
-    "Aaron Wiggins": "QUESTIONABLE",
+    "Aaron Wiggins": "AVAILABLE",
     "Jalen Williams": "OUT"
   },
   "Miami Heat": {
@@ -61,8 +61,8 @@
     "Kasparas Jakucionis": "QUESTIONABLE",
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "DOUBTFUL",
-    "Norman Powell": "QUESTIONABLE",
+    "Davion Mitchell": "OUT",
+    "Norman Powell": "PROBABLE",
     "Terry Rozier": "OUT",
     "Kel'el Ware": "OUT",
     "Andrew Wiggins": "PROBABLE"
@@ -136,8 +136,17 @@
     "Austin Reaves": "OUT",
     "Adou Thiero": "OUT"
   },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Tre Jones": "DOUBTFUL",
+    "Yuki Kawamura": "OUT",
+    "Emanuel Miller": "OUT"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
+    "Isaiah Crawford": "OUT",
+    "JD Davison": "OUT",
     "Aaron Holiday": "PROBABLE",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
@@ -156,12 +165,5 @@
     "Josh Minott": "QUESTIONABLE",
     "Neemias Queta": "QUESTIONABLE",
     "Jayson Tatum": "OUT"
-  },
-  "Chicago Bulls": {
-    "Zach Collins": "OUT",
-    "Noa Essengue": "OUT",
-    "Tre Jones": "DOUBTFUL",
-    "Yuki Kawamura": "OUT",
-    "Emanuel Miller": "OUT"
   }
 }
