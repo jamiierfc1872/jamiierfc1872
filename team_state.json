@@ -41,10 +41,10 @@
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
-    "Collin Murray-Boyles": "QUESTIONABLE",
+    "Collin Murray-Boyles": "OUT",
     "Jakob Poeltl": "OUT",
     "Immanuel Quickley": "QUESTIONABLE",
-    "Ja'Kobe Walter": "QUESTIONABLE"
+    "Ja'Kobe Walter": "AVAILABLE"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
@@ -156,5 +156,12 @@
     "Josh Minott": "QUESTIONABLE",
     "Neemias Queta": "QUESTIONABLE",
     "Jayson Tatum": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Tre Jones": "DOUBTFUL",
+    "Yuki Kawamura": "OUT",
+    "Emanuel Miller": "OUT"
   }
 }
