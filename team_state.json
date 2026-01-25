@@ -43,7 +43,7 @@
     "Chucky Hepburn": "OUT",
     "Collin Murray-Boyles": "OUT",
     "Jakob Poeltl": "OUT",
-    "Immanuel Quickley": "QUESTIONABLE",
+    "Immanuel Quickley": "AVAILABLE",
     "Ja'Kobe Walter": "AVAILABLE"
   },
   "Oklahoma City Thunder": {
@@ -58,7 +58,7 @@
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
     "Tyler Herro": "OUT",
-    "Kasparas Jakucionis": "QUESTIONABLE",
+    "Kasparas Jakucionis": "AVAILABLE",
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
     "Davion Mitchell": "OUT",
@@ -70,7 +70,7 @@
   "Phoenix Suns": {
     "Devin Booker": "OUT",
     "Jordan Goodwin": "AVAILABLE",
-    "Jalen Green": "QUESTIONABLE"
+    "Jalen Green": "OUT"
   },
   "Brooklyn Nets": {
     "Noah Clowney": "OUT",
@@ -85,7 +85,8 @@
     "Bogdan Bogdanovic": "OUT",
     "Derrick Jones Jr.": "OUT",
     "Kawhi Leonard": "QUESTIONABLE",
-    "Chris Paul": "OUT"
+    "Chris Paul": "OUT",
+    "TyTy Washington Jr.": "QUESTIONABLE"
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
