@@ -87,6 +87,30 @@
     "Kawhi Leonard": "QUESTIONABLE",
     "Chris Paul": "OUT"
   },
+  "Atlanta Hawks": {
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "DOUBTFUL",
+    "Nikola Djurisic": "DOUBTFUL",
+    "Caleb Houstan": "DOUBTFUL",
+    "Asa Newell": "DOUBTFUL",
+    "Kristaps Porzingis": "OUT",
+    "Zaccharie Risacher": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "DOUBTFUL",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Charlotte Hornets": {
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Mason Plumlee": "OUT",
+    "Antonio Reeves": "OUT",
+    "Collin Sexton": "PROBABLE",
+    "KJ Simpson": "OUT"
+  },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Franz Wagner": "OUT"
@@ -99,9 +123,33 @@
     "Max Strus": "OUT",
     "Luke Travers": "OUT"
   },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "QUESTIONABLE",
+    "Scoot Henderson": "OUT",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Duop Reath": "OUT",
+    "Matisse Thybulle": "OUT",
+    "Blake Wesley": "OUT",
+    "Robert Williams III": "QUESTIONABLE"
+  },
   "Boston Celtics": {
     "Josh Minott": "QUESTIONABLE",
     "Neemias Queta": "QUESTIONABLE",
     "Jayson Tatum": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Aaron Holiday": "PROBABLE",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "Bennedict Mathurin": "QUESTIONABLE",
+    "Taelon Peter": "OUT",
+    "Ethan Thompson": "PROBABLE",
+    "Obi Toppin": "OUT"
   }
 }
