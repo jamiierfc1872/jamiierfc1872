@@ -105,6 +105,14 @@
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
+  "Washington Wizards": {
+    "Marvin Bagley III": "OUT",
+    "Bilal Coulibaly": "QUESTIONABLE",
+    "Khris Middleton": "QUESTIONABLE",
+    "Tristan Vukcevic": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
   "Sacramento Kings": {
     "Zach LaVine": "QUESTIONABLE",
     "Malik Monk": "QUESTIONABLE",
@@ -117,10 +125,26 @@
     "Dillon Jones": "QUESTIONABLE",
     "Kevin McCullar Jr.": "QUESTIONABLE"
   },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Taurean Prince": "OUT"
+  },
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
     "Caris LeVert": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
+  },
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Christian Braun": "OUT",
+    "Aaron Gordon": "OUT",
+    "Cameron Johnson": "OUT",
+    "Nikola Jokic": "OUT",
+    "Jamal Murray": "PROBABLE",
+    "Jonas Valanciunas": "PROBABLE",
+    "Peyton Watson": "PROBABLE"
   }
 }
