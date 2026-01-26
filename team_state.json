@@ -38,7 +38,7 @@
   },
   "Cleveland Cavaliers": {
     "Darius Garland": "OUT",
-    "De'Andre Hunter": "OUT",
+    "De'Andre Hunter": "QUESTIONABLE",
     "Chris Livingston": "OUT",
     "Sam Merrill": "OUT",
     "Max Strus": "OUT",
@@ -74,28 +74,27 @@
     "Fred VanVleet": "OUT"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "OUT",
+    "Deni Avdija": "QUESTIONABLE",
     "Scoot Henderson": "OUT",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
     "Duop Reath": "OUT",
     "Matisse Thybulle": "OUT",
     "Blake Wesley": "OUT",
-    "Robert Williams III": "AVAILABLE"
+    "Robert Williams III": "QUESTIONABLE"
   },
   "Boston Celtics": {
-    "Chris Boucher": "OUT",
-    "Luka Garza": "OUT",
-    "Josh Minott": "AVAILABLE",
-    "Neemias Queta": "AVAILABLE",
+    "Luka Garza": "QUESTIONABLE",
+    "Josh Minott": "QUESTIONABLE",
+    "Neemias Queta": "QUESTIONABLE",
     "Jayson Tatum": "OUT"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "QUESTIONABLE",
     "Seth Curry": "OUT",
-    "Stephen Curry": "OUT",
-    "Draymond Green": "OUT",
+    "Stephen Curry": "QUESTIONABLE",
+    "Draymond Green": "QUESTIONABLE",
     "Al Horford": "OUT",
     "Jonathan Kuminga": "OUT",
     "De'Anthony Melton": "OUT"
@@ -132,20 +131,8 @@
     "Kevin Porter Jr.": "OUT",
     "Taurean Prince": "OUT"
   },
-  "New Orleans Pelicans": {
-    "Trey Alexander": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Dejounte Murray": "OUT"
-  },
-  "Oklahoma City Thunder": {
-    "Alex Caruso": "OUT",
-    "Isaiah Hartenstein": "OUT",
-    "Ajay Mitchell": "OUT",
-    "Thomas Sorber": "OUT",
-    "Nikola Topic": "OUT",
-    "Cason Wallace": "QUESTIONABLE",
-    "Jalen Williams": "OUT"
-  },
+  "New Orleans Pelicans": {},
+  "Oklahoma City Thunder": {},
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
     "Caris LeVert": "OUT",
