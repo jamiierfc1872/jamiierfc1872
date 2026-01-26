@@ -94,8 +94,8 @@
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "QUESTIONABLE",
     "Seth Curry": "OUT",
-    "Stephen Curry": "QUESTIONABLE",
-    "Draymond Green": "QUESTIONABLE",
+    "Stephen Curry": "OUT",
+    "Draymond Green": "OUT",
     "Al Horford": "OUT",
     "Jonathan Kuminga": "OUT",
     "De'Anthony Melton": "OUT"
@@ -131,6 +131,20 @@
     "Giannis Antetokounmpo": "OUT",
     "Kevin Porter Jr.": "OUT",
     "Taurean Prince": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Dejounte Murray": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Alex Caruso": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Cason Wallace": "QUESTIONABLE",
+    "Jalen Williams": "OUT"
   },
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
