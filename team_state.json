@@ -79,5 +79,30 @@
     "Josh Minott": "QUESTIONABLE",
     "Neemias Queta": "QUESTIONABLE",
     "Jayson Tatum": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "QUESTIONABLE",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "QUESTIONABLE",
+    "Draymond Green": "QUESTIONABLE",
+    "Al Horford": "OUT",
+    "Jonathan Kuminga": "OUT",
+    "De'Anthony Melton": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "QUESTIONABLE",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Ty Jerome": "OUT",
+    "Jock Landale": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Enrique Freeman": "OUT",
+    "Leonard Miller": "QUESTIONABLE",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
   }
 }
