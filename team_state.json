@@ -38,7 +38,7 @@
   },
   "Cleveland Cavaliers": {
     "Darius Garland": "OUT",
-    "De'Andre Hunter": "QUESTIONABLE",
+    "De'Andre Hunter": "OUT",
     "Chris Livingston": "OUT",
     "Sam Merrill": "OUT",
     "Max Strus": "OUT",
@@ -57,11 +57,12 @@
     "Emanuel Miller": "OUT"
   },
   "Memphis Grizzlies": {
-    "Santi Aldama": "QUESTIONABLE",
+    "Santi Aldama": "AVAILABLE",
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
     "Ty Jerome": "OUT",
     "Jock Landale": "OUT",
+    "Jahmai Mashack": "OUT",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT"
   },
@@ -69,22 +70,22 @@
     "Steven Adams": "OUT",
     "Isaiah Crawford": "OUT",
     "JD Davison": "OUT",
-    "Aaron Holiday": "PROBABLE",
+    "Aaron Holiday": "AVAILABLE",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
+    "Deni Avdija": "OUT",
     "Scoot Henderson": "OUT",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
     "Duop Reath": "OUT",
     "Matisse Thybulle": "OUT",
     "Blake Wesley": "OUT",
-    "Robert Williams III": "QUESTIONABLE"
+    "Robert Williams III": "AVAILABLE"
   },
   "Boston Celtics": {
-    "Chris Boucher": "QUESTIONABLE",
+    "Chris Boucher": "OUT",
     "Luka Garza": "OUT",
     "Josh Minott": "AVAILABLE",
     "Neemias Queta": "AVAILABLE",
@@ -92,17 +93,18 @@
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
-    "LJ Cryer": "QUESTIONABLE",
+    "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
-    "Stephen Curry": "QUESTIONABLE",
-    "Draymond Green": "QUESTIONABLE",
+    "Stephen Curry": "OUT",
+    "Draymond Green": "OUT",
     "Al Horford": "OUT",
     "Jonathan Kuminga": "OUT",
     "De'Anthony Melton": "OUT"
   },
   "Minnesota Timberwolves": {
+    "Anthony Edwards": "OUT",
     "Enrique Freeman": "OUT",
-    "Leonard Miller": "QUESTIONABLE",
+    "Leonard Miller": "AVAILABLE",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
@@ -132,8 +134,34 @@
     "Kevin Porter Jr.": "OUT",
     "Taurean Prince": "OUT"
   },
-  "New Orleans Pelicans": {},
-  "Oklahoma City Thunder": {},
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Dejounte Murray": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Alex Caruso": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Cason Wallace": "QUESTIONABLE",
+    "Jalen Williams": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Noah Clowney": "OUT",
+    "Tyson Etienne": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Chaney Johnson": "OUT",
+    "Tyrese Martin": "QUESTIONABLE",
+    "Cam Thomas": "PROBABLE",
+    "Nolan Traore": "PROBABLE"
+  },
+  "Phoenix Suns": {
+    "Devin Booker": "OUT",
+    "Jordan Goodwin": "AVAILABLE",
+    "Jalen Green": "QUESTIONABLE"
+  },
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
     "Caris LeVert": "OUT",
@@ -149,5 +177,25 @@
     "Jamal Murray": "PROBABLE",
     "Jonas Valanciunas": "PROBABLE",
     "Peyton Watson": "PROBABLE"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Bogdan Bogdanovic": "OUT",
+    "Kris Dunn": "QUESTIONABLE",
+    "Derrick Jones Jr.": "OUT",
+    "Kawhi Leonard": "QUESTIONABLE",
+    "Chris Paul": "OUT",
+    "TyTy Washington Jr.": "OUT"
+  },
+  "Utah Jazz": {
+    "Keyonte George": "OUT",
+    "Elijah Harkless": "OUT",
+    "Walker Kessler": "OUT",
+    "Kevin Love": "PROBABLE",
+    "Lauri Markkanen": "QUESTIONABLE",
+    "Georges Niang": "OUT",
+    "Jusuf Nurkic": "DOUBTFUL",
+    "John Tonje": "OUT",
+    "Oscar Tshiebwe": "OUT"
   }
 }
