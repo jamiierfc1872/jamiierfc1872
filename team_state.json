@@ -128,6 +128,14 @@
     "Austin Reaves": "OUT",
     "Adou Thiero": "OUT"
   },
+  "Cleveland Cavaliers": {
+    "Darius Garland": "OUT",
+    "De'Andre Hunter": "PROBABLE",
+    "Sam Merrill": "PROBABLE",
+    "Evan Mobley": "OUT",
+    "Max Strus": "OUT",
+    "Luke Travers": "OUT"
+  },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
     "RayJ Dennis": "DOUBTFUL",
@@ -136,6 +144,11 @@
     "Asa Newell": "DOUBTFUL",
     "Kristaps Porzingis": "OUT",
     "Zaccharie Risacher": "OUT"
+  },
+  "Boston Celtics": {
+    "Luka Garza": "QUESTIONABLE",
+    "Neemias Queta": "DOUBTFUL",
+    "Jayson Tatum": "OUT"
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
@@ -169,18 +182,5 @@
     "Miles Kelly": "QUESTIONABLE",
     "Dereck Lively II": "OUT",
     "Ryan Nembhard": "PROBABLE"
-  },
-  "Boston Celtics": {
-    "Luka Garza": "QUESTIONABLE",
-    "Neemias Queta": "DOUBTFUL",
-    "Jayson Tatum": "OUT"
-  },
-  "Cleveland Cavaliers": {
-    "Darius Garland": "OUT",
-    "De'Andre Hunter": "PROBABLE",
-    "Sam Merrill": "PROBABLE",
-    "Evan Mobley": "OUT",
-    "Max Strus": "OUT",
-    "Luke Travers": "OUT"
   }
 }
