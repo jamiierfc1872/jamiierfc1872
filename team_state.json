@@ -117,9 +117,48 @@
     "Yuki Kawamura": "OUT",
     "Emanuel Miller": "OUT"
   },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Taelon Peter": "DOUBTFUL",
+    "Ethan Thompson": "PROBABLE",
+    "Obi Toppin": "OUT",
+    "Jarace Walker": "QUESTIONABLE"
+  },
+  "Los Angeles Lakers": {
+    "Austin Reaves": "OUT",
+    "Adou Thiero": "OUT"
+  },
+  "Atlanta Hawks": {
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "DOUBTFUL",
+    "Nikola Djurisic": "DOUBTFUL",
+    "Caleb Houstan": "DOUBTFUL",
+    "Asa Newell": "DOUBTFUL",
+    "Kristaps Porzingis": "OUT",
+    "Zaccharie Risacher": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "A.J. Lawson": "OUT",
+    "Alijah Martin": "OUT",
+    "Collin Murray-Boyles": "QUESTIONABLE",
+    "Jakob Poeltl": "OUT"
+  },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Franz Wagner": "OUT"
+  },
+  "Miami Heat": {
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "OUT",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "QUESTIONABLE",
+    "Norman Powell": "QUESTIONABLE",
+    "Terry Rozier": "OUT",
+    "Kel'el Ware": "QUESTIONABLE",
+    "Andrew Wiggins": "AVAILABLE",
+    "Jahmir Young": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "QUESTIONABLE",
@@ -130,5 +169,18 @@
     "Miles Kelly": "QUESTIONABLE",
     "Dereck Lively II": "OUT",
     "Ryan Nembhard": "PROBABLE"
+  },
+  "Boston Celtics": {
+    "Luka Garza": "QUESTIONABLE",
+    "Neemias Queta": "DOUBTFUL",
+    "Jayson Tatum": "OUT"
+  },
+  "Cleveland Cavaliers": {
+    "Darius Garland": "OUT",
+    "De'Andre Hunter": "PROBABLE",
+    "Sam Merrill": "PROBABLE",
+    "Evan Mobley": "OUT",
+    "Max Strus": "OUT",
+    "Luke Travers": "OUT"
   }
 }
