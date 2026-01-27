@@ -18,8 +18,8 @@
     "Trae Young": "OUT"
   },
   "Sacramento Kings": {
-    "Zach LaVine": "QUESTIONABLE",
-    "Malik Monk": "QUESTIONABLE",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "OUT",
     "Keegan Murray": "OUT",
     "Daeqwon Plowden": "OUT",
     "Isaiah Stevens": "OUT"
@@ -34,6 +34,15 @@
     "Giannis Antetokounmpo": "OUT",
     "Kevin Porter Jr.": "OUT",
     "Taurean Prince": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Charles Bassey": "DOUBTFUL",
+    "MarJon Beauchamp": "QUESTIONABLE",
+    "Johni Broome": "QUESTIONABLE",
+    "Joel Embiid": "QUESTIONABLE",
+    "Paul George": "PROBABLE",
+    "Quentin Grimes": "QUESTIONABLE",
+    "Kelly Oubre Jr.": "AVAILABLE"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
@@ -54,8 +63,8 @@
     "Tyson Etienne": "OUT",
     "Haywood Highsmith": "OUT",
     "Chaney Johnson": "OUT",
-    "Tyrese Martin": "QUESTIONABLE",
-    "Cam Thomas": "PROBABLE",
+    "Tyrese Martin": "OUT",
+    "Cam Thomas": "AVAILABLE",
     "Nolan Traore": "PROBABLE"
   },
   "Phoenix Suns": {
