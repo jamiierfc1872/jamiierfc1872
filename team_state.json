@@ -1,18 +1,18 @@
 {
   "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
+    "Deni Avdija": "AVAILABLE",
     "Scoot Henderson": "OUT",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
     "Duop Reath": "OUT",
     "Matisse Thybulle": "OUT",
     "Blake Wesley": "OUT",
-    "Robert Williams III": "QUESTIONABLE"
+    "Robert Williams III": "OUT"
   },
   "Washington Wizards": {
     "Marvin Bagley III": "OUT",
     "Bilal Coulibaly": "AVAILABLE",
-    "Khris Middleton": "QUESTIONABLE",
+    "Khris Middleton": "AVAILABLE",
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
@@ -172,6 +172,13 @@
     "Kel'el Ware": "QUESTIONABLE",
     "Andrew Wiggins": "AVAILABLE",
     "Jahmir Young": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "QUESTIONABLE",
+    "Enrique Freeman": "OUT",
+    "Leonard Miller": "QUESTIONABLE",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "QUESTIONABLE",
