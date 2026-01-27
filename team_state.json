@@ -69,8 +69,10 @@
   },
   "Phoenix Suns": {
     "Devin Booker": "OUT",
+    "Collin Gillespie": "QUESTIONABLE",
     "Jordan Goodwin": "AVAILABLE",
-    "Jalen Green": "QUESTIONABLE"
+    "Jalen Green": "OUT",
+    "Isaiah Livers": "PROBABLE"
   },
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
@@ -107,5 +109,15 @@
     "Jusuf Nurkic": "OUT",
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Dante Exum": "OUT",
+    "Cooper Flagg": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "QUESTIONABLE",
+    "Dereck Lively II": "OUT",
+    "Ryan Nembhard": "PROBABLE"
   }
 }
