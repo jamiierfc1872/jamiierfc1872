@@ -11,8 +11,8 @@
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
-    "Taelon Peter": "DOUBTFUL",
-    "Ethan Thompson": "PROBABLE",
+    "Taelon Peter": "OUT",
+    "Ethan Thompson": "AVAILABLE",
     "Obi Toppin": "OUT",
     "Jarace Walker": "AVAILABLE"
   },
@@ -168,6 +168,16 @@
     "Paul George": "PROBABLE",
     "Quentin Grimes": "QUESTIONABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Brooklyn Nets": {
+    "Noah Clowney": "OUT",
+    "Egor Demin": "OUT",
+    "Tyson Etienne": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Chaney Johnson": "OUT",
+    "Terance Mann": "QUESTIONABLE",
+    "Cam Thomas": "OUT",
+    "Ziaire Williams": "OUT"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
