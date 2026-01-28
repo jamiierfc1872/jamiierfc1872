@@ -30,16 +30,16 @@
   },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
-    "RayJ Dennis": "DOUBTFUL",
-    "Nikola Djurisic": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
-    "Asa Newell": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Nikola Djurisic": "OUT",
+    "Caleb Houstan": "OUT",
+    "Asa Newell": "OUT",
     "Kristaps Porzingis": "OUT",
     "Zaccharie Risacher": "OUT"
   },
   "Boston Celtics": {
-    "Luka Garza": "QUESTIONABLE",
-    "Neemias Queta": "DOUBTFUL",
+    "Luka Garza": "AVAILABLE",
+    "Neemias Queta": "OUT",
     "Jayson Tatum": "OUT"
   },
   "Toronto Raptors": {
@@ -90,14 +90,15 @@
     "Rocco Zikarsky": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "DOUBTFUL",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
     "Cooper Flagg": "QUESTIONABLE",
     "Kyrie Irving": "OUT",
     "Miles Kelly": "QUESTIONABLE",
     "Dereck Lively II": "OUT",
-    "Ryan Nembhard": "PROBABLE"
+    "Ryan Nembhard": "PROBABLE",
+    "Klay Thompson": "QUESTIONABLE"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
@@ -118,5 +119,14 @@
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "New York Knicks": {
+    "Pacome Dadiet": "OUT",
+    "Josh Hart": "QUESTIONABLE",
+    "Trey Jemison III": "OUT",
+    "Dillon Jones": "OUT",
+    "Miles McBride": "OUT",
+    "Kevin McCullar Jr.": "OUT",
+    "Mitchell Robinson": "OUT"
   }
 }
