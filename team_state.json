@@ -1,122 +1,13 @@
 {
-  "Portland Trail Blazers": {
-    "Deni Avdija": "AVAILABLE",
-    "Scoot Henderson": "OUT",
-    "Damian Lillard": "OUT",
-    "Kris Murray": "OUT",
-    "Duop Reath": "OUT",
-    "Matisse Thybulle": "OUT",
-    "Blake Wesley": "OUT",
-    "Robert Williams III": "OUT"
-  },
-  "Washington Wizards": {
-    "Marvin Bagley III": "OUT",
-    "Bilal Coulibaly": "AVAILABLE",
-    "Khris Middleton": "AVAILABLE",
-    "Tristan Vukcevic": "OUT",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
-  },
-  "Sacramento Kings": {
-    "Zach LaVine": "OUT",
-    "Malik Monk": "OUT",
-    "Keegan Murray": "OUT",
-    "Daeqwon Plowden": "OUT",
-    "Isaiah Stevens": "OUT"
-  },
-  "New York Knicks": {
-    "Trey Jemison III": "OUT",
-    "Dillon Jones": "OUT",
-    "Kevin McCullar Jr.": "OUT"
-  },
-  "Milwaukee Bucks": {
-    "Alex Antetokounmpo": "OUT",
-    "Giannis Antetokounmpo": "OUT",
-    "Kevin Porter Jr.": "OUT",
-    "Taurean Prince": "OUT"
-  },
-  "Philadelphia 76ers": {
-    "Charles Bassey": "OUT",
-    "MarJon Beauchamp": "OUT",
-    "Johni Broome": "AVAILABLE",
-    "Joel -Embiid": "AVAILABLE",
-    "Paul George": "AVAILABLE",
-    "Quentin Grimes": "OUT",
-    "Kelly Oubre Jr.": "AVAILABLE"
-  },
-  "New Orleans Pelicans": {
-    "Trey Alexander": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Dejounte Murray": "OUT"
-  },
-  "Oklahoma City Thunder": {
-    "Alex Caruso": "OUT",
-    "Isaiah Hartenstein": "OUT",
-    "Ajay Mitchell": "OUT",
-    "Thomas Sorber": "OUT",
-    "Nikola Topic": "OUT",
-    "Cason Wallace": "OUT",
-    "Jalen Williams": "OUT"
-  },
-  "Brooklyn Nets": {
-    "Noah Clowney": "OUT",
-    "Tyson Etienne": "OUT",
-    "Haywood Highsmith": "OUT",
-    "Chaney Johnson": "OUT",
-    "Tyrese Martin": "OUT",
-    "Cam Thomas": "AVAILABLE",
-    "Nolan Traore": "AVAILABLE"
-  },
-  "Phoenix Suns": {
-    "Devin Booker": "OUT",
-    "Koby Brea": "OUT",
-    "Collin Gillespie": "OUT",
-    "Jordan Goodwin": "AVAILABLE",
-    "Jalen Green": "OUT",
-    "Isaiah Livers": "OUT"
-  },
-  "Detroit Pistons": {
-    "Isaac Jones": "OUT",
-    "Caris LeVert": "OUT",
-    "Wendell Moore Jr.": "OUT",
-    "Tolu Smith": "OUT"
-  },
-  "Denver Nuggets": {
-    "Tamar Bates": "OUT",
-    "Christian Braun": "OUT",
-    "Aaron Gordon": "OUT",
-    "Cameron Johnson": "OUT",
-    "Nikola Jokic": "OUT",
-    "Jamal Murray": "AVAILABLE",
-    "Jonas Valanciunas": "AVAILABLE",
-    "Peyton Watson": "AVAILABLE"
-  },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "Bogdan Bogdanovic": "OUT",
-    "Kris Dunn": "AVAILABLE",
-    "Derrick Jones Jr.": "OUT",
-    "Kawhi Leonard": "AVAILABLE",
-    "Chris Paul": "OUT",
-    "TyTy Washington Jr.": "OUT"
-  },
-  "Utah Jazz": {
-    "Keyonte George": "OUT",
-    "Elijah Harkless": "OUT",
-    "Walker Kessler": "OUT",
-    "Kevin Love": "AVAILABLE",
-    "Lauri Markkanen": "AVAILABLE",
-    "Georges Niang": "OUT",
-    "Jusuf Nurkic": "OUT",
-    "John Tonje": "OUT",
-    "Oscar Tshiebwe": "OUT"
-  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
     "Tre Jones": "OUT",
     "Yuki Kawamura": "OUT",
-    "Emanuel Miller": "OUT"
+    "Emanuel Miller": "OUT",
+    "Josh Giddey": "OUT",
+    "Kevin Huerter": "OUT",
+    "Jalen Smith": "OUT"
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
@@ -164,15 +55,19 @@
   },
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
-    "Tyler Herro": "OUT",
+    "Tyler Herro": "AVAILABLE",
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
     "Davion Mitchell": "QUESTIONABLE",
-    "Norman Powell": "QUESTIONABLE",
+    "Norman Powell": "AVAILABLE",
     "Terry Rozier": "OUT",
     "Kel'el Ware": "QUESTIONABLE",
     "Andrew Wiggins": "AVAILABLE",
-    "Jahmir Young": "OUT"
+    "Jahmir Young": "OUT",
+    "Bam Adebayo": "AVAILABLE",
+    "Keshad Johnson": "AVAILABLE",
+    "Nikola Jovic": "AVAILABLE",
+    "Dru Smith": "AVAILABLE"
   },
   "Charlotte Hornets": {
     "PJ Hall": "OUT",
