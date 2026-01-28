@@ -14,7 +14,7 @@
     "Taelon Peter": "DOUBTFUL",
     "Ethan Thompson": "PROBABLE",
     "Obi Toppin": "OUT",
-    "Jarace Walker": "QUESTIONABLE"
+    "Jarace Walker": "AVAILABLE"
   },
   "Los Angeles Lakers": {
     "Austin Reaves": "OUT",
@@ -42,6 +42,16 @@
     "Neemias Queta": "OUT",
     "Jayson Tatum": "OUT"
   },
+  "New York Knicks": {
+    "Jalen Brunson": "QUESTIONABLE",
+    "Pacome Dadiet": "OUT",
+    "Josh Hart": "QUESTIONABLE",
+    "Trey Jemison III": "OUT",
+    "Dillon Jones": "OUT",
+    "Miles McBride": "OUT",
+    "Kevin McCullar Jr.": "OUT",
+    "Mitchell Robinson": "OUT"
+  },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "A.J. Lawson": "OUT",
@@ -58,10 +68,10 @@
     "Tyler Herro": "AVAILABLE",
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "DOUBTFUL",
+    "Davion Mitchell": "OUT",
     "Norman Powell": "AVAILABLE",
     "Terry Rozier": "OUT",
-    "Kel'el Ware": "QUESTIONABLE",
+    "Kel'el Ware": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE",
     "Jahmir Young": "OUT",
     "Bam Adebayo": "AVAILABLE",
@@ -109,26 +119,6 @@
     "Jonathan Kuminga": "OUT",
     "Gary Payton II": "PROBABLE"
   },
-  "San Antonio Spurs": {
-    "Harrison Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Jeremy Sochan": "QUESTIONABLE",
-    "Stanley Umude": "OUT"
-  },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
-  },
-  "New York Knicks": {
-    "Pacome Dadiet": "OUT",
-    "Josh Hart": "QUESTIONABLE",
-    "Trey Jemison III": "OUT",
-    "Dillon Jones": "OUT",
-    "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "OUT",
-    "Mitchell Robinson": "OUT"
-  },
   "Utah Jazz": {
     "Elijah Harkless": "OUT",
     "Walker Kessler": "OUT",
@@ -139,12 +129,16 @@
     "Oscar Tshiebwe": "OUT",
     "Cody Williams": "QUESTIONABLE"
   },
-  "Sacramento Kings": {
-    "Malik Monk": "QUESTIONABLE",
-    "Keegan Murray": "OUT",
-    "Daeqwon Plowden": "OUT",
-    "Isaiah Stevens": "OUT",
-    "Russell Westbrook": "QUESTIONABLE"
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Jeremy Sochan": "QUESTIONABLE",
+    "Stanley Umude": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
@@ -158,6 +152,13 @@
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "Sacramento Kings": {
+    "Malik Monk": "QUESTIONABLE",
+    "Keegan Murray": "OUT",
+    "Daeqwon Plowden": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "QUESTIONABLE"
   },
   "Philadelphia 76ers": {
     "Charles Bassey": "DOUBTFUL",
