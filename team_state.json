@@ -56,7 +56,7 @@
     "Chucky Hepburn": "OUT",
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
-    "Collin Murray-Boyles": "QUESTIONABLE",
+    "Collin Murray-Boyles": "AVAILABLE",
     "Jakob Poeltl": "OUT"
   },
   "Orlando Magic": {
@@ -127,7 +127,7 @@
     "Jusuf Nurkic": "QUESTIONABLE",
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT",
-    "Cody Williams": "QUESTIONABLE"
+    "Cody Williams": "OUT"
   },
   "San Antonio Spurs": {
     "Harrison Ingram": "OUT",
@@ -168,5 +168,13 @@
     "Paul George": "PROBABLE",
     "Quentin Grimes": "QUESTIONABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Oklahoma City Thunder": {
+    "Alex Caruso": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Cason Wallace": "QUESTIONABLE",
+    "Jalen Williams": "OUT"
   }
 }
