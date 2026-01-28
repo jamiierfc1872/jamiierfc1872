@@ -37,11 +37,11 @@
   },
   "Philadelphia 76ers": {
     "Charles Bassey": "OUT",
-    "MarJon Beauchamp": "QUESTIONABLE",
-    "Johni Broome": "QUESTIONABLE",
-    "Joel Embiid": "QUESTIONABLE",
-    "Paul George": "PROBABLE",
-    "Quentin Grimes": "QUESTIONABLE",
+    "MarJon Beauchamp": "OUT",
+    "Johni Broome": "AVAILABLE",
+    "Joel -Embiid": "AVAILABLE",
+    "Paul George": "AVAILABLE",
+    "Quentin Grimes": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "New Orleans Pelicans": {
@@ -65,14 +65,15 @@
     "Chaney Johnson": "OUT",
     "Tyrese Martin": "OUT",
     "Cam Thomas": "AVAILABLE",
-    "Nolan Traore": "PROBABLE"
+    "Nolan Traore": "AVAILABLE"
   },
   "Phoenix Suns": {
     "Devin Booker": "OUT",
-    "Collin Gillespie": "QUESTIONABLE",
+    "Koby Brea": "OUT",
+    "Collin Gillespie": "OUT",
     "Jordan Goodwin": "AVAILABLE",
     "Jalen Green": "OUT",
-    "Isaiah Livers": "PROBABLE"
+    "Isaiah Livers": "OUT"
   },
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
@@ -86,9 +87,9 @@
     "Aaron Gordon": "OUT",
     "Cameron Johnson": "OUT",
     "Nikola Jokic": "OUT",
-    "Jamal Murray": "PROBABLE",
-    "Jonas Valanciunas": "PROBABLE",
-    "Peyton Watson": "PROBABLE"
+    "Jamal Murray": "AVAILABLE",
+    "Jonas Valanciunas": "AVAILABLE",
+    "Peyton Watson": "AVAILABLE"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
@@ -202,6 +203,15 @@
     "Miles Kelly": "QUESTIONABLE",
     "Dereck Lively II": "OUT",
     "Ryan Nembhard": "PROBABLE"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "QUESTIONABLE",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "PROBABLE",
+    "Draymond Green": "PROBABLE",
+    "Jonathan Kuminga": "OUT",
+    "Gary Payton II": "PROBABLE"
   },
   "San Antonio Spurs": {
     "Harrison Ingram": "OUT",
