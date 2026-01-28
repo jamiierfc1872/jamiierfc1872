@@ -22,8 +22,8 @@
   },
   "Cleveland Cavaliers": {
     "Darius Garland": "OUT",
-    "De'Andre Hunter": "PROBABLE",
-    "Sam Merrill": "PROBABLE",
+    "De'Andre Hunter": "AVAILABLE",
+    "Sam Merrill": "AVAILABLE",
     "Evan Mobley": "OUT",
     "Max Strus": "OUT",
     "Luke Travers": "OUT"
@@ -178,6 +178,16 @@
     "Terance Mann": "QUESTIONABLE",
     "Cam Thomas": "OUT",
     "Ziaire Williams": "OUT"
+  },
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Christian Braun": "OUT",
+    "Aaron Gordon": "OUT",
+    "Cameron Johnson": "OUT",
+    "Nikola Jokic": "OUT",
+    "Curtis Jones": "OUT",
+    "Jamal Murray": "PROBABLE",
+    "Jonas Valanciunas": "PROBABLE"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
