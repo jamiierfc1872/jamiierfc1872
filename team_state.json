@@ -1,148 +1,4 @@
 {
-  "Chicago Bulls": {
-    "Zach Collins": "OUT",
-    "Noa Essengue": "OUT",
-    "Tre Jones": "OUT",
-    "Yuki Kawamura": "OUT",
-    "Emanuel Miller": "OUT",
-    "Josh Giddey": "OUT",
-    "Kevin Huerter": "OUT",
-    "Jalen Smith": "OUT"
-  },
-  "Indiana Pacers": {
-    "Tyrese Haliburton": "OUT",
-    "Taelon Peter": "OUT",
-    "Ethan Thompson": "AVAILABLE",
-    "Obi Toppin": "OUT",
-    "Jarace Walker": "AVAILABLE"
-  },
-  "Los Angeles Lakers": {
-    "Austin Reaves": "OUT",
-    "Adou Thiero": "OUT"
-  },
-  "Cleveland Cavaliers": {
-    "Darius Garland": "OUT",
-    "De'Andre Hunter": "AVAILABLE",
-    "Sam Merrill": "AVAILABLE",
-    "Evan Mobley": "OUT",
-    "Max Strus": "OUT",
-    "Luke Travers": "OUT"
-  },
-  "Atlanta Hawks": {
-    "N'Faly Dante": "OUT",
-    "RayJ Dennis": "OUT",
-    "Nikola Djurisic": "OUT",
-    "Caleb Houstan": "OUT",
-    "Asa Newell": "OUT",
-    "Kristaps Porzingis": "OUT",
-    "Zaccharie Risacher": "OUT"
-  },
-  "Boston Celtics": {
-    "Luka Garza": "AVAILABLE",
-    "Neemias Queta": "OUT",
-    "Jayson Tatum": "OUT"
-  },
-  "New York Knicks": {
-    "Jalen Brunson": "AVAILABLE",
-    "Pacome Dadiet": "OUT",
-    "Josh Hart": "AVAILABLE",
-    "Trey Jemison III": "OUT",
-    "Dillon Jones": "OUT",
-    "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "OUT",
-    "Mitchell Robinson": "OUT"
-  },
-  "Toronto Raptors": {
-    "Chucky Hepburn": "OUT",
-    "A.J. Lawson": "OUT",
-    "Alijah Martin": "OUT",
-    "Collin Murray-Boyles": "AVAILABLE",
-    "Jakob Poeltl": "OUT"
-  },
-  "Orlando Magic": {
-    "Colin Castleton": "OUT",
-    "Franz Wagner": "OUT"
-  },
-  "Miami Heat": {
-    "Vladislav Goldin": "OUT",
-    "Tyler Herro": "AVAILABLE",
-    "Jaime Jaquez Jr.": "AVAILABLE",
-    "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "OUT",
-    "Norman Powell": "AVAILABLE",
-    "Terry Rozier": "OUT",
-    "Kel'el Ware": "AVAILABLE",
-    "Andrew Wiggins": "AVAILABLE",
-    "Jahmir Young": "OUT",
-    "Bam Adebayo": "AVAILABLE",
-    "Keshad Johnson": "AVAILABLE",
-    "Nikola Jovic": "AVAILABLE",
-    "Dru Smith": "AVAILABLE"
-  },
-  "Charlotte Hornets": {
-    "PJ Hall": "OUT",
-    "Mason Plumlee": "OUT",
-    "Antonio Reeves": "OUT",
-    "KJ Simpson": "OUT"
-  },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Brandon Clarke": "OUT",
-    "Zach Edey": "OUT",
-    "Ty Jerome": "OUT",
-    "Jahmai Mashack": "OUT",
-    "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT",
-    "Javon Small": "OUT"
-  },
-  "Minnesota Timberwolves": {
-    "Anthony Edwards": "AVAILABLE",
-    "Enrique Freeman": "OUT",
-    "Leonard Miller": "AVAILABLE",
-    "Terrence Shannon Jr.": "OUT",
-    "Rocco Zikarsky": "OUT"
-  },
-  "Dallas Mavericks": {
-    "Moussa Cisse": "OUT",
-    "Anthony Davis": "OUT",
-    "Dante Exum": "OUT",
-    "Cooper Flagg": "OUT",
-    "Kyrie Irving": "OUT",
-    "Miles Kelly": "AVAILABLE",
-    "Dereck Lively II": "OUT",
-    "Ryan Nembhard": "AVAILABLE",
-    "Klay Thompson": "OUT"
-  },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "LJ Cryer": "OUT",
-    "Seth Curry": "OUT",
-    "Stephen Curry": "AVAILABLE",
-    "Draymond Green": "AVAILABLE",
-    "Jonathan Kuminga": "OUT",
-    "Gary Payton II": "AVAILABLE"
-  },
-  "Utah Jazz": {
-    "Elijah Harkless": "OUT",
-    "Walker Kessler": "OUT",
-    "Kevin Love": "OUT",
-    "Georges Niang": "OUT",
-    "Jusuf Nurkic": "AVAILABLE",
-    "John Tonje": "OUT",
-    "Oscar Tshiebwe": "OUT",
-    "Cody Williams": "OUT"
-  },
-  "San Antonio Spurs": {
-    "Harrison Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Jeremy Sochan": "OUT",
-    "Stanley Umude": "OUT"
-  },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
-  },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
@@ -171,6 +27,27 @@
     "Paul George": "PROBABLE",
     "Quentin Grimes": "QUESTIONABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Miami Heat": {
+    "Bam Adebayo": "AVAILABLE",
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "AVAILABLE",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Keshad Johnson": "AVAILABLE",
+    "Nikola Jovic": "AVAILABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Norman Powell": "AVAILABLE",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "AVAILABLE",
+    "Jahmir Young": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "OUT",
+    "Kevin Huerter": "OUT",
+    "Yuki Kawamura": "OUT",
+    "Jalen Smith": "OUT"
   },
   "Brooklyn Nets": {
     "Noah Clowney": "OUT",
