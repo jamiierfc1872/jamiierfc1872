@@ -57,7 +57,14 @@
     "Emanuel Miller": "QUESTIONABLE",
     "Jalen Smith": "PROBABLE"
   },
-  "Charlotte Hornets": {},
+  "Charlotte Hornets": {
+    "PJ Hall": "OUT",
+    "Brandon Miller": "PROBABLE",
+    "Mason Plumlee": "OUT",
+    "Antonio Reeves": "OUT",
+    "KJ Simpson": "OUT",
+    "Grant Williams": "OUT"
+  },
   "Dallas Mavericks": {
     "Moussa Cisse": "QUESTIONABLE",
     "Anthony Davis": "OUT",
@@ -76,7 +83,7 @@
     "Tyson Etienne": "OUT",
     "Haywood Highsmith": "OUT",
     "Chaney Johnson": "OUT",
-    "Terance Mann": "QUESTIONABLE",
+    "Terance Mann": "AVAILABLE",
     "Cam Thomas": "OUT",
     "Ziaire Williams": "OUT"
   },
@@ -92,7 +99,7 @@
   },
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
-    "Caris LeVert": "QUESTIONABLE",
+    "Caris LeVert": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
   },
@@ -110,5 +117,22 @@
     "Cason Wallace": "QUESTIONABLE",
     "Jalen Williams": "OUT"
   },
-  "Minnesota Timberwolves": {}
+  "Minnesota Timberwolves": {
+    "Mike Conley": "OUT",
+    "Enrique Freeman": "OUT",
+    "Rudy Gobert": "QUESTIONABLE",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
+  "Miami Heat": {
+    "Tyler Herro": "OUT",
+    "Kasparas Jakucionis": "AVAILABLE",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "OUT",
+    "Norman Powell": "PROBABLE",
+    "Terry Rozier": "OUT",
+    "Kel'el Ware": "PROBABLE",
+    "Andrew Wiggins": "AVAILABLE"
+  }
 }
