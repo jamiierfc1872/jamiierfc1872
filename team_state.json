@@ -57,6 +57,14 @@
     "Emanuel Miller": "QUESTIONABLE",
     "Jalen Smith": "PROBABLE"
   },
+  "Charlotte Hornets": {
+    "PJ Hall": "OUT",
+    "Brandon Miller": "PROBABLE",
+    "Mason Plumlee": "OUT",
+    "Antonio Reeves": "OUT",
+    "KJ Simpson": "OUT",
+    "Grant Williams": "OUT"
+  },
   "Dallas Mavericks": {
     "Moussa Cisse": "QUESTIONABLE",
     "Anthony Davis": "OUT",
@@ -75,7 +83,7 @@
     "Tyson Etienne": "OUT",
     "Haywood Highsmith": "OUT",
     "Chaney Johnson": "OUT",
-    "Terance Mann": "QUESTIONABLE",
+    "Terance Mann": "AVAILABLE",
     "Cam Thomas": "OUT",
     "Ziaire Williams": "OUT"
   },
@@ -108,5 +116,12 @@
     "Nikola Topic": "OUT",
     "Cason Wallace": "QUESTIONABLE",
     "Jalen Williams": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Mike Conley": "OUT",
+    "Enrique Freeman": "OUT",
+    "Rudy Gobert": "QUESTIONABLE",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
   }
 }
