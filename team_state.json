@@ -2,14 +2,15 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
-    "Cole Anthony": "QUESTIONABLE",
+    "Cole Anthony": "AVAILABLE",
     "Gary Harris": "OUT",
     "Kevin Porter Jr.": "OUT",
     "Taurean Prince": "OUT"
   },
   "Washington Wizards": {
     "Marvin Bagley III": "OUT",
-    "Alex Sarr": "QUESTIONABLE",
+    "Sharife Cooper": "OUT",
+    "Alex Sarr": "AVAILABLE",
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
@@ -186,5 +187,13 @@
     "Evan Mobley": "OUT",
     "Max Strus": "OUT",
     "Luke Travers": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Ty Jerome": "DOUBTFUL",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT"
   }
 }
