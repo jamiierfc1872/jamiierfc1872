@@ -48,6 +48,17 @@
     "Kristaps Porzingis": "OUT",
     "Zaccharie Risacher": "OUT"
   },
+  "Miami Heat": {
+    "Tyler Herro": "OUT",
+    "Kasparas Jakucionis": "AVAILABLE",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "OUT",
+    "Norman Powell": "PROBABLE",
+    "Terry Rozier": "OUT",
+    "Kel'el Ware": "PROBABLE",
+    "Andrew Wiggins": "AVAILABLE"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -123,16 +134,5 @@
     "Rudy Gobert": "QUESTIONABLE",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
-  },
-  "Miami Heat": {
-    "Tyler Herro": "OUT",
-    "Kasparas Jakucionis": "AVAILABLE",
-    "Jaime Jaquez Jr.": "AVAILABLE",
-    "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "OUT",
-    "Norman Powell": "PROBABLE",
-    "Terry Rozier": "OUT",
-    "Kel'el Ware": "PROBABLE",
-    "Andrew Wiggins": "AVAILABLE"
   }
 }
