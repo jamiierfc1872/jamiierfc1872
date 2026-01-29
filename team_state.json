@@ -43,9 +43,9 @@
     "Jayson Tatum": "OUT"
   },
   "New York Knicks": {
-    "Jalen Brunson": "QUESTIONABLE",
+    "Jalen Brunson": "AVAILABLE",
     "Pacome Dadiet": "OUT",
-    "Josh Hart": "QUESTIONABLE",
+    "Josh Hart": "AVAILABLE",
     "Trey Jemison III": "OUT",
     "Dillon Jones": "OUT",
     "Miles McBride": "OUT",
@@ -86,11 +86,14 @@
     "KJ Simpson": "OUT"
   },
   "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
     "Ty Jerome": "OUT",
+    "Jahmai Mashack": "OUT",
     "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT"
+    "Scotty Pippen Jr.": "OUT",
+    "Javon Small": "OUT"
   },
   "Minnesota Timberwolves": {
     "Anthony Edwards": "AVAILABLE",
@@ -100,31 +103,31 @@
     "Rocco Zikarsky": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "DOUBTFUL",
+    "Moussa Cisse": "OUT",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
-    "Cooper Flagg": "QUESTIONABLE",
+    "Cooper Flagg": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "QUESTIONABLE",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
-    "Ryan Nembhard": "PROBABLE",
-    "Klay Thompson": "QUESTIONABLE"
+    "Ryan Nembhard": "AVAILABLE",
+    "Klay Thompson": "OUT"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
-    "LJ Cryer": "QUESTIONABLE",
+    "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
-    "Stephen Curry": "PROBABLE",
+    "Stephen Curry": "AVAILABLE",
     "Draymond Green": "AVAILABLE",
     "Jonathan Kuminga": "OUT",
-    "Gary Payton II": "PROBABLE"
+    "Gary Payton II": "AVAILABLE"
   },
   "Utah Jazz": {
     "Elijah Harkless": "OUT",
     "Walker Kessler": "OUT",
     "Kevin Love": "OUT",
     "Georges Niang": "OUT",
-    "Jusuf Nurkic": "QUESTIONABLE",
+    "Jusuf Nurkic": "AVAILABLE",
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT",
     "Cody Williams": "OUT"
@@ -132,7 +135,7 @@
   "San Antonio Spurs": {
     "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
-    "Jeremy Sochan": "QUESTIONABLE",
+    "Jeremy Sochan": "OUT",
     "Stanley Umude": "OUT"
   },
   "Houston Rockets": {
@@ -188,6 +191,18 @@
     "Curtis Jones": "OUT",
     "Jamal Murray": "PROBABLE",
     "Jonas Valanciunas": "PROBABLE"
+  },
+  "Detroit Pistons": {
+    "Isaac Jones": "OUT",
+    "Caris LeVert": "QUESTIONABLE",
+    "Wendell Moore Jr.": "OUT",
+    "Tolu Smith": "OUT"
+  },
+  "Phoenix Suns": {
+    "Devin Booker": "OUT",
+    "Collin Gillespie": "QUESTIONABLE",
+    "Jordan Goodwin": "AVAILABLE",
+    "Jalen Green": "QUESTIONABLE"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
