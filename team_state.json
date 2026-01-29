@@ -2,6 +2,8 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
+    "Cole Anthony": "QUESTIONABLE",
+    "Gary Harris": "OUT",
     "Kevin Porter Jr.": "OUT",
     "Taurean Prince": "OUT"
   },
@@ -28,27 +30,8 @@
     "Quentin Grimes": "QUESTIONABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
-  "Miami Heat": {
-    "Bam Adebayo": "AVAILABLE",
-    "Vladislav Goldin": "OUT",
-    "Tyler Herro": "AVAILABLE",
-    "Jaime Jaquez Jr.": "AVAILABLE",
-    "Keshad Johnson": "AVAILABLE",
-    "Nikola Jovic": "AVAILABLE",
-    "Pelle Larsson": "AVAILABLE",
-    "Norman Powell": "AVAILABLE",
-    "Terry Rozier": "OUT",
-    "Dru Smith": "AVAILABLE",
-    "Jahmir Young": "OUT"
-  },
-  "Chicago Bulls": {
-    "Zach Collins": "OUT",
-    "Noa Essengue": "OUT",
-    "Josh Giddey": "OUT",
-    "Kevin Huerter": "OUT",
-    "Yuki Kawamura": "OUT",
-    "Jalen Smith": "OUT"
-  },
+  "Miami Heat": {},
+  "Chicago Bulls": {},
   "Brooklyn Nets": {
     "Noah Clowney": "OUT",
     "Egor Demin": "OUT",
