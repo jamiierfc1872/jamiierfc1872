@@ -27,8 +27,8 @@
     "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
     "Joel Embiid": "PROBABLE",
-    "Paul George": "PROBABLE",
-    "Quentin Grimes": "QUESTIONABLE",
+    "Paul George": "AVAILABLE",
+    "Quentin Grimes": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Houston Rockets": {
@@ -63,11 +63,11 @@
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
-    "Josh Giddey": "QUESTIONABLE",
+    "Josh Giddey": "OUT",
     "Tre Jones": "OUT",
-    "Yuki Kawamura": "QUESTIONABLE",
-    "Emanuel Miller": "QUESTIONABLE",
-    "Jalen Smith": "PROBABLE"
+    "Yuki Kawamura": "AVAILABLE",
+    "Emanuel Miller": "OUT",
+    "Jalen Smith": "AVAILABLE"
   },
   "Charlotte Hornets": {
     "PJ Hall": "OUT",
@@ -141,6 +141,14 @@
     "Austin Reaves": "QUESTIONABLE",
     "Adou Thiero": "OUT"
   },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Ty Jerome": "DOUBTFUL",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT"
+  },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
@@ -187,13 +195,5 @@
     "Evan Mobley": "OUT",
     "Max Strus": "OUT",
     "Luke Travers": "OUT"
-  },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Brandon Clarke": "OUT",
-    "Zach Edey": "OUT",
-    "Ty Jerome": "DOUBTFUL",
-    "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT"
   }
 }
