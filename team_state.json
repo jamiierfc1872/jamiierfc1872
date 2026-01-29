@@ -30,6 +30,14 @@
     "Quentin Grimes": "QUESTIONABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tari Eason": "OUT",
+    "Dorian Finney-Smith": "OUT",
+    "Tristen Newton": "OUT",
+    "Alperen Sengun": "QUESTIONABLE",
+    "Fred VanVleet": "OUT"
+  },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
     "RayJ Dennis": "DOUBTFUL",
@@ -39,6 +47,27 @@
     "Onyeka Okongwu": "OUT",
     "Kristaps Porzingis": "OUT",
     "Zaccharie Risacher": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "QUESTIONABLE",
+    "Tre Jones": "OUT",
+    "Yuki Kawamura": "QUESTIONABLE",
+    "Emanuel Miller": "QUESTIONABLE",
+    "Jalen Smith": "PROBABLE"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Dante Exum": "OUT",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "QUESTIONABLE",
+    "Dereck Lively II": "OUT",
+    "Naji Marshall": "OUT",
+    "Ryan Nembhard": "PROBABLE",
+    "Klay Thompson": "PROBABLE",
+    "Brandon Williams": "QUESTIONABLE"
   },
   "Brooklyn Nets": {
     "Noah Clowney": "OUT",
