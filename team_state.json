@@ -1,34 +1,4 @@
 {
-  "Milwaukee Bucks": {
-    "Alex Antetokounmpo": "OUT",
-    "Giannis Antetokounmpo": "OUT",
-    "Cole Anthony": "AVAILABLE",
-    "Gary Harris": "OUT",
-    "Kevin Porter Jr.": "OUT",
-    "Taurean Prince": "OUT"
-  },
-  "Washington Wizards": {},
-  "Sacramento Kings": {},
-  "Philadelphia 76ers": {},
-  "Houston Rockets": {},
-  "Atlanta Hawks": {},
-  "Miami Heat": {},
-  "Chicago Bulls": {},
-  "Charlotte Hornets": {},
-  "Dallas Mavericks": {},
-  "Brooklyn Nets": {},
-  "Denver Nuggets": {},
-  "Detroit Pistons": {},
-  "Phoenix Suns": {},
-  "Oklahoma City Thunder": {
-    "Alex Caruso": "OUT",
-    "Ajay Mitchell": "OUT",
-    "Thomas Sorber": "OUT",
-    "Nikola Topic": "OUT",
-    "Cason Wallace": "AVAILABLE",
-    "Jalen Williams": "OUT"
-  },
-  "Minnesota Timberwolves": {},
   "Los Angeles Lakers": {
     "Luka Doncic": "QUESTIONABLE",
     "Austin Reaves": "QUESTIONABLE",
