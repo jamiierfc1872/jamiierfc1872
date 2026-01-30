@@ -36,7 +36,7 @@
     "Tari Eason": "OUT",
     "Dorian Finney-Smith": "OUT",
     "Tristen Newton": "OUT",
-    "Alperen Sengun": "QUESTIONABLE",
+    "Alperen Sengun": "AVAILABLE",
     "Fred VanVleet": "OUT"
   },
   "Atlanta Hawks": {
@@ -71,23 +71,23 @@
   },
   "Charlotte Hornets": {
     "PJ Hall": "OUT",
-    "Brandon Miller": "PROBABLE",
+    "Brandon Miller": "AVAILABLE",
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
     "KJ Simpson": "OUT",
     "Grant Williams": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "QUESTIONABLE",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
     "Naji Marshall": "OUT",
-    "Ryan Nembhard": "PROBABLE",
-    "Klay Thompson": "PROBABLE",
-    "Brandon Williams": "QUESTIONABLE"
+    "Ryan Nembhard": "AVAILABLE",
+    "Klay Thompson": "AVAILABLE",
+    "Brandon Williams": "AVAILABLE"
   },
   "Brooklyn Nets": {
     "Noah Clowney": "OUT",
@@ -106,8 +106,8 @@
     "Cameron Johnson": "OUT",
     "Nikola Jokic": "OUT",
     "Curtis Jones": "OUT",
-    "Jamal Murray": "PROBABLE",
-    "Jonas Valanciunas": "PROBABLE"
+    "Jamal Murray": "AVAILABLE",
+    "Jonas Valanciunas": "AVAILABLE"
   },
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
@@ -117,7 +117,8 @@
   },
   "Phoenix Suns": {
     "Devin Booker": "OUT",
-    "Collin Gillespie": "QUESTIONABLE",
+    "Koby Brea": "OUT",
+    "Collin Gillespie": "AVAILABLE",
     "Jordan Goodwin": "AVAILABLE",
     "Jalen Green": "OUT"
   },
@@ -126,13 +127,13 @@
     "Ajay Mitchell": "OUT",
     "Thomas Sorber": "OUT",
     "Nikola Topic": "OUT",
-    "Cason Wallace": "QUESTIONABLE",
+    "Cason Wallace": "AVAILABLE",
     "Jalen Williams": "OUT"
   },
   "Minnesota Timberwolves": {
     "Mike Conley": "OUT",
     "Enrique Freeman": "OUT",
-    "Rudy Gobert": "QUESTIONABLE",
+    "Rudy Gobert": "AVAILABLE",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
@@ -195,5 +196,31 @@
     "Evan Mobley": "OUT",
     "Max Strus": "OUT",
     "Luke Travers": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Bogdan Bogdanovic": "OUT",
+    "Derrick Jones Jr.": "OUT",
+    "Kawhi Leonard": "QUESTIONABLE",
+    "Chris Paul": "OUT",
+    "TyTy Washington Jr.": "OUT"
+  },
+  "Utah Jazz": {
+    "Elijah Harkless": "OUT",
+    "Walker Kessler": "OUT",
+    "Kevin Love": "QUESTIONABLE",
+    "Lauri Markkanen": "OUT",
+    "Georges Niang": "OUT",
+    "Jusuf Nurkic": "QUESTIONABLE",
+    "John Tonje": "OUT",
+    "Oscar Tshiebwe": "OUT",
+    "Cody Williams": "QUESTIONABLE"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Jonathan Kuminga": "OUT",
+    "Gui Santos": "PROBABLE"
   }
 }
