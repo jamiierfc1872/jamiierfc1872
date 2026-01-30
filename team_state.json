@@ -1,7 +1,7 @@
 {
   "Los Angeles Lakers": {
-    "Luka Doncic": "QUESTIONABLE",
-    "Austin Reaves": "QUESTIONABLE",
+    "Luka Doncic": "AVAILABLE",
+    "Austin Reaves": "OUT",
     "Adou Thiero": "OUT"
   },
   "Washington Wizards": {
@@ -173,19 +173,10 @@
     "Kel'el Ware": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE"
   },
-  "San Antonio Spurs": {
-    "Harrison Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Jeremy Sochan": "OUT",
-    "Stanley Umude": "OUT"
-  },
-  "Charlotte Hornets": {
-    "Josh Green": "PROBABLE",
-    "PJ Hall": "OUT",
-    "Liam McNeeley": "OUT",
-    "Mason Plumlee": "OUT",
-    "Antonio Reeves": "OUT",
-    "KJ Simpson": "OUT"
+  "Minnesota Timberwolves": {
+    "Enrique Freeman": "OUT",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "PROBABLE",
@@ -200,5 +191,19 @@
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Jeremy Sochan": "OUT",
+    "Stanley Umude": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Josh Green": "PROBABLE",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Mason Plumlee": "OUT",
+    "Antonio Reeves": "OUT",
+    "KJ Simpson": "OUT"
   }
 }
