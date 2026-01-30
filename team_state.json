@@ -114,6 +114,13 @@
     "Oscar Tshiebwe": "OUT",
     "Cody Williams": "QUESTIONABLE"
   },
+  "Detroit Pistons": {
+    "Cade Cunningham": "PROBABLE",
+    "Isaac Jones": "OUT",
+    "Caris LeVert": "DOUBTFUL",
+    "Wendell Moore Jr.": "OUT",
+    "Tolu Smith": "OUT"
+  },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "OUT",
@@ -130,5 +137,17 @@
     "Jalen Smith": "QUESTIONABLE",
     "Nikola Vucevic": "DOUBTFUL",
     "Coby White": "QUESTIONABLE"
+  },
+  "Miami Heat": {
+    "Tyler Herro": "OUT",
+    "Kasparas Jakucionis": "AVAILABLE",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "DOUBTFUL",
+    "Norman Powell": "OUT",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "AVAILABLE",
+    "Kel'el Ware": "AVAILABLE",
+    "Andrew Wiggins": "AVAILABLE"
   }
 }
