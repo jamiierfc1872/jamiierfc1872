@@ -38,10 +38,10 @@
   "New York Knicks": {
     "Pacome Dadiet": "OUT",
     "Josh Hart": "PROBABLE",
-    "Trey Jemison III": "QUESTIONABLE",
-    "Dillon Jones": "QUESTIONABLE",
+    "Trey Jemison III": "OUT",
+    "Dillon Jones": "AVAILABLE",
     "Miles McBride": "DOUBTFUL",
-    "Kevin McCullar Jr.": "QUESTIONABLE"
+    "Kevin McCullar Jr.": "OUT"
   },
   "Sacramento Kings": {
     "Keegan Murray": "OUT",
@@ -128,17 +128,28 @@
     "Jonathan Kuminga": "OUT",
     "Gui Santos": "PROBABLE"
   },
-  "San Antonio Spurs": {
-    "Harrison Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Jeremy Sochan": "OUT",
-    "Stanley Umude": "OUT"
+  "Atlanta Hawks": {
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "DOUBTFUL",
+    "Nikola Djurisic": "DOUBTFUL",
+    "Caleb Houstan": "DOUBTFUL",
+    "Jalen Johnson": "QUESTIONABLE",
+    "Onyeka Okongwu": "OUT",
+    "Kristaps Porzingis": "OUT",
+    "Zaccharie Risacher": "QUESTIONABLE"
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
     "Taelon Peter": "DOUBTFUL",
     "Ethan Thompson": "DOUBTFUL",
     "Obi Toppin": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Charles Bassey": "DOUBTFUL",
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "DOUBTFUL",
+    "Quentin Grimes": "PROBABLE",
+    "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
@@ -161,5 +172,28 @@
     "Dru Smith": "AVAILABLE",
     "Kel'el Ware": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Jeremy Sochan": "OUT",
+    "Stanley Umude": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Josh Green": "PROBABLE",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Mason Plumlee": "OUT",
+    "Antonio Reeves": "OUT",
+    "KJ Simpson": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "PROBABLE",
+    "Anthony Davis": "OUT",
+    "Dante Exum": "OUT",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "DOUBTFUL",
+    "Dereck Lively II": "OUT",
+    "Ryan Nembhard": "PROBABLE"
   }
 }
