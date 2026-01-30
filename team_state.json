@@ -74,6 +74,9 @@
     "Max Strus": "OUT",
     "Luke Travers": "OUT"
   },
+  "Phoenix Suns": {
+    "Devin Booker": "OUT"
+  },
   "LA Clippers": {
     "Bradley Beal": "OUT",
     "Bogdan Bogdanovic": "OUT",
@@ -117,5 +120,15 @@
     "Seth Curry": "OUT",
     "Jonathan Kuminga": "OUT",
     "Gui Santos": "PROBABLE"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "QUESTIONABLE",
+    "Tre Jones": "OUT",
+    "Emanuel Miller": "QUESTIONABLE",
+    "Jalen Smith": "QUESTIONABLE",
+    "Nikola Vucevic": "DOUBTFUL",
+    "Coby White": "QUESTIONABLE"
   }
 }
