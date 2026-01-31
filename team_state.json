@@ -39,7 +39,7 @@
     "Kasparas Jakucionis": "AVAILABLE",
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "DOUBTFUL",
+    "Davion Mitchell": "OUT",
     "Norman Powell": "OUT",
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
@@ -78,5 +78,10 @@
     "Mason Plumlee": "OUT",
     "Antonio Reeves": "OUT",
     "KJ Simpson": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Dejounte Murray": "OUT"
   }
 }
