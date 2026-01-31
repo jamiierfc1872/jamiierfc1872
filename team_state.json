@@ -16,21 +16,23 @@
     "Obi Toppin": "OUT"
   },
   "Philadelphia 76ers": {
-    "Charles Bassey": "DOUBTFUL",
-    "MarJon Beauchamp": "DOUBTFUL",
-    "Johni Broome": "DOUBTFUL",
+    "Charles Bassey": "OUT",
+    "MarJon Beauchamp": "OUT",
+    "Johni Broome": "OUT",
+    "Andre Drummond": "QUESTIONABLE",
+    "Paul George": "OUT",
     "Quentin Grimes": "PROBABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
-    "Josh Giddey": "QUESTIONABLE",
+    "Josh Giddey": "OUT",
     "Tre Jones": "OUT",
-    "Emanuel Miller": "QUESTIONABLE",
-    "Jalen Smith": "QUESTIONABLE",
+    "Emanuel Miller": "PROBABLE",
+    "Jalen Smith": "OUT",
     "Nikola Vucevic": "DOUBTFUL",
-    "Coby White": "QUESTIONABLE"
+    "Coby White": "DOUBTFUL"
   },
   "Miami Heat": {
     "Tyler Herro": "OUT",
