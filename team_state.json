@@ -102,8 +102,25 @@
     "Kevin Porter Jr.": "OUT",
     "Taurean Prince": "OUT"
   },
+  "Boston Celtics": {
+    "Ron Harper Jr.": "OUT",
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT",
+    "Amari Williams": "QUESTIONABLE"
+  },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Franz Wagner": "OUT"
+  },
+  "Sacramento Kings": {
+    "Malik Monk": "QUESTIONABLE",
+    "Keegan Murray": "OUT",
+    "Russell Westbrook": "QUESTIONABLE"
+  },
+  "New York Knicks": {
+    "Pacome Dadiet": "QUESTIONABLE",
+    "Trey Jemison III": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Kevin McCullar Jr.": "QUESTIONABLE"
   }
 }
