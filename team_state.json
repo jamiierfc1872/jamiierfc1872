@@ -1,9 +1,9 @@
 {
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
-    "RayJ Dennis": "DOUBTFUL",
-    "Nikola Djurisic": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Nikola Djurisic": "OUT",
+    "Caleb Houstan": "OUT",
     "Jalen Johnson": "QUESTIONABLE",
     "Vit Krejci": "QUESTIONABLE",
     "Onyeka Okongwu": "OUT",
@@ -122,5 +122,21 @@
     "Trey Jemison III": "QUESTIONABLE",
     "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "QUESTIONABLE"
+  },
+  "Brooklyn Nets": {
+    "Noah Clowney": "OUT",
+    "Tyson Etienne": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Chaney Johnson": "OUT",
+    "Ziaire Williams": "OUT"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "PROBABLE",
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Chaz Lanier": "OUT",
+    "Caris LeVert": "QUESTIONABLE",
+    "Wendell Moore Jr.": "OUT",
+    "Tolu Smith": "OUT"
   }
 }
