@@ -17,8 +17,10 @@
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
     "Ty Jerome": "OUT",
+    "Jahmai Mashack": "OUT",
     "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT"
+    "Scotty Pippen Jr.": "OUT",
+    "Javon Small": "OUT"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
@@ -26,21 +28,21 @@
     "Dejounte Murray": "OUT"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
+    "Deni Avdija": "AVAILABLE",
     "Scoot Henderson": "OUT",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
     "Duop Reath": "OUT",
     "Matisse Thybulle": "OUT",
     "Blake Wesley": "OUT",
-    "Robert Williams III": "QUESTIONABLE"
+    "Robert Williams III": "AVAILABLE"
   },
   "New York Knicks": {
     "Pacome Dadiet": "OUT",
-    "Josh Hart": "PROBABLE",
+    "Josh Hart": "AVAILABLE",
     "Trey Jemison III": "OUT",
     "Dillon Jones": "AVAILABLE",
-    "Miles McBride": "DOUBTFUL",
+    "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "OUT"
   },
   "Sacramento Kings": {
@@ -70,7 +72,7 @@
     "Tristan Enaruna": "OUT",
     "Darius Garland": "OUT",
     "Evan Mobley": "OUT",
-    "Craig Porter Jr.": "QUESTIONABLE",
+    "Craig Porter Jr.": "OUT",
     "Max Strus": "OUT",
     "Luke Travers": "OUT"
   },
@@ -90,10 +92,10 @@
     "Christian Braun": "OUT",
     "Aaron Gordon": "OUT",
     "Cameron Johnson": "OUT",
-    "Nikola Jokic": "QUESTIONABLE",
+    "Nikola Jokic": "AVAILABLE",
     "Curtis Jones": "OUT",
-    "Jamal Murray": "PROBABLE",
-    "Jonas Valanciunas": "PROBABLE"
+    "Jamal Murray": "AVAILABLE",
+    "Jonas Valanciunas": "AVAILABLE"
   },
   "Brooklyn Nets": {
     "Noah Clowney": "OUT",
@@ -112,12 +114,12 @@
     "Jusuf Nurkic": "OUT",
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT",
-    "Cody Williams": "QUESTIONABLE"
+    "Cody Williams": "AVAILABLE"
   },
   "Detroit Pistons": {
     "Cade Cunningham": "PROBABLE",
     "Isaac Jones": "OUT",
-    "Caris LeVert": "DOUBTFUL",
+    "Caris LeVert": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
   },
@@ -126,7 +128,7 @@
     "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
     "Jonathan Kuminga": "OUT",
-    "Gui Santos": "PROBABLE"
+    "Gui Santos": "AVAILABLE"
   },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
