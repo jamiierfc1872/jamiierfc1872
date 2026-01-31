@@ -112,17 +112,6 @@
     "Colin Castleton": "OUT",
     "Franz Wagner": "OUT"
   },
-  "Sacramento Kings": {
-    "Malik Monk": "QUESTIONABLE",
-    "Keegan Murray": "OUT",
-    "Russell Westbrook": "QUESTIONABLE"
-  },
-  "New York Knicks": {
-    "Pacome Dadiet": "QUESTIONABLE",
-    "Trey Jemison III": "QUESTIONABLE",
-    "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "QUESTIONABLE"
-  },
   "Brooklyn Nets": {
     "Noah Clowney": "OUT",
     "Tyson Etienne": "OUT",
@@ -138,5 +127,42 @@
     "Caris LeVert": "QUESTIONABLE",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
+  },
+  "Sacramento Kings": {
+    "Malik Monk": "QUESTIONABLE",
+    "Keegan Murray": "OUT",
+    "Russell Westbrook": "QUESTIONABLE"
+  },
+  "Washington Wizards": {
+    "Tre Johnson": "OUT",
+    "Alex Sarr": "QUESTIONABLE",
+    "Tristan Vukcevic": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
+  "Utah Jazz": {
+    "Keyonte George": "QUESTIONABLE",
+    "Elijah Harkless": "OUT",
+    "Walker Kessler": "OUT",
+    "Kevin Love": "QUESTIONABLE",
+    "Georges Niang": "OUT",
+    "Jusuf Nurkic": "QUESTIONABLE",
+    "John Tonje": "OUT",
+    "Oscar Tshiebwe": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Jakob Poeltl": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Bronny James": "QUESTIONABLE",
+    "Austin Reaves": "QUESTIONABLE",
+    "Adou Thiero": "OUT"
+  },
+  "New York Knicks": {
+    "Pacome Dadiet": "QUESTIONABLE",
+    "Trey Jemison III": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Kevin McCullar Jr.": "QUESTIONABLE"
   }
 }
