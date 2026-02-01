@@ -25,7 +25,7 @@
     "Charles Bassey": "OUT",
     "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
-    "Andre Drummond": "QUESTIONABLE",
+    "Andre Drummond": "AVAILABLE",
     "Paul George": "OUT",
     "Quentin Grimes": "AVAILABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
@@ -61,20 +61,21 @@
     "Santi Aldama": "OUT",
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
-    "Jaren Jackson Jr.": "DOUBTFUL",
-    "Ty Jerome": "QUESTIONABLE",
-    "John Konchar": "DOUBTFUL",
+    "Jaren Jackson Jr.": "OUT",
+    "Ty Jerome": "AVAILABLE",
+    "John Konchar": "OUT",
+    "Jahmai Mashack": "OUT",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "PROBABLE",
+    "Moussa Cisse": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "DOUBTFUL",
+    "Miles Kelly": "OUT",
     "Dereck Lively II": "OUT",
-    "Ryan Nembhard": "PROBABLE"
+    "Ryan Nembhard": "AVAILABLE"
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
@@ -164,6 +165,42 @@
     "Trey Jemison III": "QUESTIONABLE",
     "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "QUESTIONABLE"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Derrick Jones Jr.": "OUT",
+    "Chris Paul": "OUT",
+    "TyTy Washington Jr.": "OUT"
+  },
+  "Phoenix Suns": {
+    "Devin Booker": "OUT",
+    "Jalen Green": "QUESTIONABLE"
+  },
+  "Cleveland Cavaliers": {
+    "Tristan Enaruna": "QUESTIONABLE",
+    "Darius Garland": "OUT",
+    "Evan Mobley": "OUT",
+    "Craig Porter Jr.": "QUESTIONABLE",
+    "Max Strus": "OUT",
+    "Luke Travers": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "QUESTIONABLE",
+    "Scoot Henderson": "OUT",
+    "Jrue Holiday": "OUT",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Duop Reath": "OUT",
+    "Matisse Thybulle": "OUT",
+    "Blake Wesley": "QUESTIONABLE",
+    "Robert Williams III": "QUESTIONABLE"
+  },
+  "Oklahoma City Thunder": {
+    "Alex Caruso": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Jalen Williams": "OUT"
   },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
