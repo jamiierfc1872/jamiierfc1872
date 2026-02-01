@@ -46,7 +46,7 @@
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Nikola Jovic": "OUT",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "PROBABLE",
+    "Davion Mitchell": "AVAILABLE",
     "Norman Powell": "OUT",
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
@@ -55,11 +55,12 @@
   "Sacramento Kings": {
     "Malik Monk": "QUESTIONABLE",
     "Keegan Murray": "OUT",
+    "Domantas Sabonis": "QUESTIONABLE",
     "Russell Westbrook": "OUT"
   },
   "Washington Wizards": {
     "Tre Johnson": "OUT",
-    "Alex Sarr": "QUESTIONABLE",
+    "Alex Sarr": "OUT",
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
