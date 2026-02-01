@@ -28,6 +28,16 @@
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
   },
+  "Chicago Bulls": {
+    "Jevon Carter": "OUT",
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "OUT",
+    "Kevin Huerter": "QUESTIONABLE",
+    "Tre Jones": "OUT",
+    "Emanuel Miller": "OUT",
+    "Jalen Smith": "OUT"
+  },
   "Sacramento Kings": {
     "Malik Monk": "QUESTIONABLE",
     "Keegan Murray": "OUT",
@@ -55,7 +65,7 @@
     "Jakob Poeltl": "OUT"
   },
   "Los Angeles Lakers": {
-    "Bronny James": "QUESTIONABLE",
+    "Bronny James": "OUT",
     "Austin Reaves": "QUESTIONABLE",
     "Adou Thiero": "OUT"
   },
@@ -113,15 +123,5 @@
     "Nikola Jokic": "PROBABLE",
     "Curtis Jones": "OUT",
     "Jamal Murray": "PROBABLE"
-  },
-  "Chicago Bulls": {
-    "Jevon Carter": "OUT",
-    "Zach Collins": "OUT",
-    "Noa Essengue": "OUT",
-    "Josh Giddey": "OUT",
-    "Kevin Huerter": "QUESTIONABLE",
-    "Tre Jones": "OUT",
-    "Emanuel Miller": "OUT",
-    "Jalen Smith": "OUT"
   }
 }
