@@ -38,6 +38,19 @@
     "Emanuel Miller": "OUT",
     "Jalen Smith": "OUT"
   },
+  "Miami Heat": {
+    "Myron Gardner": "AVAILABLE",
+    "Tyler Herro": "OUT",
+    "Kasparas Jakucionis": "AVAILABLE",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Nikola Jovic": "DOUBTFUL",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "PROBABLE",
+    "Norman Powell": "QUESTIONABLE",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "AVAILABLE",
+    "Andrew Wiggins": "AVAILABLE"
+  },
   "Sacramento Kings": {
     "Malik Monk": "QUESTIONABLE",
     "Keegan Murray": "OUT",
@@ -81,6 +94,7 @@
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
+    "James Harden": "OUT",
     "Derrick Jones Jr.": "OUT",
     "Chris Paul": "OUT",
     "TyTy Washington Jr.": "OUT"
