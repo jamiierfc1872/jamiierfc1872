@@ -109,10 +109,6 @@
     "Jayson Tatum": "OUT",
     "Amari Williams": "QUESTIONABLE"
   },
-  "Orlando Magic": {
-    "Colin Castleton": "OUT",
-    "Franz Wagner": "OUT"
-  },
   "Brooklyn Nets": {
     "Noah Clowney": "OUT",
     "Tyson Etienne": "OUT",
@@ -165,6 +161,10 @@
     "Trey Jemison III": "QUESTIONABLE",
     "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "QUESTIONABLE"
+  },
+  "Orlando Magic": {
+    "Colin Castleton": "OUT",
+    "Franz Wagner": "OUT"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
