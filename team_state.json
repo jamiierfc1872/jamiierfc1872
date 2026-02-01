@@ -83,7 +83,7 @@
   },
   "Los Angeles Lakers": {
     "Bronny James": "OUT",
-    "Austin Reaves": "QUESTIONABLE",
+    "Austin Reaves": "OUT",
     "Adou Thiero": "OUT"
   },
   "New York Knicks": {
@@ -177,5 +177,21 @@
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "OUT",
     "KJ Simpson": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "QUESTIONABLE",
+    "Enrique Freeman": "OUT",
+    "Julius Randle": "QUESTIONABLE",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Jaren Jackson Jr.": "QUESTIONABLE",
+    "John Konchar": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT"
   }
 }
