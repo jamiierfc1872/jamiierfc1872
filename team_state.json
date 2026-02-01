@@ -34,9 +34,8 @@
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
     "Josh Giddey": "OUT",
-    "Kevin Huerter": "QUESTIONABLE",
+    "Kevin Huerter": "OUT",
     "Tre Jones": "OUT",
-    "Emanuel Miller": "OUT",
     "Jalen Smith": "OUT"
   },
   "Miami Heat": {
@@ -53,9 +52,10 @@
     "Andrew Wiggins": "AVAILABLE"
   },
   "Sacramento Kings": {
-    "Malik Monk": "QUESTIONABLE",
-    "Keegan Murray": "OUT",
-    "Domantas Sabonis": "QUESTIONABLE",
+    "De'Andre Hunter": "OUT",
+    "Malik Monk": "AVAILABLE",
+    "Keegan -Murray": "OUT",
+    "Domantas Sabonis": "OUT",
     "Russell Westbrook": "OUT"
   },
   "Washington Wizards": {
@@ -151,9 +151,31 @@
     "Curtis Jones": "OUT",
     "Jamal Murray": "PROBABLE"
   },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Isaiah Crawford": "QUESTIONABLE",
+    "Kevin Durant": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Taelon Peter": "DOUBTFUL",
+    "Ethan Thompson": "DOUBTFUL",
+    "Obi Toppin": "OUT"
+  },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
     "Dejounte Murray": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Josh Green": "PROBABLE",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Mason Plumlee": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT",
+    "KJ Simpson": "OUT"
   }
 }
