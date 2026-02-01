@@ -17,6 +17,7 @@
     "Tyson Etienne": "OUT",
     "Haywood Highsmith": "OUT",
     "Chaney Johnson": "OUT",
+    "Michael Porter Jr.": "OUT",
     "Ziaire Williams": "OUT"
   },
   "Detroit Pistons": {
@@ -88,16 +89,6 @@
     "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "QUESTIONABLE"
   },
-  "Orlando Magic": {
-    "Colin Castleton": "OUT",
-    "Franz Wagner": "OUT"
-  },
-  "San Antonio Spurs": {
-    "Stephon Castle": "QUESTIONABLE",
-    "David Garcia": "OUT",
-    "Jeremy Sochan": "OUT",
-    "Victor Wembanyama": "QUESTIONABLE"
-  },
   "LA Clippers": {
     "Bradley Beal": "OUT",
     "James Harden": "OUT",
@@ -107,7 +98,7 @@
   },
   "Phoenix Suns": {
     "Devin Booker": "OUT",
-    "Jalen Green": "QUESTIONABLE"
+    "Jalen Green": "OUT"
   },
   "Cleveland Cavaliers": {
     "Tristan Enaruna": "QUESTIONABLE",
@@ -127,6 +118,16 @@
     "Matisse Thybulle": "OUT",
     "Blake Wesley": "QUESTIONABLE",
     "Robert Williams III": "QUESTIONABLE"
+  },
+  "Orlando Magic": {
+    "Colin Castleton": "OUT",
+    "Franz Wagner": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Stephon Castle": "QUESTIONABLE",
+    "David Garcia": "OUT",
+    "Jeremy Sochan": "OUT",
+    "Victor Wembanyama": "QUESTIONABLE"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
