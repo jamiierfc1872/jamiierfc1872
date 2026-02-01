@@ -44,10 +44,10 @@
     "Tyler Herro": "OUT",
     "Kasparas Jakucionis": "AVAILABLE",
     "Jaime Jaquez Jr.": "AVAILABLE",
-    "Nikola Jovic": "DOUBTFUL",
+    "Nikola Jovic": "OUT",
     "Pelle Larsson": "AVAILABLE",
     "Davion Mitchell": "PROBABLE",
-    "Norman Powell": "QUESTIONABLE",
+    "Norman Powell": "OUT",
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE"
@@ -68,14 +68,16 @@
     "Keyonte George": "OUT",
     "Elijah Harkless": "OUT",
     "Walker Kessler": "OUT",
-    "Kevin Love": "PROBABLE",
+    "Kevin Love": "AVAILABLE",
     "Georges Niang": "OUT",
-    "Jusuf Nurkic": "PROBABLE",
+    "Jusuf Nurkic": "AVAILABLE",
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT"
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
+    "A.J. Lawson": "OUT",
+    "Alijah Martin": "OUT",
     "Jakob Poeltl": "OUT"
   },
   "Los Angeles Lakers": {
