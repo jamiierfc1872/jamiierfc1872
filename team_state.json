@@ -101,10 +101,13 @@
     "Jalen Green": "OUT"
   },
   "Cleveland Cavaliers": {
+    "Keon Ellis": "OUT",
     "Tristan Enaruna": "QUESTIONABLE",
     "Darius Garland": "OUT",
+    "Emanuel Miller": "OUT",
     "Evan Mobley": "OUT",
     "Craig Porter Jr.": "QUESTIONABLE",
+    "Dennis Schroder": "OUT",
     "Max Strus": "OUT",
     "Luke Travers": "OUT"
   },
@@ -144,5 +147,10 @@
     "Nikola Jokic": "PROBABLE",
     "Curtis Jones": "OUT",
     "Jamal Murray": "PROBABLE"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Dejounte Murray": "OUT"
   }
 }
