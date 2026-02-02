@@ -101,39 +101,40 @@
   },
   "Phoenix Suns": {
     "Devin Booker": "OUT",
+    "Koby Brea": "OUT",
     "Jalen Green": "OUT"
   },
   "Cleveland Cavaliers": {
     "Keon Ellis": "OUT",
-    "Tristan Enaruna": "QUESTIONABLE",
+    "Tristan Enaruna": "AVAILABLE",
     "Darius Garland": "OUT",
     "Emanuel Miller": "OUT",
     "Evan Mobley": "OUT",
-    "Craig Porter Jr.": "QUESTIONABLE",
+    "Craig Porter Jr.": "AVAILABLE",
     "Dennis Schroder": "OUT",
     "Max Strus": "OUT",
     "Luke Travers": "OUT"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
+    "Deni Avdija": "OUT",
     "Scoot Henderson": "OUT",
     "Jrue Holiday": "OUT",
+    "Vit Krejci": "OUT",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
-    "Duop Reath": "OUT",
     "Matisse Thybulle": "OUT",
-    "Blake Wesley": "QUESTIONABLE",
-    "Robert Williams III": "QUESTIONABLE"
+    "Blake Wesley": "AVAILABLE",
+    "Robert Williams III": "AVAILABLE"
   },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Franz Wagner": "OUT"
   },
   "San Antonio Spurs": {
-    "Stephon Castle": "QUESTIONABLE",
+    "Stephon Castle": "OUT",
     "David Garcia": "OUT",
     "Jeremy Sochan": "OUT",
-    "Victor Wembanyama": "QUESTIONABLE"
+    "Victor Wembanyama": "AVAILABLE"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
@@ -144,25 +145,12 @@
   },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
-    "Christian Braun": "DOUBTFUL",
+    "Christian Braun": "OUT",
     "Aaron Gordon": "OUT",
     "Cameron Johnson": "OUT",
-    "Nikola Jokic": "PROBABLE",
+    "Nikola Jokic": "AVAILABLE",
     "Curtis Jones": "OUT",
-    "Jamal Murray": "PROBABLE"
-  },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Isaiah Crawford": "QUESTIONABLE",
-    "Kevin Durant": "OUT",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
-  },
-  "Indiana Pacers": {
-    "Tyrese Haliburton": "OUT",
-    "Taelon Peter": "DOUBTFUL",
-    "Ethan Thompson": "DOUBTFUL",
-    "Obi Toppin": "OUT"
+    "Jamal Murray": "AVAILABLE"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
@@ -177,6 +165,19 @@
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "OUT",
     "KJ Simpson": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Isaiah Crawford": "QUESTIONABLE",
+    "Kevin Durant": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Taelon Peter": "DOUBTFUL",
+    "Ethan Thompson": "DOUBTFUL",
+    "Obi Toppin": "OUT"
   },
   "Minnesota Timberwolves": {
     "Anthony Edwards": "QUESTIONABLE",
@@ -193,5 +194,13 @@
     "John Konchar": "OUT",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Charles Bassey": "DOUBTFUL",
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "DOUBTFUL",
+    "Joel Embiid": "PROBABLE",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
   }
 }
