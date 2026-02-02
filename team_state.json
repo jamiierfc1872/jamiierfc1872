@@ -22,14 +22,15 @@
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
-    "Taelon Peter": "DOUBTFUL",
-    "Ethan Thompson": "DOUBTFUL",
+    "Quenton Jackson": "OUT",
+    "Taelon Peter": "OUT",
+    "Ethan Thompson": "OUT",
     "Obi Toppin": "OUT"
   },
   "Minnesota Timberwolves": {
-    "Anthony Edwards": "QUESTIONABLE",
+    "Anthony Edwards": "AVAILABLE",
     "Enrique Freeman": "OUT",
-    "Julius Randle": "QUESTIONABLE",
+    "Julius Randle": "AVAILABLE",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
@@ -162,6 +163,17 @@
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Franz Wagner": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Alex Caruso": "DOUBTFUL",
+    "Shai Gilgeous-Alexander": "QUESTIONABLE",
+    "Isaiah Hartenstein": "QUESTIONABLE",
+    "Chet Holmgren": "QUESTIONABLE",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Jalen Williams": "OUT",
+    "Jaylin Williams": "QUESTIONABLE"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
