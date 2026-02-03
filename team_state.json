@@ -10,7 +10,7 @@
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
-    "Caris LeVert": "QUESTIONABLE",
+    "Caris LeVert": "AVAILABLE",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
   },
@@ -21,7 +21,7 @@
     "Mitchell Robinson": "OUT"
   },
   "Washington Wizards": {
-    "Anthony Gill": "QUESTIONABLE",
+    "Anthony Gill": "AVAILABLE",
     "Tre Johnson": "OUT",
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
@@ -38,54 +38,69 @@
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT"
   },
-  "Indiana Pacers": {},
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "PROBABLE",
+    "Bennedict Mathurin": "OUT",
+    "T.J. McConnell": "OUT",
+    "Andrew Nembhard": "OUT",
+    "Aaron Nesmith": "OUT",
+    "Taelon Peter": "PROBABLE",
+    "Micah Potter": "QUESTIONABLE",
+    "Pascal Siakam": "OUT",
+    "Ethan Thompson": "PROBABLE",
+    "Obi Toppin": "OUT"
+  },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
-    "RayJ Dennis": "DOUBTFUL",
-    "Nikola Djurisic": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Nikola Djurisic": "OUT",
+    "Caleb Houstan": "OUT",
     "Onyeka Okongwu": "OUT",
-    "Kristaps Porzingis": "QUESTIONABLE",
+    "Kristaps Porzingis": "AVAILABLE",
     "Duop Reath": "OUT"
   },
   "Miami Heat": {
     "Tyler Herro": "OUT",
     "Kasparas Jakucionis": "AVAILABLE",
     "Jaime Jaquez Jr.": "AVAILABLE",
-    "Nikola Jovic": "QUESTIONABLE",
+    "Nikola Jovic": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
     "Davion Mitchell": "AVAILABLE",
-    "Norman Powell": "QUESTIONABLE",
+    "Norman Powell": "DOUBTFUL",
     "Terry Rozier": "OUT",
-    "Dru Smith": "AVAILABLE"
+    "Dru Smith": "AVAILABLE",
+    "Andrew Wiggins": "QUESTIONABLE"
   },
   "Los Angeles Lakers": {
-    "Bronny James": "QUESTIONABLE",
+    "Bronny James": "AVAILABLE",
     "Austin Reaves": "QUESTIONABLE",
     "Adou Thiero": "OUT"
   },
   "Brooklyn Nets": {
-    "Noah Clowney": "PROBABLE",
+    "Noah Clowney": "AVAILABLE",
     "Tyson Etienne": "OUT",
     "Haywood Highsmith": "OUT",
     "Chaney Johnson": "OUT",
     "E.J. Liddell": "OUT",
-    "Ziaire Williams": "PROBABLE"
+    "Ziaire Williams": "AVAILABLE"
   },
   "Boston Celtics": {
+    "Chris Boucher": "OUT",
     "Jayson Tatum": "OUT",
     "Amari Williams": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "PROBABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
     "Kyrie Irving": "OUT",
     "Miles Kelly": "PROBABLE",
     "Dereck Lively II": "OUT",
     "Ryan Nembhard": "PROBABLE",
+    "D'Angelo Russell": "DOUBTFUL",
     "P.J. Washington": "OUT",
-    "Brandon Williams": "QUESTIONABLE"
+    "Brandon Williams": "DOUBTFUL"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
@@ -102,6 +117,7 @@
     "Giannis Antetokounmpo": "OUT",
     "Gary Harris": "OUT",
     "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "QUESTIONABLE",
     "Taurean Prince": "OUT"
   },
   "Orlando Magic": {
@@ -109,7 +125,7 @@
     "Franz Wagner": "OUT"
   },
   "Oklahoma City Thunder": {
-    "Alex Caruso": "DOUBTFUL",
+    "Alex Caruso": "QUESTIONABLE",
     "Shai Gilgeous-Alexander": "QUESTIONABLE",
     "Isaiah Hartenstein": "QUESTIONABLE",
     "Chet Holmgren": "QUESTIONABLE",
@@ -138,5 +154,11 @@
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
     "Matisse Thybulle": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "A.J. Lawson": "OUT",
+    "Alijah Martin": "OUT",
+    "Jakob Poeltl": "OUT"
   }
 }
