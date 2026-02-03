@@ -38,16 +38,18 @@
     "Santi Aldama": "OUT",
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
-    "Jaren Jackson Jr.": "PROBABLE",
+    "Jaren Jackson Jr.": "AVAILABLE",
     "John Konchar": "OUT",
+    "Jahmai Mashack": "OUT",
     "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT"
+    "Scotty Pippen Jr.": "OUT",
+    "Javon Small": "OUT"
   },
   "Philadelphia 76ers": {
     "Charles Bassey": "AVAILABLE",
     "MarJon Beauchamp": "AVAILABLE",
     "Johni Broome": "AVAILABLE",
-    "Joel Embiid": "PROBABLE",
+    "Joel Embiid": "AVAILABLE",
     "Paul George": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
@@ -183,6 +185,16 @@
     "Jonathan Kuminga": "OUT",
     "Moses Moody": "PROBABLE"
   },
-  "Phoenix Suns": {},
-  "Portland Trail Blazers": {}
+  "Phoenix Suns": {
+    "Devin Booker": "OUT",
+    "Jalen Green": "QUESTIONABLE"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "DOUBTFUL",
+    "Scoot Henderson": "DOUBTFUL",
+    "Jrue Holiday": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Matisse Thybulle": "OUT"
+  }
 }
