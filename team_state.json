@@ -10,7 +10,7 @@
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
-    "Caris LeVert": "QUESTIONABLE",
+    "Caris LeVert": "AVAILABLE",
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT"
   },
@@ -21,7 +21,7 @@
     "Mitchell Robinson": "OUT"
   },
   "Washington Wizards": {
-    "Anthony Gill": "QUESTIONABLE",
+    "Anthony Gill": "AVAILABLE",
     "Tre Johnson": "OUT",
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
@@ -40,9 +40,9 @@
   },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
-    "RayJ Dennis": "DOUBTFUL",
-    "Nikola Djurisic": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Nikola Djurisic": "OUT",
+    "Caleb Houstan": "OUT",
     "Onyeka Okongwu": "OUT",
     "Kristaps Porzingis": "QUESTIONABLE",
     "Duop Reath": "OUT"
@@ -103,6 +103,7 @@
     "Giannis Antetokounmpo": "OUT",
     "Gary Harris": "OUT",
     "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "QUESTIONABLE",
     "Taurean Prince": "OUT"
   },
   "Orlando Magic": {
