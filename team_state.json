@@ -1,7 +1,7 @@
 {
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
-    "Christian Braun": "QUESTIONABLE",
+    "Christian Braun": "AVAILABLE",
     "Aaron Gordon": "OUT",
     "Cameron Johnson": "OUT",
     "Curtis Jones": "OUT"
@@ -60,7 +60,7 @@
     "Nikola Djurisic": "OUT",
     "Caleb Houstan": "OUT",
     "Onyeka Okongwu": "OUT",
-    "Kristaps Porzingis": "AVAILABLE",
+    "Kristaps Porzingis": "OUT",
     "Duop Reath": "OUT"
   },
   "Miami Heat": {
@@ -178,6 +178,13 @@
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
     "Jakob Poeltl": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Kevin Durant": "PROBABLE",
+    "Dorian Finney-Smith": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
