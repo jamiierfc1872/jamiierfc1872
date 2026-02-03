@@ -77,7 +77,7 @@
   },
   "Los Angeles Lakers": {
     "Bronny James": "AVAILABLE",
-    "Austin Reaves": "QUESTIONABLE",
+    "Austin Reaves": "AVAILABLE",
     "Adou Thiero": "OUT"
   },
   "Brooklyn Nets": {
@@ -111,8 +111,8 @@
     "Noa Essengue": "OUT",
     "Josh Giddey": "OUT",
     "Kevin Huerter": "OUT",
-    "Tre Jones": "QUESTIONABLE",
-    "Julian Phillips": "QUESTIONABLE",
+    "Tre Jones": "AVAILABLE",
+    "Julian Phillips": "OUT",
     "Dario Saric": "OUT",
     "Jalen Smith": "AVAILABLE",
     "Nikola -Vucevic": "OUT"
@@ -122,7 +122,7 @@
     "Giannis Antetokounmpo": "OUT",
     "Gary Harris": "OUT",
     "Kevin Porter Jr.": "OUT",
-    "Bobby Portis": "QUESTIONABLE",
+    "Bobby Portis": "OUT",
     "Taurean Prince": "OUT"
   },
   "Orlando Magic": {
