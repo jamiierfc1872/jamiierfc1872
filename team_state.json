@@ -184,5 +184,17 @@
     "Stephen Curry": "OUT",
     "Jonathan Kuminga": "OUT",
     "Moses Moody": "PROBABLE"
+  },
+  "Phoenix Suns": {
+    "Devin Booker": "OUT",
+    "Jalen Green": "QUESTIONABLE"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "DOUBTFUL",
+    "Scoot Henderson": "DOUBTFUL",
+    "Jrue Holiday": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Matisse Thybulle": "OUT"
   }
 }
