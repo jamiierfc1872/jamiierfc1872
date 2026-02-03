@@ -43,15 +43,15 @@
   },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "PROBABLE",
+    "Quenton Jackson": "AVAILABLE",
     "Bennedict Mathurin": "OUT",
     "T.J. McConnell": "OUT",
     "Andrew Nembhard": "OUT",
     "Aaron Nesmith": "OUT",
-    "Taelon Peter": "PROBABLE",
+    "Taelon Peter": "AVAILABLE",
     "Micah Potter": "OUT",
     "Pascal Siakam": "OUT",
-    "Ethan Thompson": "PROBABLE",
+    "Ethan Thompson": "AVAILABLE",
     "Obi Toppin": "OUT"
   },
   "Atlanta Hawks": {
@@ -95,27 +95,27 @@
     "Amari Williams": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "PROBABLE",
+    "Moussa Cisse": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "PROBABLE",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
-    "Ryan Nembhard": "PROBABLE",
-    "D'Angelo Russell": "DOUBTFUL",
+    "Ryan Nembhard": "AVAILABLE",
+    "D'Angelo Russell": "OUT",
     "P.J. Washington": "OUT",
-    "Brandon Williams": "DOUBTFUL"
+    "Brandon Williams": "OUT"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
     "Josh Giddey": "OUT",
     "Kevin Huerter": "OUT",
-    "Tre Jones": "OUT",
+    "Tre Jones": "QUESTIONABLE",
     "Julian Phillips": "QUESTIONABLE",
     "Dario Saric": "OUT",
-    "Jalen Smith": "QUESTIONABLE",
-    "Nikola Vucevic": "OUT"
+    "Jalen Smith": "AVAILABLE",
+    "Nikola -Vucevic": "OUT"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
