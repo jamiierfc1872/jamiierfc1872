@@ -163,10 +163,29 @@
     "Kris Murray": "OUT",
     "Matisse Thybulle": "OUT"
   },
+  "Minnesota Timberwolves": {
+    "Mike Conley": "OUT",
+    "Anthony Edwards": "QUESTIONABLE",
+    "Enrique Freeman": "OUT",
+    "Julius Randle": "QUESTIONABLE",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
     "Jakob Poeltl": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Dejounte Murray": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Stephon Castle": "QUESTIONABLE",
+    "David Garcia": "OUT",
+    "Jeremy Sochan": "OUT",
+    "Lindy Waters III": "OUT"
   }
 }
