@@ -1,5 +1,9 @@
 {
-  "New Orleans Pelicans": {},
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Dejounte Murray": "OUT"
+  },
   "Charlotte Hornets": {
     "Josh Green": "AVAILABLE",
     "PJ Hall": "OUT",
@@ -9,12 +13,53 @@
     "Tidjane Salaun": "OUT",
     "KJ Simpson": "OUT"
   },
-  "Houston Rockets": {},
-  "Indiana Pacers": {},
-  "Minnesota Timberwolves": {},
-  "Memphis Grizzlies": {},
-  "Philadelphia 76ers": {},
-  "LA Clippers": {},
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Isaiah Crawford": "AVAILABLE",
+    "Kevin Durant": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "OUT",
+    "Taelon Peter": "OUT",
+    "Ethan Thompson": "OUT",
+    "Obi Toppin": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "AVAILABLE",
+    "Enrique Freeman": "OUT",
+    "Julius Randle": "AVAILABLE",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Jaren Jackson Jr.": "AVAILABLE",
+    "John Konchar": "OUT",
+    "Jahmai Mashack": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Javon Small": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Charles Bassey": "AVAILABLE",
+    "MarJon Beauchamp": "AVAILABLE",
+    "Johni Broome": "AVAILABLE",
+    "Joel Embiid": "AVAILABLE",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "James Harden": "OUT",
+    "Derrick Jones Jr.": "OUT",
+    "Chris Paul": "OUT",
+    "TyTy Washington Jr.": "OUT"
+  },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
     "Christian Braun": "QUESTIONABLE",
