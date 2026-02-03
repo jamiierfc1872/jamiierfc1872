@@ -38,6 +38,19 @@
     "John Tonje": "OUT",
     "Oscar Tshiebwe": "OUT"
   },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "PROBABLE",
+    "Bennedict Mathurin": "OUT",
+    "T.J. McConnell": "OUT",
+    "Andrew Nembhard": "OUT",
+    "Aaron Nesmith": "OUT",
+    "Taelon Peter": "PROBABLE",
+    "Micah Potter": "QUESTIONABLE",
+    "Pascal Siakam": "OUT",
+    "Ethan Thompson": "PROBABLE",
+    "Obi Toppin": "OUT"
+  },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
     "RayJ Dennis": "OUT",
@@ -59,7 +72,7 @@
     "Dru Smith": "AVAILABLE"
   },
   "Los Angeles Lakers": {
-    "Bronny James": "QUESTIONABLE",
+    "Bronny James": "AVAILABLE",
     "Austin Reaves": "QUESTIONABLE",
     "Adou Thiero": "OUT"
   },
@@ -77,16 +90,16 @@
     "Amari Williams": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "PROBABLE",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
     "Kyrie Irving": "OUT",
     "Miles Kelly": "PROBABLE",
     "Dereck Lively II": "OUT",
     "Ryan Nembhard": "PROBABLE",
-    "D'Angelo Russell": "QUESTIONABLE",
+    "D'Angelo Russell": "DOUBTFUL",
     "P.J. Washington": "OUT",
-    "Brandon Williams": "QUESTIONABLE"
+    "Brandon Williams": "DOUBTFUL"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
@@ -111,7 +124,7 @@
     "Franz Wagner": "OUT"
   },
   "Oklahoma City Thunder": {
-    "Alex Caruso": "DOUBTFUL",
+    "Alex Caruso": "QUESTIONABLE",
     "Shai Gilgeous-Alexander": "QUESTIONABLE",
     "Isaiah Hartenstein": "QUESTIONABLE",
     "Chet Holmgren": "QUESTIONABLE",
@@ -140,18 +153,5 @@
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
     "Matisse Thybulle": "OUT"
-  },
-  "Indiana Pacers": {
-    "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "PROBABLE",
-    "Bennedict Mathurin": "OUT",
-    "T.J. McConnell": "OUT",
-    "Andrew Nembhard": "OUT",
-    "Aaron Nesmith": "OUT",
-    "Taelon Peter": "PROBABLE",
-    "Micah Potter": "QUESTIONABLE",
-    "Pascal Siakam": "OUT",
-    "Ethan Thompson": "PROBABLE",
-    "Obi Toppin": "OUT"
   }
 }
