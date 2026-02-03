@@ -7,6 +7,7 @@
     "Curtis Jones": "OUT"
   },
   "Detroit Pistons": {
+    "Jaden Ivey": "OUT",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
@@ -110,7 +111,8 @@
     "Tre Jones": "OUT",
     "Julian Phillips": "QUESTIONABLE",
     "Dario Saric": "OUT",
-    "Jalen Smith": "QUESTIONABLE"
+    "Jalen Smith": "QUESTIONABLE",
+    "Nikola Vucevic": "QUESTIONABLE"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
@@ -135,6 +137,11 @@
     "Jalen Williams": "OUT",
     "Jaylin Williams": "QUESTIONABLE"
   },
+  "Philadelphia 76ers": {
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "OUT",
@@ -148,8 +155,8 @@
     "Jalen Green": "QUESTIONABLE"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "DOUBTFUL",
-    "Scoot Henderson": "DOUBTFUL",
+    "Deni Avdija": "OUT",
+    "Scoot Henderson": "OUT",
     "Jrue Holiday": "QUESTIONABLE",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
