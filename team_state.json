@@ -130,15 +130,15 @@
     "Franz Wagner": "OUT"
   },
   "Oklahoma City Thunder": {
-    "Alex Caruso": "QUESTIONABLE",
-    "Shai Gilgeous-Alexander": "QUESTIONABLE",
-    "Isaiah Hartenstein": "QUESTIONABLE",
-    "Chet Holmgren": "QUESTIONABLE",
+    "Alex Caruso": "AVAILABLE",
+    "Shai Gilgeous-Alexander": "AVAILABLE",
+    "Isaiah Hartenstein": "AVAILABLE",
+    "Chet Holmgren": "AVAILABLE",
     "Ajay Mitchell": "OUT",
     "Thomas Sorber": "OUT",
     "Nikola Topic": "OUT",
     "Jalen Williams": "OUT",
-    "Jaylin Williams": "QUESTIONABLE"
+    "Jaylin Williams": "AVAILABLE"
   },
   "Philadelphia 76ers": {
     "Joel Embiid": "OUT",
@@ -196,5 +196,33 @@
     "David Garcia": "OUT",
     "Jeremy Sochan": "OUT",
     "Lindy Waters III": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "QUESTIONABLE",
+    "Kyle Anderson": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "OUT",
+    "Taylor Hendricks": "OUT",
+    "Ja Morant": "OUT",
+    "Georges Niang": "OUT",
+    "Scotty Pippen Jr.": "DOUBTFUL"
+  },
+  "Sacramento Kings": {
+    "Keegan Murray": "OUT",
+    "Daeqwon Plowden": "OUT",
+    "Domantas Sabonis": "QUESTIONABLE",
+    "Isaiah Stevens": "OUT"
+  },
+  "Cleveland Cavaliers": {
+    "Darius Garland": "OUT",
+    "Emanuel Miller": "OUT",
+    "Evan Mobley": "OUT",
+    "Max Strus": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "James Harden": "OUT",
+    "Chris Paul": "OUT",
+    "TyTy Washington Jr.": "OUT"
   }
 }
