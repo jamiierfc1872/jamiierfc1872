@@ -22,6 +22,7 @@
     "Rocco Zikarsky": "OUT"
   },
   "Toronto Raptors": {
+    "Ochai Agbaji": "OUT",
     "Chucky Hepburn": "OUT",
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
@@ -102,8 +103,18 @@
     "Bradley Beal": "OUT",
     "James Harden": "OUT",
     "Chris Paul": "OUT",
-    "TyTy Washington Jr.": "OUT"
+    "TyTy Washington Jr.": "OUT",
+    "Ivica Zubac": "OUT"
   },
-  "Brooklyn Nets": {},
-  "Orlando Magic": {}
+  "Brooklyn Nets": {
+    "Tyson Etienne": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Chaney Johnson": "OUT",
+    "E.J. Liddell": "OUT",
+    "Cam Thomas": "OUT"
+  },
+  "Orlando Magic": {
+    "Colin Castleton": "OUT",
+    "Franz Wagner": "OUT"
+  }
 }
