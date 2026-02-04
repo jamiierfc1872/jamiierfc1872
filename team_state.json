@@ -1,46 +1,9 @@
 {
-  "Denver Nuggets": {
-    "Tamar Bates": "OUT",
-    "Christian Braun": "AVAILABLE",
-    "Aaron Gordon": "OUT",
-    "Cameron Johnson": "OUT",
-    "Curtis Jones": "OUT"
-  },
-  "Detroit Pistons": {
-    "Jaden Ivey": "OUT",
-    "Isaac Jones": "OUT",
-    "Bobi Klintman": "OUT",
-    "Chaz Lanier": "OUT",
-    "Caris LeVert": "AVAILABLE",
-    "Wendell Moore Jr.": "OUT",
-    "Tolu Smith": "OUT"
-  },
-  "New York Knicks": {
-    "Pacome Dadiet": "OUT",
-    "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "OUT",
-    "Mitchell Robinson": "OUT"
-  },
-  "Washington Wizards": {
-    "Anthony Gill": "AVAILABLE",
-    "Tre Johnson": "OUT",
-    "Tristan Vukcevic": "OUT",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
-  },
-  "Utah Jazz": {
-    "Kyle Anderson": "OUT",
-    "Walter Clayton Jr.": "OUT",
-    "Keyonte George": "OUT",
-    "Elijah Harkless": "OUT",
-    "Taylor Hendricks": "OUT",
-    "Walker Kessler": "OUT",
-    "Kevin Love": "OUT",
-    "Georges Niang": "OUT",
-    "Jusuf Nurkic": "AVAILABLE",
-    "John -Tonje": "OUT",
-    "Oscar Tshiebwe": "OUT"
-  },
+  "Denver Nuggets": {},
+  "Detroit Pistons": {},
+  "New York Knicks": {},
+  "Washington Wizards": {},
+  "Utah Jazz": {},
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
     "Quenton Jackson": "AVAILABLE",
@@ -54,15 +17,7 @@
     "Ethan Thompson": "AVAILABLE",
     "Obi Toppin": "OUT"
   },
-  "Atlanta Hawks": {
-    "N'Faly Dante": "OUT",
-    "RayJ Dennis": "OUT",
-    "Nikola Djurisic": "OUT",
-    "Caleb Houstan": "OUT",
-    "Onyeka Okongwu": "OUT",
-    "Kristaps Porzingis": "OUT",
-    "Duop Reath": "OUT"
-  },
+  "Atlanta Hawks": {},
   "Miami Heat": {
     "Tyler Herro": "OUT",
     "Kasparas Jakucionis": "AVAILABLE",
@@ -75,89 +30,17 @@
     "Dru Smith": "AVAILABLE",
     "Andrew Wiggins": "OUT"
   },
-  "Los Angeles Lakers": {
-    "Bronny James": "AVAILABLE",
-    "Austin Reaves": "AVAILABLE",
-    "Adou Thiero": "OUT"
-  },
-  "Brooklyn Nets": {
-    "Noah Clowney": "AVAILABLE",
-    "Tyson Etienne": "OUT",
-    "Haywood Highsmith": "OUT",
-    "Chaney Johnson": "OUT",
-    "E.J. Liddell": "OUT",
-    "Ziaire Williams": "AVAILABLE"
-  },
-  "Boston Celtics": {
-    "Chris Boucher": "OUT",
-    "Anfernee Simons": "OUT",
-    "Jayson Tatum": "OUT",
-    "Amari Williams": "OUT"
-  },
-  "Dallas Mavericks": {
-    "Moussa Cisse": "AVAILABLE",
-    "Anthony Davis": "OUT",
-    "Dante Exum": "OUT",
-    "Kyrie Irving": "OUT",
-    "Miles Kelly": "AVAILABLE",
-    "Dereck Lively II": "OUT",
-    "Ryan Nembhard": "AVAILABLE",
-    "D'Angelo Russell": "OUT",
-    "P.J. Washington": "OUT",
-    "Brandon Williams": "OUT"
-  },
-  "Chicago Bulls": {
-    "Zach Collins": "OUT",
-    "Noa Essengue": "OUT",
-    "Josh Giddey": "OUT",
-    "Kevin Huerter": "OUT",
-    "Tre Jones": "AVAILABLE",
-    "Julian Phillips": "OUT",
-    "Dario Saric": "OUT",
-    "Jalen Smith": "AVAILABLE",
-    "Nikola -Vucevic": "OUT"
-  },
-  "Milwaukee Bucks": {
-    "Alex Antetokounmpo": "OUT",
-    "Giannis Antetokounmpo": "OUT",
-    "Gary Harris": "OUT",
-    "Kevin Porter Jr.": "OUT",
-    "Bobby Portis": "OUT",
-    "Taurean Prince": "OUT"
-  },
-  "Orlando Magic": {
-    "Colin Castleton": "OUT",
-    "Franz Wagner": "OUT"
-  },
-  "Oklahoma City Thunder": {
-    "Alex Caruso": "AVAILABLE",
-    "Shai Gilgeous-Alexander": "AVAILABLE",
-    "Isaiah Hartenstein": "AVAILABLE",
-    "Chet Holmgren": "AVAILABLE",
-    "Ajay Mitchell": "OUT",
-    "Thomas Sorber": "OUT",
-    "Nikola Topic": "OUT",
-    "Jalen Williams": "OUT",
-    "Jaylin Williams": "AVAILABLE"
-  },
-  "Philadelphia 76ers": {
-    "Joel Embiid": "OUT",
-    "Paul George": "OUT",
-    "Kelly Oubre Jr.": "AVAILABLE"
-  },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "LJ Cryer": "OUT",
-    "Seth Curry": "OUT",
-    "Stephen Curry": "OUT",
-    "Jonathan Kuminga": "OUT",
-    "Moses Moody": "AVAILABLE"
-  },
-  "Phoenix Suns": {
-    "Devin Booker": "OUT",
-    "Koby Brea": "OUT",
-    "Jalen Green": "OUT"
-  },
+  "Los Angeles Lakers": {},
+  "Brooklyn Nets": {},
+  "Boston Celtics": {},
+  "Dallas Mavericks": {},
+  "Chicago Bulls": {},
+  "Milwaukee Bucks": {},
+  "Orlando Magic": {},
+  "Oklahoma City Thunder": {},
+  "Philadelphia 76ers": {},
+  "Golden State Warriors": {},
+  "Phoenix Suns": {},
   "Portland Trail Blazers": {
     "Deni Avdija": "OUT",
     "Scoot Henderson": "OUT",
