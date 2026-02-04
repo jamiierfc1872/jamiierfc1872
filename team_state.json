@@ -90,9 +90,9 @@
   },
   "Sacramento Kings": {
     "Keegan Murray": "OUT",
-    "Daeqwon Plowden": "OUT",
-    "Domantas Sabonis": "QUESTIONABLE",
-    "Isaiah Stevens": "OUT"
+    "Daeqwon Plowden": "AVAILABLE",
+    "Domantas -Sabonis": "QUESTIONABLE",
+    "Isaiah Stevens": "AVAILABLE"
   },
   "Cleveland Cavaliers": {
     "Darius Garland": "OUT",
@@ -167,5 +167,26 @@
     "Onyeka Okongwu": "QUESTIONABLE",
     "Kristaps Porzingis": "QUESTIONABLE",
     "Duop Reath": "OUT"
+  },
+  "Charlotte Hornets": {
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "QUESTIONABLE",
+    "KJ Simpson": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "PROBABLE",
+    "Anthony Davis": "OUT",
+    "Dante Exum": "OUT",
+    "Daniel Gafford": "QUESTIONABLE",
+    "Jaden Hardy": "OUT",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "PROBABLE",
+    "Dereck Lively II": "OUT",
+    "Ryan Nembhard": "PROBABLE",
+    "D'Angelo Russell": "OUT",
+    "P.J. Washington": "OUT",
+    "Brandon Williams": "QUESTIONABLE"
   }
 }
