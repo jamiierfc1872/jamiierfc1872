@@ -1,4 +1,19 @@
 {
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Christian Braun": "PROBABLE",
+    "Aaron Gordon": "OUT",
+    "Cameron Johnson": "OUT",
+    "Curtis Jones": "OUT"
+  },
+  "New York Knicks": {
+    "Pacome Dadiet": "QUESTIONABLE",
+    "Mohamed Diawara": "QUESTIONABLE",
+    "Josh Hart": "QUESTIONABLE",
+    "Trey Jemison III": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Kevin McCullar Jr.": "QUESTIONABLE"
+  },
   "Minnesota Timberwolves": {
     "Anthony Edwards": "QUESTIONABLE",
     "Enrique Freeman": "OUT",
@@ -23,6 +38,15 @@
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
     "Dejounte Murray": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Cole Anthony": "PROBABLE",
+    "Gary Harris": "OUT",
+    "Bobby Portis": "OUT",
+    "Taurean Prince": "OUT",
+    "Myles Turner": "PROBABLE"
   },
   "San Antonio Spurs": {
     "Stephon Castle": "QUESTIONABLE",
@@ -59,20 +83,5 @@
     "James Harden": "OUT",
     "Chris Paul": "OUT",
     "TyTy Washington Jr.": "OUT"
-  },
-  "Denver Nuggets": {
-    "Tamar Bates": "OUT",
-    "Christian Braun": "PROBABLE",
-    "Aaron Gordon": "OUT",
-    "Cameron Johnson": "OUT",
-    "Curtis Jones": "OUT"
-  },
-  "New York Knicks": {
-    "Pacome Dadiet": "QUESTIONABLE",
-    "Mohamed Diawara": "QUESTIONABLE",
-    "Josh Hart": "QUESTIONABLE",
-    "Trey Jemison III": "QUESTIONABLE",
-    "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "QUESTIONABLE"
   }
 }
