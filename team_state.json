@@ -7,12 +7,12 @@
     "Curtis Jones": "OUT"
   },
   "New York Knicks": {
-    "Pacome Dadiet": "QUESTIONABLE",
+    "Pacome Dadiet": "AVAILABLE",
     "Mohamed Diawara": "QUESTIONABLE",
     "Josh Hart": "QUESTIONABLE",
-    "Trey Jemison III": "QUESTIONABLE",
+    "Trey Jemison III": "AVAILABLE",
     "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "QUESTIONABLE"
+    "Kevin McCullar Jr.": "AVAILABLE"
   },
   "Minnesota Timberwolves": {
     "Anthony Edwards": "QUESTIONABLE",
@@ -116,5 +116,55 @@
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Franz Wagner": "OUT"
+  },
+  "Washington Wizards": {
+    "Marvin Bagley III": "OUT",
+    "Malaki Branham": "OUT",
+    "AJ Johnson": "OUT",
+    "Tre Johnson": "OUT",
+    "Skal Labissiere": "OUT",
+    "Khris Middleton": "OUT",
+    "Jamir Watkins": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "QUESTIONABLE",
+    "Tobias Harris": "QUESTIONABLE",
+    "Kevin Huerter": "QUESTIONABLE",
+    "Isaac Jones": "OUT",
+    "Wendell Moore Jr.": "QUESTIONABLE",
+    "Dario Saric": "OUT",
+    "Tolu Smith": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Mike Conley": "OUT",
+    "Ayo Dosunmu": "QUESTIONABLE",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "OUT",
+    "Jaden Ivey": "QUESTIONABLE",
+    "Tre Jones": "QUESTIONABLE",
+    "Julian Phillips": "QUESTIONABLE",
+    "Nikola Vucevic": "OUT",
+    "Coby White": "OUT"
+  },
+  "Utah Jazz": {
+    "Keyonte George": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "John Konchar": "OUT",
+    "Jock Landale": "OUT",
+    "Kevin Love": "QUESTIONABLE",
+    "Vince Williams Jr.": "OUT"
+  },
+  "Atlanta Hawks": {
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "DOUBTFUL",
+    "Nikola Djurisic": "DOUBTFUL",
+    "Caleb Houstan": "DOUBTFUL",
+    "Onyeka Okongwu": "QUESTIONABLE",
+    "Kristaps Porzingis": "QUESTIONABLE",
+    "Duop Reath": "OUT"
   }
 }
