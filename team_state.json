@@ -119,7 +119,9 @@
   },
   "Phoenix Suns": {
     "Devin Booker": "OUT",
-    "Jalen Green": "QUESTIONABLE"
+    "Jalen Green": "OUT",
+    "Nigel Hayes-Davis": "OUT",
+    "Nick Richards": "OUT"
   },
   "Philadelphia 76ers": {
     "Joel Embiid": "QUESTIONABLE",
@@ -129,6 +131,7 @@
   },
   "Los Angeles Lakers": {
     "Jaxson Hayes": "OUT",
-    "Adou Thiero": "OUT"
+    "Adou Thiero": "OUT",
+    "Gabe Vincent": "OUT"
   }
 }
