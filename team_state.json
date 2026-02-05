@@ -78,6 +78,13 @@
     "Tidjane Salaun": "QUESTIONABLE",
     "KJ Simpson": "OUT"
   },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tari Eason": "QUESTIONABLE",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
+  },
   "Dallas Mavericks": {
     "Moussa Cisse": "PROBABLE",
     "Anthony Davis": "OUT",
@@ -112,12 +119,5 @@
   "Los Angeles Lakers": {
     "Jaxson Hayes": "OUT",
     "Adou Thiero": "OUT"
-  },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tari Eason": "QUESTIONABLE",
-    "Tristen Newton": "OUT",
-    "Jae'Sean Tate": "OUT",
-    "Fred VanVleet": "OUT"
   }
 }
