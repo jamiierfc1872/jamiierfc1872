@@ -24,9 +24,9 @@
   "Detroit Pistons": {
     "Cade Cunningham": "QUESTIONABLE",
     "Tobias Harris": "QUESTIONABLE",
-    "Kevin Huerter": "QUESTIONABLE",
+    "Kevin Huerter": "AVAILABLE",
     "Daniss Jenkins": "OUT",
-    "Wendell Moore Jr.": "QUESTIONABLE",
+    "Wendell Moore Jr.": "AVAILABLE",
     "Dario Saric": "OUT",
     "Tolu Smith": "OUT"
   },
@@ -52,11 +52,11 @@
     "Jakob Poeltl": "OUT"
   },
   "Utah Jazz": {
+    "Lonzo Ball": "OUT",
     "Keyonte George": "OUT",
     "Jaren Jackson Jr.": "OUT",
     "Walker Kessler": "OUT",
     "John Konchar": "OUT",
-    "Jock Landale": "OUT",
     "Kevin Love": "QUESTIONABLE",
     "Vince Williams Jr.": "OUT"
   },
@@ -65,8 +65,9 @@
     "RayJ Dennis": "DOUBTFUL",
     "Nikola Djurisic": "DOUBTFUL",
     "Caleb Houstan": "DOUBTFUL",
+    "Luke Kennard": "OUT",
     "Onyeka Okongwu": "QUESTIONABLE",
-    "Kristaps Porzingis": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
     "Duop Reath": "OUT"
   },
   "Charlotte Hornets": {
