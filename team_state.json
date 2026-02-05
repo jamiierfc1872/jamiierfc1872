@@ -34,16 +34,14 @@
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
-    "Ousmane Dieng": "QUESTIONABLE",
+    "Ousmane Dieng": "OUT",
     "Ayo Dosunmu": "OUT",
     "Noa Essengue": "OUT",
     "Josh Giddey": "OUT",
-    "Jaden Ivey": "PROBABLE",
-    "Tre Jones": "OUT",
+    "Jaden Ivey": "AVAILABLE",
+    "Tre -Jones": "OUT",
     "Julian Phillips": "OUT",
-    "Collin Sexton": "QUESTIONABLE",
-    "Dalen Terry": "OUT",
-    "Nikola Vucevic": "OUT"
+    "Collin Sexton": "OUT"
   },
   "Toronto Raptors": {
     "RJ Barrett": "OUT",
@@ -164,12 +162,6 @@
     "Miles McBride": "OUT",
     "Guerschon Yabusele": "OUT"
   },
-  "New Orleans Pelicans": {
-    "Trey Alexander": "OUT",
-    "Jose Alvarado": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Dejounte Murray": "OUT"
-  },
   "Indiana Pacers": {
     "Tyrese Haliburton": "OUT",
     "Isaiah Jackson": "OUT",
@@ -187,5 +179,19 @@
     "Gary Harris": "QUESTIONABLE",
     "Bobby Portis": "QUESTIONABLE",
     "Taurean Prince": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Jose Alvarado": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Dejounte Murray": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Rob Dillingham": "OUT",
+    "Enrique Freeman": "OUT",
+    "Leonard Miller": "OUT",
+    "Julius Randle": "QUESTIONABLE",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
   }
 }
