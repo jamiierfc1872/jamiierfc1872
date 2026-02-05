@@ -24,8 +24,8 @@
     "Trae Young": "OUT"
   },
   "Detroit Pistons": {
-    "Cade Cunningham": "QUESTIONABLE",
-    "Tobias Harris": "QUESTIONABLE",
+    "Cade Cunningham": "AVAILABLE",
+    "Tobias Harris": "OUT",
     "Kevin Huerter": "AVAILABLE",
     "Daniss Jenkins": "OUT",
     "Wendell Moore Jr.": "AVAILABLE",
@@ -127,6 +127,7 @@
     "Nick Richards": "OUT"
   },
   "Philadelphia 76ers": {
+    "Patrick Baldwin Jr.": "DOUBTFUL",
     "Joel Embiid": "QUESTIONABLE",
     "Paul George": "OUT",
     "Eric Gordon": "OUT",
