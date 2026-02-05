@@ -55,11 +55,12 @@
   },
   "Utah Jazz": {
     "Lonzo Ball": "OUT",
+    "Chris Boucher": "OUT",
     "Keyonte George": "OUT",
     "Jaren Jackson Jr.": "OUT",
     "Walker Kessler": "OUT",
     "John Konchar": "OUT",
-    "Kevin Love": "QUESTIONABLE",
+    "Kevin Love": "OUT",
     "Vince Williams Jr.": "OUT"
   },
   "Atlanta Hawks": {
@@ -168,5 +169,23 @@
     "Jose Alvarado": "OUT",
     "Hunter Dickinson": "OUT",
     "Dejounte Murray": "OUT"
+  },
+  "Indiana Pacers": {
+    "Tyrese Haliburton": "OUT",
+    "Isaiah Jackson": "OUT",
+    "Bennedict Mathurin": "OUT",
+    "Taelon Peter": "DOUBTFUL",
+    "Micah Potter": "QUESTIONABLE",
+    "Ethan Thompson": "DOUBTFUL",
+    "Obi Toppin": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Cole Anthony": "OUT",
+    "Amir Coffey": "OUT",
+    "Gary Harris": "QUESTIONABLE",
+    "Bobby Portis": "QUESTIONABLE",
+    "Taurean Prince": "OUT"
   }
 }
