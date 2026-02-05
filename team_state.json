@@ -134,13 +134,6 @@
     "Adou Thiero": "OUT",
     "Gabe Vincent": "OUT"
   },
-  "New York Knicks": {
-    "OG Anunoby": "PROBABLE",
-    "Josh Hart": "QUESTIONABLE",
-    "Dillon Jones": "OUT",
-    "Miles McBride": "OUT",
-    "Guerschon Yabusele": "OUT"
-  },
   "Miami Heat": {
     "Tyler Herro": "OUT",
     "Kasparas Jakucionis": "AVAILABLE",
@@ -151,5 +144,12 @@
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE"
+  },
+  "New York Knicks": {
+    "OG Anunoby": "PROBABLE",
+    "Josh Hart": "QUESTIONABLE",
+    "Dillon Jones": "OUT",
+    "Miles McBride": "OUT",
+    "Guerschon Yabusele": "OUT"
   }
 }
