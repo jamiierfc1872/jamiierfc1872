@@ -64,11 +64,11 @@
   },
   "Atlanta Hawks": {
     "N'Faly Dante": "OUT",
-    "RayJ Dennis": "DOUBTFUL",
-    "Nikola Djurisic": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Nikola Djurisic": "OUT",
+    "Caleb Houstan": "OUT",
     "Luke Kennard": "OUT",
-    "Onyeka Okongwu": "QUESTIONABLE",
+    "Onyeka Okongwu": "OUT",
     "Kristaps Porzingis": "OUT",
     "Duop Reath": "OUT"
   },
@@ -149,6 +149,13 @@
     "Dru Smith": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE"
   },
+  "Boston Celtics": {
+    "Josh Minott": "OUT",
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT",
+    "Xavier Tillman": "OUT",
+    "John Tonje": "OUT"
+  },
   "New York Knicks": {
     "OG Anunoby": "PROBABLE",
     "Josh Hart": "QUESTIONABLE",
@@ -161,12 +168,5 @@
     "Jose Alvarado": "OUT",
     "Hunter Dickinson": "OUT",
     "Dejounte Murray": "OUT"
-  },
-  "Boston Celtics": {
-    "Josh Minott": "OUT",
-    "Max Shulga": "OUT",
-    "Jayson Tatum": "OUT",
-    "Xavier Tillman": "OUT",
-    "John Tonje": "OUT"
   }
 }
