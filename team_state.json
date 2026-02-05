@@ -30,7 +30,7 @@
   },
   "Boston Celtics": {
     "Chris Boucher": "OUT",
-    "Jaylen Brown": "DOUBTFUL",
+    "Jaylen Brown": "OUT",
     "Sam Hauser": "OUT",
     "Anfernee Simons": "OUT",
     "Jayson Tatum": "OUT",
@@ -51,11 +51,11 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
-    "Cole Anthony": "PROBABLE",
+    "Cole Anthony": "AVAILABLE",
     "Gary Harris": "OUT",
     "Bobby Portis": "OUT",
     "Taurean Prince": "OUT",
-    "Myles Turner": "PROBABLE"
+    "Myles Turner": "AVAILABLE"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
@@ -70,10 +70,10 @@
     "Jalen Williams": "OUT"
   },
   "San Antonio Spurs": {
-    "Stephon Castle": "QUESTIONABLE",
-    "Dylan Harper": "QUESTIONABLE",
+    "Stephon Castle": "AVAILABLE",
+    "Dylan -Harper": "OUT",
     "David Garcia": "OUT",
-    "Kelly Olynyk": "QUESTIONABLE",
+    "Kelly Olynyk": "OUT",
     "Jeremy Sochan": "OUT",
     "Lindy Waters III": "OUT"
   },
@@ -188,5 +188,26 @@
     "D'Angelo Russell": "OUT",
     "P.J. Washington": "OUT",
     "Brandon Williams": "QUESTIONABLE"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "QUESTIONABLE",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Jonathan Kuminga": "OUT"
+  },
+  "Phoenix Suns": {
+    "Devin Booker": "OUT",
+    "Jalen Green": "QUESTIONABLE"
+  },
+  "Philadelphia 76ers": {
+    "Joel Embiid": "QUESTIONABLE",
+    "Paul George": "OUT",
+    "Jared McCain": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Los Angeles Lakers": {
+    "Jaxson Hayes": "OUT",
+    "Adou Thiero": "OUT"
   }
 }
