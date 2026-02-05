@@ -1,5 +1,6 @@
 {
   "Brooklyn Nets": {
+    "Ochai Agbaji": "OUT",
     "Tyson Etienne": "OUT",
     "Haywood Highsmith": "OUT",
     "Chaney Johnson": "OUT",
@@ -111,5 +112,12 @@
   "Los Angeles Lakers": {
     "Jaxson Hayes": "OUT",
     "Adou Thiero": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tari Eason": "QUESTIONABLE",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
   }
 }
