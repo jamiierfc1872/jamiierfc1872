@@ -5,6 +5,7 @@
     "Haywood Highsmith": "OUT",
     "Chaney Johnson": "OUT",
     "E.J. Liddell": "OUT",
+    "Tyrese Martin": "OUT",
     "Cam Thomas": "OUT"
   },
   "Orlando Magic": {
@@ -72,11 +73,14 @@
     "Duop Reath": "OUT"
   },
   "Charlotte Hornets": {
+    "Mike Conley": "OUT",
     "PJ Hall": "OUT",
+    "Tyus Jones": "OUT",
     "Liam McNeeley": "OUT",
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "QUESTIONABLE",
-    "KJ Simpson": "OUT"
+    "KJ Simpson": "OUT",
+    "Coby White": "OUT"
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
@@ -157,5 +161,12 @@
     "Jose Alvarado": "OUT",
     "Hunter Dickinson": "OUT",
     "Dejounte Murray": "OUT"
+  },
+  "Boston Celtics": {
+    "Josh Minott": "OUT",
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT",
+    "Xavier Tillman": "OUT",
+    "John Tonje": "OUT"
   }
 }
