@@ -78,7 +78,7 @@
     "Lindy Waters III": "OUT"
   },
   "Memphis Grizzlies": {
-    "Santi Aldama": "QUESTIONABLE",
+    "Santi Aldama": "AVAILABLE",
     "Kyle Anderson": "OUT",
     "Brandon Clarke": "OUT",
     "Walter Clayton Jr.": "OUT",
@@ -86,25 +86,26 @@
     "Taylor Hendricks": "OUT",
     "Ja Morant": "OUT",
     "Georges Niang": "OUT",
-    "Scotty Pippen Jr.": "DOUBTFUL"
+    "Scotty Pippen Jr.": "OUT"
   },
   "Sacramento Kings": {
     "Keegan Murray": "OUT",
     "Daeqwon Plowden": "AVAILABLE",
-    "Domantas -Sabonis": "QUESTIONABLE",
-    "Isaiah Stevens": "AVAILABLE"
+    "Domantas -Sabonis": "AVAILABLE",
+    "Isaiah -Stevens": "AVAILABLE"
   },
   "Cleveland Cavaliers": {
-    "Darius Garland": "OUT",
+    "Lonzo Ball": "OUT",
+    "James Harden": "OUT",
     "Emanuel Miller": "OUT",
     "Evan Mobley": "OUT",
     "Max Strus": "OUT"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
-    "James Harden": "OUT",
+    "Darius Garland": "OUT",
     "Chris Paul": "OUT",
-    "TyTy Washington Jr.": "OUT",
+    "TyTy Washington Jr.": "AVAILABLE",
     "Ivica Zubac": "OUT"
   },
   "Brooklyn Nets": {
