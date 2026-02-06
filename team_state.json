@@ -83,32 +83,32 @@
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
-    "Tari Eason": "QUESTIONABLE",
+    "Tari Eason": "OUT",
     "Tristen Newton": "OUT",
     "Jae'Sean Tate": "OUT",
     "Fred VanVleet": "OUT"
   },
   "San Antonio Spurs": {
-    "Dylan Harper": "QUESTIONABLE",
+    "Dylan Harper": "AVAILABLE",
     "David Garcia": "OUT",
     "Luke Kornet": "OUT",
-    "Kelly Olynyk": "QUESTIONABLE",
-    "Jeremy Sochan": "OUT",
+    "Kelly Olynyk": "AVAILABLE",
+    "Jeremy -Sochan": "OUT",
     "Lindy Waters III": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "PROBABLE",
-    "Anthony Davis": "OUT",
-    "Dante Exum": "OUT",
-    "Daniel Gafford": "QUESTIONABLE",
-    "Jaden Hardy": "OUT",
+    "Marvin Bagley III": "OUT",
+    "Moussa Cisse": "AVAILABLE",
+    "Daniel Gafford": "AVAILABLE",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "PROBABLE",
+    "AJ Johnson": "OUT",
+    "Tyus Jones": "OUT",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
-    "Ryan Nembhard": "PROBABLE",
-    "D'Angelo Russell": "OUT",
+    "Khris Middleton": "OUT",
+    "Ryan Nembhard": "AVAILABLE",
     "P.J. Washington": "OUT",
-    "Brandon Williams": "QUESTIONABLE"
+    "Brandon Williams": "OUT"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
@@ -194,5 +194,32 @@
     "Julius Randle": "QUESTIONABLE",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Kobe Brown": "OUT",
+    "Darius Garland": "OUT",
+    "Ivica Zubac": "OUT"
+  },
+  "Sacramento Kings": {
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "QUESTIONABLE",
+    "Isaiah Stevens": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Eric Gordon": "OUT",
+    "Ty Jerome": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "QUESTIONABLE"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "QUESTIONABLE",
+    "Scoot Henderson": "PROBABLE",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Matisse Thybulle": "OUT"
   }
 }
