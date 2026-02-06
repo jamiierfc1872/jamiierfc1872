@@ -93,17 +93,6 @@
     "Matisse Thybulle": "OUT",
     "Blake Wesley": "QUESTIONABLE"
   },
-  "Orlando Magic": {
-    "Colin Castleton": "OUT",
-    "Franz Wagner": "OUT"
-  },
-  "Chicago Bulls": {
-    "Zach Collins": "OUT",
-    "Noa Essengue": "OUT",
-    "Josh Giddey": "OUT",
-    "Tre Jones": "OUT",
-    "Jalen Smith": "QUESTIONABLE"
-  },
   "Washington Wizards": {
     "Bilal Coulibaly": "QUESTIONABLE",
     "Anthony Davis": "OUT",
@@ -115,5 +104,21 @@
     "Alex Sarr": "QUESTIONABLE",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Tyson Etienne": "OUT",
+    "Chaney Johnson": "OUT",
+    "E.J. Liddell": "OUT"
+  },
+  "Orlando Magic": {
+    "Colin Castleton": "OUT",
+    "Franz Wagner": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "OUT",
+    "Tre Jones": "OUT",
+    "Jalen Smith": "QUESTIONABLE"
   }
 }
