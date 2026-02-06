@@ -43,8 +43,8 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
-    "Ousmane Dieng": "OUT",
-    "Gary Harris": "QUESTIONABLE",
+    "Ousmane Dieng": "AVAILABLE",
+    "Gary -Harris": "QUESTIONABLE",
     "Nigel Hayes-Davis": "OUT",
     "Kyle Kuzma": "OUT",
     "Bobby Portis": "QUESTIONABLE",
@@ -110,9 +110,51 @@
     "Chaney Johnson": "OUT",
     "E.J. Liddell": "OUT"
   },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Marvin Bagley III": "PROBABLE",
+    "Moussa Cisse": "DOUBTFUL",
+    "Kyrie Irving": "OUT",
+    "AJ Johnson": "PROBABLE",
+    "Tyus Jones": "PROBABLE",
+    "Miles Kelly": "DOUBTFUL",
+    "Dereck Lively II": "OUT",
+    "Khris Middleton": "DOUBTFUL",
+    "Ryan Nembhard": "DOUBTFUL",
+    "Brandon Williams": "PROBABLE"
+  },
+  "Utah Jazz": {
+    "Keyonte George": "QUESTIONABLE",
+    "Walker Kessler": "OUT",
+    "Kevin Love": "QUESTIONABLE"
+  },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Franz Wagner": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Malaki Branham": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "QUESTIONABLE",
+    "KJ Simpson": "OUT",
+    "Coby White": "OUT"
+  },
+  "Atlanta Hawks": {
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "DOUBTFUL",
+    "Nikola Djurisic": "DOUBTFUL",
+    "Buddy Hield": "QUESTIONABLE",
+    "Caleb Houstan": "DOUBTFUL",
+    "Jonathan Kuminga": "OUT",
+    "Onyeka Okongwu": "QUESTIONABLE",
+    "Gabe Vincent": "QUESTIONABLE"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
