@@ -33,6 +33,7 @@
   "Indiana Pacers": {
     "Kobe Brown": "OUT",
     "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
     "Taelon Peter": "OUT",
     "Micah Potter": "QUESTIONABLE",
     "Ethan Thompson": "OUT",
@@ -102,5 +103,17 @@
     "Josh Giddey": "OUT",
     "Tre Jones": "OUT",
     "Jalen Smith": "QUESTIONABLE"
+  },
+  "Washington Wizards": {
+    "Bilal Coulibaly": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Dante Exum": "OUT",
+    "Kyshawn George": "QUESTIONABLE",
+    "Jaden Hardy": "OUT",
+    "Tre Johnson": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "QUESTIONABLE",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
   }
 }
