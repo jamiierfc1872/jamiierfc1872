@@ -1,9 +1,48 @@
 {
-  "Brooklyn Nets": {},
-  "Orlando Magic": {},
-  "Washington Wizards": {},
-  "Detroit Pistons": {},
-  "Chicago Bulls": {},
+  "Brooklyn Nets": {
+    "Ochai Agbaji": "OUT",
+    "Tyson Etienne": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Chaney Johnson": "OUT",
+    "E.J. Liddell": "OUT",
+    "Tyrese Martin": "OUT",
+    "Cam Thomas": "OUT"
+  },
+  "Orlando Magic": {
+    "Colin Castleton": "OUT",
+    "Franz Wagner": "OUT"
+  },
+  "Washington Wizards": {
+    "Marvin Bagley III": "OUT",
+    "Malaki Branham": "OUT",
+    "AJ Johnson": "OUT",
+    "Tre Johnson": "OUT",
+    "Skal Labissiere": "OUT",
+    "Khris Middleton": "OUT",
+    "Jamir Watkins": "AVAILABLE",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "AVAILABLE",
+    "Tobias Harris": "OUT",
+    "Kevin Huerter": "AVAILABLE",
+    "Daniss Jenkins": "OUT",
+    "Wendell Moore Jr.": "AVAILABLE",
+    "Dario Saric": "OUT",
+    "Tolu Smith": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Ousmane Dieng": "OUT",
+    "Ayo Dosunmu": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "OUT",
+    "Jaden Ivey": "AVAILABLE",
+    "Tre -Jones": "OUT",
+    "Julian Phillips": "OUT",
+    "Collin Sexton": "OUT"
+  },
   "Toronto Raptors": {
     "RJ Barrett": "OUT",
     "Chucky Hepburn": "OUT",
@@ -12,16 +51,90 @@
     "Chris Paul": "OUT",
     "Jakob Poeltl": "OUT"
   },
-  "Utah Jazz": {},
-  "Atlanta Hawks": {},
-  "Charlotte Hornets": {},
-  "Houston Rockets": {},
-  "San Antonio Spurs": {},
-  "Dallas Mavericks": {},
-  "Golden State Warriors": {},
-  "Phoenix Suns": {},
-  "Philadelphia 76ers": {},
-  "Los Angeles Lakers": {},
+  "Utah Jazz": {
+    "Lonzo Ball": "OUT",
+    "Chris Boucher": "OUT",
+    "Keyonte George": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "John Konchar": "OUT",
+    "Kevin Love": "OUT",
+    "Vince Williams Jr.": "OUT"
+  },
+  "Atlanta Hawks": {
+    "N'Faly Dante": "OUT",
+    "RayJ Dennis": "OUT",
+    "Nikola Djurisic": "OUT",
+    "Caleb Houstan": "OUT",
+    "Luke Kennard": "OUT",
+    "Onyeka Okongwu": "OUT",
+    "Kristaps Porzingis": "OUT",
+    "Duop Reath": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Mike Conley": "OUT",
+    "PJ Hall": "OUT",
+    "Tyus Jones": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT",
+    "KJ Simpson": "OUT",
+    "Coby White": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tari Eason": "OUT",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Dylan Harper": "AVAILABLE",
+    "David Garcia": "OUT",
+    "Luke Kornet": "OUT",
+    "Kelly Olynyk": "AVAILABLE",
+    "Jeremy -Sochan": "OUT",
+    "Lindy Waters III": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Marvin Bagley III": "OUT",
+    "Moussa Cisse": "AVAILABLE",
+    "Daniel Gafford": "AVAILABLE",
+    "Kyrie Irving": "OUT",
+    "AJ Johnson": "OUT",
+    "Tyus Jones": "OUT",
+    "Miles Kelly": "AVAILABLE",
+    "Dereck Lively II": "OUT",
+    "Khris Middleton": "OUT",
+    "Ryan Nembhard": "AVAILABLE",
+    "P.J. Washington": "OUT",
+    "Brandon Williams": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Trayce Jackson-Davis": "OUT",
+    "De'Anthony Melton": "AVAILABLE"
+  },
+  "Phoenix Suns": {
+    "Devin Booker": "OUT",
+    "Jalen Green": "OUT",
+    "Nigel Hayes-Davis": "OUT",
+    "Nick Richards": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Patrick Baldwin Jr.": "AVAILABLE",
+    "Joel -Embiid": "AVAILABLE",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Los Angeles Lakers": {
+    "Jaxson Hayes": "OUT",
+    "Adou Thiero": "OUT",
+    "Gabe Vincent": "OUT"
+  },
   "Miami Heat": {
     "Tyler Herro": "OUT",
     "Kasparas Jakucionis": "AVAILABLE",
