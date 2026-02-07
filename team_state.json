@@ -130,6 +130,31 @@
     "Max Strus": "OUT",
     "Dean Wade": "DOUBTFUL"
   },
+  "Sacramento Kings": {
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Brandon Clarke": "OUT",
+    "Cedric Coward": "DOUBTFUL",
+    "Zach Edey": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Cam Spencer": "QUESTIONABLE",
+    "Jaylen Wells": "DOUBTFUL"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "QUESTIONABLE",
+    "Scoot Henderson": "OUT",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Matisse Thybulle": "OUT",
+    "Robert Williams III": "OUT"
+  },
   "Miami Heat": {
     "Bam Adebayo": "PROBABLE",
     "Tyler Herro": "OUT",
@@ -144,37 +169,13 @@
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
+    "Chris Paul": "OUT",
     "Jakob Poeltl": "QUESTIONABLE",
     "Immanuel Quickley": "QUESTIONABLE"
-  },
-  "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
-    "Scoot Henderson": "OUT",
-    "Damian Lillard": "OUT",
-    "Kris Murray": "OUT",
-    "Shaedon Sharpe": "OUT",
-    "Matisse Thybulle": "OUT",
-    "Robert Williams III": "OUT"
   },
   "Boston Celtics": {
     "Sam Hauser": "QUESTIONABLE",
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT"
-  },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Brandon Clarke": "OUT",
-    "Cedric Coward": "DOUBTFUL",
-    "Zach Edey": "OUT",
-    "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT",
-    "Cam Spencer": "QUESTIONABLE",
-    "Jaylen Wells": "DOUBTFUL"
-  },
-  "Sacramento Kings": {
-    "De'Andre Hunter": "OUT",
-    "Zach LaVine": "OUT",
-    "Keegan Murray": "OUT",
-    "Domantas Sabonis": "OUT"
   }
 }
