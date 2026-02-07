@@ -1,13 +1,13 @@
 {
   "Washington Wizards": {
-    "Bilal Coulibaly": "QUESTIONABLE",
+    "Bilal Coulibaly": "OUT",
     "Anthony Davis": "OUT",
     "Dante Exum": "OUT",
-    "Kyshawn George": "QUESTIONABLE",
+    "Kyshawn George": "OUT",
     "Jaden Hardy": "OUT",
     "Tre Johnson": "OUT",
     "D'Angelo Russell": "OUT",
-    "Alex Sarr": "QUESTIONABLE",
+    "Alex Sarr": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
@@ -131,5 +131,17 @@
     "Chucky Hepburn": "OUT",
     "Jakob Poeltl": "QUESTIONABLE",
     "Immanuel Quickley": "QUESTIONABLE"
+  },
+  "Miami Heat": {
+    "Bam Adebayo": "PROBABLE",
+    "Tyler Herro": "OUT",
+    "Kasparas Jakucionis": "AVAILABLE",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Nikola Jovic": "AVAILABLE",
+    "Pelle Larsson": "DOUBTFUL",
+    "Norman Powell": "QUESTIONABLE",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "AVAILABLE",
+    "Andrew Wiggins": "AVAILABLE"
   }
 }
