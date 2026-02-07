@@ -94,6 +94,8 @@
     "Noa Essengue": "OUT",
     "Josh Giddey": "OUT",
     "Tre Jones": "OUT",
+    "Yuki Kawamura": "OUT",
+    "Mac McClung": "OUT",
     "Jalen Smith": "QUESTIONABLE"
   },
   "Golden State Warriors": {
@@ -127,11 +129,6 @@
     "Max Strus": "OUT",
     "Dean Wade": "QUESTIONABLE"
   },
-  "Toronto Raptors": {
-    "Chucky Hepburn": "OUT",
-    "Jakob Poeltl": "QUESTIONABLE",
-    "Immanuel Quickley": "QUESTIONABLE"
-  },
   "Miami Heat": {
     "Bam Adebayo": "PROBABLE",
     "Tyler Herro": "OUT",
@@ -143,5 +140,10 @@
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Jakob Poeltl": "QUESTIONABLE",
+    "Immanuel Quickley": "QUESTIONABLE"
   }
 }
