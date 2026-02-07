@@ -155,5 +155,26 @@
     "Shaedon Sharpe": "OUT",
     "Matisse Thybulle": "OUT",
     "Robert Williams III": "OUT"
+  },
+  "Boston Celtics": {
+    "Sam Hauser": "QUESTIONABLE",
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Brandon Clarke": "OUT",
+    "Cedric Coward": "DOUBTFUL",
+    "Zach Edey": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Cam Spencer": "QUESTIONABLE",
+    "Jaylen Wells": "DOUBTFUL"
+  },
+  "Sacramento Kings": {
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT"
   }
 }
