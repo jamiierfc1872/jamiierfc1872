@@ -31,24 +31,24 @@
     "Jalen Williams": "OUT"
   },
   "Dallas Mavericks": {
-    "Marvin Bagley III": "PROBABLE",
-    "Moussa Cisse": "DOUBTFUL",
+    "Marvin Bagley III": "AVAILABLE",
+    "Moussa Cisse": "OUT",
     "Kyrie Irving": "OUT",
-    "AJ Johnson": "PROBABLE",
-    "Tyus Jones": "PROBABLE",
-    "Miles Kelly": "DOUBTFUL",
+    "AJ Johnson": "AVAILABLE",
+    "Tyus Jones": "AVAILABLE",
+    "Miles Kelly": "OUT",
     "Dereck Lively II": "OUT",
-    "Khris Middleton": "DOUBTFUL",
-    "Ryan Nembhard": "DOUBTFUL",
+    "Khris Middleton": "OUT",
+    "Ryan Nembhard": "OUT",
     "Brandon Williams": "AVAILABLE"
   },
   "San Antonio Spurs": {
-    "De'Aaron Fox": "QUESTIONABLE",
-    "Harrison Ingram": "QUESTIONABLE",
+    "De'Aaron Fox": "AVAILABLE",
+    "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
-    "Luke Kornet": "QUESTIONABLE",
-    "Jeremy Sochan": "QUESTIONABLE",
-    "Stanley Umude": "QUESTIONABLE",
+    "Luke Kornet": "AVAILABLE",
+    "Jeremy -Sochan": "AVAILABLE",
+    "Stanley -Umude": "OUT",
     "Lindy Waters III": "OUT"
   },
   "Utah Jazz": {
@@ -167,17 +167,6 @@
     "Dru Smith": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE"
   },
-  "Toronto Raptors": {
-    "Chucky Hepburn": "OUT",
-    "Chris Paul": "OUT",
-    "Jakob Poeltl": "QUESTIONABLE",
-    "Immanuel Quickley": "QUESTIONABLE"
-  },
-  "Boston Celtics": {
-    "Sam Hauser": "QUESTIONABLE",
-    "Max Shulga": "OUT",
-    "Jayson Tatum": "OUT"
-  },
   "Indiana Pacers": {
     "Kobe Brown": "OUT",
     "Tyrese Haliburton": "OUT",
@@ -188,5 +177,22 @@
     "Ethan Thompson": "DOUBTFUL",
     "Obi Toppin": "OUT",
     "Ivica Zubac": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Chris Paul": "OUT",
+    "Jakob Poeltl": "QUESTIONABLE",
+    "Immanuel Quickley": "QUESTIONABLE"
+  },
+  "New York Knicks": {
+    "OG Anunoby": "QUESTIONABLE",
+    "Josh Hart": "QUESTIONABLE",
+    "Dillon Jones": "OUT",
+    "Miles McBride": "OUT"
+  },
+  "Boston Celtics": {
+    "Sam Hauser": "QUESTIONABLE",
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT"
   }
 }
