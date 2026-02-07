@@ -128,7 +128,7 @@
     "Emanuel Miller": "OUT",
     "Evan Mobley": "OUT",
     "Max Strus": "OUT",
-    "Dean Wade": "QUESTIONABLE"
+    "Dean Wade": "DOUBTFUL"
   },
   "Miami Heat": {
     "Bam Adebayo": "PROBABLE",
@@ -146,5 +146,14 @@
     "Chucky Hepburn": "OUT",
     "Jakob Poeltl": "QUESTIONABLE",
     "Immanuel Quickley": "QUESTIONABLE"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "QUESTIONABLE",
+    "Scoot Henderson": "OUT",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Matisse Thybulle": "OUT",
+    "Robert Williams III": "OUT"
   }
 }
