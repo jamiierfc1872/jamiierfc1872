@@ -40,7 +40,7 @@
     "Dereck Lively II": "OUT",
     "Khris Middleton": "DOUBTFUL",
     "Ryan Nembhard": "DOUBTFUL",
-    "Brandon Williams": "PROBABLE"
+    "Brandon Williams": "AVAILABLE"
   },
   "San Antonio Spurs": {
     "De'Aaron Fox": "QUESTIONABLE",
@@ -177,5 +177,16 @@
     "Sam Hauser": "QUESTIONABLE",
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT"
+  },
+  "Indiana Pacers": {
+    "Kobe Brown": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "Aaron Nesmith": "QUESTIONABLE",
+    "Taelon Peter": "DOUBTFUL",
+    "Micah Potter": "QUESTIONABLE",
+    "Ethan Thompson": "DOUBTFUL",
+    "Obi Toppin": "OUT",
+    "Ivica Zubac": "OUT"
   }
 }
