@@ -124,7 +124,7 @@
     "Isaiah Livers": "OUT"
   },
   "Cleveland Cavaliers": {
-    "James Harden": "QUESTIONABLE",
+    "James Harden": "AVAILABLE",
     "Emanuel Miller": "OUT",
     "Evan Mobley": "OUT",
     "Max Strus": "OUT",
@@ -133,6 +133,7 @@
   "Sacramento Kings": {
     "De'Andre Hunter": "OUT",
     "Zach LaVine": "OUT",
+    "Malik Monk": "OUT",
     "Keegan Murray": "OUT",
     "Domantas Sabonis": "OUT"
   },
@@ -183,6 +184,18 @@
     "Chris Paul": "OUT",
     "Jakob Poeltl": "QUESTIONABLE",
     "Immanuel Quickley": "QUESTIONABLE"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Darius Garland": "OUT",
+    "Isaiah Jackson": "OUT",
+    "Bennedict Mathurin": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Johnny Juzang": "OUT",
+    "Julian Phillips": "QUESTIONABLE",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
   },
   "New York Knicks": {
     "OG Anunoby": "QUESTIONABLE",
