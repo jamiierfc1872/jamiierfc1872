@@ -1,21 +1,6 @@
 {
-  "Washington Wizards": {
-    "Bilal Coulibaly": "OUT",
-    "Anthony Davis": "OUT",
-    "Dante Exum": "OUT",
-    "Kyshawn George": "OUT",
-    "Jaden Hardy": "OUT",
-    "Tre Johnson": "OUT",
-    "D'Angelo Russell": "OUT",
-    "Alex Sarr": "OUT",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
-  },
-  "Brooklyn Nets": {
-    "Tyson Etienne": "OUT",
-    "Chaney Johnson": "OUT",
-    "E.J. Liddell": "OUT"
-  },
+  "Washington Wizards": {},
+  "Brooklyn Nets": {},
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
@@ -23,13 +8,7 @@
     "Amen Thompson": "AVAILABLE",
     "Fred VanVleet": "OUT"
   },
-  "Oklahoma City Thunder": {
-    "Shai Gilgeous-Alexander": "OUT",
-    "Ajay Mitchell": "OUT",
-    "Thomas Sorber": "OUT",
-    "Nikola Topic": "OUT",
-    "Jalen Williams": "OUT"
-  },
+  "Oklahoma City Thunder": {},
   "Dallas Mavericks": {
     "Marvin Bagley III": "AVAILABLE",
     "Moussa Cisse": "OUT",
@@ -51,72 +30,17 @@
     "Stanley -Umude": "OUT",
     "Lindy Waters III": "OUT"
   },
-  "Utah Jazz": {
-    "Keyonte George": "AVAILABLE",
-    "Walker Kessler": "OUT",
-    "Kevin Love": "AVAILABLE"
-  },
-  "Orlando Magic": {
-    "Colin Castleton": "OUT",
-    "Franz Wagner": "OUT"
-  },
-  "Charlotte Hornets": {
-    "Malaki Branham": "OUT",
-    "Tosan Evbuomwan": "OUT",
-    "PJ Hall": "OUT",
-    "Liam McNeeley": "OUT",
-    "Antonio Reeves": "OUT",
-    "Tidjane Salaun": "AVAILABLE",
-    "Xavier Tillman": "OUT",
-    "Coby White": "OUT"
-  },
-  "Atlanta Hawks": {
-    "RayJ Dennis": "OUT",
-    "Nikola Djurisic": "OUT",
-    "Buddy Hield": "AVAILABLE",
-    "Caleb -Houstan": "OUT",
-    "Jonathan Kuminga": "OUT",
-    "Onyeka Okongwu": "AVAILABLE",
-    "Gabe Vincent": "AVAILABLE"
-  },
-  "Denver Nuggets": {
-    "Tamar Bates": "OUT",
-    "Christian Braun": "AVAILABLE",
-    "Aaron Gordon": "OUT",
-    "Cameron Johnson": "AVAILABLE",
-    "Nikola Jokic": "AVAILABLE",
-    "Curtis Jones": "OUT",
-    "Spencer Jones": "OUT",
-    "Peyton Watson": "OUT"
-  },
-  "Chicago Bulls": {
-    "Zach Collins": "OUT",
-    "Noa Essengue": "OUT",
-    "Josh Giddey": "OUT",
-    "Tre Jones": "OUT",
-    "Yuki Kawamura": "OUT",
-    "Mac McClung": "OUT",
-    "Jalen Smith": "OUT"
-  },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "LJ Cryer": "OUT",
-    "Seth Curry": "OUT",
-    "Stephen Curry": "OUT",
-    "Brandin Podziemski": "AVAILABLE",
-    "Kristaps Porzingis": "OUT"
-  },
+  "Utah Jazz": {},
+  "Orlando Magic": {},
+  "Charlotte Hornets": {},
+  "Atlanta Hawks": {},
+  "Denver Nuggets": {},
+  "Chicago Bulls": {},
+  "Golden State Warriors": {},
   "Los Angeles Lakers": {
-    "Deandre Ayton": "OUT",
-    "Luka Doncic": "OUT",
-    "Luke Kennard": "AVAILABLE",
-    "Adou Thiero": "OUT"
+    "Deandre Ayton": "AVAILABLE"
   },
-  "Philadelphia 76ers": {
-    "Joel Embiid": "AVAILABLE",
-    "Paul George": "OUT",
-    "Kelly Oubre Jr.": "AVAILABLE"
-  },
+  "Philadelphia 76ers": {},
   "Phoenix Suns": {
     "Grayson Allen": "OUT",
     "Cole Anthony": "OUT",
@@ -125,40 +49,10 @@
     "Jalen Green": "AVAILABLE",
     "Isaiah Livers": "OUT"
   },
-  "Cleveland Cavaliers": {
-    "James Harden": "AVAILABLE",
-    "Emanuel Miller": "OUT",
-    "Evan Mobley": "OUT",
-    "Max Strus": "OUT",
-    "Dean Wade": "OUT"
-  },
-  "Sacramento Kings": {
-    "De'Andre Hunter": "OUT",
-    "Zach LaVine": "OUT",
-    "Malik Monk": "OUT",
-    "Keegan Murray": "OUT",
-    "Domantas Sabonis": "OUT",
-    "Isaiah Stevens": "OUT"
-  },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Brandon Clarke": "OUT",
-    "Cedric Coward": "OUT",
-    "Zach Edey": "OUT",
-    "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT",
-    "Cam Spencer": "OUT",
-    "Jaylen Wells": "OUT"
-  },
-  "Portland Trail Blazers": {
-    "Deni Avdija": "OUT",
-    "Scoot Henderson": "OUT",
-    "Damian Lillard": "OUT",
-    "Kris Murray": "OUT",
-    "Shaedon Sharpe": "OUT",
-    "Matisse Thybulle": "OUT",
-    "Robert Williams III": "OUT"
-  },
+  "Cleveland Cavaliers": {},
+  "Sacramento Kings": {},
+  "Memphis Grizzlies": {},
+  "Portland Trail Blazers": {},
   "Miami Heat": {
     "Bam Adebayo": "PROBABLE",
     "Tyler Herro": "OUT",
