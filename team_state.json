@@ -30,10 +30,10 @@
   "Indiana Pacers": {
     "Kobe Brown": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "QUESTIONABLE",
-    "Aaron Nesmith": "QUESTIONABLE",
+    "Quenton Jackson": "OUT",
+    "Aaron Nesmith": "AVAILABLE",
     "Taelon Peter": "OUT",
-    "Micah Potter": "QUESTIONABLE",
+    "Micah Potter": "AVAILABLE",
     "Ethan Thompson": "OUT",
     "Obi Toppin": "OUT",
     "Ivica Zubac": "OUT"
@@ -41,8 +41,8 @@
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "Chris Paul": "OUT",
-    "Jakob Poeltl": "DOUBTFUL",
-    "Immanuel Quickley": "QUESTIONABLE"
+    "Jakob Poeltl": "OUT",
+    "Immanuel Quickley": "PROBABLE"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
