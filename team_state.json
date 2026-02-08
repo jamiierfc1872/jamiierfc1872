@@ -13,6 +13,20 @@
     "Dru Smith": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE"
   },
+  "Washington Wizards": {
+    "Bilal Coulibaly": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Dante Exum": "OUT",
+    "Kyshawn George": "QUESTIONABLE",
+    "Anthony Gill": "QUESTIONABLE",
+    "Jaden Hardy": "OUT",
+    "Tre Johnson": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "QUESTIONABLE",
+    "Tristan Vukcevic": "QUESTIONABLE",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
   "Indiana Pacers": {
     "Kobe Brown": "OUT",
     "Tyrese Haliburton": "OUT",
@@ -55,19 +69,5 @@
   },
   "Los Angeles Lakers": {
     "Deandre Ayton": "AVAILABLE"
-  },
-  "Washington Wizards": {
-    "Bilal Coulibaly": "QUESTIONABLE",
-    "Anthony Davis": "OUT",
-    "Dante Exum": "OUT",
-    "Kyshawn George": "QUESTIONABLE",
-    "Anthony Gill": "QUESTIONABLE",
-    "Jaden Hardy": "OUT",
-    "Tre Johnson": "OUT",
-    "D'Angelo Russell": "OUT",
-    "Alex Sarr": "QUESTIONABLE",
-    "Tristan Vukcevic": "QUESTIONABLE",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
   }
 }
