@@ -42,7 +42,7 @@
     "Chucky Hepburn": "OUT",
     "Chris Paul": "OUT",
     "Jakob Poeltl": "OUT",
-    "Immanuel Quickley": "PROBABLE"
+    "Immanuel Quickley": "AVAILABLE"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
@@ -66,6 +66,15 @@
     "Sam Hauser": "OUT",
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "DOUBTFUL",
+    "Tre Jones": "DOUBTFUL",
+    "Yuki Kawamura": "OUT",
+    "Mac McClung": "OUT",
+    "Jalen Smith": "QUESTIONABLE"
   },
   "Los Angeles Lakers": {
     "Deandre Ayton": "AVAILABLE"
