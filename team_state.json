@@ -112,6 +112,23 @@
     "Keyonte George": "OUT",
     "Walker Kessler": "OUT"
   },
+  "Atlanta Hawks": {
+    "Dyson Daniels": "QUESTIONABLE",
+    "RayJ Dennis": "DOUBTFUL",
+    "Nikola Djurisic": "DOUBTFUL",
+    "Caleb Houstan": "DOUBTFUL",
+    "Jonathan Kuminga": "OUT",
+    "Onyeka Okongwu": "AVAILABLE"
+  },
+  "Sacramento Kings": {
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Doug McDermott": "QUESTIONABLE",
+    "Malik Monk": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "QUESTIONABLE",
+    "Isaiah Stevens": "OUT"
+  },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
@@ -129,12 +146,5 @@
   },
   "Los Angeles Lakers": {
     "Deandre Ayton": "AVAILABLE"
-  },
-  "Atlanta Hawks": {
-    "Dyson Daniels": "QUESTIONABLE",
-    "RayJ Dennis": "DOUBTFUL",
-    "Nikola Djurisic": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
-    "Jonathan Kuminga": "OUT"
   }
 }
