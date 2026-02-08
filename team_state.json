@@ -67,22 +67,8 @@
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT"
   },
-  "Detroit Pistons": {
-    "Jalen Duren": "PROBABLE",
-    "Ronald Holland II": "OUT",
-    "Bobi Klintman": "OUT",
-    "Chaz Lanier": "OUT",
-    "Wendell Moore Jr.": "OUT",
-    "Dario Saric": "OUT",
-    "Tolu Smith": "OUT"
-  },
-  "Charlotte Hornets": {
-    "Malaki Branham": "OUT",
-    "PJ Hall": "OUT",
-    "Liam McNeeley": "OUT",
-    "Antonio Reeves": "OUT",
-    "Coby White": "OUT"
-  },
+  "Detroit Pistons": {},
+  "Charlotte Hornets": {},
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -92,13 +78,7 @@
     "Mac McClung": "OUT",
     "Jalen Smith": "QUESTIONABLE"
   },
-  "Brooklyn Nets": {
-    "Egor Demin": "OUT",
-    "Tyson Etienne": "OUT",
-    "Chaney Johnson": "OUT",
-    "E.J. Liddell": "OUT",
-    "Michael Porter Jr.": "OUT"
-  },
+  "Brooklyn Nets": {},
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
@@ -108,25 +88,9 @@
     "Colin Castleton": "OUT",
     "Franz Wagner": "QUESTIONABLE"
   },
-  "Utah Jazz": {
-    "Keyonte George": "OUT",
-    "Walker Kessler": "OUT"
-  },
-  "New Orleans Pelicans": {
-    "Trey Alexander": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Dejounte Murray": "OUT"
-  },
-  "Denver Nuggets": {
-    "Tamar Bates": "OUT",
-    "Christian Braun": "PROBABLE",
-    "Aaron Gordon": "OUT",
-    "Nikola Jokic": "PROBABLE",
-    "Curtis Jones": "OUT",
-    "Spencer Jones": "OUT",
-    "Jamal Murray": "QUESTIONABLE",
-    "Peyton Watson": "OUT"
-  },
+  "Utah Jazz": {},
+  "New Orleans Pelicans": {},
+  "Denver Nuggets": {},
   "Los Angeles Lakers": {
     "Deandre Ayton": "AVAILABLE"
   }
