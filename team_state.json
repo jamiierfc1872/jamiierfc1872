@@ -1,58 +1,4 @@
 {
-  "Washington Wizards": {},
-  "Brooklyn Nets": {},
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tristen Newton": "OUT",
-    "Jae'Sean Tate": "OUT",
-    "Amen Thompson": "AVAILABLE",
-    "Fred VanVleet": "OUT"
-  },
-  "Oklahoma City Thunder": {},
-  "Dallas Mavericks": {
-    "Marvin Bagley III": "AVAILABLE",
-    "Moussa Cisse": "OUT",
-    "Kyrie Irving": "OUT",
-    "AJ Johnson": "AVAILABLE",
-    "Tyus Jones": "AVAILABLE",
-    "Miles Kelly": "OUT",
-    "Dereck Lively II": "OUT",
-    "Khris Middleton": "OUT",
-    "Ryan Nembhard": "OUT",
-    "Brandon Williams": "AVAILABLE"
-  },
-  "San Antonio Spurs": {
-    "De'Aaron Fox": "AVAILABLE",
-    "Harrison Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Luke Kornet": "AVAILABLE",
-    "Jeremy -Sochan": "AVAILABLE",
-    "Stanley -Umude": "OUT",
-    "Lindy Waters III": "OUT"
-  },
-  "Utah Jazz": {},
-  "Orlando Magic": {},
-  "Charlotte Hornets": {},
-  "Atlanta Hawks": {},
-  "Denver Nuggets": {},
-  "Chicago Bulls": {},
-  "Golden State Warriors": {},
-  "Los Angeles Lakers": {
-    "Deandre Ayton": "AVAILABLE"
-  },
-  "Philadelphia 76ers": {},
-  "Phoenix Suns": {
-    "Grayson Allen": "OUT",
-    "Cole Anthony": "OUT",
-    "Devin Booker": "AVAILABLE",
-    "Koby Brea": "OUT",
-    "Jalen Green": "AVAILABLE",
-    "Isaiah Livers": "OUT"
-  },
-  "Cleveland Cavaliers": {},
-  "Sacramento Kings": {},
-  "Memphis Grizzlies": {},
-  "Portland Trail Blazers": {},
   "Miami Heat": {
     "Bam Adebayo": "PROBABLE",
     "Tyler Herro": "OUT",
@@ -104,5 +50,8 @@
     "Sam Hauser": "QUESTIONABLE",
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Deandre Ayton": "AVAILABLE"
   }
 }
