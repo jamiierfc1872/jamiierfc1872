@@ -30,10 +30,10 @@
   "Indiana Pacers": {
     "Kobe Brown": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "OUT",
-    "Aaron Nesmith": "AVAILABLE",
+    "Quenton Jackson": "QUESTIONABLE",
+    "Aaron Nesmith": "QUESTIONABLE",
     "Taelon Peter": "OUT",
-    "Micah Potter": "AVAILABLE",
+    "Micah Potter": "QUESTIONABLE",
     "Ethan Thompson": "OUT",
     "Obi Toppin": "OUT",
     "Ivica Zubac": "OUT"
@@ -41,8 +41,8 @@
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "Chris Paul": "OUT",
-    "Jakob Poeltl": "OUT",
-    "Immanuel Quickley": "AVAILABLE"
+    "Jakob Poeltl": "DOUBTFUL",
+    "Immanuel Quickley": "QUESTIONABLE"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
@@ -52,7 +52,7 @@
   },
   "Minnesota Timberwolves": {
     "Johnny Juzang": "OUT",
-    "Julian Phillips": "AVAILABLE",
+    "Julian Phillips": "QUESTIONABLE",
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
@@ -67,15 +67,7 @@
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT"
   },
-  "Chicago Bulls": {
-    "Zach Collins": "OUT",
-    "Noa Essengue": "OUT",
-    "Josh Giddey": "DOUBTFUL",
-    "Tre Jones": "DOUBTFUL",
-    "Yuki Kawamura": "OUT",
-    "Mac McClung": "OUT",
-    "Jalen Smith": "QUESTIONABLE"
-  },
+  "Chicago Bulls": {},
   "Los Angeles Lakers": {
     "Deandre Ayton": "AVAILABLE"
   }
