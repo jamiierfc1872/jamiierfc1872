@@ -103,24 +103,26 @@
     "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
-    "Brandin Podziemski": "PROBABLE",
+    "Brandin Podziemski": "AVAILABLE",
     "Kristaps Porzingis": "OUT"
   },
   "Los Angeles Lakers": {
+    "Deandre Ayton": "OUT",
     "Luka Doncic": "OUT",
     "Luke Kennard": "AVAILABLE",
     "Adou Thiero": "OUT"
   },
   "Philadelphia 76ers": {
-    "Joel Embiid": "QUESTIONABLE",
+    "Joel Embiid": "AVAILABLE",
     "Paul George": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Phoenix Suns": {
     "Grayson Allen": "OUT",
     "Cole Anthony": "OUT",
-    "Devin Booker": "QUESTIONABLE",
-    "Jalen Green": "QUESTIONABLE",
+    "Devin Booker": "AVAILABLE",
+    "Koby Brea": "OUT",
+    "Jalen Green": "AVAILABLE",
     "Isaiah Livers": "OUT"
   },
   "Cleveland Cavaliers": {
@@ -128,7 +130,7 @@
     "Emanuel Miller": "OUT",
     "Evan Mobley": "OUT",
     "Max Strus": "OUT",
-    "Dean Wade": "DOUBTFUL"
+    "Dean Wade": "OUT"
   },
   "Sacramento Kings": {
     "De'Andre Hunter": "OUT",
@@ -141,15 +143,15 @@
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
     "Brandon Clarke": "OUT",
-    "Cedric Coward": "DOUBTFUL",
+    "Cedric Coward": "OUT",
     "Zach Edey": "OUT",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT",
-    "Cam Spencer": "QUESTIONABLE",
-    "Jaylen Wells": "DOUBTFUL"
+    "Cam Spencer": "OUT",
+    "Jaylen Wells": "OUT"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
+    "Deni Avdija": "OUT",
     "Scoot Henderson": "OUT",
     "Damian Lillard": "OUT",
     "Kris Murray": "OUT",
