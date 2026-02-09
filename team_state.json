@@ -45,21 +45,41 @@
     "Walker Kessler": "OUT",
     "Kevin Love": "OUT"
   },
+  "Miami Heat": {
+    "Bam Adebayo": "PROBABLE",
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "OUT",
+    "Kasparas Jakucionis": "AVAILABLE",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Keshad Johnson": "OUT",
+    "Nikola Jovic": "AVAILABLE",
+    "Pelle Larsson": "DOUBTFUL",
+    "Norman Powell": "QUESTIONABLE",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "AVAILABLE",
+    "Andrew Wiggins": "AVAILABLE"
+  },
   "Atlanta Hawks": {
     "Dyson Daniels": "QUESTIONABLE",
-    "RayJ Dennis": "DOUBTFUL",
-    "Nikola Djurisic": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Nikola Djurisic": "OUT",
+    "Caleb Houstan": "OUT",
+    "Jalen Johnson": "QUESTIONABLE",
     "Jonathan Kuminga": "OUT",
     "Onyeka Okongwu": "AVAILABLE"
+  },
+  "Minnesota Timberwolves": {
+    "Johnny Juzang": "OUT",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
   },
   "Sacramento Kings": {
     "De'Andre Hunter": "OUT",
     "Zach LaVine": "OUT",
-    "Doug McDermott": "QUESTIONABLE",
-    "Malik Monk": "OUT",
+    "Doug McDermott": "AVAILABLE",
+    "Malik -Monk": "OUT",
     "Keegan Murray": "OUT",
-    "Domantas Sabonis": "QUESTIONABLE",
+    "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
   },
   "New Orleans Pelicans": {
@@ -122,19 +142,5 @@
     "Shaedon Sharpe": "OUT",
     "Matisse Thybulle": "OUT",
     "Robert Williams III": "QUESTIONABLE"
-  },
-  "Miami Heat": {
-    "Bam Adebayo": "PROBABLE",
-    "Vladislav Goldin": "OUT",
-    "Tyler Herro": "OUT",
-    "Kasparas Jakucionis": "AVAILABLE",
-    "Jaime Jaquez Jr.": "AVAILABLE",
-    "Keshad Johnson": "OUT",
-    "Nikola Jovic": "AVAILABLE",
-    "Pelle Larsson": "DOUBTFUL",
-    "Norman Powell": "QUESTIONABLE",
-    "Terry Rozier": "OUT",
-    "Dru Smith": "AVAILABLE",
-    "Andrew Wiggins": "AVAILABLE"
   }
 }
