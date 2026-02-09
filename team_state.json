@@ -1,6 +1,6 @@
 {
   "Detroit Pistons": {
-    "Jalen Duren": "PROBABLE",
+    "Jalen Duren": "AVAILABLE",
     "Ronald Holland II": "OUT",
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
@@ -61,11 +61,11 @@
     "Andrew Wiggins": "AVAILABLE"
   },
   "Atlanta Hawks": {
-    "Dyson Daniels": "QUESTIONABLE",
+    "Dyson Daniels": "OUT",
     "RayJ Dennis": "OUT",
     "Nikola Djurisic": "OUT",
     "Caleb Houstan": "OUT",
-    "Jalen Johnson": "QUESTIONABLE",
+    "Jalen Johnson": "OUT",
     "Jonathan Kuminga": "OUT",
     "Onyeka Okongwu": "AVAILABLE"
   },
@@ -174,5 +174,13 @@
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "DOUBTFUL",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "DOUBTFUL",
+    "Dereck Lively II": "OUT",
+    "Ryan Nembhard": "DOUBTFUL",
+    "Klay Thompson": "QUESTIONABLE"
   }
 }
