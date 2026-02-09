@@ -151,7 +151,43 @@
     "Jamal Murray": "QUESTIONABLE",
     "Peyton Watson": "OUT"
   },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Zach Edey": "OUT",
+    "Ja Morant": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Kristaps Porzingis": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Shai Gilgeous-Alexander": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT"
+  },
   "Los Angeles Lakers": {
-    "Deandre Ayton": "AVAILABLE"
+    "Deandre Ayton": "PROBABLE",
+    "Luka Doncic": "OUT",
+    "Adou Thiero": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Joel Embiid": "QUESTIONABLE",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "QUESTIONABLE",
+    "Scoot Henderson": "PROBABLE",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Matisse Thybulle": "OUT",
+    "Robert Williams III": "QUESTIONABLE"
   }
 }
