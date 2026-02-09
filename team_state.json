@@ -148,17 +148,6 @@
     "Matisse Thybulle": "OUT",
     "Robert Williams III": "QUESTIONABLE"
   },
-  "New York Knicks": {
-    "OG Anunoby": "QUESTIONABLE",
-    "Pacome Dadiet": "QUESTIONABLE",
-    "Dillon Jones": "QUESTIONABLE",
-    "Miles McBride": "OUT",
-    "Mitchell Robinson": "OUT"
-  },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Fred VanVleet": "OUT"
-  },
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
@@ -170,5 +159,16 @@
     "Ethan Thompson": "QUESTIONABLE",
     "Obi Toppin": "OUT",
     "Ivica Zubac": "QUESTIONABLE"
+  },
+  "New York Knicks": {
+    "OG Anunoby": "QUESTIONABLE",
+    "Pacome Dadiet": "QUESTIONABLE",
+    "Dillon Jones": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Mitchell Robinson": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Fred VanVleet": "OUT"
   }
 }
