@@ -91,19 +91,19 @@
   "Cleveland Cavaliers": {
     "Emanuel Miller": "OUT",
     "Evan Mobley": "OUT",
-    "Tyrese Proctor": "QUESTIONABLE",
+    "Tyrese Proctor": "AVAILABLE",
     "Max Strus": "OUT",
-    "Jaylon Tyson": "QUESTIONABLE",
-    "Dean Wade": "QUESTIONABLE"
+    "Jaylon Tyson": "AVAILABLE",
+    "Dean Wade": "OUT"
   },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
-    "Christian Braun": "PROBABLE",
+    "Christian Braun": "AVAILABLE",
     "Aaron Gordon": "OUT",
-    "Nikola Jokic": "PROBABLE",
+    "Nikola Jokic": "AVAILABLE",
     "Curtis Jones": "OUT",
     "Spencer Jones": "OUT",
-    "Jamal Murray": "QUESTIONABLE",
+    "Jamal Murray": "AVAILABLE",
     "Peyton Watson": "OUT"
   },
   "Memphis Grizzlies": {
@@ -119,7 +119,7 @@
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
     "Kristaps Porzingis": "OUT",
-    "Will Richard": "QUESTIONABLE"
+    "Will Richard": "AVAILABLE"
   },
   "Oklahoma City Thunder": {
     "Brooks Barnhizer": "OUT",
@@ -131,13 +131,14 @@
   "Los Angeles Lakers": {
     "Deandre Ayton": "AVAILABLE",
     "Luka Doncic": "OUT",
-    "Dalton Knecht": "QUESTIONABLE",
+    "Dalton Knecht": "AVAILABLE",
     "Adou Thiero": "OUT"
   },
   "Philadelphia 76ers": {
+    "Dominick Barlow": "QUESTIONABLE",
     "Joel Embiid": "QUESTIONABLE",
     "Paul George": "OUT",
-    "Quentin Grimes": "QUESTIONABLE",
+    "Quentin Grimes": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Portland Trail Blazers": {
