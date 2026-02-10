@@ -53,5 +53,32 @@
     "Yuki Kawamura": "OUT",
     "Mac McClung": "OUT",
     "Jalen Smith": "DOUBTFUL"
+  },
+  "Miami Heat": {
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "OUT",
+    "Kasparas Jakucionis": "AVAILABLE",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Keshad Johnson": "OUT",
+    "Nikola Jovic": "AVAILABLE",
+    "Pelle Larsson": "OUT",
+    "Norman Powell": "OUT",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "AVAILABLE",
+    "Andrew Wiggins": "QUESTIONABLE"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Pete Nance": "QUESTIONABLE",
+    "Taurean Prince": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "A.J. Lawson": "OUT",
+    "Jonathan Mogbo": "OUT",
+    "Collin Murray-Boyles": "OUT",
+    "Chris Paul": "OUT",
+    "Jakob Poeltl": "QUESTIONABLE"
   }
 }
