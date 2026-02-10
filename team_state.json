@@ -9,6 +9,7 @@
     "Micah Potter": "QUESTIONABLE",
     "Ethan Thompson": "QUESTIONABLE",
     "Obi Toppin": "OUT",
+    "Jarace Walker": "DOUBTFUL",
     "Ivica Zubac": "QUESTIONABLE"
   },
   "New York Knicks": {
@@ -52,6 +53,22 @@
     "Austin Reaves": "OUT",
     "Marcus Smart": "OUT"
   },
+  "Atlanta Hawks": {
+    "Dyson Daniels": "QUESTIONABLE",
+    "RayJ Dennis": "DOUBTFUL",
+    "Nikola Djurisic": "DOUBTFUL",
+    "Caleb Houstan": "DOUBTFUL",
+    "Jalen Johnson": "QUESTIONABLE",
+    "Jonathan Kuminga": "OUT",
+    "Onyeka Okongwu": "AVAILABLE",
+    "Zaccharie Risacher": "QUESTIONABLE"
+  },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Coby White": "OUT"
+  },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
@@ -60,6 +77,21 @@
   },
   "Orlando Magic": {
     "Colin Castleton": "OUT"
+  },
+  "Washington Wizards": {
+    "Bilal Coulibaly": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "QUESTIONABLE",
+    "Anthony Gill": "QUESTIONABLE",
+    "D'Angelo Russell": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
+  "Cleveland Cavaliers": {
+    "Emanuel Miller": "OUT",
+    "Evan Mobley": "OUT",
+    "Max Strus": "OUT",
+    "Dean Wade": "OUT"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
@@ -77,6 +109,11 @@
     "Jayson Tatum": "OUT",
     "John Tonje": "OUT"
   },
+  "Detroit Pistons": {
+    "Ronald Holland II": "OUT",
+    "Isaac Jones": "OUT",
+    "Wendell Moore Jr.": "OUT"
+  },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "A.J. Lawson": "OUT",
@@ -91,6 +128,13 @@
     "Chaney Johnson": "OUT",
     "E.J. Liddell": "OUT",
     "Michael Porter Jr.": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Dominick Barlow": "QUESTIONABLE",
+    "Joel Embiid": "QUESTIONABLE",
+    "Paul George": "OUT",
+    "Quentin Grimes": "QUESTIONABLE",
+    "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
@@ -111,13 +155,9 @@
     "Dejounte Murray": "OUT",
     "Micah Peavy": "QUESTIONABLE"
   },
-  "Washington Wizards": {
-    "Bilal Coulibaly": "QUESTIONABLE",
-    "Anthony Davis": "OUT",
-    "Kyshawn George": "QUESTIONABLE",
-    "Anthony Gill": "QUESTIONABLE",
-    "D'Angelo Russell": "OUT",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
+  "Minnesota Timberwolves": {
+    "Johnny Juzang": "OUT",
+    "Terrence Shannon Jr.": "OUT",
+    "Rocco Zikarsky": "OUT"
   }
 }
