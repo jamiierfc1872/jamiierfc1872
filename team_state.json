@@ -45,6 +45,22 @@
     "Stanley Umude": "OUT",
     "Lindy Waters III": "OUT"
   },
+  "Los Angeles Lakers": {
+    "Deandre Ayton": "QUESTIONABLE",
+    "Luka Doncic": "OUT",
+    "LeBron James": "OUT",
+    "Austin Reaves": "OUT",
+    "Marcus Smart": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Pete Nance": "QUESTIONABLE",
+    "Taurean Prince": "OUT"
+  },
+  "Orlando Magic": {
+    "Colin Castleton": "OUT"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -53,6 +69,14 @@
     "Yuki Kawamura": "OUT",
     "Mac McClung": "OUT",
     "Jalen Smith": "DOUBTFUL"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "A.J. Lawson": "OUT",
+    "Jonathan Mogbo": "OUT",
+    "Collin Murray-Boyles": "OUT",
+    "Chris Paul": "OUT",
+    "Jakob Poeltl": "QUESTIONABLE"
   },
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
@@ -66,20 +90,6 @@
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
     "Andrew Wiggins": "QUESTIONABLE"
-  },
-  "Milwaukee Bucks": {
-    "Alex Antetokounmpo": "OUT",
-    "Giannis Antetokounmpo": "OUT",
-    "Pete Nance": "QUESTIONABLE",
-    "Taurean Prince": "OUT"
-  },
-  "Toronto Raptors": {
-    "Chucky Hepburn": "OUT",
-    "A.J. Lawson": "OUT",
-    "Jonathan Mogbo": "OUT",
-    "Collin Murray-Boyles": "OUT",
-    "Chris Paul": "OUT",
-    "Jakob Poeltl": "QUESTIONABLE"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
