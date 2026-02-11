@@ -34,7 +34,8 @@
     "Kyshawn George": "AVAILABLE",
     "Anthony Gill": "AVAILABLE",
     "D'Angelo Russell": "OUT",
-    "Tristan Vukcevic": "QUESTIONABLE",
+    "Alex Sarr": "QUESTIONABLE",
+    "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
@@ -110,6 +111,18 @@
     "Paul George": "OUT",
     "Quentin Grimes": "QUESTIONABLE",
     "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "LA Clippers": {
+    "Nicolas Batum": "OUT",
+    "Bradley Beal": "OUT",
+    "Darius Garland": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tari Eason": "QUESTIONABLE",
+    "Dorian Finney-Smith": "OUT",
+    "Alperen Sengun": "PROBABLE",
+    "Fred VanVleet": "OUT"
   },
   "Miami Heat": {
     "Vladislav Goldin": "AVAILABLE",
