@@ -1,15 +1,17 @@
 {
   "Atlanta Hawks": {
     "Dyson Daniels": "QUESTIONABLE",
-    "RayJ Dennis": "DOUBTFUL",
-    "Nikola Djurisic": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Nikola Djurisic": "OUT",
+    "Caleb Houstan": "OUT",
     "Jalen Johnson": "QUESTIONABLE",
     "Jonathan Kuminga": "OUT",
     "Onyeka Okongwu": "AVAILABLE",
     "Zaccharie Risacher": "QUESTIONABLE"
   },
   "Charlotte Hornets": {
+    "Miles Bridges": "OUT",
+    "Moussa Diabate": "OUT",
     "Tosan Evbuomwan": "OUT",
     "Liam McNeeley": "OUT",
     "Antonio Reeves": "OUT",
@@ -19,17 +21,20 @@
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
     "Pete Nance": "QUESTIONABLE",
-    "Taurean Prince": "OUT"
+    "Taurean Prince": "OUT",
+    "Ryan Rollins": "QUESTIONABLE"
   },
   "Orlando Magic": {
-    "Colin Castleton": "OUT"
+    "Colin Castleton": "OUT",
+    "Jett Howard": "OUT"
   },
   "Washington Wizards": {
-    "Bilal Coulibaly": "QUESTIONABLE",
+    "Bilal Coulibaly": "AVAILABLE",
     "Anthony Davis": "OUT",
-    "Kyshawn George": "QUESTIONABLE",
-    "Anthony Gill": "QUESTIONABLE",
+    "Kyshawn George": "AVAILABLE",
+    "Anthony Gill": "AVAILABLE",
     "D'Angelo Russell": "OUT",
+    "Tristan Vukcevic": "QUESTIONABLE",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
@@ -50,16 +55,18 @@
     "Jalen Smith": "DOUBTFUL"
   },
   "Boston Celtics": {
-    "Sam Hauser": "PROBABLE",
-    "Neemias Queta": "PROBABLE",
+    "Sam Hauser": "AVAILABLE",
+    "Neemias Queta": "AVAILABLE",
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT",
     "John Tonje": "OUT"
   },
   "Detroit Pistons": {
+    "Jalen Duren": "OUT",
     "Ronald Holland II": "OUT",
     "Isaac Jones": "OUT",
-    "Wendell Moore Jr.": "OUT"
+    "Wendell Moore Jr.": "OUT",
+    "Isaiah Stewart": "OUT"
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
@@ -69,16 +76,34 @@
     "Chris Paul": "OUT",
     "Jakob Poeltl": "QUESTIONABLE"
   },
-  "Indiana Pacers": {},
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "PROBABLE",
+    "T.J. McConnell": "OUT",
+    "Andrew Nembhard": "OUT",
+    "Aaron Nesmith": "OUT",
+    "Taelon Peter": "PROBABLE",
+    "Micah Potter": "QUESTIONABLE",
+    "Pascal Siakam": "OUT",
+    "Ethan Thompson": "PROBABLE",
+    "Obi Toppin": "OUT",
+    "Jarace Walker": "QUESTIONABLE",
+    "Ivica Zubac": "OUT"
+  },
   "Brooklyn Nets": {
-    "Nic Claxton": "QUESTIONABLE",
+    "Nic Claxton": "DOUBTFUL",
     "Noah Clowney": "PROBABLE",
     "Tyson Etienne": "OUT",
     "Chaney Johnson": "OUT",
     "E.J. Liddell": "OUT",
     "Michael Porter Jr.": "OUT"
   },
-  "New York Knicks": {},
+  "New York Knicks": {
+    "OG Anunoby": "OUT",
+    "Pacome Dadiet": "OUT",
+    "Miles McBride": "OUT"
+  },
   "Philadelphia 76ers": {
     "Dominick Barlow": "QUESTIONABLE",
     "Joel Embiid": "QUESTIONABLE",
@@ -87,11 +112,11 @@
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Miami Heat": {
-    "Vladislav Goldin": "OUT",
+    "Vladislav Goldin": "AVAILABLE",
     "Tyler Herro": "OUT",
     "Kasparas Jakucionis": "AVAILABLE",
     "Jaime Jaquez Jr.": "AVAILABLE",
-    "Keshad Johnson": "OUT",
+    "Keshad Johnson": "AVAILABLE",
     "Nikola Jovic": "AVAILABLE",
     "Pelle Larsson": "OUT",
     "Norman Powell": "OUT",
@@ -103,7 +128,7 @@
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
     "Dejounte Murray": "OUT",
-    "Micah Peavy": "QUESTIONABLE"
+    "Micah Peavy": "OUT"
   },
   "Portland Trail Blazers": {
     "Damian Lillard": "OUT",
