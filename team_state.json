@@ -22,14 +22,16 @@
     "Taurean Prince": "OUT"
   },
   "Orlando Magic": {
-    "Colin Castleton": "OUT"
+    "Colin Castleton": "OUT",
+    "Jett Howard": "OUT"
   },
   "Washington Wizards": {
-    "Bilal Coulibaly": "QUESTIONABLE",
+    "Bilal Coulibaly": "AVAILABLE",
     "Anthony Davis": "OUT",
-    "Kyshawn George": "QUESTIONABLE",
-    "Anthony Gill": "QUESTIONABLE",
+    "Kyshawn George": "AVAILABLE",
+    "Anthony Gill": "AVAILABLE",
     "D'Angelo Russell": "OUT",
+    "Tristan Vukcevic": "QUESTIONABLE",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
@@ -70,7 +72,7 @@
     "Jakob Poeltl": "QUESTIONABLE"
   },
   "Brooklyn Nets": {
-    "Nic Claxton": "QUESTIONABLE",
+    "Nic Claxton": "DOUBTFUL",
     "Noah Clowney": "PROBABLE",
     "Tyson Etienne": "OUT",
     "Chaney Johnson": "OUT",
