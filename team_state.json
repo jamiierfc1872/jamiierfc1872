@@ -28,12 +28,12 @@
     "Fred VanVleet": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "DOUBTFUL",
+    "Moussa Cisse": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "DOUBTFUL",
+    "Miles Kelly": "OUT",
     "Dereck Lively II": "OUT",
-    "Ryan Nembhard": "DOUBTFUL",
-    "Klay Thompson": "QUESTIONABLE"
+    "Ryan Nembhard": "OUT",
+    "Klay Thompson": "OUT"
   },
   "Phoenix Suns": {
     "Grayson Allen": "OUT",
@@ -47,7 +47,7 @@
     "Lindy Waters III": "OUT"
   },
   "Los Angeles Lakers": {
-    "Deandre Ayton": "QUESTIONABLE",
+    "Deandre Ayton": "OUT",
     "Luka Doncic": "OUT",
     "LeBron James": "OUT",
     "Austin Reaves": "OUT",
@@ -123,6 +123,7 @@
     "Jakob Poeltl": "QUESTIONABLE"
   },
   "Brooklyn Nets": {
+    "Nic Claxton": "QUESTIONABLE",
     "Noah Clowney": "PROBABLE",
     "Tyson Etienne": "OUT",
     "Chaney Johnson": "OUT",
@@ -166,6 +167,14 @@
     "Terrence Shannon Jr.": "OUT",
     "Rocco Zikarsky": "OUT"
   },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "DOUBTFUL",
+    "Cedric Coward": "DOUBTFUL",
+    "Zach Edey": "OUT",
+    "Ja Morant": "OUT"
+  },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
     "Christian Braun": "PROBABLE",
@@ -176,18 +185,25 @@
     "Jamal Murray": "PROBABLE",
     "Peyton Watson": "OUT"
   },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Brandon Clarke": "OUT",
-    "Walter Clayton Jr.": "DOUBTFUL",
-    "Cedric Coward": "DOUBTFUL",
-    "Zach Edey": "OUT",
-    "Ja Morant": "OUT"
+  "Oklahoma City Thunder": {
+    "Brooks Barnhizer": "OUT",
+    "Shai Gilgeous-Alexander": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT"
+  },
+  "Sacramento Kings": {
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Russell Westbrook": "OUT"
   },
   "Utah Jazz": {
     "Keyonte George": "OUT",
     "Walker Kessler": "OUT",
-    "Lauri Markkanen": "OUT"
+    "Lauri Markkanen": "AVAILABLE"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
@@ -197,13 +213,5 @@
     "De'Anthony Melton": "QUESTIONABLE",
     "Kristaps Porzingis": "OUT",
     "Will Richard": "QUESTIONABLE"
-  },
-  "Sacramento Kings": {
-    "De'Andre Hunter": "OUT",
-    "Zach LaVine": "OUT",
-    "Malik Monk": "OUT",
-    "Keegan Murray": "OUT",
-    "Domantas Sabonis": "OUT",
-    "Russell Westbrook": "OUT"
   }
 }
