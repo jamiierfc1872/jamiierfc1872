@@ -175,5 +175,18 @@
     "Spencer Jones": "QUESTIONABLE",
     "Jamal Murray": "PROBABLE",
     "Peyton Watson": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "DOUBTFUL",
+    "Cedric Coward": "DOUBTFUL",
+    "Zach Edey": "OUT",
+    "Ja Morant": "OUT"
+  },
+  "Utah Jazz": {
+    "Keyonte George": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT"
   }
 }
