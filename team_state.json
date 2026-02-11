@@ -188,5 +188,22 @@
     "Keyonte George": "OUT",
     "Walker Kessler": "OUT",
     "Lauri Markkanen": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "De'Anthony Melton": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Will Richard": "QUESTIONABLE"
+  },
+  "Sacramento Kings": {
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Russell Westbrook": "OUT"
   }
 }
