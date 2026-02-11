@@ -55,16 +55,18 @@
     "Jalen Smith": "DOUBTFUL"
   },
   "Boston Celtics": {
-    "Sam Hauser": "PROBABLE",
-    "Neemias Queta": "PROBABLE",
+    "Sam Hauser": "AVAILABLE",
+    "Neemias Queta": "AVAILABLE",
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT",
     "John Tonje": "OUT"
   },
   "Detroit Pistons": {
+    "Jalen Duren": "OUT",
     "Ronald Holland II": "OUT",
     "Isaac Jones": "OUT",
-    "Wendell Moore Jr.": "OUT"
+    "Wendell Moore Jr.": "OUT",
+    "Isaiah Stewart": "OUT"
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
