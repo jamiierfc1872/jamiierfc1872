@@ -1,13 +1,13 @@
 {
   "Atlanta Hawks": {
-    "Dyson Daniels": "QUESTIONABLE",
+    "Dyson Daniels": "AVAILABLE",
     "RayJ Dennis": "OUT",
     "Nikola Djurisic": "OUT",
     "Caleb Houstan": "OUT",
-    "Jalen Johnson": "QUESTIONABLE",
+    "Jalen Johnson": "AVAILABLE",
     "Jonathan Kuminga": "OUT",
     "Onyeka Okongwu": "AVAILABLE",
-    "Zaccharie Risacher": "QUESTIONABLE"
+    "Zaccharie Risacher": "AVAILABLE"
   },
   "Charlotte Hornets": {
     "Miles Bridges": "OUT",
@@ -20,9 +20,9 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
-    "Pete Nance": "QUESTIONABLE",
+    "Pete Nance": "AVAILABLE",
     "Taurean Prince": "OUT",
-    "Ryan Rollins": "QUESTIONABLE"
+    "Ryan Rollins": "OUT"
   },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
@@ -48,12 +48,12 @@
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
-    "Josh Giddey": "DOUBTFUL",
-    "Tre Jones": "DOUBTFUL",
+    "Josh Giddey": "OUT",
+    "Tre Jones": "OUT",
     "Yuki Kawamura": "OUT",
     "Mac McClung": "OUT",
-    "Isaac Okoro": "QUESTIONABLE",
-    "Jalen Smith": "DOUBTFUL"
+    "Isaac Okoro": "OUT",
+    "Jalen Smith": "OUT"
   },
   "Boston Celtics": {
     "Sam Hauser": "AVAILABLE",
@@ -93,8 +93,8 @@
     "Ivica Zubac": "OUT"
   },
   "Brooklyn Nets": {
-    "Nic Claxton": "DOUBTFUL",
-    "Noah Clowney": "PROBABLE",
+    "Nic Claxton": "OUT",
+    "Noah Clowney": "AVAILABLE",
     "Tyson Etienne": "OUT",
     "Chaney Johnson": "OUT",
     "E.J. Liddell": "OUT",
@@ -107,9 +107,9 @@
   },
   "Philadelphia 76ers": {
     "Dominick Barlow": "QUESTIONABLE",
-    "Joel Embiid": "QUESTIONABLE",
+    "Joel Embiid": "OUT",
     "Paul George": "OUT",
-    "Quentin Grimes": "QUESTIONABLE",
+    "Quentin Grimes": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "LA Clippers": {
