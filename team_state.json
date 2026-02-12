@@ -119,9 +119,9 @@
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
-    "Tari Eason": "QUESTIONABLE",
+    "Tari Eason": "AVAILABLE",
     "Dorian Finney-Smith": "OUT",
-    "Alperen Sengun": "PROBABLE",
+    "Alperen Sengun": "AVAILABLE",
     "Fred VanVleet": "OUT"
   },
   "Miami Heat": {
@@ -140,6 +140,7 @@
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
+    "Yves Missi": "OUT",
     "Dejounte Murray": "OUT",
     "Micah Peavy": "OUT"
   },
@@ -158,19 +159,20 @@
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
     "Brandon Clarke": "OUT",
-    "Walter Clayton Jr.": "DOUBTFUL",
-    "Cedric Coward": "DOUBTFUL",
+    "Walter Clayton Jr.": "OUT",
+    "Cedric Coward": "OUT",
     "Zach Edey": "OUT",
-    "Ja Morant": "OUT"
+    "Ja Morant": "OUT",
+    "Javon Small": "OUT"
   },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
-    "Christian Braun": "PROBABLE",
+    "Christian Braun": "AVAILABLE",
     "Aaron Gordon": "OUT",
-    "Nikola Jokic": "PROBABLE",
+    "Nikola Jokic": "AVAILABLE",
     "Curtis Jones": "OUT",
-    "Spencer Jones": "QUESTIONABLE",
-    "Jamal Murray": "PROBABLE",
+    "Spencer Jones": "OUT",
+    "Jamal Murray": "AVAILABLE",
     "Peyton Watson": "OUT"
   },
   "Oklahoma City Thunder": {
@@ -183,8 +185,8 @@
   "Phoenix Suns": {
     "Grayson Allen": "OUT",
     "Cole Anthony": "OUT",
-    "Devin Booker": "QUESTIONABLE",
-    "Jalen Green": "QUESTIONABLE",
+    "Devin Booker": "OUT",
+    "Jalen Green": "OUT",
     "Isaiah Livers": "OUT"
   },
   "Sacramento Kings": {
@@ -201,8 +203,8 @@
     "Lauri Markkanen": "AVAILABLE"
   },
   "San Antonio Spurs": {
-    "Stephon Castle": "QUESTIONABLE",
-    "Harrison Ingram": "OUT",
+    "Stephon Castle": "AVAILABLE",
+    "Harrison -Ingram": "OUT",
     "David Garcia": "OUT",
     "Jeremy Sochan": "OUT",
     "Stanley Umude": "OUT",
@@ -213,8 +215,22 @@
     "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
-    "De'Anthony Melton": "QUESTIONABLE",
+    "De'Anthony Melton": "AVAILABLE",
     "Kristaps Porzingis": "OUT",
-    "Will Richard": "QUESTIONABLE"
+    "Will Richard": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "DOUBTFUL",
+    "Cooper Flagg": "OUT",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "DOUBTFUL",
+    "Dereck Lively II": "OUT",
+    "Naji Marshall": "QUESTIONABLE",
+    "Caleb Martin": "QUESTIONABLE",
+    "Ryan Nembhard": "DOUBTFUL"
+  },
+  "Los Angeles Lakers": {
+    "Deandre Ayton": "QUESTIONABLE",
+    "Luka Doncic": "OUT"
   }
 }
