@@ -14,6 +14,20 @@
     "Thomas Sorber": "OUT",
     "Jalen Williams": "OUT"
   },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Matisse Thybulle": "OUT",
+    "Robert Williams III": "QUESTIONABLE"
+  },
+  "Utah Jazz": {
+    "Keyonte George": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT"
+  },
   "Dallas Mavericks": {
     "Moussa Cisse": "DOUBTFUL",
     "Cooper Flagg": "OUT",
@@ -27,13 +41,5 @@
   "Los Angeles Lakers": {
     "Deandre Ayton": "QUESTIONABLE",
     "Luka Doncic": "OUT"
-  },
-  "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
-    "Damian Lillard": "OUT",
-    "Kris Murray": "OUT",
-    "Shaedon Sharpe": "OUT",
-    "Matisse Thybulle": "OUT",
-    "Robert Williams III": "QUESTIONABLE"
   }
 }
