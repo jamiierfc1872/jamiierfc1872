@@ -6,6 +6,14 @@
     "Taurean Prince": "OUT",
     "Ryan Rollins": "QUESTIONABLE"
   },
+  "Oklahoma City Thunder": {
+    "Branden Carlson": "OUT",
+    "Shai Gilgeous-Alexander": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Jalen Williams": "OUT"
+  },
   "Dallas Mavericks": {
     "Moussa Cisse": "DOUBTFUL",
     "Cooper Flagg": "OUT",
@@ -19,13 +27,5 @@
   "Los Angeles Lakers": {
     "Deandre Ayton": "QUESTIONABLE",
     "Luka Doncic": "OUT"
-  },
-  "Oklahoma City Thunder": {
-    "Branden Carlson": "OUT",
-    "Shai Gilgeous-Alexander": "OUT",
-    "Isaiah Hartenstein": "OUT",
-    "Ajay Mitchell": "OUT",
-    "Thomas Sorber": "OUT",
-    "Jalen Williams": "OUT"
   }
 }
