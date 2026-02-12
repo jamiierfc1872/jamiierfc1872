@@ -1,6 +1,19 @@
 {
-  "Milwaukee Bucks": {},
-  "Oklahoma City Thunder": {},
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Kyle Kuzma": "QUESTIONABLE",
+    "Taurean Prince": "OUT",
+    "Ryan Rollins": "QUESTIONABLE"
+  },
+  "Oklahoma City Thunder": {
+    "Branden Carlson": "OUT",
+    "Shai Gilgeous-Alexander": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Jalen Williams": "OUT"
+  },
   "Dallas Mavericks": {
     "Moussa Cisse": "DOUBTFUL",
     "Cooper Flagg": "OUT",
@@ -14,5 +27,13 @@
   "Los Angeles Lakers": {
     "Deandre Ayton": "QUESTIONABLE",
     "Luka Doncic": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Kris Murray": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Matisse Thybulle": "OUT",
+    "Robert Williams III": "QUESTIONABLE"
   }
 }
