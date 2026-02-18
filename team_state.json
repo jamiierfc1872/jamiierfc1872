@@ -5,6 +5,13 @@
     "Caleb Houstan": "DOUBTFUL",
     "Jonathan Kuminga": "OUT"
   },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "DOUBTFUL",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
   "Brooklyn Nets": {
     "Nic Claxton": "OUT",
     "Tyson Etienne": "OUT",
@@ -13,10 +20,23 @@
     "Josh Minott": "OUT",
     "Ben Saraf": "OUT"
   },
+  "Cleveland Cavaliers": {
+    "Tristan Enaruna": "OUT",
+    "Emanuel Miller": "OUT",
+    "Riley Minix": "OUT",
+    "Max Strus": "OUT",
+    "Nae'Qwan Tomlin": "OUT"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Miles Bridges": "OUT",
+    "Moussa Diabate": "OUT",
+    "Liam McNeeley": "OUT",
+    "Coby White": "OUT"
   },
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
