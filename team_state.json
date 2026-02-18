@@ -69,6 +69,13 @@
     "Pacome Dadiet": "QUESTIONABLE",
     "Miles McBride": "OUT"
   },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "A.J. Lawson": "OUT",
+    "Sandro Mamukelashvili": "QUESTIONABLE",
+    "Alijah Martin": "OUT",
+    "Collin Murray-Boyles": "PROBABLE"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -78,16 +85,13 @@
     "Mac McClung": "OUT",
     "Jalen Smith": "PROBABLE"
   },
+  "Phoenix Suns": {
+    "Cole Anthony": "OUT",
+    "Dillon Brooks": "OUT"
+  },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
-  },
-  "Toronto Raptors": {
-    "Chucky Hepburn": "OUT",
-    "A.J. Lawson": "OUT",
-    "Sandro Mamukelashvili": "QUESTIONABLE",
-    "Alijah Martin": "OUT",
-    "Collin Murray-Boyles": "PROBABLE"
   }
 }
