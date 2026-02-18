@@ -1,4 +1,10 @@
 {
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Nikola Djurisic": "OUT",
+    "Caleb Houstan": "DOUBTFUL",
+    "Jonathan Kuminga": "OUT"
+  },
   "Brooklyn Nets": {
     "Nic Claxton": "OUT",
     "Tyson Etienne": "OUT",
@@ -11,6 +17,37 @@
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "T.J. McConnell": "QUESTIONABLE",
+    "Aaron Nesmith": "QUESTIONABLE",
+    "Taelon Peter": "PROBABLE",
+    "Micah Potter": "QUESTIONABLE",
+    "Pascal Siakam": "OUT",
+    "Ethan Thompson": "PROBABLE",
+    "Obi Toppin": "OUT",
+    "Ivica Zubac": "OUT"
+  },
+  "Washington Wizards": {
+    "Anthony Davis": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
+  "Detroit Pistons": {
+    "Jalen Duren": "OUT",
+    "Bobi Klintman": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Isaiah Stewart": "OUT"
+  },
+  "New York Knicks": {
+    "OG Anunoby": "QUESTIONABLE",
+    "Pacome Dadiet": "QUESTIONABLE",
+    "Miles McBride": "OUT"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
@@ -25,18 +62,5 @@
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
-  },
-  "Detroit Pistons": {
-    "Jalen Duren": "OUT",
-    "Bobi Klintman": "OUT",
-    "Wendell Moore Jr.": "OUT",
-    "Isaiah Stewart": "OUT"
-  },
-  "Washington Wizards": {
-    "Anthony Davis": "OUT",
-    "D'Angelo Russell": "OUT",
-    "Alex Sarr": "OUT",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
   }
 }
