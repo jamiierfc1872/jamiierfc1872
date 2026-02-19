@@ -142,6 +142,17 @@
     "Jusuf Nurkic": "OUT",
     "Oscar Tshiebwe": "QUESTIONABLE"
   },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "DOUBTFUL",
+    "Cedric Coward": "OUT",
+    "Zach Edey": "OUT",
+    "Ty Jerome": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT"
+  },
   "Dallas Mavericks": {
     "Max Christie": "QUESTIONABLE",
     "Moussa Cisse": "DOUBTFUL",
@@ -163,6 +174,12 @@
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE"
+  },
+  "Oklahoma City Thunder": {
+    "Shai Gilgeous-Alexander": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Jalen Williams": "OUT"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
