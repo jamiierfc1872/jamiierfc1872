@@ -43,10 +43,10 @@
     "Quenton Jackson": "OUT",
     "T.J. McConnell": "OUT",
     "Aaron Nesmith": "AVAILABLE",
-    "Taelon Peter": "PROBABLE",
+    "Taelon Peter": "AVAILABLE",
     "Micah Potter": "AVAILABLE",
     "Pascal Siakam": "OUT",
-    "Ethan Thompson": "PROBABLE",
+    "Ethan Thompson": "AVAILABLE",
     "Obi Toppin": "OUT",
     "Ivica Zubac": "OUT"
   },
@@ -59,6 +59,7 @@
   },
   "Detroit Pistons": {
     "Jalen Duren": "OUT",
+    "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Isaiah Stewart": "OUT"
@@ -81,11 +82,11 @@
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
-    "Josh Giddey": "PROBABLE",
-    "Tre Jones": "PROBABLE",
-    "Yuki Kawamura": "OUT",
+    "Josh Giddey": "AVAILABLE",
+    "Tre -Jones": "AVAILABLE",
+    "Yuki -Kawamura": "OUT",
     "Mac McClung": "OUT",
-    "Jalen Smith": "PROBABLE"
+    "Jalen Smith": "AVAILABLE"
   },
   "Phoenix Suns": {
     "Grayson Allen": "QUESTIONABLE",
@@ -133,6 +134,13 @@
     "Bradley Beal": "OUT",
     "Darius Garland": "OUT",
     "TyTy Washington Jr.": "OUT"
+  },
+  "Utah Jazz": {
+    "Keyonte George": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Jusuf Nurkic": "OUT",
+    "Oscar Tshiebwe": "QUESTIONABLE"
   },
   "Dallas Mavericks": {
     "Max Christie": "QUESTIONABLE",
