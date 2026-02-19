@@ -1,13 +1,12 @@
 {
   "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Nikola Djurisic": "OUT",
-    "Caleb Houstan": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Caleb Houstan": "OUT",
     "Jonathan Kuminga": "OUT"
   },
   "Philadelphia 76ers": {
-    "MarJon Beauchamp": "DOUBTFUL",
-    "Johni Broome": "DOUBTFUL",
+    "MarJon Beauchamp": "OUT",
+    "Johni Broome": "OUT",
     "Joel Embiid": "OUT",
     "Paul George": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
@@ -82,8 +81,8 @@
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
-    "Josh Giddey": "QUESTIONABLE",
-    "Tre Jones": "QUESTIONABLE",
+    "Josh Giddey": "PROBABLE",
+    "Tre Jones": "PROBABLE",
     "Yuki Kawamura": "OUT",
     "Mac McClung": "OUT",
     "Jalen Smith": "PROBABLE"
