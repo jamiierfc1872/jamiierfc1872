@@ -40,11 +40,11 @@
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "QUESTIONABLE",
-    "T.J. McConnell": "QUESTIONABLE",
-    "Aaron Nesmith": "QUESTIONABLE",
+    "Quenton Jackson": "OUT",
+    "T.J. McConnell": "OUT",
+    "Aaron Nesmith": "AVAILABLE",
     "Taelon Peter": "PROBABLE",
-    "Micah Potter": "QUESTIONABLE",
+    "Micah Potter": "AVAILABLE",
     "Pascal Siakam": "OUT",
     "Ethan Thompson": "PROBABLE",
     "Obi Toppin": "OUT",
@@ -134,6 +134,17 @@
     "Darius Garland": "OUT",
     "TyTy Washington Jr.": "OUT"
   },
+  "Dallas Mavericks": {
+    "Max Christie": "QUESTIONABLE",
+    "Moussa Cisse": "DOUBTFUL",
+    "Cooper Flagg": "OUT",
+    "Daniel Gafford": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "DOUBTFUL",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "QUESTIONABLE",
+    "Ryan Nembhard": "DOUBTFUL"
+  },
   "Miami Heat": {
     "Simone Fontecchio": "AVAILABLE",
     "Tyler Herro": "PROBABLE",
@@ -150,5 +161,13 @@
     "Giannis Antetokounmpo": "OUT",
     "Taurean Prince": "OUT",
     "Myles Turner": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Yves Missi": "OUT",
+    "Trey Murphy III": "DOUBTFUL",
+    "Dejounte Murray": "OUT",
+    "Micah Peavy": "OUT"
   }
 }
