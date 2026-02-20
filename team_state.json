@@ -65,12 +65,12 @@
     "Isaiah Stewart": "OUT"
   },
   "New York Knicks": {
-    "OG Anunoby": "PROBABLE",
-    "Pacome Dadiet": "QUESTIONABLE",
-    "Trey Jemison III": "QUESTIONABLE",
-    "Dillon Jones": "QUESTIONABLE",
+    "OG Anunoby": "AVAILABLE",
+    "Pacome Dadiet": "OUT",
+    "Trey Jemison III": "OUT",
+    "Dillon Jones": "OUT",
     "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "QUESTIONABLE"
+    "Kevin McCullar Jr.": "OUT"
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
@@ -89,8 +89,9 @@
     "Jalen Smith": "AVAILABLE"
   },
   "Phoenix Suns": {
-    "Grayson Allen": "QUESTIONABLE",
+    "Grayson Allen": "OUT",
     "Cole Anthony": "OUT",
+    "Koby Brea": "OUT",
     "Dillon Brooks": "OUT",
     "Haywood Highsmith": "OUT"
   },
@@ -194,5 +195,11 @@
     "Trey Murphy III": "DOUBTFUL",
     "Dejounte Murray": "OUT",
     "Micah Peavy": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Damian Lillard": "OUT",
+    "Kris Murray": "QUESTIONABLE",
+    "Shaedon Sharpe": "OUT",
+    "Matisse Thybulle": "QUESTIONABLE"
   }
 }
