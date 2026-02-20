@@ -47,7 +47,7 @@
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
-    "Walter Clayton Jr.": "DOUBTFUL",
+    "Walter Clayton Jr.": "OUT",
     "Cedric Coward": "OUT",
     "Zach Edey": "OUT",
     "Ty Jerome": "OUT",
@@ -55,15 +55,15 @@
     "Scotty Pippen Jr.": "OUT"
   },
   "Dallas Mavericks": {
-    "Max Christie": "DOUBTFUL",
-    "Moussa Cisse": "DOUBTFUL",
+    "Max Christie": "OUT",
+    "Moussa Cisse": "OUT",
     "Cooper Flagg": "OUT",
-    "Daniel Gafford": "QUESTIONABLE",
+    "Daniel Gafford": "AVAILABLE",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "QUESTIONABLE",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
-    "Caleb Martin": "QUESTIONABLE",
-    "Ryan Nembhard": "DOUBTFUL"
+    "Caleb Martin": "AVAILABLE",
+    "Ryan Nembhard": "OUT"
   },
   "Minnesota Timberwolves": {
     "Rocco Zikarsky": "OUT"
@@ -145,6 +145,13 @@
     "Jalen Suggs": "QUESTIONABLE",
     "Franz Wagner": "OUT"
   },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "DOUBTFUL",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
   "Detroit Pistons": {
     "Isaac Jones": "QUESTIONABLE",
     "Bobi Klintman": "OUT",
@@ -167,6 +174,13 @@
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
   },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "QUESTIONABLE",
+    "David Garcia": "OUT",
+    "Mason Plumlee": "OUT",
+    "Stanley Umude": "QUESTIONABLE",
+    "Lindy Waters III": "QUESTIONABLE"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
@@ -178,19 +192,5 @@
     "Dillon Jones": "QUESTIONABLE",
     "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "QUESTIONABLE"
-  },
-  "Philadelphia 76ers": {
-    "MarJon Beauchamp": "DOUBTFUL",
-    "Johni Broome": "DOUBTFUL",
-    "Joel Embiid": "OUT",
-    "Paul George": "OUT",
-    "Kelly Oubre Jr.": "AVAILABLE"
-  },
-  "San Antonio Spurs": {
-    "Harrison Ingram": "QUESTIONABLE",
-    "David Garcia": "OUT",
-    "Mason Plumlee": "OUT",
-    "Stanley Umude": "QUESTIONABLE",
-    "Lindy Waters III": "QUESTIONABLE"
   }
 }
