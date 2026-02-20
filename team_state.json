@@ -1,4 +1,31 @@
 {
+  "Cleveland Cavaliers": {
+    "Riley Minix": "OUT",
+    "Evan Mobley": "OUT",
+    "Max Strus": "OUT",
+    "Nae'Qwan Tomlin": "PROBABLE"
+  },
+  "Charlotte Hornets": {
+    "Miles Bridges": "OUT",
+    "Moussa Diabate": "OUT",
+    "Liam McNeeley": "OUT",
+    "Coby White": "OUT"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "Kam Jones": "QUESTIONABLE",
+    "T.J. McConnell": "QUESTIONABLE",
+    "Andrew Nembhard": "DOUBTFUL",
+    "Aaron Nesmith": "OUT",
+    "Taelon Peter": "QUESTIONABLE",
+    "Micah Potter": "QUESTIONABLE",
+    "Pascal Siakam": "OUT",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "OUT",
+    "Ivica Zubac": "OUT"
+  },
   "Washington Wizards": {
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
@@ -53,6 +80,11 @@
     "Andrew Wiggins": "AVAILABLE",
     "Jahmir Young": "OUT"
   },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "OUT",
+    "Caleb Houstan": "OUT",
+    "Jonathan Kuminga": "OUT"
+  },
   "Oklahoma City Thunder": {
     "Shai Gilgeous-Alexander": "OUT",
     "Ajay Mitchell": "OUT",
@@ -78,31 +110,5 @@
     "Kris Murray": "QUESTIONABLE",
     "Shaedon Sharpe": "OUT",
     "Matisse Thybulle": "QUESTIONABLE"
-  },
-  "Atlanta Hawks": {
-    "RayJ Dennis": "OUT",
-    "Caleb Houstan": "OUT",
-    "Jonathan Kuminga": "OUT"
-  },
-  "Cleveland Cavaliers": {
-    "Riley Minix": "OUT",
-    "Evan Mobley": "OUT",
-    "Max Strus": "OUT",
-    "Nae'Qwan Tomlin": "PROBABLE"
-  },
-  "Indiana Pacers": {
-    "Johnny Furphy": "OUT",
-    "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "QUESTIONABLE",
-    "Kam Jones": "QUESTIONABLE",
-    "T.J. McConnell": "QUESTIONABLE",
-    "Andrew Nembhard": "DOUBTFUL",
-    "Aaron Nesmith": "OUT",
-    "Taelon Peter": "QUESTIONABLE",
-    "Micah Potter": "QUESTIONABLE",
-    "Pascal Siakam": "OUT",
-    "Ethan Thompson": "QUESTIONABLE",
-    "Obi Toppin": "OUT",
-    "Ivica Zubac": "OUT"
   }
 }
