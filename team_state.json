@@ -120,5 +120,13 @@
     "Kris Murray": "QUESTIONABLE",
     "Shaedon Sharpe": "OUT",
     "Matisse Thybulle": "QUESTIONABLE"
+  },
+  "Los Angeles Lakers": {
+    "LeBron James": "QUESTIONABLE"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
   }
 }
