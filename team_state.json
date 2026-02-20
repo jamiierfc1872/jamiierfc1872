@@ -1,4 +1,12 @@
 {
+  "Washington Wizards": {
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
   "Utah Jazz": {
     "Keyonte George": "OUT",
     "Jaren Jackson Jr.": "OUT",
@@ -34,14 +42,16 @@
   },
   "Miami Heat": {
     "Simone Fontecchio": "AVAILABLE",
-    "Tyler Herro": "PROBABLE",
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "AVAILABLE",
     "Kasparas Jakucionis": "AVAILABLE",
-    "Keshad Johnson": "QUESTIONABLE",
+    "Keshad Johnson": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
-    "Norman Powell": "QUESTIONABLE",
+    "Norman Powell": "AVAILABLE",
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
-    "Andrew Wiggins": "AVAILABLE"
+    "Andrew Wiggins": "AVAILABLE",
+    "Jahmir Young": "OUT"
   },
   "Oklahoma City Thunder": {
     "Shai Gilgeous-Alexander": "OUT",
@@ -59,7 +69,7 @@
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
     "Yves Missi": "OUT",
-    "Trey Murphy III": "DOUBTFUL",
+    "Trey Murphy III": "OUT",
     "Dejounte Murray": "OUT",
     "Micah Peavy": "OUT"
   },
