@@ -39,9 +39,9 @@
     "Keyonte George": "OUT",
     "Jaren Jackson Jr.": "OUT",
     "Walker Kessler": "OUT",
-    "Lauri Markkanen": "QUESTIONABLE",
+    "Lauri Markkanen": "DOUBTFUL",
     "Jusuf Nurkic": "OUT",
-    "Oscar Tshiebwe": "QUESTIONABLE"
+    "Oscar Tshiebwe": "AVAILABLE"
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
@@ -144,10 +144,16 @@
     "Fred VanVleet": "OUT"
   },
   "New York Knicks": {
-    "Pacome Dadiet": "OUT",
+    "Pacome Dadiet": "QUESTIONABLE",
     "Trey Jemison III": "QUESTIONABLE",
     "Dillon Jones": "QUESTIONABLE",
     "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "QUESTIONABLE"
+  },
+  "Orlando Magic": {
+    "Colin Castleton": "OUT",
+    "Alex Morales": "OUT",
+    "Jalen Suggs": "QUESTIONABLE",
+    "Franz Wagner": "OUT"
   }
 }
