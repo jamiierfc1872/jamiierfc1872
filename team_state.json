@@ -15,13 +15,13 @@
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "QUESTIONABLE",
-    "Kam Jones": "QUESTIONABLE",
-    "T.J. McConnell": "QUESTIONABLE",
-    "Andrew Nembhard": "DOUBTFUL",
+    "Quenton Jackson": "AVAILABLE",
+    "Kam Jones": "AVAILABLE",
+    "T.J. McConnell": "AVAILABLE",
+    "Andrew Nembhard": "OUT",
     "Aaron Nesmith": "OUT",
-    "Taelon Peter": "QUESTIONABLE",
-    "Micah Potter": "QUESTIONABLE",
+    "Taelon Peter": "AVAILABLE",
+    "Micah Potter": "AVAILABLE",
     "Pascal Siakam": "OUT",
     "Ethan Thompson": "OUT",
     "Obi Toppin": "OUT",
@@ -178,5 +178,19 @@
     "Dillon Jones": "QUESTIONABLE",
     "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "QUESTIONABLE"
+  },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "DOUBTFUL",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "QUESTIONABLE",
+    "David Garcia": "OUT",
+    "Mason Plumlee": "OUT",
+    "Stanley Umude": "QUESTIONABLE",
+    "Lindy Waters III": "QUESTIONABLE"
   }
 }
