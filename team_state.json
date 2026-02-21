@@ -120,15 +120,15 @@
     "Tamar Bates": "OUT",
     "Aaron Gordon": "OUT",
     "Curtis Jones": "OUT",
-    "Jamal Murray": "QUESTIONABLE",
-    "Jalen Pickett": "PROBABLE",
+    "Jamal Murray": "AVAILABLE",
+    "Jalen Pickett": "AVAILABLE",
     "Peyton Watson": "OUT"
   },
   "Portland Trail Blazers": {
     "Damian Lillard": "OUT",
-    "Kris Murray": "QUESTIONABLE",
+    "Kris Murray": "AVAILABLE",
     "Shaedon Sharpe": "OUT",
-    "Matisse Thybulle": "QUESTIONABLE"
+    "Matisse Thybulle": "AVAILABLE"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
@@ -137,7 +137,7 @@
     "TyTy Washington Jr.": "OUT"
   },
   "Los Angeles Lakers": {
-    "LeBron James": "QUESTIONABLE"
+    "LeBron James": "AVAILABLE"
   },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
