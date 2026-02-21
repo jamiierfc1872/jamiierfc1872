@@ -33,6 +33,19 @@
     "Mac McClung": "OUT",
     "Guerschon Yabusele": "PROBABLE"
   },
+  "Miami Heat": {
+    "Vladislav Goldin": "OUT",
+    "Tyler Herro": "PROBABLE",
+    "Keshad Johnson": "AVAILABLE",
+    "Nikola Jovic": "QUESTIONABLE",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "DOUBTFUL",
+    "Norman Powell": "PROBABLE",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "QUESTIONABLE",
+    "Andrew Wiggins": "AVAILABLE",
+    "Jahmir Young": "OUT"
+  },
   "Sacramento Kings": {
     "Dylan Cardwell": "OUT",
     "De'Andre Hunter": "OUT",
@@ -59,18 +72,5 @@
     "Tyler Kolek": "QUESTIONABLE",
     "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "QUESTIONABLE"
-  },
-  "Miami Heat": {
-    "Vladislav Goldin": "OUT",
-    "Tyler Herro": "PROBABLE",
-    "Keshad Johnson": "AVAILABLE",
-    "Nikola Jovic": "QUESTIONABLE",
-    "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "DOUBTFUL",
-    "Norman Powell": "PROBABLE",
-    "Terry Rozier": "OUT",
-    "Dru Smith": "QUESTIONABLE",
-    "Andrew Wiggins": "AVAILABLE",
-    "Jahmir Young": "OUT"
   }
 }
