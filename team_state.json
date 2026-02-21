@@ -3,7 +3,7 @@
     "Riley Minix": "OUT",
     "Evan Mobley": "OUT",
     "Max Strus": "OUT",
-    "Nae'Qwan Tomlin": "PROBABLE"
+    "Nae'Qwan Tomlin": "AVAILABLE"
   },
   "Charlotte Hornets": {
     "Miles Bridges": "OUT",
@@ -75,7 +75,7 @@
     "Kasparas Jakucionis": "AVAILABLE",
     "Keshad Johnson": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "QUESTIONABLE",
+    "Davion Mitchell": "AVAILABLE",
     "Norman Powell": "AVAILABLE",
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
@@ -144,6 +144,12 @@
     "Alex Morales": "OUT",
     "Jalen Suggs": "QUESTIONABLE",
     "Franz Wagner": "OUT"
+  },
+  "Phoenix Suns": {
+    "Grayson Allen": "QUESTIONABLE",
+    "Cole Anthony": "OUT",
+    "Devin Booker": "OUT",
+    "Haywood Highsmith": "OUT"
   },
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "DOUBTFUL",
