@@ -24,7 +24,7 @@
     "Hunter Dickinson": "OUT",
     "Yves Missi": "OUT",
     "Trey Murphy III": "OUT",
-    "Dejounte Murray": "DOUBTFUL",
+    "Dejounte Murray": "OUT",
     "Micah Peavy": "OUT"
   },
   "Detroit Pistons": {
@@ -94,6 +94,40 @@
     "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "QUESTIONABLE"
   },
+  "Cleveland Cavaliers": {
+    "Tristan Enaruna": "OUT",
+    "Riley Minix": "OUT",
+    "Max Strus": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Tyson Etienne": "OUT",
+    "Chaney Johnson": "OUT",
+    "E.J. Liddell": "OUT",
+    "Josh Minott": "OUT",
+    "Ben Saraf": "OUT",
+    "Ziaire Williams": "OUT"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Caleb Houstan": "DOUBTFUL",
+    "Jonathan Kuminga": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Malevy Leons": "OUT",
+    "Kristaps Porzingis": "PROBABLE",
+    "Nate Williams": "OUT"
+  },
+  "Toronto Raptors": {
+    "Scottie Barnes": "OUT",
+    "Chucky Hepburn": "OUT",
+    "A.J. Lawson": "OUT",
+    "Alijah Martin": "OUT",
+    "Jonathan Mogbo": "OUT"
+  },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
@@ -111,18 +145,28 @@
     "Caleb Martin": "PROBABLE",
     "Ryan Nembhard": "DOUBTFUL"
   },
-  "Minnesota Timberwolves": {
-    "Rudy Gobert": "OUT",
-    "Rocco Zikarsky": "OUT"
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "Kam Jones": "QUESTIONABLE",
+    "T.J. McConnell": "QUESTIONABLE",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "OUT",
+    "Taelon Peter": "QUESTIONABLE",
+    "Micah Potter": "QUESTIONABLE",
+    "Pascal Siakam": "QUESTIONABLE",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "OUT",
+    "Ivica Zubac": "OUT"
   },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "LJ Cryer": "OUT",
-    "Seth Curry": "OUT",
-    "Stephen Curry": "OUT",
-    "Malevy Leons": "OUT",
-    "Kristaps Porzingis": "PROBABLE",
-    "Nate Williams": "OUT"
+  "Charlotte Hornets": {
+    "Miles Bridges": "OUT",
+    "Moussa Diabate": "OUT",
+    "Tosan Evbuomwan": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Coby White": "OUT"
   },
   "Washington Wizards": {
     "Justin Champagnie": "QUESTIONABLE",
@@ -133,5 +177,9 @@
     "Tristan Vukcevic": "QUESTIONABLE",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Rudy Gobert": "OUT",
+    "Rocco Zikarsky": "OUT"
   }
 }
