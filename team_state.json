@@ -114,5 +114,24 @@
   "Minnesota Timberwolves": {
     "Rudy Gobert": "OUT",
     "Rocco Zikarsky": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Malevy Leons": "OUT",
+    "Kristaps Porzingis": "PROBABLE",
+    "Nate Williams": "OUT"
+  },
+  "Washington Wizards": {
+    "Justin Champagnie": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "QUESTIONABLE",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Tristan Vukcevic": "QUESTIONABLE",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
   }
 }
