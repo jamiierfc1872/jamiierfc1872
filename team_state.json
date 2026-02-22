@@ -46,10 +46,10 @@
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
-    "Kyle Anderson": "QUESTIONABLE",
+    "Kyle Anderson": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
-    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Walter Clayton Jr.": "AVAILABLE",
     "Cedric Coward": "OUT",
     "Zach Edey": "OUT",
     "Ja Morant": "OUT"
@@ -60,10 +60,10 @@
     "Keshad Johnson": "AVAILABLE",
     "Nikola Jovic": "OUT",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "DOUBTFUL",
+    "Davion Mitchell": "OUT",
     "Norman Powell": "AVAILABLE",
     "Terry Rozier": "OUT",
-    "Dru Smith": "PROBABLE",
+    "Dru Smith": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE",
     "Jahmir Young": "OUT"
   },
@@ -87,12 +87,12 @@
     "Fred VanVleet": "OUT"
   },
   "New York Knicks": {
-    "Pacome Dadiet": "QUESTIONABLE",
-    "Trey Jemison III": "QUESTIONABLE",
-    "Dillon Jones": "QUESTIONABLE",
-    "Tyler Kolek": "QUESTIONABLE",
+    "Pacome Dadiet": "AVAILABLE",
+    "Trey Jemison III": "AVAILABLE",
+    "Dillon Jones": "AVAILABLE",
+    "Tyler Kolek": "AVAILABLE",
     "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "QUESTIONABLE"
+    "Kevin McCullar Jr.": "AVAILABLE"
   },
   "Cleveland Cavaliers": {
     "Tristan Enaruna": "OUT",
@@ -118,6 +118,13 @@
     "RayJ Dennis": "DOUBTFUL",
     "Caleb Houstan": "DOUBTFUL",
     "Jonathan Kuminga": "OUT"
+  },
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Aaron Gordon": "OUT",
+    "Jamal Murray": "QUESTIONABLE",
+    "Jalen Pickett": "OUT",
+    "Peyton Watson": "OUT"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
@@ -185,8 +192,31 @@
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
+  "Boston Celtics": {
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT",
+    "Amari Williams": "DOUBTFUL"
+  },
+  "Los Angeles Lakers": {
+    "Bronny James": "OUT",
+    "Adou Thiero": "OUT"
+  },
   "Minnesota Timberwolves": {
     "Rudy Gobert": "OUT",
     "Rocco Zikarsky": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "QUESTIONABLE",
+    "Javonte Cooke": "OUT",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Hansen Yang": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "John Collins": "OUT",
+    "Darius Garland": "OUT",
+    "Kawhi Leonard": "QUESTIONABLE"
   }
 }
