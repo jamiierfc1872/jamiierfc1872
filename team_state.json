@@ -141,6 +141,15 @@
     "Shaedon Sharpe": "OUT",
     "Hansen Yang": "OUT"
   },
+  "Phoenix Suns": {
+    "Grayson Allen": "QUESTIONABLE",
+    "Cole Anthony": "OUT",
+    "Devin Booker": "OUT",
+    "Dillon Brooks": "OUT",
+    "Jordan Goodwin": "OUT",
+    "Jalen Green": "QUESTIONABLE",
+    "Haywood Highsmith": "OUT"
+  },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
@@ -152,5 +161,11 @@
     "John Collins": "OUT",
     "Darius Garland": "OUT",
     "Kawhi Leonard": "QUESTIONABLE"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
   }
 }
