@@ -51,7 +51,7 @@
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
     "Taurean Prince": "OUT",
-    "Myles Turner": "QUESTIONABLE"
+    "Myles Turner": "AVAILABLE"
   },
   "Dallas Mavericks": {
     "Max Christie": "QUESTIONABLE",
@@ -106,11 +106,32 @@
     "Bronny James": "OUT",
     "Adou Thiero": "OUT"
   },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "OUT",
+    "Johni Broome": "OUT",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
   "Minnesota Timberwolves": {
     "Enrique Freeman": "OUT",
     "Rudy Gobert": "OUT",
     "Naz Reid": "QUESTIONABLE",
     "Rocco Zikarsky": "AVAILABLE"
+  },
+  "New York Knicks": {
+    "Pacome Dadiet": "OUT",
+    "Miles McBride": "OUT",
+    "Kevin McCullar Jr.": "OUT",
+    "Mitchell Robinson": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Jaden Ivey": "OUT",
+    "Nick Richards": "QUESTIONABLE",
+    "Anfernee Simons": "OUT",
+    "Patrick Williams": "PROBABLE"
   },
   "Portland Trail Blazers": {
     "Deni Avdija": "QUESTIONABLE",
