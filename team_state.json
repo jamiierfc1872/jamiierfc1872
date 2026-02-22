@@ -89,12 +89,12 @@
     "Coby White": "OUT"
   },
   "Washington Wizards": {
-    "Justin Champagnie": "QUESTIONABLE",
+    "Justin Champagnie": "OUT",
     "Anthony Davis": "OUT",
-    "Kyshawn George": "QUESTIONABLE",
+    "Kyshawn George": "AVAILABLE",
     "D'Angelo Russell": "OUT",
     "Alex Sarr": "OUT",
-    "Tristan Vukcevic": "QUESTIONABLE",
+    "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
@@ -163,6 +163,13 @@
     "Darius Garland": "OUT",
     "Kawhi Leonard": "QUESTIONABLE"
   },
+  "Detroit Pistons": {
+    "Isaac Jones": "QUESTIONABLE",
+    "Bobi Klintman": "OUT",
+    "Chaz Lanier": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Isaiah Stewart": "OUT"
+  },
   "Sacramento Kings": {
     "Dylan Cardwell": "OUT",
     "De'Andre Hunter": "OUT",
@@ -175,5 +182,12 @@
     "Tristen Newton": "OUT",
     "Jae'Sean Tate": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Mason Plumlee": "OUT",
+    "Stanley Umude": "OUT",
+    "Lindy Waters III": "QUESTIONABLE"
   }
 }
