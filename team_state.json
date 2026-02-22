@@ -163,6 +163,13 @@
     "Darius Garland": "OUT",
     "Kawhi Leonard": "QUESTIONABLE"
   },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Mason Plumlee": "OUT",
+    "Stanley Umude": "OUT",
+    "Lindy Waters III": "QUESTIONABLE"
+  },
   "Detroit Pistons": {
     "Isaac Jones": "QUESTIONABLE",
     "Bobi Klintman": "OUT",
@@ -182,12 +189,5 @@
     "Tristen Newton": "OUT",
     "Jae'Sean Tate": "OUT",
     "Fred VanVleet": "OUT"
-  },
-  "San Antonio Spurs": {
-    "Harrison Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Mason Plumlee": "OUT",
-    "Stanley Umude": "OUT",
-    "Lindy Waters III": "QUESTIONABLE"
   }
 }
