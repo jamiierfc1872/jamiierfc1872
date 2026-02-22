@@ -1,40 +1,4 @@
 {
-  "Orlando Magic": {
-    "Colin Castleton": "OUT",
-    "Alex Morales": "OUT",
-    "Jalen Suggs": "QUESTIONABLE",
-    "Franz Wagner": "OUT"
-  },
-  "Phoenix Suns": {},
-  "Philadelphia 76ers": {},
-  "New Orleans Pelicans": {
-    "Trey Alexander": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Yves Missi": "OUT",
-    "Trey Murphy III": "OUT",
-    "Dejounte Murray": "OUT",
-    "Micah Peavy": "OUT"
-  },
-  "Detroit Pistons": {},
-  "Chicago Bulls": {},
-  "Memphis Grizzlies": {},
-  "Miami Heat": {
-    "Vladislav Goldin": "OUT",
-    "Tyler Herro": "AVAILABLE",
-    "Keshad Johnson": "AVAILABLE",
-    "Nikola Jovic": "OUT",
-    "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "OUT",
-    "Norman Powell": "AVAILABLE",
-    "Terry Rozier": "OUT",
-    "Dru Smith": "AVAILABLE",
-    "Andrew Wiggins": "AVAILABLE",
-    "Jahmir Young": "OUT"
-  },
-  "Sacramento Kings": {},
-  "San Antonio Spurs": {},
-  "Houston Rockets": {},
-  "New York Knicks": {},
   "Cleveland Cavaliers": {
     "Tristan Enaruna": "OUT",
     "Riley Minix": "OUT",
@@ -153,6 +117,12 @@
     "Caleb Love": "OUT",
     "Shaedon Sharpe": "OUT",
     "Hansen Yang": "OUT"
+  },
+  "Orlando Magic": {
+    "Colin Castleton": "OUT",
+    "Alex Morales": "OUT",
+    "Jalen Suggs": "QUESTIONABLE",
+    "Franz Wagner": "OUT"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
