@@ -135,7 +135,7 @@
     "Patrick Williams": "AVAILABLE"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
+    "Deni Avdija": "AVAILABLE",
     "Javonte Cooke": "OUT",
     "Damian Lillard": "OUT",
     "Caleb Love": "OUT",
@@ -161,7 +161,9 @@
     "Bradley Beal": "OUT",
     "John Collins": "OUT",
     "Darius Garland": "OUT",
-    "Kawhi Leonard": "QUESTIONABLE"
+    "Kawhi Leonard": "AVAILABLE",
+    "Norchad Omier": "OUT",
+    "Sean Pedulla": "OUT"
   },
   "San Antonio Spurs": {
     "Harrison Ingram": "OUT",
