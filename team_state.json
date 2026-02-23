@@ -172,5 +172,22 @@
     "Alex Morales": "OUT",
     "Jalen Suggs": "QUESTIONABLE",
     "Franz Wagner": "OUT"
+  },
+  "Boston Celtics": {
+    "Jaylen Brown": "QUESTIONABLE",
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT",
+    "Amari Williams": "DOUBTFUL"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Draymond Green": "QUESTIONABLE",
+    "Al Horford": "QUESTIONABLE",
+    "De'Anthony Melton": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Nate Williams": "OUT"
   }
 }
