@@ -130,12 +130,12 @@
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
     "Jaden Ivey": "OUT",
-    "Nick Richards": "QUESTIONABLE",
-    "Anfernee Simons": "OUT",
-    "Patrick Williams": "PROBABLE"
+    "Nick Richards": "AVAILABLE",
+    "Anfernee -Simons": "OUT",
+    "Patrick Williams": "AVAILABLE"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
+    "Deni Avdija": "AVAILABLE",
     "Javonte Cooke": "OUT",
     "Damian Lillard": "OUT",
     "Caleb Love": "OUT",
@@ -143,25 +143,27 @@
     "Hansen Yang": "OUT"
   },
   "Phoenix Suns": {
-    "Grayson Allen": "QUESTIONABLE",
+    "Grayson Allen": "OUT",
     "Cole Anthony": "OUT",
     "Devin Booker": "OUT",
     "Dillon Brooks": "OUT",
     "Jordan Goodwin": "OUT",
-    "Jalen Green": "QUESTIONABLE",
+    "Jalen Green": "AVAILABLE",
     "Haywood Highsmith": "OUT"
   },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
-    "Jalen Suggs": "QUESTIONABLE",
+    "Jalen Suggs": "OUT",
     "Franz Wagner": "OUT"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
     "John Collins": "OUT",
     "Darius Garland": "OUT",
-    "Kawhi Leonard": "QUESTIONABLE"
+    "Kawhi Leonard": "AVAILABLE",
+    "Norchad Omier": "OUT",
+    "Sean Pedulla": "OUT"
   },
   "San Antonio Spurs": {
     "Harrison Ingram": "OUT",
