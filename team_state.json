@@ -44,10 +44,63 @@
     "Jae'Sean Tate": "OUT",
     "Fred VanVleet": "OUT"
   },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "OUT",
+    "Joel Embiid": "QUESTIONABLE",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "Kam Jones": "QUESTIONABLE",
+    "T.J. McConnell": "QUESTIONABLE",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "OUT",
+    "Taelon Peter": "QUESTIONABLE",
+    "Micah Potter": "PROBABLE",
+    "Pascal Siakam": "DOUBTFUL",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "OUT",
+    "Ivica Zubac": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "DOUBTFUL",
+    "Cooper Flagg": "OUT",
+    "Daniel Gafford": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "PROBABLE",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "PROBABLE",
+    "Ryan Nembhard": "DOUBTFUL"
+  },
+  "Brooklyn Nets": {
+    "Tyson Etienne": "OUT",
+    "Chaney Johnson": "OUT",
+    "E.J. Liddell": "OUT",
+    "Josh Minott": "OUT",
+    "Ben Saraf": "OUT"
+  },
+  "New York Knicks": {
+    "Pacome Dadiet": "OUT",
+    "Dillon Jones": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Kevin McCullar Jr.": "OUT"
+  },
   "Cleveland Cavaliers": {
     "Tristan Enaruna": "OUT",
     "Riley Minix": "OUT",
     "Max Strus": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Alex Caruso": "QUESTIONABLE",
+    "Shai Gilgeous-Alexander": "OUT",
+    "Chet Holmgren": "QUESTIONABLE",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Jalen Williams": "OUT"
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
@@ -66,6 +119,12 @@
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Caleb Houstan": "DOUBTFUL",
+    "Jonathan Kuminga": "QUESTIONABLE",
+    "Asa Newell": "DOUBTFUL"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -74,6 +133,14 @@
     "Mac McClung": "OUT",
     "Anfernee Simons": "OUT",
     "Jalen Smith": "QUESTIONABLE"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Yves Missi": "OUT",
+    "Trey Murphy III": "OUT",
+    "Dejounte Murray": "AVAILABLE",
+    "Micah Peavy": "OUT"
   },
   "Miami Heat": {
     "Tyler Herro": "AVAILABLE",
@@ -96,41 +163,5 @@
     "Alex Morales": "OUT",
     "Jalen Suggs": "QUESTIONABLE",
     "Franz Wagner": "OUT"
-  },
-  "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
-    "Jonathan Kuminga": "QUESTIONABLE",
-    "Asa Newell": "DOUBTFUL"
-  },
-  "Brooklyn Nets": {
-    "Tyson Etienne": "OUT",
-    "Chaney Johnson": "OUT",
-    "E.J. Liddell": "OUT",
-    "Josh Minott": "OUT",
-    "Ben Saraf": "OUT"
-  },
-  "Dallas Mavericks": {
-    "Moussa Cisse": "DOUBTFUL",
-    "Cooper Flagg": "OUT",
-    "Daniel Gafford": "QUESTIONABLE",
-    "Kyrie Irving": "OUT",
-    "Miles Kelly": "PROBABLE",
-    "Dereck Lively II": "OUT",
-    "Caleb Martin": "PROBABLE",
-    "Ryan Nembhard": "DOUBTFUL"
-  },
-  "New York Knicks": {
-    "Pacome Dadiet": "OUT",
-    "Dillon Jones": "QUESTIONABLE",
-    "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "OUT"
-  },
-  "Philadelphia 76ers": {
-    "MarJon Beauchamp": "DOUBTFUL",
-    "Johni Broome": "OUT",
-    "Joel Embiid": "QUESTIONABLE",
-    "Paul George": "OUT",
-    "Kelly Oubre Jr.": "AVAILABLE"
   }
 }
