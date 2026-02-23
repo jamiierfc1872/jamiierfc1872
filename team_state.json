@@ -7,9 +7,9 @@
     "Lindy Waters III": "AVAILABLE"
   },
   "Detroit Pistons": {
-    "Isaac Jones": "QUESTIONABLE",
+    "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
-    "Chaz Lanier": "OUT",
+    "Chaz Lanier": "AVAILABLE",
     "Wendell Moore Jr.": "OUT",
     "Isaiah Stewart": "OUT"
   },
@@ -42,5 +42,11 @@
     "Tristen Newton": "OUT",
     "Jae'Sean Tate": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Orlando Magic": {
+    "Colin Castleton": "OUT",
+    "Alex Morales": "OUT",
+    "Jalen Suggs": "QUESTIONABLE",
+    "Franz Wagner": "OUT"
   }
 }
