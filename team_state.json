@@ -96,5 +96,41 @@
     "Alex Morales": "OUT",
     "Jalen Suggs": "QUESTIONABLE",
     "Franz Wagner": "OUT"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Caleb Houstan": "DOUBTFUL",
+    "Jonathan Kuminga": "QUESTIONABLE",
+    "Asa Newell": "DOUBTFUL"
+  },
+  "Brooklyn Nets": {
+    "Tyson Etienne": "OUT",
+    "Chaney Johnson": "OUT",
+    "E.J. Liddell": "OUT",
+    "Josh Minott": "OUT",
+    "Ben Saraf": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "DOUBTFUL",
+    "Cooper Flagg": "OUT",
+    "Daniel Gafford": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "PROBABLE",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "PROBABLE",
+    "Ryan Nembhard": "DOUBTFUL"
+  },
+  "New York Knicks": {
+    "Pacome Dadiet": "OUT",
+    "Dillon Jones": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Kevin McCullar Jr.": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "OUT",
+    "Joel Embiid": "QUESTIONABLE",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
   }
 }
