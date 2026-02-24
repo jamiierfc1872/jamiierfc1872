@@ -22,14 +22,14 @@
     "Ivica Zubac": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "DOUBTFUL",
+    "Moussa Cisse": "OUT",
     "Cooper Flagg": "OUT",
-    "Daniel Gafford": "QUESTIONABLE",
+    "Daniel Gafford": "AVAILABLE",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "PROBABLE",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
-    "Caleb Martin": "PROBABLE",
-    "Ryan Nembhard": "DOUBTFUL"
+    "Caleb Martin": "AVAILABLE",
+    "Ryan Nembhard": "OUT"
   },
   "Brooklyn Nets": {
     "Tyson Etienne": "OUT",
@@ -170,6 +170,15 @@
     "Jaxson Hayes": "OUT",
     "Bronny James": "OUT",
     "Adou Thiero": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kyle Anderson": "QUESTIONABLE",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Cedric Coward": "OUT",
+    "Zach Edey": "OUT",
+    "Ja Morant": "OUT"
   },
   "Detroit Pistons": {
     "Bobi Klintman": "OUT",
