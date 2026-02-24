@@ -1,6 +1,6 @@
 {
   "Philadelphia 76ers": {
-    "MarJon Beauchamp": "DOUBTFUL",
+    "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
     "Joel Embiid": "QUESTIONABLE",
     "Paul George": "OUT",
@@ -66,11 +66,11 @@
   },
   "Washington Wizards": {
     "Leaky Black": "OUT",
-    "Justin Champagnie": "QUESTIONABLE",
+    "Justin Champagnie": "AVAILABLE",
     "Anthony Davis": "OUT",
     "D'Angelo Russell": "OUT",
     "Alex Sarr": "OUT",
-    "Tristan Vukcevic": "QUESTIONABLE",
+    "Tristan Vukcevic": "AVAILABLE",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
@@ -120,9 +120,9 @@
   "Miami Heat": {
     "Tyler Herro": "AVAILABLE",
     "Keshad Johnson": "AVAILABLE",
-    "Nikola Jovic": "DOUBTFUL",
+    "Nikola Jovic": "OUT",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "QUESTIONABLE",
+    "Davion Mitchell": "PROBABLE",
     "Norman Powell": "AVAILABLE",
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
