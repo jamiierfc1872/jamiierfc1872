@@ -2,7 +2,7 @@
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
-    "Joel Embiid": "QUESTIONABLE",
+    "Joel Embiid": "AVAILABLE",
     "Paul George": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
@@ -122,7 +122,7 @@
     "Keshad Johnson": "AVAILABLE",
     "Nikola Jovic": "OUT",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "PROBABLE",
+    "Davion Mitchell": "AVAILABLE",
     "Norman Powell": "AVAILABLE",
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
@@ -206,5 +206,14 @@
     "Jae'Sean Tate": "OUT",
     "Amen Thompson": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Aaron Gordon": "OUT",
+    "Curtis Jones": "OUT",
+    "Jamal Murray": "PROBABLE",
+    "Jalen Pickett": "OUT",
+    "Julian Strawther": "PROBABLE",
+    "Peyton Watson": "OUT"
   }
 }
