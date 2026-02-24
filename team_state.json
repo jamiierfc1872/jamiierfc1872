@@ -10,13 +10,13 @@
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
     "Quenton Jackson": "QUESTIONABLE",
-    "Kam Jones": "PROBABLE",
-    "T.J. McConnell": "QUESTIONABLE",
-    "Andrew Nembhard": "QUESTIONABLE",
+    "Kam Jones": "AVAILABLE",
+    "T.J. McConnell": "AVAILABLE",
+    "Andrew Nembhard": "AVAILABLE",
     "Aaron Nesmith": "OUT",
     "Taelon Peter": "QUESTIONABLE",
-    "Micah Potter": "PROBABLE",
-    "Pascal Siakam": "DOUBTFUL",
+    "Micah Potter": "AVAILABLE",
+    "Pascal Siakam": "OUT",
     "Ethan Thompson": "QUESTIONABLE",
     "Obi Toppin": "OUT",
     "Ivica Zubac": "OUT"
@@ -75,10 +75,10 @@
     "Trae Young": "OUT"
   },
   "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
-    "Jonathan Kuminga": "QUESTIONABLE",
-    "Asa Newell": "DOUBTFUL"
+    "RayJ Dennis": "OUT",
+    "Caleb Houstan": "OUT",
+    "Jonathan Kuminga": "AVAILABLE",
+    "Asa Newell": "OUT"
   },
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
@@ -137,7 +137,7 @@
     "Jaylen Brown": "OUT",
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT",
-    "Amari Williams": "DOUBTFUL"
+    "Amari Williams": "OUT"
   },
   "Phoenix Suns": {
     "Grayson Allen": "QUESTIONABLE",
