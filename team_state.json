@@ -103,11 +103,11 @@
     "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
-    "Draymond Green": "QUESTIONABLE",
-    "Al Horford": "QUESTIONABLE",
-    "De'Anthony Melton": "QUESTIONABLE",
+    "Draymond Green": "PROBABLE",
+    "Al Horford": "OUT",
+    "De'Anthony Melton": "AVAILABLE",
     "Kristaps Porzingis": "OUT",
-    "Nate Williams": "QUESTIONABLE"
+    "Nate Williams": "OUT"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
@@ -115,7 +115,7 @@
     "Yves Missi": "OUT",
     "Trey Murphy III": "OUT",
     "Dejounte Murray": "AVAILABLE",
-    "Micah Peavy": "QUESTIONABLE"
+    "Micah Peavy": "OUT"
   },
   "Miami Heat": {
     "Tyler Herro": "AVAILABLE",
@@ -134,7 +134,7 @@
     "Taurean Prince": "OUT"
   },
   "Boston Celtics": {
-    "Jaylen Brown": "QUESTIONABLE",
+    "Jaylen Brown": "OUT",
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT",
     "Amari Williams": "DOUBTFUL"
@@ -149,7 +149,7 @@
   },
   "Minnesota Timberwolves": {
     "Enrique Freeman": "OUT",
-    "Naz Reid": "QUESTIONABLE",
+    "Naz Reid": "AVAILABLE",
     "Rocco Zikarsky": "OUT"
   },
   "Portland Trail Blazers": {
