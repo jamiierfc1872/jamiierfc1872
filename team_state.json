@@ -167,11 +167,18 @@
     "Franz Wagner": "OUT"
   },
   "Los Angeles Lakers": {
-    "Jaxson Hayes": "DOUBTFUL",
+    "Jaxson Hayes": "OUT",
     "Bronny James": "OUT",
     "Adou Thiero": "OUT"
   },
-  "Sacramento Kings": {},
+  "Sacramento Kings": {
+    "Dylan Cardwell": "OUT",
+    "Devin Carter": "QUESTIONABLE",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
