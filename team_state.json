@@ -19,10 +19,10 @@
     "Ja Morant": "OUT"
   },
   "Oklahoma City Thunder": {
-    "Alex Caruso": "DOUBTFUL",
+    "Alex Caruso": "OUT",
     "Shai Gilgeous-Alexander": "OUT",
     "Isaiah Hartenstein": "OUT",
-    "Chet Holmgren": "DOUBTFUL",
+    "Chet Holmgren": "OUT",
     "Ajay Mitchell": "OUT",
     "Thomas Sorber": "OUT",
     "Jalen Williams": "OUT"
@@ -40,7 +40,7 @@
     "Mason Plumlee": "OUT"
   },
   "Toronto Raptors": {
-    "Scottie Barnes": "QUESTIONABLE",
+    "Scottie Barnes": "AVAILABLE",
     "Chucky Hepburn": "OUT",
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
@@ -169,5 +169,13 @@
     "Hunter Dickinson": "OUT",
     "Yves Missi": "OUT",
     "Trey Murphy III": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "OUT",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Robert Williams III": "QUESTIONABLE",
+    "Hansen Yang": "QUESTIONABLE"
   }
 }
