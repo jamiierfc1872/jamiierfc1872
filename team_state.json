@@ -156,6 +156,14 @@
     "Asa Newell": "DOUBTFUL",
     "Zaccharie Risacher": "QUESTIONABLE"
   },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "OUT",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Robert Williams III": "QUESTIONABLE",
+    "Hansen Yang": "QUESTIONABLE"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -164,18 +172,21 @@
     "Jalen Smith": "DOUBTFUL",
     "Patrick Williams": "DOUBTFUL"
   },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "QUESTIONABLE",
+    "Cooper Flagg": "OUT",
+    "Daniel Gafford": "DOUBTFUL",
+    "Kyrie Irving": "OUT",
+    "Miles Kelly": "QUESTIONABLE",
+    "Dereck Lively II": "OUT",
+    "Khris Middleton": "QUESTIONABLE",
+    "Ryan Nembhard": "QUESTIONABLE",
+    "P.J. Washington": "OUT"
+  },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
     "Yves Missi": "OUT",
     "Trey Murphy III": "OUT"
-  },
-  "Portland Trail Blazers": {
-    "Deni Avdija": "OUT",
-    "Damian Lillard": "OUT",
-    "Caleb Love": "OUT",
-    "Shaedon Sharpe": "OUT",
-    "Robert Williams III": "QUESTIONABLE",
-    "Hansen Yang": "QUESTIONABLE"
   }
 }
