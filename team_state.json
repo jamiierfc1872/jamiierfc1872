@@ -1,4 +1,14 @@
 {
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Draymond Green": "QUESTIONABLE",
+    "De'Anthony Melton": "OUT",
+    "Kristaps Porzingis": "OUT",
+    "Nate Williams": "OUT"
+  },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
     "Kyle Anderson": "QUESTIONABLE",
@@ -66,6 +76,8 @@
     "Peyton Watson": "OUT"
   },
   "Orlando Magic": {
+    "Colin Castleton": "OUT",
+    "Alex Morales": "OUT",
     "Jalen Suggs": "QUESTIONABLE",
     "Franz Wagner": "OUT"
   }
