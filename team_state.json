@@ -20,6 +20,11 @@
     "Emanuel Miller": "OUT",
     "Mason Plumlee": "OUT"
   },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Taurean Prince": "OUT"
+  },
   "Sacramento Kings": {
     "Dylan Cardwell": "OUT",
     "Devin Carter": "QUESTIONABLE",
@@ -43,5 +48,9 @@
     "Jalen Pickett": "OUT",
     "Julian Strawther": "PROBABLE",
     "Peyton Watson": "OUT"
+  },
+  "Orlando Magic": {
+    "Jalen Suggs": "QUESTIONABLE",
+    "Franz Wagner": "OUT"
   }
 }
