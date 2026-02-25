@@ -111,5 +111,48 @@
     "Hunter Dickinson": "OUT",
     "Yves Missi": "OUT",
     "Trey Murphy III": "OUT"
+  },
+  "Atlanta Hawks": {
+    "Nickeil Alexander-Walker": "QUESTIONABLE",
+    "RayJ Dennis": "DOUBTFUL",
+    "Caleb Houstan": "DOUBTFUL",
+    "Jalen Johnson": "QUESTIONABLE",
+    "Asa Newell": "DOUBTFUL",
+    "Zaccharie Risacher": "QUESTIONABLE"
+  },
+  "Brooklyn Nets": {
+    "Tyson Etienne": "OUT",
+    "Chaney Johnson": "OUT",
+    "E.J. Liddell": "OUT",
+    "Josh Minott": "QUESTIONABLE",
+    "Ben Saraf": "OUT"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "OUT",
+    "Taelon Peter": "QUESTIONABLE",
+    "Pascal Siakam": "DOUBTFUL",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "QUESTIONABLE",
+    "Ivica Zubac": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "OUT",
+    "Joel Embiid": "PROBABLE",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Washington Wizards": {
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "QUESTIONABLE",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Tristan Vukcevic": "QUESTIONABLE",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
   }
 }
