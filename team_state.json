@@ -10,12 +10,12 @@
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
     "Quenton Jackson": "QUESTIONABLE",
-    "Andrew Nembhard": "QUESTIONABLE",
+    "Andrew Nembhard": "AVAILABLE",
     "Aaron Nesmith": "OUT",
     "Taelon Peter": "QUESTIONABLE",
-    "Pascal Siakam": "DOUBTFUL",
+    "Pascal Siakam": "OUT",
     "Ethan Thompson": "QUESTIONABLE",
-    "Obi Toppin": "QUESTIONABLE",
+    "Obi Toppin": "AVAILABLE",
     "Ivica Zubac": "OUT"
   },
   "Miami Heat": {
@@ -45,7 +45,7 @@
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
-    "Jalen Suggs": "QUESTIONABLE",
+    "Jalen Suggs": "AVAILABLE",
     "Franz Wagner": "OUT"
   },
   "San Antonio Spurs": {
@@ -73,12 +73,12 @@
     "Trae Young": "OUT"
   },
   "Atlanta Hawks": {
-    "Nickeil Alexander-Walker": "QUESTIONABLE",
+    "Nickeil Alexander-Walker": "OUT",
     "RayJ Dennis": "OUT",
     "Caleb Houstan": "OUT",
     "Jalen Johnson": "OUT",
     "Asa Newell": "AVAILABLE",
-    "Zaccharie Risacher": "QUESTIONABLE"
+    "Zaccharie Risacher": "AVAILABLE"
   },
   "Portland Trail Blazers": {
     "Deni Avdija": "OUT",
@@ -175,5 +175,27 @@
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT",
     "Amari Williams": "OUT"
+  },
+  "New York Knicks": {
+    "Pacome Dadiet": "OUT",
+    "Dillon Jones": "OUT",
+    "Miles McBride": "OUT",
+    "Kevin McCullar Jr.": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Taurean Prince": "OUT",
+    "Cormac Ryan": "OUT"
+  },
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Aaron Gordon": "OUT",
+    "Curtis Jones": "OUT",
+    "Spencer Jones": "QUESTIONABLE",
+    "Jamal Murray": "QUESTIONABLE",
+    "Jalen Pickett": "QUESTIONABLE",
+    "Julian Strawther": "PROBABLE",
+    "Peyton Watson": "OUT"
   }
 }
