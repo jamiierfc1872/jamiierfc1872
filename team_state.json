@@ -49,7 +49,7 @@
     "Franz Wagner": "OUT"
   },
   "San Antonio Spurs": {
-    "Stephon Castle": "QUESTIONABLE",
+    "Stephon Castle": "AVAILABLE",
     "Harrison Ingram": "OUT",
     "Keldon Johnson": "QUESTIONABLE",
     "David Garcia": "OUT",
@@ -187,6 +187,16 @@
     "Giannis Antetokounmpo": "OUT",
     "Taurean Prince": "OUT",
     "Cormac Ryan": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kyle Anderson": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Cedric Coward": "OUT",
+    "Zach Edey": "OUT",
+    "Ty Jerome": "DOUBTFUL",
+    "Ja Morant": "OUT"
   },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
