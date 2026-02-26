@@ -50,7 +50,7 @@
   "Cleveland Cavaliers": {
     "Darius Brown": "OUT",
     "Tristan Enaruna": "OUT",
-    "James Harden": "QUESTIONABLE",
+    "James Harden": "OUT",
     "Riley Minix": "OUT",
     "Donovan Mitchell": "OUT",
     "Evan Mobley": "OUT",
@@ -63,8 +63,8 @@
   },
   "Sacramento Kings": {
     "Dylan Cardwell": "OUT",
-    "Devin Carter": "QUESTIONABLE",
-    "De'Andre Hunter": "OUT",
+    "Devin Carter": "AVAILABLE",
+    "De'Andre -Hunter": "OUT",
     "Zach LaVine": "OUT",
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
@@ -184,10 +184,42 @@
     "Ryan Nembhard": "QUESTIONABLE",
     "P.J. Washington": "OUT"
   },
+  "Los Angeles Lakers": {
+    "Rui Hachimura": "QUESTIONABLE",
+    "Jaxson -Hayes": "PROBABLE",
+    "Bronny James": "OUT",
+    "Adou Thiero": "OUT"
+  },
+  "Phoenix Suns": {
+    "Cole Anthony": "OUT",
+    "Devin Booker": "OUT",
+    "Dillon Brooks": "OUT",
+    "Jordan Goodwin": "OUT",
+    "Haywood Highsmith": "OUT"
+  },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
     "Yves Missi": "OUT",
     "Trey Murphy III": "OUT"
+  },
+  "Utah Jazz": {
+    "Keyonte George": "QUESTIONABLE",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "QUESTIONABLE",
+    "Jusuf Nurkic": "OUT",
+    "Vince Williams Jr.": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Jules Bernard": "OUT",
+    "Enrique Freeman": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "John Collins": "QUESTIONABLE",
+    "Darius Garland": "OUT",
+    "Kawhi Leonard": "QUESTIONABLE"
   }
 }
