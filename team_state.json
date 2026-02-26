@@ -156,11 +156,6 @@
     "Darius Garland": "OUT",
     "Kawhi Leonard": "OUT"
   },
-  "Boston Celtics": {
-    "Max Shulga": "OUT",
-    "Jayson Tatum": "OUT",
-    "Amari Williams": "OUT"
-  },
   "Cleveland Cavaliers": {
     "Keon Ellis": "QUESTIONABLE",
     "James Harden": "QUESTIONABLE",
@@ -175,5 +170,10 @@
     "Chaz Lanier": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Isaiah Stewart": "OUT"
+  },
+  "Boston Celtics": {
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT",
+    "Amari Williams": "OUT"
   }
 }
