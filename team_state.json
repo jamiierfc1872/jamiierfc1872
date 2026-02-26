@@ -74,10 +74,10 @@
   },
   "Atlanta Hawks": {
     "Nickeil Alexander-Walker": "QUESTIONABLE",
-    "RayJ Dennis": "DOUBTFUL",
-    "Caleb Houstan": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Caleb Houstan": "OUT",
     "Jalen Johnson": "OUT",
-    "Asa Newell": "QUESTIONABLE",
+    "Asa Newell": "AVAILABLE",
     "Zaccharie Risacher": "QUESTIONABLE"
   },
   "Portland Trail Blazers": {
@@ -119,7 +119,7 @@
     "P.J. Washington": "OUT"
   },
   "Los Angeles Lakers": {
-    "Rui Hachimura": "QUESTIONABLE",
+    "Rui Hachimura": "OUT",
     "Jaxson -Hayes": "PROBABLE",
     "Bronny James": "OUT",
     "Adou Thiero": "OUT"
@@ -155,5 +155,10 @@
     "John Collins": "OUT",
     "Darius Garland": "OUT",
     "Kawhi Leonard": "OUT"
+  },
+  "Boston Celtics": {
+    "Max Shulga": "OUT",
+    "Jayson Tatum": "OUT",
+    "Amari Williams": "OUT"
   }
 }
