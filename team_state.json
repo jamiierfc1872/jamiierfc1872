@@ -82,6 +82,7 @@
   },
   "Portland Trail Blazers": {
     "Deni Avdija": "OUT",
+    "Donovan Clingan": "QUESTIONABLE",
     "Damian Lillard": "OUT",
     "Caleb Love": "OUT",
     "Shaedon Sharpe": "OUT",
@@ -95,6 +96,16 @@
     "Anfernee Simons": "OUT",
     "Jalen Smith": "OUT",
     "Patrick Williams": "OUT"
+  },
+  "Sacramento Kings": {
+    "Dylan Cardwell": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "QUESTIONABLE",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "PROBABLE",
