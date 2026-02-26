@@ -9,37 +9,10 @@
     "Kristaps Porzingis": "OUT",
     "Nate Williams": "OUT"
   },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Kyle Anderson": "OUT",
-    "Kentavious Caldwell-Pope": "OUT",
-    "Brandon Clarke": "OUT",
-    "Cedric Coward": "OUT",
-    "Zach Edey": "OUT",
-    "Jahmai Mashack": "OUT",
-    "Ja Morant": "OUT"
-  },
-  "Oklahoma City Thunder": {
-    "Alex Caruso": "OUT",
-    "Shai Gilgeous-Alexander": "OUT",
-    "Isaiah Hartenstein": "OUT",
-    "Chet Holmgren": "OUT",
-    "Ajay Mitchell": "OUT",
-    "Thomas Sorber": "OUT",
-    "Jalen Williams": "OUT"
-  },
-  "Detroit Pistons": {
-    "Bobi Klintman": "OUT",
-    "Chaz Lanier": "OUT",
-    "Wendell Moore Jr.": "OUT",
-    "Isaiah Stewart": "OUT"
-  },
-  "San Antonio Spurs": {
-    "Harrison Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Emanuel Miller": "OUT",
-    "Mason Plumlee": "OUT"
-  },
+  "Memphis Grizzlies": {},
+  "Oklahoma City Thunder": {},
+  "Detroit Pistons": {},
+  "San Antonio Spurs": {},
   "Toronto Raptors": {
     "Scottie Barnes": "AVAILABLE",
     "Chucky Hepburn": "OUT",
@@ -47,49 +20,12 @@
     "Alijah Martin": "OUT",
     "Jonathan Mogbo": "OUT"
   },
-  "Cleveland Cavaliers": {
-    "Darius Brown": "OUT",
-    "Tristan Enaruna": "OUT",
-    "James Harden": "OUT",
-    "Riley Minix": "OUT",
-    "Donovan Mitchell": "OUT",
-    "Evan Mobley": "OUT",
-    "Max Strus": "OUT"
-  },
-  "Milwaukee Bucks": {
-    "Alex Antetokounmpo": "OUT",
-    "Giannis Antetokounmpo": "OUT",
-    "Taurean Prince": "OUT"
-  },
-  "Sacramento Kings": {
-    "Dylan Cardwell": "OUT",
-    "Devin Carter": "AVAILABLE",
-    "De'Andre -Hunter": "OUT",
-    "Zach LaVine": "OUT",
-    "Domantas Sabonis": "OUT",
-    "Isaiah Stevens": "OUT"
-  },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tristen Newton": "OUT",
-    "Jae'Sean Tate": "OUT",
-    "Amen Thompson": "OUT",
-    "Fred VanVleet": "OUT"
-  },
-  "Boston Celtics": {
-    "Max Shulga": "OUT",
-    "Jayson Tatum": "OUT",
-    "Amari Williams": "OUT"
-  },
-  "Denver Nuggets": {
-    "Tamar Bates": "OUT",
-    "Aaron Gordon": "OUT",
-    "Curtis Jones": "OUT",
-    "Jamal Murray": "AVAILABLE",
-    "Jalen Pickett": "OUT",
-    "Julian Strawther": "AVAILABLE",
-    "Peyton Watson": "OUT"
-  },
+  "Cleveland Cavaliers": {},
+  "Milwaukee Bucks": {},
+  "Sacramento Kings": {},
+  "Houston Rockets": {},
+  "Boston Celtics": {},
+  "Denver Nuggets": {},
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
     "PJ Hall": "OUT",
