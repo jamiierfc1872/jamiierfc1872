@@ -9,12 +9,12 @@
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "QUESTIONABLE",
+    "Quenton Jackson": "AVAILABLE",
     "Andrew Nembhard": "AVAILABLE",
     "Aaron Nesmith": "OUT",
-    "Taelon Peter": "QUESTIONABLE",
+    "Taelon Peter": "OUT",
     "Pascal Siakam": "OUT",
-    "Ethan Thompson": "QUESTIONABLE",
+    "Ethan Thompson": "OUT",
     "Obi Toppin": "AVAILABLE",
     "Ivica Zubac": "OUT"
   },
@@ -23,8 +23,8 @@
     "Keshad Johnson": "AVAILABLE",
     "Nikola Jovic": "OUT",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "QUESTIONABLE",
-    "Norman Powell": "QUESTIONABLE",
+    "Davion Mitchell": "AVAILABLE",
+    "Norman Powell": "AVAILABLE",
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE"
@@ -197,5 +197,11 @@
     "Jalen Pickett": "QUESTIONABLE",
     "Julian Strawther": "PROBABLE",
     "Peyton Watson": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Branden Carlson": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Jalen Williams": "OUT"
   }
 }
