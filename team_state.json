@@ -36,6 +36,12 @@
     "Paul George": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
+  },
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
@@ -62,8 +68,8 @@
     "Nickeil Alexander-Walker": "QUESTIONABLE",
     "RayJ Dennis": "DOUBTFUL",
     "Caleb Houstan": "DOUBTFUL",
-    "Jalen Johnson": "QUESTIONABLE",
-    "Asa Newell": "DOUBTFUL",
+    "Jalen Johnson": "OUT",
+    "Asa Newell": "QUESTIONABLE",
     "Zaccharie Risacher": "QUESTIONABLE"
   },
   "Portland Trail Blazers": {
@@ -83,14 +89,14 @@
     "Patrick Williams": "DOUBTFUL"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "PROBABLE",
     "Cooper Flagg": "OUT",
     "Daniel Gafford": "DOUBTFUL",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "QUESTIONABLE",
+    "Miles Kelly": "PROBABLE",
     "Dereck Lively II": "OUT",
-    "Khris Middleton": "QUESTIONABLE",
-    "Ryan Nembhard": "QUESTIONABLE",
+    "Khris Middleton": "PROBABLE",
+    "Ryan Nembhard": "DOUBTFUL",
     "P.J. Washington": "OUT"
   },
   "Los Angeles Lakers": {
