@@ -160,5 +160,20 @@
     "Max Shulga": "OUT",
     "Jayson Tatum": "OUT",
     "Amari Williams": "OUT"
+  },
+  "Cleveland Cavaliers": {
+    "Keon Ellis": "QUESTIONABLE",
+    "James Harden": "QUESTIONABLE",
+    "Riley Minix": "OUT",
+    "Donovan Mitchell": "OUT",
+    "Dennis Schroder": "QUESTIONABLE",
+    "Max Strus": "OUT",
+    "Dean Wade": "QUESTIONABLE"
+  },
+  "Detroit Pistons": {
+    "Bobi Klintman": "OUT",
+    "Chaz Lanier": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Isaiah Stewart": "OUT"
   }
 }
