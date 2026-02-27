@@ -1,11 +1,5 @@
 {
-  "Charlotte Hornets": {
-    "Tosan Evbuomwan": "OUT",
-    "PJ Hall": "OUT",
-    "Liam McNeeley": "OUT",
-    "Antonio Reeves": "OUT",
-    "Tidjane Salaun": "OUT"
-  },
+  "Charlotte Hornets": {},
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
@@ -18,17 +12,7 @@
     "Obi Toppin": "AVAILABLE",
     "Ivica Zubac": "OUT"
   },
-  "Miami Heat": {
-    "Tyler Herro": "AVAILABLE",
-    "Keshad Johnson": "AVAILABLE",
-    "Nikola Jovic": "OUT",
-    "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "AVAILABLE",
-    "Norman Powell": "AVAILABLE",
-    "Terry Rozier": "OUT",
-    "Dru Smith": "AVAILABLE",
-    "Andrew Wiggins": "AVAILABLE"
-  },
+  "Miami Heat": {},
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
@@ -36,12 +20,7 @@
     "Paul George": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tristen Newton": "OUT",
-    "Jae'Sean Tate": "OUT",
-    "Fred VanVleet": "OUT"
-  },
+  "Houston Rockets": {},
   "Orlando Magic": {
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
@@ -56,22 +35,8 @@
     "Emanuel Miller": "OUT",
     "Mason Plumlee": "OUT"
   },
-  "Brooklyn Nets": {
-    "Tyson Etienne": "OUT",
-    "Chaney Johnson": "OUT",
-    "E.J. Liddell": "OUT",
-    "Josh Minott": "AVAILABLE",
-    "Ben Saraf": "OUT"
-  },
-  "Washington Wizards": {
-    "Anthony Davis": "OUT",
-    "Kyshawn George": "OUT",
-    "D'Angelo Russell": "OUT",
-    "Alex Sarr": "OUT",
-    "Tristan Vukcevic": "AVAILABLE",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
-  },
+  "Brooklyn Nets": {},
+  "Washington Wizards": {},
   "Atlanta Hawks": {
     "Nickeil Alexander-Walker": "OUT",
     "RayJ Dennis": "OUT",
@@ -80,15 +45,7 @@
     "Asa Newell": "AVAILABLE",
     "Zaccharie Risacher": "AVAILABLE"
   },
-  "Portland Trail Blazers": {
-    "Deni Avdija": "OUT",
-    "Donovan Clingan": "OUT",
-    "Damian Lillard": "OUT",
-    "Caleb Love": "OUT",
-    "Shaedon Sharpe": "OUT",
-    "Robert Williams III": "AVAILABLE",
-    "Hansen Yang": "AVAILABLE"
-  },
+  "Portland Trail Blazers": {},
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -107,23 +64,8 @@
     "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
   },
-  "Dallas Mavericks": {
-    "Moussa Cisse": "AVAILABLE",
-    "Cooper Flagg": "OUT",
-    "Daniel Gafford": "OUT",
-    "Kyrie Irving": "OUT",
-    "Miles Kelly": "AVAILABLE",
-    "Dereck Lively II": "OUT",
-    "Khris Middleton": "AVAILABLE",
-    "Ryan Nembhard": "OUT",
-    "P.J. Washington": "OUT"
-  },
-  "Los Angeles Lakers": {
-    "Rui Hachimura": "OUT",
-    "Jaxson -Hayes": "AVAILABLE",
-    "Bronny James": "OUT",
-    "Adou Thiero": "OUT"
-  },
+  "Dallas Mavericks": {},
+  "Los Angeles Lakers": {},
   "Phoenix Suns": {
     "Cole Anthony": "OUT",
     "Devin Booker": "OUT",
@@ -131,20 +73,8 @@
     "Jordan Goodwin": "OUT",
     "Haywood Highsmith": "OUT"
   },
-  "New Orleans Pelicans": {
-    "Trey Alexander": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Yves Missi": "OUT",
-    "Trey Murphy III": "OUT"
-  },
-  "Utah Jazz": {
-    "Keyonte George": "OUT",
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT",
-    "Vince Williams Jr.": "OUT"
-  },
+  "New Orleans Pelicans": {},
+  "Utah Jazz": {},
   "Minnesota Timberwolves": {
     "Jules Bernard": "OUT",
     "Enrique Freeman": "OUT",
