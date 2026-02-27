@@ -49,12 +49,12 @@
   },
   "Dallas Mavericks": {
     "Marvin Bagley III": "OUT",
-    "Moussa Cisse": "DOUBTFUL",
+    "Moussa Cisse": "QUESTIONABLE",
     "Cooper Flagg": "OUT",
     "Kyrie Irving": "OUT",
     "Miles Kelly": "PROBABLE",
     "Dereck Lively II": "OUT",
-    "Caleb Martin": "QUESTIONABLE",
+    "Caleb Martin": "DOUBTFUL",
     "Ryan Nembhard": "DOUBTFUL",
     "Klay Thompson": "DOUBTFUL",
     "P.J. Washington": "DOUBTFUL"
@@ -124,5 +124,13 @@
     "Tristan Vukcevic": "QUESTIONABLE",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Draymond Green": "PROBABLE",
+    "Kristaps Porzingis": "QUESTIONABLE"
   }
 }
