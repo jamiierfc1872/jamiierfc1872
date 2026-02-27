@@ -75,6 +75,54 @@
     "Thomas Sorber": "OUT",
     "Jalen Williams": "OUT"
   },
-  "Houston Rockets": {},
-  "Toronto Raptors": {}
+  "Portland Trail Blazers": {
+    "Deni Avdija": "DOUBTFUL",
+    "Donovan Clingan": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "OUT",
+    "Shaedon Sharpe": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Jabari Smith Jr.": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "Miami Heat": {
+    "Tyler Herro": "AVAILABLE",
+    "Keshad Johnson": "AVAILABLE",
+    "Nikola Jovic": "OUT",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "AVAILABLE",
+    "Norman Powell": "OUT",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "AVAILABLE",
+    "Andrew Wiggins": "AVAILABLE"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "A.J. Lawson": "OUT",
+    "Alijah Martin": "OUT",
+    "Jonathan Mogbo": "OUT",
+    "Collin Murray-Boyles": "DOUBTFUL"
+  },
+  "Washington Wizards": {
+    "Leaky Black": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "QUESTIONABLE",
+    "Will Riley": "QUESTIONABLE",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Tristan Vukcevic": "QUESTIONABLE",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  }
 }
