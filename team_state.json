@@ -121,6 +121,20 @@
     "Jalen Smith": "OUT",
     "Patrick Williams": "OUT"
   },
+  "Minnesota Timberwolves": {
+    "Jules Bernard": "OUT",
+    "Enrique Freeman": "OUT",
+    "Julius Randle": "QUESTIONABLE",
+    "Rocco Zikarsky": "OUT"
+  },
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Aaron Gordon": "OUT",
+    "Cameron Johnson": "PROBABLE",
+    "Curtis Jones": "OUT",
+    "Spencer Jones": "QUESTIONABLE",
+    "Peyton Watson": "OUT"
+  },
   "Memphis Grizzlies": {
     "Santi Aldama": "DOUBTFUL",
     "Kentavious Caldwell-Pope": "OUT",
@@ -160,6 +174,12 @@
     "Jalen Johnson": "QUESTIONABLE",
     "Asa Newell": "DOUBTFUL"
   },
+  "Oklahoma City Thunder": {
+    "Branden Carlson": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Jalen Williams": "OUT"
+  },
   "Dallas Mavericks": {
     "Marvin Bagley III": "OUT",
     "Moussa Cisse": "QUESTIONABLE",
@@ -187,16 +207,12 @@
     "Jayson Tatum": "OUT",
     "Amari Williams": "QUESTIONABLE"
   },
-  "Minnesota Timberwolves": {
-    "Jules Bernard": "OUT",
-    "Enrique Freeman": "OUT",
-    "Julius Randle": "QUESTIONABLE",
-    "Rocco Zikarsky": "OUT"
-  },
-  "Oklahoma City Thunder": {
-    "Branden Carlson": "OUT",
-    "Ajay Mitchell": "OUT",
-    "Thomas Sorber": "OUT",
-    "Jalen Williams": "OUT"
+  "Sacramento Kings": {
+    "Dylan Cardwell": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT"
   }
 }
