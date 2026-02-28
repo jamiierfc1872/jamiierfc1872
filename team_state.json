@@ -37,7 +37,7 @@
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
     "Jonathan Mogbo": "OUT",
-    "Collin Murray-Boyles": "DOUBTFUL"
+    "Collin Murray-Boyles": "OUT"
   },
   "Washington Wizards": {
     "Leaky Black": "OUT",
@@ -186,5 +186,11 @@
     "Max Shulga": "QUESTIONABLE",
     "Jayson Tatum": "OUT",
     "Amari Williams": "QUESTIONABLE"
+  },
+  "Minnesota Timberwolves": {
+    "Jules Bernard": "OUT",
+    "Enrique Freeman": "OUT",
+    "Julius Randle": "QUESTIONABLE",
+    "Rocco Zikarsky": "OUT"
   }
 }
