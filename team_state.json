@@ -1,8 +1,8 @@
 {
   "Portland Trail Blazers": {
-    "Deni Avdija": "DOUBTFUL",
-    "Sidy Cissoko": "QUESTIONABLE",
-    "Donovan Clingan": "QUESTIONABLE",
+    "Deni Avdija": "OUT",
+    "Sidy Cissoko": "AVAILABLE",
+    "Donovan Clingan": "AVAILABLE",
     "Damian Lillard": "OUT",
     "Caleb Love": "OUT",
     "Shaedon Sharpe": "OUT"
@@ -40,13 +40,13 @@
     "Collin Murray-Boyles": "DOUBTFUL"
   },
   "Washington Wizards": {
-    "Leaky Black": "QUESTIONABLE",
+    "Leaky Black": "OUT",
     "Anthony Davis": "OUT",
-    "Kyshawn George": "QUESTIONABLE",
-    "Will Riley": "QUESTIONABLE",
+    "Kyshawn George": "AVAILABLE",
+    "Will Riley": "AVAILABLE",
     "D'Angelo Russell": "OUT",
     "Alex Sarr": "OUT",
-    "Tristan Vukcevic": "QUESTIONABLE",
+    "Tristan Vukcevic": "AVAILABLE",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
