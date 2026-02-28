@@ -78,6 +78,14 @@
     "Jusuf Nurkic": "OUT",
     "Vince Williams Jr.": "OUT"
   },
+  "Brooklyn Nets": {
+    "Nic Claxton": "QUESTIONABLE",
+    "Egor Demin": "OUT",
+    "Tyson Etienne": "OUT",
+    "Chaney Johnson": "OUT",
+    "E.J. Liddell": "OUT",
+    "Drake Powell": "OUT"
+  },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
@@ -95,5 +103,12 @@
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
+  },
+  "New York Knicks": {
+    "Pacome Dadiet": "QUESTIONABLE",
+    "Trey Jemison III": "QUESTIONABLE",
+    "Dillon Jones": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Kevin McCullar Jr.": "QUESTIONABLE"
   }
 }
