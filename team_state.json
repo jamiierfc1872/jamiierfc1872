@@ -85,6 +85,14 @@
     "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "QUESTIONABLE"
   },
+  "Cleveland Cavaliers": {
+    "Keon Ellis": "QUESTIONABLE",
+    "James Harden": "QUESTIONABLE",
+    "Riley Minix": "OUT",
+    "Donovan Mitchell": "OUT",
+    "Max Strus": "OUT",
+    "Dean Wade": "OUT"
+  },
   "Brooklyn Nets": {
     "Nic Claxton": "QUESTIONABLE",
     "Egor Demin": "OUT",
@@ -99,6 +107,17 @@
     "Taurean Prince": "OUT",
     "Cormac Ryan": "OUT"
   },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "OUT",
+    "Taelon Peter": "QUESTIONABLE",
+    "Pascal Siakam": "DOUBTFUL",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "PROBABLE",
+    "Ivica Zubac": "OUT"
+  },
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
@@ -110,5 +129,51 @@
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
+  },
+  "Atlanta Hawks": {
+    "Nickeil Alexander-Walker": "QUESTIONABLE",
+    "RayJ Dennis": "DOUBTFUL",
+    "Jalen Johnson": "QUESTIONABLE",
+    "Asa Newell": "DOUBTFUL"
+  },
+  "Philadelphia 76ers": {
+    "MarJon Beauchamp": "DOUBTFUL",
+    "Johni Broome": "OUT",
+    "Justin Edwards": "DOUBTFUL",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Tyrese Martin": "DOUBTFUL",
+    "Kelly Oubre Jr.": "AVAILABLE",
+    "Dalen Terry": "DOUBTFUL"
+  },
+  "Boston Celtics": {
+    "Baylor Scheierman": "QUESTIONABLE",
+    "Max Shulga": "QUESTIONABLE",
+    "Jayson Tatum": "OUT",
+    "Amari Williams": "QUESTIONABLE"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Jaden Ivey": "OUT",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "OUT",
+    "Patrick Williams": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "DOUBTFUL",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Cedric Coward": "DOUBTFUL",
+    "Zach Edey": "OUT",
+    "Taj Gibson": "OUT",
+    "Ty Jerome": "DOUBTFUL",
+    "Ja Morant": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "OUT",
+    "Mason Plumlee": "OUT"
   }
 }
