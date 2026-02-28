@@ -39,25 +39,25 @@
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
-    "Kyle Anderson": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
     "Cedric Coward": "OUT",
     "Zach Edey": "OUT",
-    "Ty Jerome": "DOUBTFUL",
+    "Taj Gibson": "OUT",
+    "Ty Jerome": "OUT",
     "Ja Morant": "OUT"
   },
   "Dallas Mavericks": {
     "Marvin Bagley III": "OUT",
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "AVAILABLE",
     "Cooper Flagg": "OUT",
     "Kyrie Irving": "OUT",
-    "Miles Kelly": "PROBABLE",
+    "Miles Kelly": "AVAILABLE",
     "Dereck Lively II": "OUT",
-    "Caleb Martin": "DOUBTFUL",
-    "Ryan Nembhard": "DOUBTFUL",
-    "Klay Thompson": "DOUBTFUL",
-    "P.J. Washington": "DOUBTFUL"
+    "Caleb Martin": "OUT",
+    "Ryan Nembhard": "OUT",
+    "Klay Thompson": "OUT",
+    "P.J. Washington": "OUT"
   },
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
@@ -125,6 +125,11 @@
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
+  "Los Angeles Lakers": {
+    "Rui Hachimura": "DOUBTFUL",
+    "Bronny -James": "OUT",
+    "Adou Thiero": "OUT"
+  },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "OUT",
@@ -132,5 +137,20 @@
     "Stephen Curry": "OUT",
     "Draymond Green": "PROBABLE",
     "Kristaps Porzingis": "QUESTIONABLE"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Yves Missi": "QUESTIONABLE",
+    "Trey Murphy III": "OUT",
+    "Dejounte Murray": "OUT"
+  },
+  "Utah Jazz": {
+    "Keyonte George": "QUESTIONABLE",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT",
+    "Vince Williams Jr.": "OUT"
   }
 }
