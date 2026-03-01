@@ -21,7 +21,7 @@
     "Dean Wade": "OUT"
   },
   "Brooklyn Nets": {
-    "Nic Claxton": "QUESTIONABLE",
+    "Nic Claxton": "OUT",
     "Egor Demin": "OUT",
     "Tyson Etienne": "OUT",
     "Chaney Johnson": "OUT",
@@ -31,7 +31,7 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
-    "Thanasis Antetokounmpo": "QUESTIONABLE",
+    "Thanasis Antetokounmpo": "OUT",
     "Taurean Prince": "OUT",
     "Cormac Ryan": "OUT"
   },
@@ -85,6 +85,7 @@
     "Isaiah Stewart": "OUT"
   },
   "Orlando Magic": {
+    "Anthony Black": "QUESTIONABLE",
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
@@ -113,14 +114,14 @@
     "P.J. Washington": "DOUBTFUL"
   },
   "Philadelphia 76ers": {
-    "MarJon Beauchamp": "DOUBTFUL",
+    "MarJon Beauchamp": "OUT",
     "Johni Broome": "OUT",
     "Justin Edwards": "AVAILABLE",
     "Joel Embiid": "OUT",
     "Paul George": "OUT",
-    "Tyrese Martin": "DOUBTFUL",
+    "Tyrese Martin": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE",
-    "Dalen Terry": "DOUBTFUL"
+    "Dalen Terry": "OUT"
   },
   "Boston Celtics": {
     "Baylor Scheierman": "QUESTIONABLE",
