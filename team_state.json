@@ -60,7 +60,7 @@
     "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
-    "Draymond Green": "AVAILABLE",
+    "Draymond Green": "PROBABLE",
     "Kristaps Porzingis": "OUT"
   },
   "New Orleans Pelicans": {
@@ -71,7 +71,7 @@
     "Dejounte Murray": "OUT"
   },
   "Utah Jazz": {
-    "Keyonte George": "AVAILABLE",
+    "Keyonte George": "PROBABLE",
     "Jaren Jackson Jr.": "OUT",
     "Walker Kessler": "OUT",
     "Lauri Markkanen": "OUT",
@@ -207,11 +207,7 @@
     "Jayson Tatum": "OUT",
     "Amari Williams": "QUESTIONABLE"
   },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "John Collins": "QUESTIONABLE",
-    "Darius Garland": "OUT"
-  },
+  "LA Clippers": {},
   "Sacramento Kings": {
     "Dylan Cardwell": "OUT",
     "De'Andre Hunter": "OUT",
