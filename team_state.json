@@ -57,13 +57,13 @@
     "Peyton Watson": "OUT"
   },
   "Memphis Grizzlies": {
-    "Santi Aldama": "DOUBTFUL",
+    "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
-    "Cedric Coward": "DOUBTFUL",
+    "Cedric Coward": "OUT",
     "Zach Edey": "OUT",
     "Taj Gibson": "OUT",
-    "Ty Jerome": "DOUBTFUL",
+    "Ty Jerome": "OUT",
     "Ja Morant": "OUT"
   },
   "Indiana Pacers": {
@@ -159,6 +159,9 @@
     "Keegan Murray": "OUT",
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "LeBron James": "QUESTIONABLE"
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
