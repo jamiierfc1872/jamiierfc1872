@@ -45,7 +45,7 @@
   },
   "Minnesota Timberwolves": {
     "Enrique Freeman": "OUT",
-    "Julius Randle": "QUESTIONABLE",
+    "Julius Randle": "AVAILABLE",
     "Rocco Zikarsky": "OUT"
   },
   "Denver Nuggets": {
@@ -89,6 +89,15 @@
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "OUT",
+    "Sidy Cissoko": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Robert Williams III": "OUT",
+    "Hansen Yang": "QUESTIONABLE"
   },
   "Atlanta Hawks": {
     "Nickeil Alexander-Walker": "QUESTIONABLE",
