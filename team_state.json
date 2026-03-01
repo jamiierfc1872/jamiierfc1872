@@ -1,12 +1,5 @@
 {
-  "Portland Trail Blazers": {
-    "Deni Avdija": "OUT",
-    "Sidy Cissoko": "AVAILABLE",
-    "Donovan Clingan": "AVAILABLE",
-    "Damian Lillard": "OUT",
-    "Caleb Love": "OUT",
-    "Shaedon Sharpe": "OUT"
-  },
+  "Portland Trail Blazers": {},
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
     "PJ Hall": "OUT",
@@ -14,13 +7,7 @@
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "OUT"
   },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tristen Newton": "OUT",
-    "Jabari Smith Jr.": "OUT",
-    "Jae'Sean Tate": "OUT",
-    "Fred VanVleet": "OUT"
-  },
+  "Houston Rockets": {},
   "Miami Heat": {
     "Tyler Herro": "AVAILABLE",
     "Keshad Johnson": "AVAILABLE",
@@ -39,45 +26,11 @@
     "Jonathan Mogbo": "OUT",
     "Collin Murray-Boyles": "OUT"
   },
-  "Washington Wizards": {
-    "Leaky Black": "OUT",
-    "Anthony Davis": "OUT",
-    "Kyshawn George": "AVAILABLE",
-    "Will Riley": "AVAILABLE",
-    "D'Angelo Russell": "OUT",
-    "Alex Sarr": "OUT",
-    "Tristan Vukcevic": "AVAILABLE",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
-  },
-  "Los Angeles Lakers": {
-    "Rui Hachimura": "OUT",
-    "Bronny -James": "OUT",
-    "Adou Thiero": "OUT"
-  },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "LJ Cryer": "OUT",
-    "Seth Curry": "OUT",
-    "Stephen Curry": "OUT",
-    "Draymond Green": "AVAILABLE",
-    "Kristaps Porzingis": "OUT"
-  },
-  "New Orleans Pelicans": {
-    "Trey Alexander": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Yves Missi": "AVAILABLE",
-    "Trey Murphy III": "OUT",
-    "Dejounte Murray": "OUT"
-  },
-  "Utah Jazz": {
-    "Keyonte George": "AVAILABLE",
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT",
-    "Vince Williams Jr.": "OUT"
-  },
+  "Washington Wizards": {},
+  "Los Angeles Lakers": {},
+  "Golden State Warriors": {},
+  "New Orleans Pelicans": {},
+  "Utah Jazz": {},
   "San Antonio Spurs": {
     "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
