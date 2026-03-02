@@ -28,6 +28,14 @@
     "Taurean Prince": "OUT",
     "Cormac Ryan": "OUT"
   },
+  "Denver Nuggets": {
+    "Tamar Bates": "OUT",
+    "Aaron Gordon": "OUT",
+    "Cameron Johnson": "OUT",
+    "Curtis Jones": "OUT",
+    "Spencer Jones": "OUT",
+    "Peyton Watson": "OUT"
+  },
   "Utah Jazz": {
     "Jaren Jackson Jr.": "OUT",
     "Walker Kessler": "OUT",
@@ -45,12 +53,10 @@
     "Kristaps Porzingis": "OUT",
     "Will Richard": "OUT"
   },
-  "Denver Nuggets": {
-    "Tamar Bates": "OUT",
-    "Aaron Gordon": "OUT",
-    "Cameron Johnson": "OUT",
-    "Curtis Jones": "OUT",
-    "Spencer Jones": "OUT",
-    "Peyton Watson": "OUT"
+  "Orlando Magic": {
+    "Anthony Black": "PROBABLE",
+    "Colin Castleton": "OUT",
+    "Alex Morales": "OUT",
+    "Franz Wagner": "OUT"
   }
 }
