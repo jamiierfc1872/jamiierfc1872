@@ -70,6 +70,13 @@
     "Klay Thompson": "QUESTIONABLE",
     "P.J. Washington": "QUESTIONABLE"
   },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Coby White": "OUT"
+  },
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
     "Bobi Klintman": "QUESTIONABLE",
@@ -90,22 +97,13 @@
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
   },
-  "New York Knicks": {
-    "Pacome Dadiet": "OUT",
-    "Trey Jemison III": "OUT",
-    "Dillon Jones": "OUT",
-    "Miles McBride": "OUT"
-  },
-  "Toronto Raptors": {
-    "Chucky Hepburn": "OUT",
-    "Collin Murray-Boyles": "OUT"
-  },
-  "Charlotte Hornets": {
-    "Tosan Evbuomwan": "OUT",
-    "PJ Hall": "OUT",
-    "Liam McNeeley": "OUT",
-    "Antonio Reeves": "OUT",
-    "Coby White": "OUT"
+  "Brooklyn Nets": {
+    "Nic Claxton": "PROBABLE",
+    "Egor Demin": "OUT",
+    "Tyson Etienne": "OUT",
+    "Chaney Johnson": "OUT",
+    "E.J. Liddell": "OUT",
+    "Drake Powell": "OUT"
   },
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
@@ -118,6 +116,22 @@
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
     "Andrew Wiggins": "AVAILABLE"
+  },
+  "New York Knicks": {
+    "Pacome Dadiet": "OUT",
+    "Trey Jemison III": "OUT",
+    "Dillon Jones": "OUT",
+    "Miles McBride": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Collin Murray-Boyles": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "OUT",
+    "Mason Plumlee": "OUT"
   },
   "Philadelphia 76ers": {
     "MarJon Beauchamp": "DOUBTFUL",
