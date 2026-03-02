@@ -10,7 +10,7 @@
     "Leaky Black": "OUT",
     "Anthony Davis": "OUT",
     "Kyshawn George": "AVAILABLE",
-    "Anthony Gill": "QUESTIONABLE",
+    "Anthony Gill": "OUT",
     "D'Angelo Russell": "OUT",
     "Alex Sarr": "OUT",
     "Tristan Vukcevic": "OUT",
@@ -127,10 +127,29 @@
     "Chucky Hepburn": "OUT",
     "Collin Murray-Boyles": "OUT"
   },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "QUESTIONABLE",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Cedric Coward": "QUESTIONABLE",
+    "Zach Edey": "OUT",
+    "Taj Gibson": "OUT",
+    "Ty Jerome": "QUESTIONABLE",
+    "Ja Morant": "OUT"
+  },
   "Minnesota Timberwolves": {
     "Enrique Freeman": "OUT",
     "Zyon Pullin": "OUT",
     "Rocco Zikarsky": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Branden Carlson": "OUT",
+    "Shai Gilgeous-Alexander": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Jalen Williams": "OUT"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
@@ -154,24 +173,5 @@
     "Tyrese Martin": "DOUBTFUL",
     "Kelly Oubre Jr.": "AVAILABLE",
     "Dalen Terry": "DOUBTFUL"
-  },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "QUESTIONABLE",
-    "Kentavious Caldwell-Pope": "OUT",
-    "Brandon Clarke": "OUT",
-    "Cedric Coward": "QUESTIONABLE",
-    "Zach Edey": "OUT",
-    "Taj Gibson": "OUT",
-    "Ty Jerome": "QUESTIONABLE",
-    "Ja Morant": "OUT"
-  },
-  "Oklahoma City Thunder": {
-    "Branden Carlson": "OUT",
-    "Shai Gilgeous-Alexander": "OUT",
-    "Isaiah Hartenstein": "OUT",
-    "Ajay Mitchell": "OUT",
-    "Thomas Sorber": "OUT",
-    "Nikola Topic": "OUT",
-    "Jalen Williams": "OUT"
   }
 }
