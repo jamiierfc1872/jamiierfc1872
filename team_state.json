@@ -24,7 +24,7 @@
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
-    "Giannis Antetokounmpo": "QUESTIONABLE",
+    "Giannis Antetokounmpo": "AVAILABLE",
     "Taurean Prince": "OUT",
     "Cormac Ryan": "OUT"
   },
@@ -127,6 +127,11 @@
     "Chucky Hepburn": "OUT",
     "Collin Murray-Boyles": "OUT"
   },
+  "Minnesota Timberwolves": {
+    "Enrique Freeman": "OUT",
+    "Zyon Pullin": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -149,5 +154,24 @@
     "Tyrese Martin": "DOUBTFUL",
     "Kelly Oubre Jr.": "AVAILABLE",
     "Dalen Terry": "DOUBTFUL"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "QUESTIONABLE",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Cedric Coward": "QUESTIONABLE",
+    "Zach Edey": "OUT",
+    "Taj Gibson": "OUT",
+    "Ty Jerome": "QUESTIONABLE",
+    "Ja Morant": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Branden Carlson": "OUT",
+    "Shai Gilgeous-Alexander": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Jalen Williams": "OUT"
   }
 }
