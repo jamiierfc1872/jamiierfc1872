@@ -137,21 +137,24 @@
   },
   "Boston Celtics": {
     "Baylor Scheierman": "AVAILABLE",
-    "Max Shulga": "QUESTIONABLE",
+    "Max Shulga": "AVAILABLE",
     "Jayson Tatum": "OUT",
-    "Amari Williams": "QUESTIONABLE"
+    "Amari Williams": "AVAILABLE"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
     "Trey Murphy III": "AVAILABLE",
     "Dejounte Murray": "AVAILABLE",
-    "Zion Williamson": "QUESTIONABLE"
+    "Zion Williamson": "OUT"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
-    "John Collins": "QUESTIONABLE",
-    "Darius Garland": "OUT"
+    "John Collins": "AVAILABLE",
+    "Darius Garland": "OUT",
+    "Norchad Omier": "OUT",
+    "Sean Pedulla": "OUT",
+    "TyTy Washington Jr.": "OUT"
   },
   "Sacramento Kings": {
     "Dylan Cardwell": "OUT",
@@ -162,7 +165,7 @@
     "Isaiah Stevens": "OUT"
   },
   "Los Angeles Lakers": {
-    "LeBron James": "QUESTIONABLE"
+    "LeBron James": "AVAILABLE"
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
@@ -181,5 +184,22 @@
     "Tristan Vukcevic": "QUESTIONABLE",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "Utah Jazz": {
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Kevin Love": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT",
+    "Vince Williams Jr.": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Gary Payton II": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Will Richard": "OUT"
   }
 }
