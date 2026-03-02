@@ -17,8 +17,17 @@
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
-  "Boston Celtics": {},
-  "Milwaukee Bucks": {},
+  "Boston Celtics": {
+    "Jaylen Brown": "OUT",
+    "Neemias Queta": "OUT",
+    "Jayson Tatum": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "QUESTIONABLE",
+    "Taurean Prince": "OUT",
+    "Cormac Ryan": "OUT"
+  },
   "Utah Jazz": {
     "Jaren Jackson Jr.": "OUT",
     "Walker Kessler": "OUT",
