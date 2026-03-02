@@ -44,6 +44,10 @@
     "Jusuf Nurkic": "OUT",
     "Vince Williams Jr.": "OUT"
   },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "John Collins": "OUT"
+  },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "OUT",
@@ -66,11 +70,12 @@
     "Klay Thompson": "QUESTIONABLE",
     "P.J. Washington": "QUESTIONABLE"
   },
-  "Orlando Magic": {
-    "Anthony Black": "PROBABLE",
-    "Colin Castleton": "OUT",
-    "Alex Morales": "OUT",
-    "Franz Wagner": "OUT"
+  "Detroit Pistons": {
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "QUESTIONABLE",
+    "Chaz Lanier": "QUESTIONABLE",
+    "Wendell Moore Jr.": "OUT",
+    "Tolu Smith": "QUESTIONABLE"
   },
   "Cleveland Cavaliers": {
     "Darius Brown": "OUT",
@@ -79,14 +84,20 @@
     "Max Strus": "OUT",
     "Dean Wade": "QUESTIONABLE"
   },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "John Collins": "OUT"
+  "Orlando Magic": {
+    "Anthony Black": "PROBABLE",
+    "Colin Castleton": "OUT",
+    "Alex Morales": "OUT",
+    "Franz Wagner": "OUT"
   },
   "New York Knicks": {
     "Pacome Dadiet": "OUT",
     "Trey Jemison III": "OUT",
     "Dillon Jones": "OUT",
     "Miles McBride": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Collin Murray-Boyles": "OUT"
   }
 }
