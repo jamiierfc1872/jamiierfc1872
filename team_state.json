@@ -9,8 +9,8 @@
     "Caleb Martin": "PROBABLE",
     "John Poulakidas": "QUESTIONABLE",
     "Tyler Smith": "QUESTIONABLE",
-    "Klay Thompson": "QUESTIONABLE",
-    "P.J. Washington": "QUESTIONABLE"
+    "Klay Thompson": "DOUBTFUL",
+    "P.J. Washington": "PROBABLE"
   },
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
@@ -33,6 +33,17 @@
     "Max Strus": "OUT",
     "Dean Wade": "QUESTIONABLE"
   },
+  "Washington Wizards": {
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "Anthony Gill": "QUESTIONABLE",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Tristan Vukcevic": "OUT",
+    "Jamir Watkins": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
   "Orlando Magic": {
     "Anthony Black": "QUESTIONABLE",
     "Colin Castleton": "OUT",
@@ -40,7 +51,7 @@
     "Franz Wagner": "OUT"
   },
   "Brooklyn Nets": {
-    "Nic Claxton": "PROBABLE",
+    "Nic Claxton": "AVAILABLE",
     "Egor Demin": "OUT",
     "Tyson Etienne": "OUT",
     "Chaney Johnson": "OUT",
