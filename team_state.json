@@ -31,7 +31,7 @@
     "Riley Minix": "AVAILABLE",
     "Donovan Mitchell": "OUT",
     "Max Strus": "OUT",
-    "Dean Wade": "QUESTIONABLE"
+    "Dean Wade": "OUT"
   },
   "Washington Wizards": {
     "Anthony Davis": "OUT",
@@ -46,6 +46,7 @@
   },
   "Orlando Magic": {
     "Anthony Black": "OUT",
+    "Wendell Carter Jr.": "QUESTIONABLE",
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
@@ -64,7 +65,7 @@
     "Nikola Jovic": "OUT",
     "Trevor Keels": "OUT",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "QUESTIONABLE",
+    "Davion Mitchell": "AVAILABLE",
     "Norman Powell": "OUT",
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
@@ -91,6 +92,7 @@
     "Ja Morant": "OUT"
   },
   "Minnesota Timberwolves": {
+    "Anthony Edwards": "QUESTIONABLE",
     "Enrique Freeman": "OUT",
     "Zyon Pullin": "OUT",
     "Rocco Zikarsky": "OUT"
@@ -113,6 +115,7 @@
     "Patrick Williams": "OUT"
   },
   "San Antonio Spurs": {
+    "Harrison Barnes": "QUESTIONABLE",
     "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
     "Emanuel Miller": "OUT",
@@ -161,5 +164,10 @@
   "Atlanta Hawks": {
     "RayJ Dennis": "DOUBTFUL",
     "Asa Newell": "DOUBTFUL"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Taurean Prince": "OUT",
+    "Cormac Ryan": "OUT"
   }
 }
