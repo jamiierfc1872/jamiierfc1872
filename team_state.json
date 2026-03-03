@@ -53,7 +53,7 @@
     "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
-    "Gary Payton II": "QUESTIONABLE",
+    "Gary Payton II": "OUT",
     "Kristaps Porzingis": "OUT",
     "Will Richard": "OUT"
   },
@@ -173,5 +173,23 @@
     "Tyrese Martin": "DOUBTFUL",
     "Kelly Oubre Jr.": "AVAILABLE",
     "Dalen Terry": "DOUBTFUL"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Zion Williamson": "QUESTIONABLE"
+  },
+  "Phoenix Suns": {
+    "Dillon Brooks": "OUT",
+    "Jordan Goodwin": "OUT",
+    "Khaman Maluach": "QUESTIONABLE"
+  },
+  "Sacramento Kings": {
+    "Dylan Cardwell": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT"
   }
 }
