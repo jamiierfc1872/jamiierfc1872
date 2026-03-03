@@ -45,7 +45,7 @@
     "Trae Young": "OUT"
   },
   "Orlando Magic": {
-    "Anthony Black": "QUESTIONABLE",
+    "Anthony Black": "OUT",
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
@@ -150,5 +150,9 @@
   },
   "Boston Celtics": {
     "Jayson Tatum": "OUT"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Asa Newell": "DOUBTFUL"
   }
 }
