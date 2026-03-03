@@ -1,16 +1,16 @@
 {
   "Dallas Mavericks": {
     "Marvin Bagley III": "OUT",
-    "Moussa Cisse": "QUESTIONABLE",
-    "Cooper Flagg": "DOUBTFUL",
+    "Moussa Cisse": "OUT",
+    "Cooper Flagg": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
     "Naji Marshall": "OUT",
-    "Caleb Martin": "PROBABLE",
-    "John Poulakidas": "QUESTIONABLE",
-    "Tyler Smith": "QUESTIONABLE",
-    "Klay Thompson": "DOUBTFUL",
-    "P.J. Washington": "PROBABLE"
+    "Caleb Martin": "AVAILABLE",
+    "John Poulakidas": "AVAILABLE",
+    "Tyler Smith": "OUT",
+    "Klay Thompson": "OUT",
+    "P.J. Washington": "AVAILABLE"
   },
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
@@ -46,7 +46,7 @@
   },
   "Orlando Magic": {
     "Anthony Black": "OUT",
-    "Wendell Carter Jr.": "QUESTIONABLE",
+    "Wendell Carter Jr.": "OUT",
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
@@ -115,7 +115,7 @@
     "Patrick Williams": "OUT"
   },
   "San Antonio Spurs": {
-    "Harrison Barnes": "QUESTIONABLE",
+    "Harrison Barnes": "OUT",
     "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
     "Emanuel Miller": "OUT",
