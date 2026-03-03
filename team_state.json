@@ -132,6 +132,9 @@
     "Hunter Dickinson": "OUT",
     "Zion Williamson": "QUESTIONABLE"
   },
+  "Los Angeles Lakers": {
+    "Maxi Kleber": "QUESTIONABLE"
+  },
   "Phoenix Suns": {
     "Dillon Brooks": "OUT",
     "Jordan Goodwin": "OUT",
@@ -145,7 +148,7 @@
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
   },
-  "Los Angeles Lakers": {
-    "Maxi Kleber": "QUESTIONABLE"
+  "Boston Celtics": {
+    "Jayson Tatum": "OUT"
   }
 }
