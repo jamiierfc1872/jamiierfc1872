@@ -6,28 +6,9 @@
     "Jae'Sean Tate": "OUT",
     "Fred VanVleet": "OUT"
   },
-  "Washington Wizards": {
-    "Leaky Black": "OUT",
-    "Anthony Davis": "OUT",
-    "Kyshawn George": "AVAILABLE",
-    "Anthony Gill": "OUT",
-    "D'Angelo Russell": "OUT",
-    "Alex Sarr": "OUT",
-    "Tristan Vukcevic": "OUT",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
-  },
-  "Boston Celtics": {
-    "Jaylen Brown": "OUT",
-    "Neemias Queta": "OUT",
-    "Jayson Tatum": "OUT"
-  },
-  "Milwaukee Bucks": {
-    "Alex Antetokounmpo": "OUT",
-    "Giannis Antetokounmpo": "AVAILABLE",
-    "Taurean Prince": "OUT",
-    "Cormac Ryan": "OUT"
-  },
+  "Washington Wizards": {},
+  "Boston Celtics": {},
+  "Milwaukee Bucks": {},
   "Denver Nuggets": {
     "Tamar Bates": "OUT",
     "Aaron Gordon": "OUT",
@@ -36,19 +17,8 @@
     "Spencer Jones": "OUT",
     "Peyton Watson": "OUT"
   },
-  "Utah Jazz": {
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "Kevin Love": "OUT",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT",
-    "Vince Williams Jr.": "OUT"
-  },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "John Collins": "OUT",
-    "Sean Pedulla": "OUT"
-  },
+  "Utah Jazz": {},
+  "LA Clippers": {},
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "OUT",
