@@ -53,6 +53,7 @@
     "Cedric Coward": "DOUBTFUL",
     "Zach Edey": "OUT",
     "Taj Gibson": "OUT",
+    "Taylor Hendricks": "QUESTIONABLE",
     "Ty Jerome": "DOUBTFUL",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "DOUBTFUL"
@@ -132,6 +133,19 @@
     "Gary Payton II": "QUESTIONABLE",
     "Kristaps Porzingis": "OUT",
     "Will Richard": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Brandon Ingram": "QUESTIONABLE",
+    "A.J. Lawson": "OUT",
+    "Alijah Martin": "OUT",
+    "Collin Murray-Boyles": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Enrique Freeman": "OUT",
+    "Joe Ingles": "OUT",
+    "Zyon Pullin": "OUT",
+    "Rocco Zikarsky": "OUT"
   },
   "Chicago Bulls": {
     "Matas Buzelis": "QUESTIONABLE",
