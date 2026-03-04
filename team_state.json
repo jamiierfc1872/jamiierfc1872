@@ -84,5 +84,30 @@
     "Bradley Beal": "OUT",
     "John Collins": "OUT"
   },
-  "Golden State Warriors": {}
+  "Orlando Magic": {
+    "Anthony Black": "QUESTIONABLE",
+    "Wendell Carter Jr.": "QUESTIONABLE",
+    "Franz Wagner": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Moses Moody": "OUT",
+    "Gary Payton II": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Will Richard": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Marvin Bagley III": "OUT",
+    "Moussa Cisse": "QUESTIONABLE",
+    "Cooper Flagg": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Naji Marshall": "PROBABLE",
+    "John Poulakidas": "QUESTIONABLE",
+    "Tyler Smith": "QUESTIONABLE",
+    "Klay Thompson": "PROBABLE",
+    "Brandon Williams": "PROBABLE"
+  }
 }
