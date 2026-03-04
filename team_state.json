@@ -101,6 +101,29 @@
     "Wendell Carter Jr.": "QUESTIONABLE",
     "Franz Wagner": "OUT"
   },
+  "Washington Wizards": {
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "Anthony Gill": "QUESTIONABLE",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Tristan Vukcevic": "OUT",
+    "Jamir Watkins": "OUT",
+    "Cam Whitmore": "OUT"
+  },
+  "Miami Heat": {
+    "Simone Fontecchio": "OUT",
+    "Vladislav Goldin": "OUT",
+    "Keshad Johnson": "OUT",
+    "Nikola Jovic": "OUT",
+    "Trevor Keels": "OUT",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "AVAILABLE",
+    "Norman Powell": "OUT",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "AVAILABLE",
+    "Andrew Wiggins": "AVAILABLE"
+  },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "Seth Curry": "OUT",
@@ -109,5 +132,15 @@
     "Gary Payton II": "QUESTIONABLE",
     "Kristaps Porzingis": "OUT",
     "Will Richard": "OUT"
+  },
+  "Chicago Bulls": {
+    "Matas Buzelis": "QUESTIONABLE",
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "QUESTIONABLE",
+    "Jaden Ivey": "OUT",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "DOUBTFUL",
+    "Patrick Williams": "DOUBTFUL"
   }
 }
