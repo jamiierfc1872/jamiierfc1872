@@ -1,16 +1,16 @@
 {
   "Dallas Mavericks": {
     "Marvin Bagley III": "OUT",
-    "Moussa Cisse": "OUT",
-    "Cooper Flagg": "OUT",
+    "Moussa Cisse": "QUESTIONABLE",
+    "Cooper Flagg": "DOUBTFUL",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
     "Naji Marshall": "OUT",
-    "Caleb Martin": "AVAILABLE",
-    "John Poulakidas": "AVAILABLE",
-    "Tyler Smith": "OUT",
-    "Klay Thompson": "OUT",
-    "P.J. Washington": "AVAILABLE"
+    "Caleb Martin": "PROBABLE",
+    "John Poulakidas": "QUESTIONABLE",
+    "Tyler Smith": "QUESTIONABLE",
+    "Klay Thompson": "DOUBTFUL",
+    "P.J. Washington": "PROBABLE"
   },
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
@@ -31,7 +31,7 @@
     "Riley Minix": "AVAILABLE",
     "Donovan Mitchell": "OUT",
     "Max Strus": "OUT",
-    "Dean Wade": "OUT"
+    "Dean Wade": "QUESTIONABLE"
   },
   "Washington Wizards": {
     "Anthony Davis": "OUT",
@@ -45,8 +45,7 @@
     "Trae Young": "OUT"
   },
   "Orlando Magic": {
-    "Anthony Black": "OUT",
-    "Wendell Carter Jr.": "OUT",
+    "Anthony Black": "QUESTIONABLE",
     "Colin Castleton": "OUT",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
@@ -65,11 +64,11 @@
     "Nikola Jovic": "OUT",
     "Trevor Keels": "OUT",
     "Pelle Larsson": "AVAILABLE",
-    "Davion Mitchell": "AVAILABLE",
+    "Davion Mitchell": "QUESTIONABLE",
     "Norman Powell": "OUT",
     "Terry Rozier": "OUT",
     "Dru Smith": "AVAILABLE",
-    "Andrew Wiggins": "AVAILABLE"
+    "Andrew Wiggins": "PROBABLE"
   },
   "New York Knicks": {
     "Pacome Dadiet": "OUT",
@@ -82,19 +81,16 @@
     "Collin Murray-Boyles": "OUT"
   },
   "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
+    "Santi Aldama": "QUESTIONABLE",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
-    "Cedric Coward": "AVAILABLE",
+    "Cedric Coward": "QUESTIONABLE",
     "Zach Edey": "OUT",
     "Taj Gibson": "OUT",
-    "Ty Jerome": "AVAILABLE",
-    "Jahmai Mashack": "OUT",
-    "Ja Morant": "OUT",
-    "Javon Small": "OUT"
+    "Ty Jerome": "QUESTIONABLE",
+    "Ja Morant": "OUT"
   },
   "Minnesota Timberwolves": {
-    "Anthony Edwards": "AVAILABLE",
     "Enrique Freeman": "OUT",
     "Zyon Pullin": "OUT",
     "Rocco Zikarsky": "OUT"
@@ -117,7 +113,6 @@
     "Patrick Williams": "OUT"
   },
   "San Antonio Spurs": {
-    "Harrison Barnes": "OUT",
     "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
     "Emanuel Miller": "OUT",
@@ -135,10 +130,10 @@
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
-    "Zion Williamson": "AVAILABLE"
+    "Zion Williamson": "QUESTIONABLE"
   },
   "Los Angeles Lakers": {
-    "Maxi Kleber": "AVAILABLE"
+    "Maxi Kleber": "QUESTIONABLE"
   },
   "Phoenix Suns": {
     "Dillon Brooks": "OUT",
@@ -156,45 +151,10 @@
   "Boston Celtics": {
     "Jayson Tatum": "OUT"
   },
-  "Utah Jazz": {
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT",
-    "Vince Williams Jr.": "OUT"
-  },
-  "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
-    "Jayson Kent": "OUT",
-    "Damian Lillard": "OUT",
-    "Caleb Love": "OUT",
-    "Kris Murray": "QUESTIONABLE",
-    "Shaedon Sharpe": "OUT",
-    "Hansen Yang": "OUT"
-  },
-  "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Asa Newell": "DOUBTFUL"
-  },
-  "Milwaukee Bucks": {
-    "Alex Antetokounmpo": "OUT",
-    "Taurean Prince": "OUT",
-    "Cormac Ryan": "OUT"
-  },
-  "Indiana Pacers": {
-    "Johnny Furphy": "OUT",
-    "Tyrese Haliburton": "OUT",
-    "Andrew Nembhard": "QUESTIONABLE",
-    "Aaron Nesmith": "QUESTIONABLE",
-    "Taelon Peter": "QUESTIONABLE",
-    "Pascal Siakam": "QUESTIONABLE",
-    "Jalen Slawson": "QUESTIONABLE",
-    "Ethan Thompson": "QUESTIONABLE",
-    "Obi Toppin": "PROBABLE",
-    "Ivica Zubac": "OUT"
-  },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "John Collins": "OUT"
-  }
+  "Utah Jazz": {},
+  "Portland Trail Blazers": {},
+  "Atlanta Hawks": {},
+  "Milwaukee Bucks": {},
+  "Indiana Pacers": {},
+  "LA Clippers": {}
 }
