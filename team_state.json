@@ -150,6 +150,18 @@
     "Amen Thompson": "QUESTIONABLE",
     "Fred VanVleet": "OUT"
   },
+  "Detroit Pistons": {
+    "Isaac Jones": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Tolu Smith": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Barnes": "OUT",
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "OUT",
+    "Mason Plumlee": "OUT"
+  },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "Brandon Ingram": "QUESTIONABLE",
@@ -172,17 +184,5 @@
     "Anfernee Simons": "OUT",
     "Jalen Smith": "DOUBTFUL",
     "Patrick Williams": "DOUBTFUL"
-  },
-  "Detroit Pistons": {
-    "Isaac Jones": "OUT",
-    "Wendell Moore Jr.": "OUT",
-    "Tolu Smith": "OUT"
-  },
-  "San Antonio Spurs": {
-    "Harrison Barnes": "OUT",
-    "Harrison Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Emanuel Miller": "OUT",
-    "Mason Plumlee": "OUT"
   }
 }
