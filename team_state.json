@@ -1,20 +1,20 @@
 {
   "Dallas Mavericks": {
     "Marvin Bagley III": "OUT",
-    "Moussa Cisse": "DOUBTFUL",
-    "Cooper Flagg": "QUESTIONABLE",
+    "Moussa Cisse": "OUT",
+    "Cooper Flagg": "AVAILABLE",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "Naji Marshall": "PROBABLE",
-    "John Poulakidas": "DOUBTFUL",
-    "Tyler Smith": "DOUBTFUL",
-    "Klay Thompson": "PROBABLE",
-    "Brandon Williams": "QUESTIONABLE"
+    "Naji Marshall": "AVAILABLE",
+    "John Poulakidas": "OUT",
+    "Tyler Smith": "OUT",
+    "Klay Thompson": "AVAILABLE",
+    "Brandon Williams": "OUT"
   },
   "Orlando Magic": {
-    "Anthony Black": "QUESTIONABLE",
-    "Wendell Carter Jr.": "QUESTIONABLE",
-    "Jonathan Isaac": "QUESTIONABLE",
+    "Anthony Black": "AVAILABLE",
+    "Wendell Carter Jr.": "AVAILABLE",
+    "Jonathan Isaac": "OUT",
     "Franz Wagner": "OUT"
   },
   "Utah Jazz": {
@@ -28,7 +28,7 @@
   "Washington Wizards": {
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
-    "Anthony Gill": "QUESTIONABLE",
+    "Anthony Gill": "AVAILABLE",
     "D'Angelo Russell": "OUT",
     "Alex Sarr": "OUT",
     "Tristan Vukcevic": "OUT",
@@ -60,7 +60,7 @@
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
     "Moses Moody": "OUT",
-    "Gary Payton II": "QUESTIONABLE",
+    "Gary Payton II": "OUT",
     "Kristaps Porzingis": "OUT",
     "Will Richard": "OUT"
   },
@@ -93,8 +93,8 @@
     "Collin Murray-Boyles": "OUT"
   },
   "Minnesota Timberwolves": {
-    "Jaylen Clark": "QUESTIONABLE",
-    "Anthony Edwards": "QUESTIONABLE",
+    "Jaylen Clark": "AVAILABLE",
+    "Anthony Edwards": "AVAILABLE",
     "Enrique Freeman": "OUT",
     "Joe Ingles": "OUT",
     "Zyon Pullin": "OUT",
@@ -152,9 +152,23 @@
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "OUT"
   },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "DOUBTFUL",
+    "Jayson Kent": "OUT",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "OUT",
+    "Kris Murray": "QUESTIONABLE",
+    "Shaedon Sharpe": "OUT",
+    "Hansen Yang": "OUT"
+  },
   "New York Knicks": {
     "Josh Hart": "QUESTIONABLE",
     "Dillon Jones": "OUT",
     "Miles McBride": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "John Collins": "OUT",
+    "Darius Garland": "OUT"
   }
 }
