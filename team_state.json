@@ -143,5 +143,10 @@
   "Boston Celtics": {
     "Baylor Scheierman": "AVAILABLE",
     "Jayson Tatum": "QUESTIONABLE"
+  },
+  "New York Knicks": {
+    "Josh Hart": "QUESTIONABLE",
+    "Dillon Jones": "OUT",
+    "Miles McBride": "OUT"
   }
 }
