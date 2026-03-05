@@ -7,11 +7,11 @@
     "Jalen Williams": "OUT"
   },
   "New York Knicks": {
-    "Pacome Dadiet": "QUESTIONABLE",
-    "Trey Jemison III": "QUESTIONABLE",
-    "Dillon Jones": "QUESTIONABLE",
+    "Pacome Dadiet": "AVAILABLE",
+    "Trey Jemison III": "AVAILABLE",
+    "Dillon Jones": "OUT",
     "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "QUESTIONABLE",
+    "Kevin McCullar Jr.": "AVAILABLE",
     "Mitchell Robinson": "OUT"
   },
   "Charlotte Hornets": {
@@ -38,11 +38,11 @@
     "Kelly Oubre Jr.": "OUT"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
+    "Deni Avdija": "OUT",
     "Jayson Kent": "OUT",
     "Damian Lillard": "OUT",
     "Caleb Love": "OUT",
-    "Kris Murray": "QUESTIONABLE",
+    "Kris Murray": "OUT",
     "Shaedon Sharpe": "OUT",
     "Hansen Yang": "OUT"
   },
@@ -50,18 +50,19 @@
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
-    "Cedric Coward": "DOUBTFUL",
+    "Cedric Coward": "OUT",
     "Zach Edey": "OUT",
     "Taj Gibson": "OUT",
-    "Taylor Hendricks": "QUESTIONABLE",
-    "Ty Jerome": "DOUBTFUL",
+    "Taylor Hendricks": "OUT",
+    "Ty Jerome": "OUT",
     "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "DOUBTFUL"
+    "Scotty Pippen Jr.": "OUT"
   },
   "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Jonathan Kuminga": "QUESTIONABLE",
-    "Asa Newell": "DOUBTFUL"
+    "RayJ Dennis": "OUT",
+    "Keshon Gilbert": "OUT",
+    "Jonathan Kuminga": "OUT",
+    "Asa Newell": "OUT"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
@@ -185,7 +186,21 @@
     "Jalen Smith": "DOUBTFUL",
     "Patrick Williams": "DOUBTFUL"
   },
-  "Denver Nuggets": {},
+  "Phoenix Suns": {
+    "Dillon Brooks": "OUT",
+    "Jordan Goodwin": "OUT",
+    "Mark Williams": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Maxi Kleber": "QUESTIONABLE"
+  },
+  "Denver Nuggets": {
+    "Aaron Gordon": "OUT",
+    "Cameron Johnson": "QUESTIONABLE",
+    "Curtis Jones": "OUT",
+    "Spencer Jones": "OUT",
+    "Peyton Watson": "OUT"
+  },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
@@ -193,5 +208,12 @@
     "Dejounte Murray": "OUT",
     "Josh Oduro": "OUT",
     "Zion Williamson": "QUESTIONABLE"
+  },
+  "Sacramento Kings": {
+    "Dylan Cardwell": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT"
   }
 }
