@@ -60,7 +60,6 @@
   },
   "Atlanta Hawks": {
     "RayJ Dennis": "OUT",
-    "Keshon Gilbert": "OUT",
     "Jonathan Kuminga": "OUT",
     "Asa Newell": "OUT"
   },
@@ -73,19 +72,18 @@
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Andrew Nembhard": "AVAILABLE",
-    "Aaron Nesmith": "AVAILABLE",
-    "Taelon Peter": "OUT",
-    "Pascal Siakam": "AVAILABLE",
-    "Jalen Slawson": "OUT",
-    "Ethan Thompson": "OUT",
-    "Obi Toppin": "AVAILABLE",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "QUESTIONABLE",
+    "Taelon Peter": "QUESTIONABLE",
+    "Pascal Siakam": "QUESTIONABLE",
+    "Jalen Slawson": "QUESTIONABLE",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "PROBABLE",
     "Ivica Zubac": "OUT"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
-    "John Collins": "OUT",
-    "Sean Pedulla": "OUT"
+    "John Collins": "OUT"
   },
   "Dallas Mavericks": {
     "Marvin Bagley III": "OUT",
@@ -210,11 +208,5 @@
     "Josh Oduro": "OUT",
     "Zion Williamson": "QUESTIONABLE"
   },
-  "Sacramento Kings": {
-    "Dylan Cardwell": "OUT",
-    "De'Andre Hunter": "OUT",
-    "Zach LaVine": "OUT",
-    "Keegan Murray": "OUT",
-    "Domantas Sabonis": "OUT"
-  }
+  "Sacramento Kings": {}
 }
