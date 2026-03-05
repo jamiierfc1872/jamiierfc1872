@@ -17,6 +17,14 @@
     "Jonathan Isaac": "QUESTIONABLE",
     "Franz Wagner": "OUT"
   },
+  "Utah Jazz": {
+    "Keyonte George": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT",
+    "Vince Williams Jr.": "OUT"
+  },
   "Washington Wizards": {
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
@@ -131,5 +139,9 @@
     "Zach LaVine": "OUT",
     "Keegan Murray": "OUT",
     "Domantas Sabonis": "OUT"
+  },
+  "Boston Celtics": {
+    "Baylor Scheierman": "AVAILABLE",
+    "Jayson Tatum": "QUESTIONABLE"
   }
 }
