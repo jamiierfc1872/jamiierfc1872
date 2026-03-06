@@ -12,7 +12,7 @@
   },
   "Boston Celtics": {
     "Baylor Scheierman": "AVAILABLE",
-    "Jayson Tatum": "QUESTIONABLE",
+    "Jayson Tatum": "AVAILABLE",
     "Jordan Walsh": "QUESTIONABLE"
   },
   "Miami Heat": {
@@ -46,6 +46,7 @@
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
+    "Jabari Smith Jr.": "QUESTIONABLE",
     "Jae'Sean Tate": "OUT",
     "Amen Thompson": "QUESTIONABLE",
     "Fred VanVleet": "OUT"
