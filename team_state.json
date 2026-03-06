@@ -101,14 +101,14 @@
     "Rocco Zikarsky": "OUT"
   },
   "Chicago Bulls": {
-    "Matas Buzelis": "QUESTIONABLE",
+    "Matas Buzelis": "OUT",
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
-    "Josh Giddey": "QUESTIONABLE",
+    "Josh Giddey": "OUT",
     "Jaden Ivey": "OUT",
     "Anfernee Simons": "OUT",
-    "Jalen Smith": "DOUBTFUL",
-    "Patrick Williams": "DOUBTFUL"
+    "Jalen Smith": "OUT",
+    "Patrick Williams": "OUT"
   },
   "Phoenix Suns": {
     "Dillon Brooks": "OUT",
@@ -116,7 +116,7 @@
     "Mark Williams": "OUT"
   },
   "Los Angeles Lakers": {
-    "Maxi Kleber": "QUESTIONABLE"
+    "Maxi Kleber": "OUT"
   },
   "Denver Nuggets": {
     "Aaron Gordon": "OUT",
@@ -170,5 +170,16 @@
     "Bradley Beal": "OUT",
     "John Collins": "OUT",
     "Darius Garland": "OUT"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Andrew Nembhard": "PROBABLE",
+    "Aaron Nesmith": "PROBABLE",
+    "Taelon Peter": "QUESTIONABLE",
+    "Pascal Siakam": "PROBABLE",
+    "Jalen Slawson": "QUESTIONABLE",
+    "Ethan Thompson": "DOUBTFUL",
+    "Ivica Zubac": "OUT"
   }
 }
