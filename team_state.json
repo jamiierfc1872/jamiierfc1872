@@ -51,10 +51,29 @@
     "Amen Thompson": "QUESTIONABLE",
     "Fred VanVleet": "OUT"
   },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Josh Oduro": "OUT"
+  },
+  "Phoenix Suns": {
+    "Dillon Brooks": "OUT",
+    "Jordan Goodwin": "OUT",
+    "Royce O'Neale": "QUESTIONABLE",
+    "Mark Williams": "OUT"
+  },
   "New York Knicks": {
     "Josh Hart": "QUESTIONABLE",
     "Dillon Jones": "OUT",
     "Miles McBride": "OUT"
+  },
+  "Denver Nuggets": {
+    "Aaron Gordon": "QUESTIONABLE",
+    "Cameron Johnson": "QUESTIONABLE",
+    "Curtis Jones": "OUT",
+    "Spencer Jones": "QUESTIONABLE",
+    "KJ Simpson": "OUT",
+    "Peyton Watson": "OUT"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
@@ -80,5 +99,17 @@
     "Jalen Slawson": "QUESTIONABLE",
     "Ethan Thompson": "DOUBTFUL",
     "Ivica Zubac": "OUT"
+  },
+  "Orlando Magic": {
+    "Colin Castleton": "OUT",
+    "Jonathan Isaac": "QUESTIONABLE",
+    "Alex Morales": "OUT",
+    "Franz Wagner": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Taurean Prince": "OUT",
+    "Cormac Ryan": "OUT"
   }
 }
