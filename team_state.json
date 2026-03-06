@@ -159,5 +159,21 @@
     "Gary Payton II": "PROBABLE",
     "Kristaps Porzingis": "QUESTIONABLE",
     "Will Richard": "QUESTIONABLE"
+  },
+  "Oklahoma City Thunder": {
+    "Branden Carlson": "OUT",
+    "Alex Caruso": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Jalen Williams": "OUT"
+  },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT",
+    "Vince Williams Jr.": "OUT"
   }
 }
