@@ -23,8 +23,8 @@
     "Davion Mitchell": "AVAILABLE",
     "Norman Powell": "OUT",
     "Terry Rozier": "OUT",
-    "Dru Smith": "PROBABLE",
-    "Andrew Wiggins": "DOUBTFUL",
+    "Dru Smith": "AVAILABLE",
+    "Andrew Wiggins": "OUT",
     "Jahmir Young": "OUT"
   },
   "Charlotte Hornets": {
@@ -117,6 +117,26 @@
     "Chaney Johnson": "OUT",
     "E.J. Liddell": "OUT",
     "Drake Powell": "OUT"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "QUESTIONABLE",
+    "Jalen Duren": "PROBABLE",
+    "Isaac Jones": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Ausar Thompson": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "VJ Edgecombe": "DOUBTFUL",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Keshon Gilbert": "DOUBTFUL",
+    "Jonathan Kuminga": "QUESTIONABLE",
+    "Asa Newell": "DOUBTFUL"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
