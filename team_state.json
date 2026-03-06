@@ -1,4 +1,15 @@
 {
+  "Dallas Mavericks": {
+    "Marvin Bagley III": "DOUBTFUL",
+    "Moussa Cisse": "QUESTIONABLE",
+    "Daniel Gafford": "DOUBTFUL",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "John Poulakidas": "QUESTIONABLE",
+    "Tyler Smith": "QUESTIONABLE",
+    "Klay Thompson": "PROBABLE",
+    "Brandon Williams": "PROBABLE"
+  },
   "Boston Celtics": {
     "Baylor Scheierman": "AVAILABLE",
     "Jayson Tatum": "QUESTIONABLE",
@@ -31,6 +42,13 @@
     "Kris Murray": "QUESTIONABLE",
     "Shaedon Sharpe": "OUT",
     "Hansen Yang": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Amen Thompson": "QUESTIONABLE",
+    "Fred VanVleet": "OUT"
   },
   "New York Knicks": {
     "Josh Hart": "QUESTIONABLE",
