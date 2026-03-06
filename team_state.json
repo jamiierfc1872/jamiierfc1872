@@ -1,19 +1,19 @@
 {
   "Dallas Mavericks": {
-    "Marvin Bagley III": "DOUBTFUL",
-    "Moussa Cisse": "QUESTIONABLE",
-    "Daniel Gafford": "DOUBTFUL",
+    "Marvin Bagley III": "OUT",
+    "Moussa Cisse": "AVAILABLE",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "John Poulakidas": "QUESTIONABLE",
-    "Tyler Smith": "QUESTIONABLE",
-    "Klay Thompson": "PROBABLE",
-    "Brandon Williams": "PROBABLE"
+    "John Poulakidas": "OUT",
+    "Tyler Smith": "OUT",
+    "Klay Thompson": "AVAILABLE",
+    "Brandon Williams": "AVAILABLE"
   },
   "Boston Celtics": {
     "Baylor Scheierman": "AVAILABLE",
     "Jayson Tatum": "AVAILABLE",
-    "Jordan Walsh": "QUESTIONABLE"
+    "Jordan Walsh": "OUT"
   },
   "Miami Heat": {
     "Simone Fontecchio": "OUT",
@@ -110,6 +110,12 @@
     "Jonathan Isaac": "QUESTIONABLE",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Kyle Anderson": "QUESTIONABLE",
+    "Enrique Freeman": "OUT",
+    "Zyon Pullin": "OUT",
+    "Rocco Zikarsky": "OUT"
   },
   "Brooklyn Nets": {
     "Egor Demin": "OUT",
