@@ -4,6 +4,18 @@
     "Jayson Tatum": "QUESTIONABLE",
     "Jordan Walsh": "QUESTIONABLE"
   },
+  "Miami Heat": {
+    "Simone Fontecchio": "OUT",
+    "Keshad Johnson": "OUT",
+    "Nikola Jovic": "OUT",
+    "Pelle Larsson": "AVAILABLE",
+    "Davion Mitchell": "AVAILABLE",
+    "Norman Powell": "OUT",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "PROBABLE",
+    "Andrew Wiggins": "DOUBTFUL",
+    "Jahmir Young": "OUT"
+  },
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
     "PJ Hall": "OUT",
@@ -27,6 +39,7 @@
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
+    "Bogdan Bogdanovic": "QUESTIONABLE",
     "John Collins": "OUT",
     "Darius Garland": "OUT"
   },
