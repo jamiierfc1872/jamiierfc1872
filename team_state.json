@@ -40,6 +40,10 @@
     "Jonathan Kuminga": "QUESTIONABLE",
     "Asa Newell": "DOUBTFUL"
   },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "John Collins": "OUT"
+  },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
@@ -64,9 +68,9 @@
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
-    "Seth Curry": "QUESTIONABLE",
+    "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
-    "De'Anthony Melton": "QUESTIONABLE",
+    "De'Anthony Melton": "OUT",
     "Moses Moody": "OUT",
     "Gary Payton II": "PROBABLE",
     "Kristaps Porzingis": "QUESTIONABLE",
@@ -79,9 +83,5 @@
     "Ajay Mitchell": "OUT",
     "Thomas Sorber": "OUT",
     "Jalen Williams": "OUT"
-  },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "John Collins": "OUT"
   }
 }
