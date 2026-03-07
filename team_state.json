@@ -22,7 +22,7 @@
   },
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
-    "Jalen Duren": "PROBABLE",
+    "Jalen Duren": "AVAILABLE",
     "Isaac Jones": "OUT",
     "Wendell Moore Jr.": "OUT",
     "Ausar Thompson": "OUT"
@@ -129,5 +129,18 @@
     "Terry Rozier": "OUT",
     "Andrew Wiggins": "QUESTIONABLE",
     "Jahmir Young": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Barnes": "OUT",
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "OUT",
+    "Mason Plumlee": "OUT"
   }
 }
