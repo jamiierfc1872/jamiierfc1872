@@ -90,6 +90,28 @@
     "John Tonje": "OUT",
     "Nikola Vucevic": "OUT"
   },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "OUT",
+    "Keon Ellis": "AVAILABLE",
+    "James Harden": "AVAILABLE",
+    "Riley Minix": "OUT",
+    "Donovan Mitchell": "PROBABLE",
+    "Tyrese Proctor": "OUT",
+    "Olivier Sarr": "OUT",
+    "Max Strus": "OUT",
+    "Jaylon Tyson": "QUESTIONABLE",
+    "Dean Wade": "PROBABLE"
+  },
+  "Dallas Mavericks": {
+    "Marvin Bagley III": "QUESTIONABLE",
+    "Moussa Cisse": "DOUBTFUL",
+    "Cooper Flagg": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "John Poulakidas": "DOUBTFUL",
+    "Dwight Powell": "PROBABLE",
+    "Tyler Smith": "DOUBTFUL"
+  },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "Brandon Ingram": "QUESTIONABLE",
