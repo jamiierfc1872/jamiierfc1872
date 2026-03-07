@@ -46,7 +46,7 @@
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
-    "Jabari Smith Jr.": "QUESTIONABLE",
+    "Jabari Smith Jr.": "OUT",
     "Jae'Sean Tate": "OUT",
     "Amen Thompson": "AVAILABLE",
     "Fred VanVleet": "OUT"
@@ -59,19 +59,19 @@
   "Phoenix Suns": {
     "Dillon Brooks": "OUT",
     "Jordan Goodwin": "OUT",
-    "Royce O'Neale": "QUESTIONABLE",
+    "Royce O'Neale": "AVAILABLE",
     "Mark Williams": "OUT"
   },
   "New York Knicks": {
-    "Josh Hart": "QUESTIONABLE",
+    "Josh Hart": "AVAILABLE",
     "Dillon Jones": "OUT",
     "Miles McBride": "OUT"
   },
   "Denver Nuggets": {
-    "Aaron Gordon": "QUESTIONABLE",
-    "Cameron Johnson": "QUESTIONABLE",
+    "Aaron Gordon": "AVAILABLE",
+    "Cameron Johnson": "AVAILABLE",
     "Curtis Jones": "OUT",
-    "Spencer Jones": "QUESTIONABLE",
+    "Spencer Jones": "AVAILABLE",
     "KJ Simpson": "OUT",
     "Peyton Watson": "OUT"
   },
@@ -83,8 +83,8 @@
   },
   "San Antonio Spurs": {
     "Harrison Barnes": "OUT",
-    "Julian Champagnie": "QUESTIONABLE",
-    "Harrison Ingram": "OUT",
+    "Julian Champagnie": "AVAILABLE",
+    "Harrison -Ingram": "OUT",
     "David Garcia": "OUT",
     "Emanuel Miller": "OUT",
     "Mason Plumlee": "OUT"
