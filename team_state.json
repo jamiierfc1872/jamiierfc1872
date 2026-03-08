@@ -117,6 +117,7 @@
   },
   "Sacramento Kings": {
     "Dylan Cardwell": "OUT",
+    "DeMar DeRozan": "OUT",
     "De'Andre Hunter": "OUT",
     "Zach LaVine": "OUT",
     "Keegan Murray": "OUT",
@@ -181,5 +182,12 @@
     "Egor Demin": "OUT",
     "Michael Porter Jr.": "OUT",
     "Ben Saraf": "PROBABLE"
+  },
+  "Denver Nuggets": {
+    "DaRon Holmes II": "OUT",
+    "Curtis Jones": "OUT",
+    "Jamal Murray": "QUESTIONABLE",
+    "KJ Simpson": "OUT",
+    "Peyton Watson": "OUT"
   }
 }
