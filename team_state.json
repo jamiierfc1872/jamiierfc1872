@@ -50,7 +50,8 @@
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
     "Taj Gibson": "OUT",
-    "Ja Morant": "OUT"
+    "Ja Morant": "OUT",
+    "Rayan Rupert": "OUT"
   },
   "Utah Jazz": {
     "Isaiah Collier": "OUT",
@@ -74,7 +75,7 @@
     "Moses Moody": "OUT",
     "Gary Payton II": "AVAILABLE",
     "Kristaps Porzingis": "AVAILABLE",
-    "Will Richard": "QUESTIONABLE"
+    "Will Richard": "OUT"
   },
   "Oklahoma City Thunder": {
     "Branden Carlson": "OUT",
@@ -101,6 +102,17 @@
     "Max Strus": "OUT",
     "Jaylon Tyson": "QUESTIONABLE",
     "Dean Wade": "PROBABLE"
+  },
+  "New York Knicks": {
+    "Dillon Jones": "OUT",
+    "Miles McBride": "OUT",
+    "Landry Shamet": "QUESTIONABLE"
+  },
+  "Los Angeles Lakers": {
+    "Bronny James": "OUT",
+    "LeBron James": "QUESTIONABLE",
+    "Maxi Kleber": "QUESTIONABLE",
+    "Adou Thiero": "OUT"
   },
   "Dallas Mavericks": {
     "Marvin Bagley III": "QUESTIONABLE",
@@ -155,5 +167,49 @@
     "David Garcia": "OUT",
     "Emanuel Miller": "OUT",
     "Mason Plumlee": "OUT"
+  },
+  "Chicago Bulls": {
+    "Matas Buzelis": "QUESTIONABLE",
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "QUESTIONABLE",
+    "Jaden Ivey": "OUT",
+    "Mac McClung": "OUT",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "QUESTIONABLE",
+    "Patrick Williams": "QUESTIONABLE"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "PROBABLE",
+    "Taelon Peter": "QUESTIONABLE",
+    "Pascal Siakam": "PROBABLE",
+    "Jalen Slawson": "QUESTIONABLE",
+    "Ethan Thompson": "DOUBTFUL",
+    "Ivica Zubac": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Deni Avdija": "QUESTIONABLE",
+    "Jayson Kent": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "QUESTIONABLE",
+    "Kris Murray": "QUESTIONABLE",
+    "Shaedon Sharpe": "OUT",
+    "Hansen Yang": "QUESTIONABLE",
+    "Chris Youngblood": "QUESTIONABLE"
+  },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT"
+  },
+  "Phoenix Suns": {
+    "Dillon Brooks": "OUT",
+    "Jordan Goodwin": "OUT",
+    "Mark Williams": "OUT"
   }
 }
