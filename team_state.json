@@ -166,6 +166,13 @@
     "Tyrese Maxey": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
   },
+  "Denver Nuggets": {
+    "DaRon Holmes II": "OUT",
+    "Curtis Jones": "OUT",
+    "Jamal Murray": "QUESTIONABLE",
+    "KJ Simpson": "OUT",
+    "Peyton Watson": "OUT"
+  },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
@@ -183,11 +190,12 @@
     "Michael Porter Jr.": "OUT",
     "Ben Saraf": "PROBABLE"
   },
-  "Denver Nuggets": {
-    "DaRon Holmes II": "OUT",
-    "Curtis Jones": "OUT",
-    "Jamal Murray": "QUESTIONABLE",
-    "KJ Simpson": "OUT",
-    "Peyton Watson": "OUT"
+  "Oklahoma City Thunder": {
+    "Branden Carlson": "OUT",
+    "Alex Caruso": "QUESTIONABLE",
+    "Isaiah Hartenstein": "OUT",
+    "Chet Holmgren": "QUESTIONABLE",
+    "Thomas Sorber": "OUT",
+    "Jalen Williams": "OUT"
   }
 }
