@@ -8,7 +8,7 @@
     "Jarrett Allen": "OUT",
     "Keon Ellis": "AVAILABLE",
     "James Harden": "AVAILABLE",
-    "Riley Minix": "AVAILABLE",
+    "Riley Minix": "OUT",
     "Donovan Mitchell": "PROBABLE",
     "Tyrese Proctor": "OUT",
     "Olivier Sarr": "OUT",
@@ -132,5 +132,92 @@
     "Dillon Brooks": "OUT",
     "Jordan Goodwin": "OUT",
     "Mark Williams": "OUT"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "OUT",
+    "Keshon Gilbert": "OUT",
+    "Jonathan Kuminga": "OUT",
+    "Asa Newell": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Egor Demin": "OUT",
+    "Tyson Etienne": "OUT",
+    "Chaney Johnson": "OUT",
+    "E.J. Liddell": "OUT",
+    "Drake Powell": "OUT"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "OUT",
+    "Jalen Duren": "AVAILABLE",
+    "Isaac Jones": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Ausar Thompson": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "De'Anthony Melton": "OUT",
+    "Moses Moody": "OUT",
+    "Gary Payton II": "AVAILABLE",
+    "Kristaps Porzingis": "AVAILABLE",
+    "Will Richard": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "John Collins": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Taj Gibson": "OUT",
+    "Ja Morant": "OUT",
+    "Rayan Rupert": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Taurean Prince": "OUT",
+    "Cormac Ryan": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Kyle Anderson": "OUT",
+    "Joan Beringer": "OUT",
+    "Enrique Freeman": "OUT",
+    "Zyon Pullin": "OUT",
+    "Rocco Zikarsky": "AVAILABLE"
+  },
+  "Oklahoma City Thunder": {
+    "Branden Carlson": "OUT",
+    "Alex Caruso": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Chet Holmgren": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Jalen Williams": "OUT"
+  },
+  "Orlando Magic": {
+    "Colin Castleton": "OUT",
+    "Jonathan Isaac": "OUT",
+    "Alex Morales": "OUT",
+    "Jase Richardson": "OUT",
+    "Franz Wagner": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "VJ Edgecombe": "OUT",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT",
+    "Vince Williams Jr.": "OUT"
   }
 }
