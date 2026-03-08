@@ -89,11 +89,11 @@
     "Mason Plumlee": "OUT"
   },
   "Orlando Magic": {
-    "Anthony Black": "QUESTIONABLE",
+    "Anthony Black": "OUT",
     "Colin Castleton": "OUT",
-    "Jonathan Isaac": "QUESTIONABLE",
+    "Jonathan Isaac": "OUT",
     "Alex Morales": "OUT",
-    "Jase Richardson": "QUESTIONABLE",
+    "Jase Richardson": "OUT",
     "Franz Wagner": "OUT"
   },
   "Milwaukee Bucks": {
@@ -173,6 +173,14 @@
     "KJ Simpson": "OUT",
     "Peyton Watson": "OUT"
   },
+  "Oklahoma City Thunder": {
+    "Branden Carlson": "OUT",
+    "Alex Caruso": "QUESTIONABLE",
+    "Isaiah Hartenstein": "OUT",
+    "Chet Holmgren": "QUESTIONABLE",
+    "Thomas Sorber": "OUT",
+    "Jalen Williams": "OUT"
+  },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
@@ -189,13 +197,5 @@
     "Egor Demin": "OUT",
     "Michael Porter Jr.": "OUT",
     "Ben Saraf": "PROBABLE"
-  },
-  "Oklahoma City Thunder": {
-    "Branden Carlson": "OUT",
-    "Alex Caruso": "QUESTIONABLE",
-    "Isaiah Hartenstein": "OUT",
-    "Chet Holmgren": "QUESTIONABLE",
-    "Thomas Sorber": "OUT",
-    "Jalen Williams": "OUT"
   }
 }
