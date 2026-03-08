@@ -99,7 +99,7 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
-    "Kyle Kuzma": "QUESTIONABLE",
+    "Kyle Kuzma": "OUT",
     "Kevin Porter Jr.": "OUT",
     "Taurean Prince": "OUT",
     "Cormac Ryan": "OUT"
@@ -197,5 +197,21 @@
     "Egor Demin": "OUT",
     "Michael Porter Jr.": "OUT",
     "Ben Saraf": "PROBABLE"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "PROBABLE",
+    "Stephen Curry": "OUT",
+    "Al Horford": "OUT",
+    "Moses Moody": "OUT",
+    "Kristaps Porzingis": "OUT",
+    "Will Richard": "QUESTIONABLE"
+  },
+  "Utah Jazz": {
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT",
+    "Vince Williams Jr.": "OUT"
   }
 }
