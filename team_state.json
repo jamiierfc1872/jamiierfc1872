@@ -50,12 +50,12 @@
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
-    "Seth Curry": "PROBABLE",
+    "Seth Curry": "AVAILABLE",
     "Stephen Curry": "OUT",
     "Al Horford": "OUT",
     "Moses Moody": "OUT",
     "Kristaps Porzingis": "OUT",
-    "Will Richard": "QUESTIONABLE"
+    "Will Richard": "OUT"
   },
   "Utah Jazz": {
     "Ace Bailey": "QUESTIONABLE",
@@ -101,5 +101,18 @@
     "Kel'el Ware": "QUESTIONABLE",
     "Andrew Wiggins": "OUT",
     "Jahmir Young": "OUT"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Keshon Gilbert": "DOUBTFUL",
+    "Jonathan Kuminga": "QUESTIONABLE",
+    "Asa Newell": "DOUBTFUL"
+  },
+  "Washington Wizards": {
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Jamir Watkins": "OUT",
+    "Cam Whitmore": "OUT"
   }
 }
