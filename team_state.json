@@ -127,23 +127,23 @@
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Andrew Nembhard": "QUESTIONABLE",
-    "Aaron Nesmith": "PROBABLE",
-    "Taelon Peter": "QUESTIONABLE",
-    "Pascal Siakam": "PROBABLE",
-    "Jalen Slawson": "QUESTIONABLE",
-    "Ethan Thompson": "DOUBTFUL",
+    "Andrew Nembhard": "AVAILABLE",
+    "Aaron Nesmith": "AVAILABLE",
+    "Taelon Peter": "OUT",
+    "Pascal Siakam": "AVAILABLE",
+    "Jalen Slawson": "OUT",
+    "Ethan Thompson": "OUT",
     "Ivica Zubac": "OUT"
   },
   "Portland Trail Blazers": {
-    "Deni Avdija": "QUESTIONABLE",
-    "Jayson Kent": "QUESTIONABLE",
+    "Deni Avdija": "AVAILABLE",
+    "Jayson Kent": "OUT",
     "Damian Lillard": "OUT",
-    "Caleb Love": "QUESTIONABLE",
-    "Kris Murray": "QUESTIONABLE",
+    "Caleb Love": "OUT",
+    "Kris Murray": "AVAILABLE",
     "Shaedon Sharpe": "OUT",
     "Hansen Yang": "AVAILABLE",
-    "Chris -Youngblood": "QUESTIONABLE"
+    "Chris -Youngblood": "OUT"
   },
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
@@ -153,7 +153,7 @@
     "Tidjane Salaun": "OUT"
   },
   "Phoenix Suns": {
-    "Grayson Allen": "PROBABLE",
+    "Grayson Allen": "OUT",
     "Dillon Brooks": "OUT",
     "Jordan Goodwin": "OUT",
     "Mark Williams": "OUT"
@@ -213,5 +213,9 @@
     "Lauri Markkanen": "OUT",
     "Jusuf Nurkic": "OUT",
     "Vince Williams Jr.": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "John Collins": "OUT"
   }
 }
