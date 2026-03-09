@@ -1,11 +1,20 @@
 {
   "Philadelphia 76ers": {
     "Johni Broome": "OUT",
-    "VJ Edgecombe": "QUESTIONABLE",
+    "VJ Edgecombe": "OUT",
     "Joel Embiid": "OUT",
     "Paul George": "OUT",
     "Tyrese Maxey": "OUT",
     "Kelly Oubre Jr.": "AVAILABLE"
+  },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "OUT",
+    "Keon Ellis": "AVAILABLE",
+    "James Harden": "AVAILABLE",
+    "Tyrese Proctor": "OUT",
+    "Olivier Sarr": "OUT",
+    "Max Strus": "OUT",
+    "Dean Wade": "PROBABLE"
   },
   "Denver Nuggets": {
     "DaRon Holmes II": "OUT",
@@ -49,6 +58,7 @@
     "Will Richard": "QUESTIONABLE"
   },
   "Utah Jazz": {
+    "Ace Bailey": "QUESTIONABLE",
     "Isaiah Collier": "QUESTIONABLE",
     "Keyonte George": "QUESTIONABLE",
     "Jaren Jackson Jr.": "OUT",
