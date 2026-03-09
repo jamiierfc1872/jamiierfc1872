@@ -82,5 +82,24 @@
     "Dereck Lively II": "OUT",
     "John Poulakidas": "DOUBTFUL",
     "Tyler Smith": "DOUBTFUL"
+  },
+  "Detroit Pistons": {
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Caris LeVert": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Tolu Smith": "OUT",
+    "Ausar Thompson": "OUT"
+  },
+  "Miami Heat": {
+    "Simone Fontecchio": "PROBABLE",
+    "Keshad Johnson": "OUT",
+    "Nikola Jovic": "OUT",
+    "Davion Mitchell": "AVAILABLE",
+    "Norman Powell": "OUT",
+    "Terry Rozier": "OUT",
+    "Kel'el Ware": "QUESTIONABLE",
+    "Andrew Wiggins": "OUT",
+    "Jahmir Young": "OUT"
   }
 }
