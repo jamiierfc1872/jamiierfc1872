@@ -83,6 +83,12 @@
     "John Poulakidas": "DOUBTFUL",
     "Tyler Smith": "DOUBTFUL"
   },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Keshon Gilbert": "DOUBTFUL",
+    "Jonathan Kuminga": "QUESTIONABLE",
+    "Asa Newell": "DOUBTFUL"
+  },
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
@@ -90,6 +96,13 @@
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT",
     "Ausar Thompson": "OUT"
+  },
+  "Washington Wizards": {
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Jamir Watkins": "OUT",
+    "Cam Whitmore": "OUT"
   },
   "Miami Heat": {
     "Simone Fontecchio": "PROBABLE",
@@ -102,17 +115,23 @@
     "Andrew Wiggins": "OUT",
     "Jahmir Young": "OUT"
   },
-  "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Keshon Gilbert": "DOUBTFUL",
-    "Jonathan Kuminga": "QUESTIONABLE",
-    "Asa Newell": "DOUBTFUL"
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Taurean Prince": "QUESTIONABLE",
+    "Cormac Ryan": "OUT"
   },
-  "Washington Wizards": {
-    "Anthony Davis": "OUT",
-    "Kyshawn George": "OUT",
-    "D'Angelo Russell": "OUT",
-    "Jamir Watkins": "OUT",
-    "Cam Whitmore": "OUT"
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Trayce Jackson-Davis": "OUT",
+    "A.J. Lawson": "OUT",
+    "Collin Murray-Boyles": "OUT",
+    "Jakob Poeltl": "QUESTIONABLE"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
   }
 }
