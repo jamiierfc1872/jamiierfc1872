@@ -58,7 +58,7 @@
     "Will Richard": "OUT"
   },
   "Utah Jazz": {
-    "Ace Bailey": "QUESTIONABLE",
+    "Ace Bailey": "OUT",
     "Isaiah Collier": "OUT",
     "Keyonte George": "QUESTIONABLE",
     "Jaren Jackson Jr.": "OUT",
@@ -114,6 +114,19 @@
     "Kel'el Ware": "QUESTIONABLE",
     "Andrew Wiggins": "OUT",
     "Jahmir Young": "OUT"
+  },
+  "Boston Celtics": {
+    "Payton Pritchard": "QUESTIONABLE",
+    "Baylor Scheierman": "AVAILABLE",
+    "John Tonje": "OUT",
+    "Nikola Vucevic": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Barnes": "OUT",
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "OUT",
+    "Mason Plumlee": "QUESTIONABLE"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
