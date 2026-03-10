@@ -25,10 +25,10 @@
     "Tyler Smith": "DOUBTFUL"
   },
   "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Keshon Gilbert": "DOUBTFUL",
-    "Jonathan Kuminga": "QUESTIONABLE",
-    "Asa Newell": "DOUBTFUL"
+    "RayJ Dennis": "OUT",
+    "Keshon Gilbert": "OUT",
+    "Jonathan Kuminga": "OUT",
+    "Asa Newell": "OUT"
   },
   "Detroit Pistons": {
     "Isaac Jones": "OUT",
@@ -184,6 +184,12 @@
     "Jonathan Isaac": "QUESTIONABLE",
     "Jase Richardson": "QUESTIONABLE",
     "Franz Wagner": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Bryce McGowens": "OUT",
+    "Josh Oduro": "OUT"
   },
   "New York Knicks": {
     "Josh Hart": "QUESTIONABLE",
