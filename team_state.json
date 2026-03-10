@@ -1,4 +1,14 @@
 {
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Zach Edey": "OUT",
+    "Taj Gibson": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT"
+  },
   "Dallas Mavericks": {
     "Moussa Cisse": "DOUBTFUL",
     "Kyrie Irving": "OUT",
@@ -63,8 +73,10 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "QUESTIONABLE",
     "Taurean Prince": "QUESTIONABLE",
-    "Cormac Ryan": "OUT"
+    "Cormac Ryan": "OUT",
+    "Jericho Sims": "QUESTIONABLE"
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
