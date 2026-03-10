@@ -80,7 +80,7 @@
     "Lindy Waters III": "OUT"
   },
   "Phoenix Suns": {
-    "Grayson Allen": "QUESTIONABLE",
+    "Grayson Allen": "AVAILABLE",
     "Dillon Brooks": "OUT",
     "Jordan Goodwin": "AVAILABLE",
     "Mark Williams": "OUT"
@@ -88,10 +88,10 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Kevin Porter Jr.": "OUT",
-    "Bobby Portis": "QUESTIONABLE",
-    "Taurean Prince": "QUESTIONABLE",
+    "Bobby Portis": "OUT",
+    "Taurean Prince": "AVAILABLE",
     "Cormac Ryan": "OUT",
-    "Jericho Sims": "QUESTIONABLE"
+    "Jericho Sims": "OUT"
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
@@ -205,5 +205,13 @@
     "Jamal Murray": "PROBABLE",
     "KJ Simpson": "OUT",
     "Peyton Watson": "OUT"
+  },
+  "Utah Jazz": {
+    "Keyonte George": "QUESTIONABLE",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "John Konchar": "QUESTIONABLE",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
   }
 }
