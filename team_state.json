@@ -198,14 +198,6 @@
     "Dillon Jones": "OUT",
     "Miles McBride": "OUT"
   },
-  "Denver Nuggets": {
-    "DaRon Holmes II": "OUT",
-    "Cameron Johnson": "PROBABLE",
-    "Curtis Jones": "OUT",
-    "Jamal Murray": "PROBABLE",
-    "KJ Simpson": "OUT",
-    "Peyton Watson": "OUT"
-  },
   "Utah Jazz": {
     "Keyonte George": "QUESTIONABLE",
     "Jaren Jackson Jr.": "OUT",
@@ -213,5 +205,13 @@
     "John Konchar": "QUESTIONABLE",
     "Lauri Markkanen": "OUT",
     "Jusuf Nurkic": "OUT"
+  },
+  "Denver Nuggets": {
+    "DaRon Holmes II": "OUT",
+    "Cameron Johnson": "PROBABLE",
+    "Curtis Jones": "OUT",
+    "Jamal Murray": "PROBABLE",
+    "KJ Simpson": "OUT",
+    "Peyton Watson": "OUT"
   }
 }
