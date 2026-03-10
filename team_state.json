@@ -9,6 +9,14 @@
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT"
   },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "VJ Edgecombe": "QUESTIONABLE",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Tyrese Maxey": "OUT",
+    "Kelly Oubre Jr.": "AVAILABLE"
+  },
   "Dallas Mavericks": {
     "Moussa Cisse": "DOUBTFUL",
     "Kyrie Irving": "OUT",
@@ -29,6 +37,11 @@
     "Wendell Moore Jr.": "OUT",
     "Tolu Smith": "OUT",
     "Ausar Thompson": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Egor Demin": "OUT",
+    "Day'Ron Sharpe": "OUT",
+    "Ziaire Williams": "OUT"
   },
   "Washington Wizards": {
     "Anthony Davis": "OUT",
