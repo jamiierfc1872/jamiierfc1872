@@ -3,7 +3,7 @@
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
-    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Walter Clayton Jr.": "OUT",
     "Zach Edey": "OUT",
     "Taj Gibson": "OUT",
     "Ja Morant": "OUT",
@@ -18,11 +18,11 @@
     "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "DOUBTFUL",
+    "Moussa Cisse": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "John Poulakidas": "DOUBTFUL",
-    "Tyler Smith": "DOUBTFUL"
+    "John Poulakidas": "OUT",
+    "Tyler Smith": "OUT"
   },
   "Atlanta Hawks": {
     "RayJ Dennis": "OUT",
@@ -195,5 +195,13 @@
     "Josh Hart": "QUESTIONABLE",
     "Dillon Jones": "OUT",
     "Miles McBride": "OUT"
+  },
+  "Denver Nuggets": {
+    "DaRon Holmes II": "OUT",
+    "Cameron Johnson": "PROBABLE",
+    "Curtis Jones": "OUT",
+    "Jamal Murray": "PROBABLE",
+    "KJ Simpson": "OUT",
+    "Peyton Watson": "OUT"
   }
 }
