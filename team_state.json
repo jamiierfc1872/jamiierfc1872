@@ -74,7 +74,8 @@
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
-    "John Collins": "OUT"
+    "John Collins": "OUT",
+    "TyTy Washington Jr.": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "DOUBTFUL",
@@ -153,10 +154,59 @@
     "Jae'Sean Tate": "OUT",
     "Fred VanVleet": "OUT"
   },
+  "Charlotte Hornets": {
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Jayson Kent": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "QUESTIONABLE",
+    "Shaedon Sharpe": "OUT",
+    "Chris Youngblood": "QUESTIONABLE"
+  },
+  "Chicago Bulls": {
+    "Matas Buzelis": "PROBABLE",
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "PROBABLE",
+    "Jaden Ivey": "OUT",
+    "Mac McClung": "OUT",
+    "Lachlan Olbrich": "OUT",
+    "Collin Sexton": "QUESTIONABLE",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "PROBABLE",
+    "Patrick Williams": "QUESTIONABLE"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "T.J. McConnell": "OUT",
+    "Andrew Nembhard": "DOUBTFUL",
+    "Taelon Peter": "QUESTIONABLE",
+    "Pascal Siakam": "OUT",
+    "Jalen Slawson": "QUESTIONABLE",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Jarace Walker": "PROBABLE",
+    "Ivica Zubac": "OUT"
+  },
+  "Sacramento Kings": {
+    "Dylan Cardwell": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT"
+  },
   "Minnesota Timberwolves": {
     "Kyle Anderson": "QUESTIONABLE",
     "Joan Beringer": "OUT",
     "Enrique Freeman": "OUT",
     "Zyon Pullin": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "LeBron James": "QUESTIONABLE"
   }
 }
