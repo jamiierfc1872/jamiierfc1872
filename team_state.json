@@ -44,8 +44,10 @@
     "Ziaire Williams": "OUT"
   },
   "Washington Wizards": {
+    "Leaky Black": "OUT",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
+    "Julian Reese": "OUT",
     "D'Angelo Russell": "OUT",
     "Jamir Watkins": "OUT",
     "Cam Whitmore": "OUT",
@@ -53,7 +55,7 @@
   },
   "Miami Heat": {
     "Simone Fontecchio": "AVAILABLE",
-    "Tyler Herro": "QUESTIONABLE",
+    "Tyler Herro": "OUT",
     "Keshad Johnson": "AVAILABLE",
     "Nikola Jovic": "OUT",
     "Davion Mitchell": "AVAILABLE",
@@ -75,7 +77,7 @@
     "David Garcia": "OUT",
     "Emanuel Miller": "OUT",
     "Mason Plumlee": "AVAILABLE",
-    "Lindy Waters III": "QUESTIONABLE"
+    "Lindy Waters III": "OUT"
   },
   "Phoenix Suns": {
     "Grayson Allen": "QUESTIONABLE",
@@ -96,7 +98,7 @@
     "Trayce Jackson-Davis": "OUT",
     "A.J. Lawson": "OUT",
     "Collin Murray-Boyles": "OUT",
-    "Jakob Poeltl": "QUESTIONABLE"
+    "Jakob Poeltl": "OUT"
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
