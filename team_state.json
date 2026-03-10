@@ -1,28 +1,7 @@
 {
-  "Philadelphia 76ers": {
-    "Johni Broome": "OUT",
-    "VJ Edgecombe": "OUT",
-    "Joel Embiid": "OUT",
-    "Paul George": "OUT",
-    "Tyrese Maxey": "OUT",
-    "Kelly Oubre Jr.": "AVAILABLE"
-  },
-  "Cleveland Cavaliers": {
-    "Jarrett Allen": "OUT",
-    "Keon Ellis": "AVAILABLE",
-    "James Harden": "AVAILABLE",
-    "Tyrese Proctor": "OUT",
-    "Olivier Sarr": "OUT",
-    "Max Strus": "OUT",
-    "Dean Wade": "AVAILABLE"
-  },
-  "Denver Nuggets": {
-    "DaRon Holmes II": "OUT",
-    "Curtis Jones": "OUT",
-    "Jamal Murray": "AVAILABLE",
-    "KJ Simpson": "OUT",
-    "Peyton Watson": "OUT"
-  },
+  "Philadelphia 76ers": {},
+  "Cleveland Cavaliers": {},
+  "Denver Nuggets": {},
   "Oklahoma City Thunder": {
     "Branden Carlson": "OUT",
     "Alex Caruso": "OUT",
@@ -31,52 +10,12 @@
     "Thomas Sorber": "OUT",
     "Jalen Williams": "OUT"
   },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Kentavious Caldwell-Pope": "OUT",
-    "Brandon Clarke": "OUT",
-    "Cedric Coward": "OUT",
-    "Zach Edey": "OUT",
-    "Taj Gibson": "OUT",
-    "Taylor Hendricks": "OUT",
-    "Ty Jerome": "OUT",
-    "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT"
-  },
-  "Brooklyn Nets": {
-    "Egor Demin": "OUT",
-    "Michael Porter Jr.": "OUT",
-    "Ben Saraf": "AVAILABLE"
-  },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "Seth Curry": "AVAILABLE",
-    "Stephen Curry": "OUT",
-    "Al Horford": "OUT",
-    "Moses Moody": "OUT",
-    "Kristaps Porzingis": "OUT",
-    "Will Richard": "OUT"
-  },
-  "Utah Jazz": {
-    "Ace Bailey": "OUT",
-    "Isaiah Collier": "OUT",
-    "Keyonte George": "AVAILABLE",
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT",
-    "Vince Williams Jr.": "OUT"
-  },
-  "New York Knicks": {
-    "Dillon Jones": "OUT",
-    "Miles McBride": "OUT",
-    "Mitchell Robinson": "OUT"
-  },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "John Collins": "OUT",
-    "TyTy Washington Jr.": "OUT"
-  },
+  "Memphis Grizzlies": {},
+  "Brooklyn Nets": {},
+  "Golden State Warriors": {},
+  "Utah Jazz": {},
+  "New York Knicks": {},
+  "LA Clippers": {},
   "Dallas Mavericks": {
     "Moussa Cisse": "DOUBTFUL",
     "Kyrie Irving": "OUT",
