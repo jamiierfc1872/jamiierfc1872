@@ -83,6 +83,27 @@
     "Bradley Beal": "OUT",
     "John Collins": "OUT"
   },
+  "Philadelphia 76ers": {
+    "Adem Bona": "QUESTIONABLE",
+    "Johni Broome": "OUT",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Tyrese Maxey": "OUT",
+    "Kelly Oubre Jr.": "OUT"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "DOUBTFUL",
+    "T.J. McConnell": "QUESTIONABLE",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "QUESTIONABLE",
+    "Taelon Peter": "QUESTIONABLE",
+    "Pascal Siakam": "DOUBTFUL",
+    "Jalen Slawson": "QUESTIONABLE",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Ivica Zubac": "QUESTIONABLE"
+  },
   "Washington Wizards": {
     "Bub Carrington": "QUESTIONABLE",
     "Anthony Davis": "OUT",
@@ -96,6 +117,13 @@
     "Day'Ron Sharpe": "OUT",
     "Nolan Traore": "OUT",
     "Ziaire Williams": "QUESTIONABLE"
+  },
+  "Atlanta Hawks": {
+    "Dyson Daniels": "QUESTIONABLE",
+    "RayJ Dennis": "QUESTIONABLE",
+    "Keshon Gilbert": "QUESTIONABLE",
+    "Jonathan Kuminga": "QUESTIONABLE",
+    "Asa Newell": "QUESTIONABLE"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
