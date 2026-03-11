@@ -91,6 +91,22 @@
     "Tyrese Maxey": "OUT",
     "Kelly Oubre Jr.": "OUT"
   },
+  "Detroit Pistons": {
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Chaz Lanier": "QUESTIONABLE",
+    "Caris LeVert": "DOUBTFUL",
+    "Wendell Moore Jr.": "OUT",
+    "Tolu Smith": "OUT",
+    "Ausar Thompson": "OUT"
+  },
+  "Phoenix Suns": {
+    "Grayson Allen": "QUESTIONABLE",
+    "Dillon Brooks": "OUT",
+    "Jordan Goodwin": "QUESTIONABLE",
+    "Haywood Highsmith": "QUESTIONABLE",
+    "Mark Williams": "OUT"
+  },
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
@@ -141,5 +157,13 @@
     "Kel'el Ware": "QUESTIONABLE",
     "Andrew Wiggins": "OUT",
     "Jahmir Young": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "DOUBTFUL",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "John Poulakidas": "DOUBTFUL",
+    "Tyler Smith": "DOUBTFUL",
+    "Klay Thompson": "DOUBTFUL"
   }
 }
