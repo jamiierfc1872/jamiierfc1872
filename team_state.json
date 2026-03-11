@@ -13,6 +13,13 @@
     "Jase Richardson": "AVAILABLE",
     "Franz Wagner": "OUT"
   },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Trayce Jackson-Davis": "QUESTIONABLE",
+    "A.J. Lawson": "OUT",
+    "Collin Murray-Boyles": "OUT",
+    "Jakob Poeltl": "QUESTIONABLE"
+  },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
@@ -20,7 +27,7 @@
     "Josh Oduro": "OUT"
   },
   "New York Knicks": {
-    "Josh Hart": "QUESTIONABLE",
+    "Josh Hart": "DOUBTFUL",
     "Dillon Jones": "OUT",
     "Miles McBride": "OUT"
   },
@@ -33,6 +40,13 @@
     "Lauri Markkanen": "OUT",
     "Jusuf Nurkic": "OUT"
   },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Dorian Finney-Smith": "OUT",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
+  },
   "Denver Nuggets": {
     "DaRon Holmes II": "OUT",
     "Cameron Johnson": "PROBABLE",
@@ -44,12 +58,5 @@
   "LA Clippers": {
     "Bradley Beal": "OUT",
     "John Collins": "OUT"
-  },
-  "Toronto Raptors": {
-    "Chucky Hepburn": "OUT",
-    "Trayce Jackson-Davis": "QUESTIONABLE",
-    "A.J. Lawson": "OUT",
-    "Collin Murray-Boyles": "OUT",
-    "Jakob Poeltl": "QUESTIONABLE"
   }
 }
