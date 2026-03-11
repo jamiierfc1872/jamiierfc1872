@@ -40,6 +40,24 @@
     "Lauri Markkanen": "OUT",
     "Jusuf Nurkic": "OUT"
   },
+  "Charlotte Hornets": {
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT",
+    "Grant Williams": "OUT"
+  },
+  "Sacramento Kings": {
+    "Dylan Cardwell": "OUT",
+    "Devin Carter": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Dorian Finney-Smith": "OUT",
@@ -65,15 +83,25 @@
     "Bradley Beal": "OUT",
     "John Collins": "OUT"
   },
-  "Sacramento Kings": {
-    "Dylan Cardwell": "OUT",
-    "Devin Carter": "OUT",
-    "De'Andre Hunter": "OUT",
-    "Zach LaVine": "OUT",
-    "Malik Monk": "OUT",
-    "Keegan Murray": "OUT",
-    "Domantas Sabonis": "OUT",
-    "Isaiah Stevens": "OUT",
-    "Russell Westbrook": "OUT"
+  "Washington Wizards": {
+    "Bub Carrington": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Cam Whitmore": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Egor Demin": "OUT",
+    "Michael Porter Jr.": "OUT",
+    "Day'Ron Sharpe": "OUT",
+    "Nolan Traore": "OUT",
+    "Ziaire Williams": "QUESTIONABLE"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Kevin Porter Jr.": "QUESTIONABLE",
+    "Bobby Portis": "QUESTIONABLE",
+    "Cormac Ryan": "OUT",
+    "Jericho Sims": "QUESTIONABLE"
   }
 }
