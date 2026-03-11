@@ -116,44 +116,45 @@
   "Portland Trail Blazers": {
     "Jayson Kent": "OUT",
     "Damian Lillard": "OUT",
-    "Caleb Love": "QUESTIONABLE",
+    "Caleb Love": "OUT",
     "Shaedon Sharpe": "OUT",
     "Hansen Yang": "OUT",
     "Chris Youngblood": "OUT"
   },
   "Chicago Bulls": {
-    "Matas Buzelis": "PROBABLE",
-    "Zach Collins": "OUT",
+    "Matas Buzelis": "AVAILABLE",
+    "Zach -Collins": "OUT",
     "Noa Essengue": "OUT",
-    "Josh Giddey": "PROBABLE",
-    "Jaden Ivey": "OUT",
+    "Josh Giddey": "AVAILABLE",
+    "Jaden -Ivey": "OUT",
     "Mac McClung": "OUT",
+    "Isaac Okoro": "OUT",
     "Lachlan Olbrich": "OUT",
-    "Collin Sexton": "QUESTIONABLE",
+    "Collin Sexton": "OUT",
     "Anfernee Simons": "OUT",
-    "Jalen Smith": "PROBABLE",
-    "Patrick Williams": "QUESTIONABLE"
+    "Jalen Smith": "AVAILABLE",
+    "Patrick -Williams": "OUT"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
-    "Draymond Green": "QUESTIONABLE",
-    "De'Anthony Melton": "QUESTIONABLE",
+    "Draymond Green": "AVAILABLE",
+    "De'Anthony Melton": "OUT",
     "Moses Moody": "OUT",
-    "Gary Payton II": "PROBABLE",
-    "Quinten Post": "QUESTIONABLE"
+    "Gary Payton II": "AVAILABLE",
+    "Quinten Post": "OUT"
   },
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
     "T.J. McConnell": "OUT",
-    "Andrew Nembhard": "DOUBTFUL",
-    "Taelon Peter": "QUESTIONABLE",
+    "Andrew Nembhard": "OUT",
+    "Taelon Peter": "AVAILABLE",
     "Pascal Siakam": "OUT",
-    "Jalen Slawson": "QUESTIONABLE",
-    "Ethan Thompson": "QUESTIONABLE",
-    "Jarace Walker": "PROBABLE",
+    "Jalen Slawson": "AVAILABLE",
+    "Ethan Thompson": "OUT",
+    "Jarace Walker": "AVAILABLE",
     "Ivica Zubac": "OUT"
   },
   "Sacramento Kings": {
@@ -171,7 +172,7 @@
     "Zyon Pullin": "AVAILABLE"
   },
   "Los Angeles Lakers": {
-    "LeBron James": "QUESTIONABLE"
+    "LeBron James": "OUT"
   },
   "Cleveland Cavaliers": {
     "Jarrett Allen": "OUT",
@@ -213,5 +214,9 @@
     "Jamal Murray": "PROBABLE",
     "KJ Simpson": "OUT",
     "Peyton Watson": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "John Collins": "OUT"
   }
 }
