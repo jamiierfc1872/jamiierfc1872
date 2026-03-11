@@ -165,5 +165,13 @@
     "John Poulakidas": "DOUBTFUL",
     "Tyler Smith": "DOUBTFUL",
     "Klay Thompson": "DOUBTFUL"
+  },
+  "Boston Celtics": {
+    "Payton Pritchard": "PROBABLE",
+    "Baylor Scheierman": "AVAILABLE",
+    "Jayson Tatum": "QUESTIONABLE",
+    "John Tonje": "OUT",
+    "Nikola Vucevic": "OUT",
+    "Derrick White": "QUESTIONABLE"
   }
 }
