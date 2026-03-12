@@ -109,9 +109,9 @@
     "Victor Wembanyama": "QUESTIONABLE"
   },
   "Boston Celtics": {
-    "Payton Pritchard": "PROBABLE",
+    "Payton Pritchard": "AVAILABLE",
     "Baylor Scheierman": "AVAILABLE",
-    "Jayson Tatum": "QUESTIONABLE",
+    "Jayson Tatum": "OUT",
     "John Tonje": "OUT",
     "Nikola Vucevic": "OUT",
     "Derrick White": "QUESTIONABLE"
@@ -142,5 +142,10 @@
     "LeBron James": "QUESTIONABLE",
     "Maxi Kleber": "QUESTIONABLE",
     "Marcus Smart": "DOUBTFUL"
+  },
+  "New York Knicks": {
+    "Josh Hart": "QUESTIONABLE",
+    "Dillon Jones": "OUT",
+    "Miles McBride": "OUT"
   }
 }
