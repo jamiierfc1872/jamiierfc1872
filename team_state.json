@@ -137,5 +137,91 @@
     "LeBron James": "QUESTIONABLE",
     "Maxi Kleber": "QUESTIONABLE",
     "Marcus Smart": "DOUBTFUL"
+  },
+  "Charlotte Hornets": {
+    "PJ Hall": "OUT",
+    "Ryan Kalkbrenner": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT",
+    "Grant Williams": "OUT"
+  },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "OUT",
+    "Keon Ellis": "AVAILABLE",
+    "James Harden": "AVAILABLE",
+    "Tyrese Proctor": "OUT",
+    "Olivier Sarr": "OUT",
+    "Max Strus": "OUT"
+  },
+  "Denver Nuggets": {
+    "DaRon Holmes II": "OUT",
+    "Cameron Johnson": "AVAILABLE",
+    "Curtis Jones": "OUT",
+    "Jamal Murray": "AVAILABLE",
+    "KJ Simpson": "OUT",
+    "Peyton Watson": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Dorian Finney-Smith": "OUT",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "John Collins": "OUT",
+    "TyTy Washington Jr.": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Joan Beringer": "OUT",
+    "Ayo Dosunmu": "OUT",
+    "Enrique Freeman": "OUT",
+    "Zyon Pullin": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Bryce McGowens": "OUT",
+    "Josh Oduro": "OUT"
+  },
+  "New York Knicks": {
+    "Josh Hart": "OUT",
+    "Dillon Jones": "OUT",
+    "Miles McBride": "OUT"
+  },
+  "Orlando Magic": {
+    "Anthony Black": "OUT",
+    "Jonathan Isaac": "AVAILABLE",
+    "Jase Richardson": "AVAILABLE",
+    "Franz Wagner": "OUT"
+  },
+  "Sacramento Kings": {
+    "Dylan Cardwell": "OUT",
+    "Devin Carter": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Trayce Jackson-Davis": "AVAILABLE",
+    "A.J. Lawson": "OUT",
+    "Collin Murray-Boyles": "OUT",
+    "Jakob Poeltl": "AVAILABLE"
+  },
+  "Utah Jazz": {
+    "Keyonte George": "AVAILABLE",
+    "Blake Hinson": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "John Konchar": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
   }
 }
