@@ -2,7 +2,7 @@
   "Philadelphia 76ers": {
     "Adem Bona": "OUT",
     "Johni Broome": "OUT",
-    "Andre Drummond": "QUESTIONABLE",
+    "Andre Drummond": "OUT",
     "Joel Embiid": "OUT",
     "Paul George": "OUT",
     "Tyrese Maxey": "OUT",
@@ -18,10 +18,10 @@
     "Ausar Thompson": "OUT"
   },
   "Phoenix Suns": {
-    "Grayson Allen": "QUESTIONABLE",
+    "Grayson Allen": "OUT",
     "Dillon Brooks": "OUT",
     "Jordan Goodwin": "AVAILABLE",
-    "Haywood Highsmith": "QUESTIONABLE",
+    "Haywood Highsmith": "AVAILABLE",
     "Mark Williams": "OUT"
   },
   "Indiana Pacers": {
@@ -97,6 +97,7 @@
     "Zach Edey": "OUT",
     "Taj Gibson": "DOUBTFUL",
     "Ty Jerome": "DOUBTFUL",
+    "Jahmai Mashack": "AVAILABLE",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT",
     "Cam Spencer": "QUESTIONABLE"
@@ -152,6 +153,14 @@
     "Maxi Kleber": "OUT",
     "Marcus Smart": "OUT"
   },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "OUT",
+    "Keon Ellis": "AVAILABLE",
+    "James Harden": "AVAILABLE",
+    "Tyrese Proctor": "OUT",
+    "Olivier Sarr": "OUT",
+    "Max Strus": "OUT"
+  },
   "New York Knicks": {
     "Josh Hart": "QUESTIONABLE",
     "Dillon Jones": "OUT",
@@ -162,13 +171,19 @@
     "Chucky Hepburn": "OUT",
     "Collin Murray-Boyles": "QUESTIONABLE"
   },
-  "Cleveland Cavaliers": {
-    "Jarrett Allen": "OUT",
-    "Keon Ellis": "AVAILABLE",
-    "James Harden": "AVAILABLE",
-    "Tyrese Proctor": "OUT",
-    "Olivier Sarr": "OUT",
-    "Max Strus": "OUT"
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Bryce McGowens": "OUT",
+    "Josh Oduro": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Isaiah Crawford": "OUT",
+    "JD Davison": "OUT",
+    "Alperen Sengun": "QUESTIONABLE",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
@@ -176,11 +191,5 @@
     "De'Anthony Melton": "QUESTIONABLE",
     "Moses Moody": "OUT",
     "Quinten Post": "QUESTIONABLE"
-  },
-  "New Orleans Pelicans": {
-    "Trey Alexander": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Bryce McGowens": "OUT",
-    "Josh Oduro": "OUT"
   }
 }
