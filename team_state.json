@@ -28,14 +28,15 @@
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
     "Quenton Jackson": "OUT",
-    "T.J. McConnell": "QUESTIONABLE",
-    "Andrew Nembhard": "QUESTIONABLE",
-    "Aaron Nesmith": "QUESTIONABLE",
-    "Taelon Peter": "QUESTIONABLE",
+    "T.J. McConnell": "OUT",
+    "Andrew Nembhard": "AVAILABLE",
+    "Aaron Nesmith": "OUT",
+    "Taelon Peter": "AVAILABLE",
     "Pascal Siakam": "OUT",
-    "Jalen Slawson": "QUESTIONABLE",
-    "Ethan Thompson": "QUESTIONABLE",
-    "Ivica Zubac": "QUESTIONABLE"
+    "Jalen Slawson": "AVAILABLE",
+    "Ethan Thompson": "AVAILABLE",
+    "Obi Toppin": "OUT",
+    "Ivica Zubac": "AVAILABLE"
   },
   "Washington Wizards": {
     "Bub Carrington": "AVAILABLE",
@@ -56,10 +57,10 @@
     "Ziaire Williams": "OUT"
   },
   "Atlanta Hawks": {
-    "Dyson Daniels": "QUESTIONABLE",
+    "Dyson Daniels": "OUT",
     "RayJ Dennis": "AVAILABLE",
     "Keshon Gilbert": "OUT",
-    "Jonathan Kuminga": "QUESTIONABLE",
+    "Jonathan Kuminga": "AVAILABLE",
     "Asa Newell": "AVAILABLE"
   },
   "Milwaukee Bucks": {
@@ -160,5 +161,26 @@
     "Scottie Barnes": "QUESTIONABLE",
     "Chucky Hepburn": "OUT",
     "Collin Murray-Boyles": "QUESTIONABLE"
+  },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "OUT",
+    "Keon Ellis": "AVAILABLE",
+    "James Harden": "AVAILABLE",
+    "Tyrese Proctor": "OUT",
+    "Olivier Sarr": "OUT",
+    "Max Strus": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Stephen Curry": "OUT",
+    "De'Anthony Melton": "QUESTIONABLE",
+    "Moses Moody": "OUT",
+    "Quinten Post": "QUESTIONABLE"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Bryce McGowens": "OUT",
+    "Josh Oduro": "OUT"
   }
 }
