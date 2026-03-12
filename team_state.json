@@ -65,10 +65,10 @@
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
-    "Kevin Porter Jr.": "QUESTIONABLE",
-    "Bobby Portis": "QUESTIONABLE",
+    "Kevin Porter Jr.": "AVAILABLE",
+    "Bobby Portis": "AVAILABLE",
     "Cormac Ryan": "OUT",
-    "Jericho Sims": "QUESTIONABLE"
+    "Jericho Sims": "AVAILABLE"
   },
   "Miami Heat": {
     "Tyler Herro": "QUESTIONABLE",
@@ -81,12 +81,12 @@
     "Jahmir Young": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "DOUBTFUL",
+    "Moussa Cisse": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "John Poulakidas": "DOUBTFUL",
-    "Tyler Smith": "DOUBTFUL",
-    "Klay Thompson": "DOUBTFUL"
+    "John Poulakidas": "OUT",
+    "Tyler Smith": "OUT",
+    "Klay Thompson": "OUT"
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
