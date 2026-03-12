@@ -100,6 +100,14 @@
     "Scotty Pippen Jr.": "OUT",
     "Cam Spencer": "QUESTIONABLE"
   },
+  "Denver Nuggets": {
+    "Aaron Gordon": "QUESTIONABLE",
+    "DaRon Holmes II": "OUT",
+    "Curtis Jones": "OUT",
+    "Jamal Murray": "PROBABLE",
+    "KJ Simpson": "OUT",
+    "Peyton Watson": "OUT"
+  },
   "San Antonio Spurs": {
     "Harrison Barnes": "QUESTIONABLE",
     "Harrison Ingram": "OUT",
@@ -133,9 +141,9 @@
     "Isaac Okoro": "QUESTIONABLE",
     "Collin Sexton": "QUESTIONABLE",
     "Anfernee Simons": "OUT",
-    "Jalen Smith": "PROBABLE",
-    "Patrick Williams": "QUESTIONABLE",
-    "Guerschon Yabusele": "QUESTIONABLE"
+    "Jalen Smith": "QUESTIONABLE",
+    "Patrick Williams": "DOUBTFUL",
+    "Guerschon Yabusele": "DOUBTFUL"
   },
   "Los Angeles Lakers": {
     "Jaxson Hayes": "PROBABLE",
