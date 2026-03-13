@@ -113,7 +113,8 @@
     "Jayson Kent": "QUESTIONABLE",
     "Damian Lillard": "OUT",
     "Shaedon Sharpe": "OUT",
-    "Hansen Yang": "QUESTIONABLE",
+    "Robert Williams III": "QUESTIONABLE",
+    "Hansen Yang": "AVAILABLE",
     "Chris Youngblood": "QUESTIONABLE"
   },
   "Chicago Bulls": {
@@ -132,5 +133,27 @@
     "Bradley Beal": "OUT",
     "John Collins": "OUT",
     "Darius Garland": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Ochai Agbaji": "PROBABLE",
+    "Nic Claxton": "OUT",
+    "Egor Demin": "OUT",
+    "Michael Porter Jr.": "DOUBTFUL",
+    "Drake Powell": "OUT",
+    "Day'Ron Sharpe": "OUT"
+  },
+  "Washington Wizards": {
+    "Sharife Cooper": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Cam Whitmore": "OUT"
+  },
+  "Orlando Magic": {
+    "Anthony Black": "OUT",
+    "Colin Castleton": "OUT",
+    "Jonathan Isaac": "OUT",
+    "Alex Morales": "OUT",
+    "Franz Wagner": "OUT"
   }
 }
