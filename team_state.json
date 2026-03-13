@@ -14,8 +14,8 @@
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
     "Naji Marshall": "AVAILABLE",
-    "Caleb Martin": "PROBABLE",
-    "John Poulakidas": "DOUBTFUL",
+    "Caleb Martin": "AVAILABLE",
+    "John Poulakidas": "OUT",
     "Tyler Smith": "AVAILABLE",
     "P.J. Washington": "OUT"
   },
@@ -23,24 +23,25 @@
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
-    "Walter Clayton Jr.": "DOUBTFUL",
+    "Walter Clayton Jr.": "OUT",
     "Zach Edey": "OUT",
-    "Taj Gibson": "QUESTIONABLE",
-    "GG Jackson": "QUESTIONABLE",
+    "Taj Gibson": "AVAILABLE",
+    "GG Jackson": "OUT",
     "Jahmai Mashack": "AVAILABLE",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT",
-    "Jaylen Wells": "QUESTIONABLE"
+    "Rayan Rupert": "OUT",
+    "Jaylen Wells": "OUT"
   },
   "Detroit Pistons": {
-    "Jalen Duren": "QUESTIONABLE",
-    "Tobias Harris": "QUESTIONABLE",
-    "Isaac Jones": "QUESTIONABLE",
-    "Chaz Lanier": "QUESTIONABLE",
-    "Caris LeVert": "PROBABLE",
+    "Jalen Duren": "AVAILABLE",
+    "Tobias Harris": "OUT",
+    "Isaac Jones": "AVAILABLE",
+    "Chaz Lanier": "OUT",
+    "Caris LeVert": "AVAILABLE",
     "Wendell Moore Jr.": "OUT",
-    "Tolu Smith": "QUESTIONABLE",
-    "Ausar Thompson": "DOUBTFUL"
+    "Tolu Smith": "AVAILABLE",
+    "Ausar Thompson": "OUT"
   },
   "New York Knicks": {
     "Josh Hart": "OUT",
@@ -64,7 +65,7 @@
   },
   "Phoenix Suns": {
     "Dillon Brooks": "OUT",
-    "Jordan Goodwin": "QUESTIONABLE",
+    "Jordan Goodwin": "AVAILABLE",
     "Mark Williams": "OUT"
   },
   "Toronto Raptors": {
@@ -82,7 +83,7 @@
     "Steven Adams": "OUT",
     "Isaiah Crawford": "OUT",
     "JD Davison": "OUT",
-    "Alperen Sengun": "QUESTIONABLE",
+    "Alperen Sengun": "OUT",
     "Jae'Sean Tate": "OUT",
     "Fred VanVleet": "OUT"
   },
