@@ -8,11 +8,35 @@
     "Olivier Sarr": "OUT",
     "Max Strus": "OUT"
   },
+  "Detroit Pistons": {
+    "Jalen Duren": "QUESTIONABLE",
+    "Tobias Harris": "QUESTIONABLE",
+    "Isaac Jones": "QUESTIONABLE",
+    "Chaz Lanier": "QUESTIONABLE",
+    "Caris LeVert": "PROBABLE",
+    "Wendell Moore Jr.": "OUT",
+    "Tolu Smith": "QUESTIONABLE",
+    "Ausar Thompson": "DOUBTFUL"
+  },
   "New York Knicks": {
-    "Josh Hart": "QUESTIONABLE",
+    "Josh Hart": "DOUBTFUL",
     "Dillon Jones": "OUT",
     "Miles McBride": "OUT",
-    "Jeremy Sochan": "QUESTIONABLE"
+    "Jeremy Sochan": "DOUBTFUL"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "DOUBTFUL",
+    "T.J. McConnell": "PROBABLE",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "PROBABLE",
+    "Taelon Peter": "DOUBTFUL",
+    "Pascal Siakam": "DOUBTFUL",
+    "Jalen Slawson": "DOUBTFUL",
+    "Ethan Thompson": "DOUBTFUL",
+    "Obi Toppin": "PROBABLE",
+    "Ivica Zubac": "QUESTIONABLE"
   },
   "Toronto Raptors": {
     "Scottie Barnes": "QUESTIONABLE",
