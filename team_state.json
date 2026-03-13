@@ -44,7 +44,7 @@
   },
   "New York Knicks": {
     "Josh Hart": "DOUBTFUL",
-    "Dillon Jones": "OUT",
+    "Dillon Jones": "QUESTIONABLE",
     "Miles McBride": "OUT",
     "Jeremy Sochan": "DOUBTFUL"
   },
@@ -114,6 +114,18 @@
     "Shaedon Sharpe": "OUT",
     "Hansen Yang": "QUESTIONABLE",
     "Chris Youngblood": "QUESTIONABLE"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Jaden Ivey": "OUT",
+    "Mac McClung": "OUT",
+    "Isaac Okoro": "DOUBTFUL",
+    "Collin Sexton": "DOUBTFUL",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "DOUBTFUL",
+    "Patrick Williams": "QUESTIONABLE",
+    "Guerschon Yabusele": "QUESTIONABLE"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
