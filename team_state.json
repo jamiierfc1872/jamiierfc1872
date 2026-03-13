@@ -9,15 +9,15 @@
     "Max Strus": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "DOUBTFUL",
-    "Daniel Gafford": "DOUBTFUL",
+    "Moussa Cisse": "OUT",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "Naji Marshall": "QUESTIONABLE",
+    "Naji Marshall": "AVAILABLE",
     "Caleb Martin": "PROBABLE",
     "John Poulakidas": "DOUBTFUL",
-    "Tyler Smith": "DOUBTFUL",
-    "P.J. Washington": "DOUBTFUL"
+    "Tyler Smith": "AVAILABLE",
+    "P.J. Washington": "OUT"
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
@@ -43,24 +43,24 @@
     "Ausar Thompson": "DOUBTFUL"
   },
   "New York Knicks": {
-    "Josh Hart": "DOUBTFUL",
-    "Dillon Jones": "QUESTIONABLE",
+    "Josh Hart": "OUT",
+    "Dillon Jones": "AVAILABLE",
     "Miles McBride": "OUT",
-    "Jeremy Sochan": "DOUBTFUL"
+    "Jeremy Sochan": "OUT"
   },
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "DOUBTFUL",
-    "T.J. McConnell": "PROBABLE",
-    "Andrew Nembhard": "QUESTIONABLE",
-    "Aaron Nesmith": "PROBABLE",
-    "Taelon Peter": "DOUBTFUL",
-    "Pascal Siakam": "DOUBTFUL",
-    "Jalen Slawson": "DOUBTFUL",
-    "Ethan Thompson": "DOUBTFUL",
-    "Obi Toppin": "PROBABLE",
-    "Ivica Zubac": "QUESTIONABLE"
+    "Quenton Jackson": "OUT",
+    "T.J. McConnell": "AVAILABLE",
+    "Andrew Nembhard": "AVAILABLE",
+    "Aaron Nesmith": "AVAILABLE",
+    "Taelon Peter": "OUT",
+    "Pascal Siakam": "OUT",
+    "Jalen Slawson": "OUT",
+    "Ethan Thompson": "OUT",
+    "Obi Toppin": "AVAILABLE",
+    "Ivica Zubac": "AVAILABLE"
   },
   "Phoenix Suns": {
     "Dillon Brooks": "OUT",
@@ -68,7 +68,7 @@
     "Mark Williams": "OUT"
   },
   "Toronto Raptors": {
-    "Scottie Barnes": "PROBABLE",
+    "Scottie Barnes": "AVAILABLE",
     "Chucky Hepburn": "OUT",
     "Collin Murray-Boyles": "OUT"
   },
@@ -163,6 +163,21 @@
     "Keshon Gilbert": "QUESTIONABLE",
     "Jonathan Kuminga": "OUT",
     "Asa Newell": "QUESTIONABLE"
+  },
+  "Charlotte Hornets": {
+    "PJ Hall": "OUT",
+    "Ryan Kalkbrenner": "PROBABLE",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT",
+    "Coby White": "PROBABLE"
+  },
+  "San Antonio Spurs": {
+    "Dylan Harper": "QUESTIONABLE",
+    "Harrison Ingram": "QUESTIONABLE",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "QUESTIONABLE",
+    "Victor Wembanyama": "QUESTIONABLE"
   },
   "Washington Wizards": {
     "Sharife Cooper": "QUESTIONABLE",
