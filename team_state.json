@@ -210,5 +210,17 @@
     "Kel'el Ware": "AVAILABLE",
     "Andrew Wiggins": "OUT",
     "Jahmir Young": "DOUBTFUL"
+  },
+  "Denver Nuggets": {
+    "Aaron Gordon": "PROBABLE",
+    "DaRon Holmes II": "OUT",
+    "Curtis Jones": "OUT",
+    "Jamal Murray": "PROBABLE",
+    "KJ Simpson": "OUT",
+    "Peyton Watson": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Jaxson Hayes": "PROBABLE",
+    "Maxi Kleber": "OUT"
   }
 }
