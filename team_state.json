@@ -46,9 +46,11 @@
     "Victor Wembanyama": "AVAILABLE"
   },
   "Washington Wizards": {
+    "Leaky Black": "OUT",
     "Sharife Cooper": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
+    "Julian Reese": "OUT",
     "D'Angelo Russell": "OUT",
     "Cam Whitmore": "OUT"
   },
@@ -139,5 +141,14 @@
     "Tyler Smith": "QUESTIONABLE",
     "Klay Thompson": "DOUBTFUL",
     "P.J. Washington": "QUESTIONABLE"
+  },
+  "Portland Trail Blazers": {
+    "Jayson Kent": "OUT",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Robert Williams III": "QUESTIONABLE",
+    "Hansen Yang": "OUT",
+    "Chris Youngblood": "OUT"
   }
 }
