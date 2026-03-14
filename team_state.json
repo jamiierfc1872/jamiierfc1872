@@ -105,9 +105,48 @@
     "Nicolas Batum": "OUT",
     "Bradley Beal": "OUT"
   },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "DOUBTFUL",
+    "Daniel Gafford": "DOUBTFUL",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "PROBABLE",
+    "John Poulakidas": "QUESTIONABLE",
+    "Tyler Smith": "QUESTIONABLE",
+    "Klay Thompson": "DOUBTFUL",
+    "P.J. Washington": "QUESTIONABLE"
+  },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "OUT",
+    "Keon Ellis": "AVAILABLE",
+    "James Harden": "AVAILABLE",
+    "Sam Merrill": "OUT",
+    "Craig Porter Jr.": "OUT",
+    "Tyrese Proctor": "OUT",
+    "Olivier Sarr": "OUT",
+    "Max Strus": "PROBABLE",
+    "Jaylon Tyson": "QUESTIONABLE"
+  },
+  "Detroit Pistons": {
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Chaz Lanier": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Isaiah Stewart": "OUT",
+    "Ausar Thompson": "PROBABLE"
+  },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "Collin Murray-Boyles": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Jayson Kent": "OUT",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Robert Williams III": "QUESTIONABLE",
+    "Hansen Yang": "OUT",
+    "Chris Youngblood": "OUT"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
@@ -130,25 +169,5 @@
     "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "QUESTIONABLE",
     "Jeremy Sochan": "QUESTIONABLE"
-  },
-  "Dallas Mavericks": {
-    "Moussa Cisse": "DOUBTFUL",
-    "Daniel Gafford": "DOUBTFUL",
-    "Kyrie Irving": "OUT",
-    "Dereck Lively II": "OUT",
-    "Caleb Martin": "PROBABLE",
-    "John Poulakidas": "QUESTIONABLE",
-    "Tyler Smith": "QUESTIONABLE",
-    "Klay Thompson": "DOUBTFUL",
-    "P.J. Washington": "QUESTIONABLE"
-  },
-  "Portland Trail Blazers": {
-    "Jayson Kent": "OUT",
-    "Damian Lillard": "OUT",
-    "Caleb Love": "OUT",
-    "Shaedon Sharpe": "OUT",
-    "Robert Williams III": "QUESTIONABLE",
-    "Hansen Yang": "OUT",
-    "Chris Youngblood": "OUT"
   }
 }
