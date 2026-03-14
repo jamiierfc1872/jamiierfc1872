@@ -89,17 +89,18 @@
   },
   "Minnesota Timberwolves": {
     "Joan Beringer": "OUT",
-    "Ayo Dosunmu": "QUESTIONABLE",
-    "Anthony Edwards": "QUESTIONABLE",
+    "Ayo Dosunmu": "AVAILABLE",
+    "Anthony Edwards": "AVAILABLE",
     "Enrique Freeman": "OUT",
     "Zyon Pullin": "OUT"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "Stephen Curry": "OUT",
-    "De'Anthony Melton": "QUESTIONABLE",
+    "Draymond Green": "OUT",
+    "De'Anthony Melton": "AVAILABLE",
     "Moses Moody": "OUT",
-    "Quinten Post": "QUESTIONABLE"
+    "Quinten Post": "AVAILABLE"
   },
   "Utah Jazz": {
     "Keyonte George": "OUT",
@@ -111,29 +112,30 @@
     "Jusuf Nurkic": "OUT"
   },
   "Portland Trail Blazers": {
-    "Jayson Kent": "QUESTIONABLE",
+    "Jayson Kent": "OUT",
     "Damian Lillard": "OUT",
     "Shaedon Sharpe": "OUT",
-    "Robert Williams III": "QUESTIONABLE",
+    "Robert Williams III": "OUT",
     "Hansen Yang": "AVAILABLE",
-    "Chris Youngblood": "QUESTIONABLE"
+    "Chris Youngblood": "OUT"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
     "Jaden Ivey": "OUT",
     "Mac McClung": "OUT",
-    "Isaac Okoro": "DOUBTFUL",
-    "Collin Sexton": "DOUBTFUL",
+    "Isaac Okoro": "OUT",
+    "Collin Sexton": "OUT",
     "Anfernee Simons": "OUT",
-    "Jalen Smith": "DOUBTFUL",
-    "Patrick Williams": "QUESTIONABLE",
-    "Guerschon Yabusele": "QUESTIONABLE"
+    "Jalen Smith": "OUT",
+    "Patrick Williams": "AVAILABLE",
+    "Guerschon Yabusele": "AVAILABLE"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
     "John Collins": "OUT",
-    "Darius Garland": "OUT"
+    "Darius Garland": "OUT",
+    "Sean Pedulla": "OUT"
   },
   "Brooklyn Nets": {
     "Ochai Agbaji": "PROBABLE",
@@ -222,5 +224,16 @@
   "Los Angeles Lakers": {
     "Jaxson Hayes": "PROBABLE",
     "Maxi Kleber": "OUT"
+  },
+  "Sacramento Kings": {
+    "Patrick Baldwin Jr.": "OUT",
+    "Devin Carter": "OUT",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "QUESTIONABLE",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT"
   }
 }
