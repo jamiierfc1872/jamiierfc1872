@@ -73,7 +73,7 @@
     "Nikola Jovic": "OUT",
     "Norman Powell": "AVAILABLE",
     "Terry Rozier": "OUT",
-    "Dru Smith": "PROBABLE",
+    "Dru Smith": "AVAILABLE",
     "Kel'el Ware": "AVAILABLE",
     "Andrew Wiggins": "OUT",
     "Jahmir Young": "AVAILABLE"
@@ -104,6 +104,13 @@
   "LA Clippers": {
     "Nicolas Batum": "OUT",
     "Bradley Beal": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Joan Beringer": "OUT",
+    "Anthony Edwards": "QUESTIONABLE",
+    "Enrique Freeman": "OUT",
+    "Julian Phillips": "OUT",
+    "Zyon Pullin": "OUT"
   },
   "Oklahoma City Thunder": {
     "Brooks Barnhizer": "OUT",
@@ -146,6 +153,21 @@
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "Collin Murray-Boyles": "OUT"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "T.J. McConnell": "QUESTIONABLE",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "QUESTIONABLE",
+    "Taelon Peter": "QUESTIONABLE",
+    "Ben Sheppard": "QUESTIONABLE",
+    "Pascal Siakam": "DOUBTFUL",
+    "Jalen Slawson": "QUESTIONABLE",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "QUESTIONABLE",
+    "Ivica Zubac": "QUESTIONABLE"
   },
   "Portland Trail Blazers": {
     "Jayson Kent": "OUT",
