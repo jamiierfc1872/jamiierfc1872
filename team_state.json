@@ -71,7 +71,7 @@
   "Miami Heat": {
     "Tyler Herro": "AVAILABLE",
     "Kasparas Jakucionis": "AVAILABLE",
-    "Jaime Jaquez Jr.": "QUESTIONABLE",
+    "Jaime Jaquez Jr.": "AVAILABLE",
     "Nikola Jovic": "OUT",
     "Norman Powell": "AVAILABLE",
     "Terry Rozier": "OUT",
@@ -81,10 +81,10 @@
     "Jahmir Young": "AVAILABLE"
   },
   "Denver Nuggets": {
-    "Aaron Gordon": "PROBABLE",
+    "Aaron Gordon": "AVAILABLE",
     "DaRon Holmes II": "OUT",
     "Curtis Jones": "OUT",
-    "Jamal Murray": "PROBABLE",
+    "Jamal Murray": "AVAILABLE",
     "KJ Simpson": "OUT",
     "Peyton Watson": "OUT"
   },
