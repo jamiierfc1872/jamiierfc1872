@@ -19,9 +19,9 @@
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
-    "Giannis Antetokounmpo": "QUESTIONABLE",
-    "Ousmane Dieng": "QUESTIONABLE",
-    "Kevin Porter Jr.": "QUESTIONABLE",
+    "Giannis Antetokounmpo": "OUT",
+    "Ousmane Dieng": "OUT",
+    "Kevin Porter Jr.": "AVAILABLE",
     "Cormac Ryan": "OUT"
   },
   "Atlanta Hawks": {
@@ -98,5 +98,16 @@
     "Keegan Murray": "OUT",
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Draymond Green": "OUT",
+    "Al Horford": "OUT",
+    "De'Anthony Melton": "OUT",
+    "Moses Moody": "OUT",
+    "Kristaps Porzingis": "OUT",
+    "Quinten Post": "QUESTIONABLE"
   }
 }
