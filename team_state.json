@@ -32,15 +32,15 @@
   },
   "Charlotte Hornets": {
     "PJ Hall": "OUT",
-    "Ryan Kalkbrenner": "PROBABLE",
+    "Ryan Kalkbrenner": "AVAILABLE",
     "Liam McNeeley": "OUT",
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "OUT",
-    "Coby White": "PROBABLE"
+    "Coby White": "AVAILABLE"
   },
   "San Antonio Spurs": {
-    "Dylan Harper": "QUESTIONABLE",
-    "Harrison Ingram": "QUESTIONABLE",
+    "Dylan Harper": "OUT",
+    "Harrison Ingram": "AVAILABLE",
     "David Garcia": "OUT",
     "Emanuel Miller": "QUESTIONABLE",
     "Victor Wembanyama": "QUESTIONABLE"
@@ -74,7 +74,7 @@
     "Dru Smith": "PROBABLE",
     "Kel'el Ware": "AVAILABLE",
     "Andrew Wiggins": "OUT",
-    "Jahmir Young": "DOUBTFUL"
+    "Jahmir Young": "QUESTIONABLE"
   },
   "Denver Nuggets": {
     "Aaron Gordon": "PROBABLE",
