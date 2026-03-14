@@ -1,6 +1,6 @@
 {
   "Brooklyn Nets": {
-    "Ochai Agbaji": "PROBABLE",
+    "Ochai Agbaji": "AVAILABLE",
     "Nic Claxton": "OUT",
     "Egor Demin": "OUT",
     "Michael Porter Jr.": "OUT",
@@ -8,7 +8,7 @@
     "Day'Ron Sharpe": "OUT"
   },
   "Philadelphia 76ers": {
-    "Adem Bona": "QUESTIONABLE",
+    "Adem Bona": "AVAILABLE",
     "Johni Broome": "OUT",
     "Andre Drummond": "OUT",
     "Joel Embiid": "OUT",
@@ -25,10 +25,10 @@
     "Cormac Ryan": "OUT"
   },
   "Atlanta Hawks": {
-    "RayJ Dennis": "QUESTIONABLE",
-    "Keshon Gilbert": "QUESTIONABLE",
+    "RayJ Dennis": "AVAILABLE",
+    "Keshon Gilbert": "OUT",
     "Jonathan Kuminga": "OUT",
-    "Asa Newell": "QUESTIONABLE"
+    "Asa Newell": "OUT"
   },
   "Charlotte Hornets": {
     "PJ Hall": "OUT",
@@ -46,7 +46,7 @@
     "Victor Wembanyama": "QUESTIONABLE"
   },
   "Washington Wizards": {
-    "Sharife Cooper": "QUESTIONABLE",
+    "Sharife Cooper": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
     "D'Angelo Russell": "OUT",
