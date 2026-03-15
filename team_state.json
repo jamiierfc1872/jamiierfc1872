@@ -89,7 +89,7 @@
     "Paul George": "OUT",
     "Tyrese Maxey": "OUT",
     "Kelly Oubre Jr.": "OUT",
-    "Dalen Terry": "QUESTIONABLE",
+    "Dalen Terry": "OUT",
     "Jabari Walker": "OUT"
   },
   "Golden State Warriors": {
@@ -154,7 +154,33 @@
     "Anfernee Simons": "OUT"
   },
   "Boston Celtics": {
-    "John Tonje": "QUESTIONABLE",
+    "John Tonje": "OUT",
     "Nikola Vucevic": "OUT"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "QUESTIONABLE",
+    "Keshon Gilbert": "QUESTIONABLE",
+    "Jonathan Kuminga": "QUESTIONABLE",
+    "Asa Newell": "QUESTIONABLE"
+  },
+  "Brooklyn Nets": {
+    "Noah Clowney": "OUT",
+    "Egor Demin": "OUT",
+    "Terance Mann": "OUT",
+    "Michael Porter Jr.": "OUT",
+    "Ben Saraf": "QUESTIONABLE",
+    "Day'Ron Sharpe": "OUT"
+  },
+  "Phoenix Suns": {
+    "Dillon Brooks": "OUT",
+    "Mark Williams": "OUT"
+  },
+  "Washington Wizards": {
+    "Leaky Black": "OUT",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Cam Whitmore": "OUT"
   }
 }
