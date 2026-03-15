@@ -105,7 +105,8 @@
   },
   "LA Clippers": {
     "Nicolas Batum": "OUT",
-    "Bradley Beal": "OUT"
+    "Bradley Beal": "OUT",
+    "Sean Pedulla": "OUT"
   },
   "Minnesota Timberwolves": {
     "Joan Beringer": "OUT",
@@ -201,5 +202,15 @@
     "Miles McBride": "OUT",
     "Kevin McCullar Jr.": "QUESTIONABLE",
     "Jeremy Sochan": "QUESTIONABLE"
+  },
+  "Utah Jazz": {
+    "Ace Bailey": "OUT",
+    "Kyle Filipowski": "OUT",
+    "Keyonte George": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "John Konchar": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
   }
 }
