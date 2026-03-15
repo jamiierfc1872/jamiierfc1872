@@ -15,15 +15,15 @@
     "Jalen Williams": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "DOUBTFUL",
-    "Daniel Gafford": "DOUBTFUL",
+    "Moussa Cisse": "OUT",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "Caleb Martin": "PROBABLE",
-    "John Poulakidas": "QUESTIONABLE",
-    "Tyler Smith": "QUESTIONABLE",
-    "Klay Thompson": "DOUBTFUL",
-    "P.J. Washington": "PROBABLE"
+    "Caleb Martin": "AVAILABLE",
+    "John Poulakidas": "AVAILABLE",
+    "Tyler Smith": "OUT",
+    "Klay Thompson": "OUT",
+    "P.J. Washington": "AVAILABLE"
   },
   "Cleveland Cavaliers": {
     "Jarrett Allen": "OUT",
@@ -52,16 +52,16 @@
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
     "Quenton Jackson": "QUESTIONABLE",
-    "T.J. McConnell": "QUESTIONABLE",
-    "Andrew Nembhard": "QUESTIONABLE",
-    "Aaron Nesmith": "QUESTIONABLE",
-    "Taelon Peter": "QUESTIONABLE",
-    "Ben Sheppard": "QUESTIONABLE",
-    "Pascal Siakam": "DOUBTFUL",
-    "Jalen Slawson": "QUESTIONABLE",
-    "Ethan Thompson": "QUESTIONABLE",
-    "Obi Toppin": "QUESTIONABLE",
-    "Ivica Zubac": "QUESTIONABLE"
+    "T.J. McConnell": "AVAILABLE",
+    "Andrew Nembhard": "OUT",
+    "Aaron Nesmith": "AVAILABLE",
+    "Taelon Peter": "AVAILABLE",
+    "Ben Sheppard": "OUT",
+    "Pascal Siakam": "OUT",
+    "Jalen Slawson": "AVAILABLE",
+    "Ethan Thompson": "OUT",
+    "Obi Toppin": "AVAILABLE",
+    "Ivica Zubac": "AVAILABLE"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
