@@ -124,6 +124,18 @@
     "Lauri Markkanen": "OUT",
     "Jusuf Nurkic": "OUT"
   },
+  "Sacramento Kings": {
+    "Patrick Baldwin Jr.": "OUT",
+    "Devin Carter": "OUT",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
+  },
   "Orlando Magic": {
     "Anthony Black": "OUT",
     "Colin Castleton": "OUT",
@@ -140,5 +152,9 @@
     "Isaac Okoro": "DOUBTFUL",
     "Collin Sexton": "QUESTIONABLE",
     "Anfernee Simons": "OUT"
+  },
+  "Boston Celtics": {
+    "John Tonje": "QUESTIONABLE",
+    "Nikola Vucevic": "OUT"
   }
 }
