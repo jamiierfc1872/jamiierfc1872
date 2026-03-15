@@ -181,6 +181,18 @@
     "Dejounte Murray": "QUESTIONABLE",
     "Josh Oduro": "OUT"
   },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Zach Edey": "OUT",
+    "GG Jackson": "DOUBTFUL",
+    "Ty Jerome": "DOUBTFUL",
+    "Jahmai Mashack": "AVAILABLE",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -189,5 +201,15 @@
     "Isaac Okoro": "DOUBTFUL",
     "Collin Sexton": "QUESTIONABLE",
     "Anfernee Simons": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Maxi Kleber": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "JD Davison": "OUT",
+    "Alperen Sengun": "QUESTIONABLE",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
   }
 }
