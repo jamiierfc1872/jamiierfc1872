@@ -28,8 +28,8 @@
   "Atlanta Hawks": {
     "RayJ Dennis": "OUT",
     "Keshon Gilbert": "OUT",
-    "Jonathan Kuminga": "QUESTIONABLE",
-    "Asa Newell": "QUESTIONABLE"
+    "Jonathan Kuminga": "AVAILABLE",
+    "Asa Newell": "AVAILABLE"
   },
   "Phoenix Suns": {
     "Dillon Brooks": "OUT",
@@ -141,5 +141,10 @@
     "Thomas Sorber": "OUT",
     "Nikola Topic": "OUT",
     "Jalen Williams": "OUT"
+  },
+  "New York Knicks": {
+    "Jalen Brunson": "QUESTIONABLE",
+    "Trey Jemison III": "OUT",
+    "Miles McBride": "OUT"
   }
 }
