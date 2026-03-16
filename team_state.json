@@ -4,7 +4,7 @@
     "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
-    "Draymond Green": "PROBABLE",
+    "Draymond Green": "AVAILABLE",
     "Al Horford": "OUT",
     "Moses Moody": "OUT",
     "Quinten Post": "OUT"
@@ -174,5 +174,13 @@
     "Ousmane Dieng": "QUESTIONABLE",
     "Cormac Ryan": "OUT",
     "Myles Turner": "QUESTIONABLE"
+  },
+  "Minnesota Timberwolves": {
+    "Joan Beringer": "OUT",
+    "Anthony Edwards": "OUT",
+    "Enrique Freeman": "OUT",
+    "Julian Phillips": "OUT",
+    "Zyon Pullin": "OUT",
+    "Naz Reid": "QUESTIONABLE"
   }
 }
