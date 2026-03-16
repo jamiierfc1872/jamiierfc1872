@@ -34,8 +34,18 @@
     "Egor Demin": "OUT",
     "Terance Mann": "OUT",
     "Michael Porter Jr.": "OUT",
-    "Ben Saraf": "QUESTIONABLE",
+    "Ben Saraf": "AVAILABLE",
     "Day'Ron Sharpe": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "QUESTIONABLE",
+    "Daniel Gafford": "DOUBTFUL",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "QUESTIONABLE",
+    "John Poulakidas": "QUESTIONABLE",
+    "Tyler Smith": "QUESTIONABLE",
+    "Klay Thompson": "DOUBTFUL"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
@@ -61,7 +71,9 @@
     "Noa Essengue": "OUT",
     "Jaden Ivey": "OUT",
     "Mac McClung": "OUT",
-    "Isaac Okoro": "DOUBTFUL",
+    "Isaac Okoro": "OUT",
+    "Lachlan Olbrich": "PROBABLE",
+    "Nick Richards": "PROBABLE",
     "Collin Sexton": "QUESTIONABLE",
     "Anfernee Simons": "OUT"
   },
