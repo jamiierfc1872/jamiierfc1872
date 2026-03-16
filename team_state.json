@@ -93,9 +93,9 @@
     "Jaden Ivey": "OUT",
     "Mac McClung": "OUT",
     "Isaac Okoro": "OUT",
-    "Lachlan Olbrich": "PROBABLE",
-    "Nick Richards": "PROBABLE",
-    "Collin Sexton": "QUESTIONABLE",
+    "Lachlan Olbrich": "AVAILABLE",
+    "Nick -Richards": "AVAILABLE",
+    "Collin -Sexton": "OUT",
     "Anfernee Simons": "OUT"
   },
   "Los Angeles Lakers": {
@@ -208,5 +208,14 @@
     "Malik Monk": "QUESTIONABLE",
     "Keegan Murray": "OUT",
     "Domantas Sabonis": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Tyrese Maxey": "OUT",
+    "Kelly Oubre Jr.": "OUT",
+    "Dalen Terry": "QUESTIONABLE",
+    "Jabari Walker": "OUT"
   }
 }
