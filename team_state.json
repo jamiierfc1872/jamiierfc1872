@@ -32,7 +32,9 @@
     "Asa Newell": "AVAILABLE"
   },
   "Phoenix Suns": {
+    "Koby Brea": "OUT",
     "Dillon Brooks": "OUT",
+    "CJ Huntley": "OUT",
     "Mark Williams": "OUT"
   },
   "Boston Celtics": {
@@ -57,14 +59,14 @@
     "Day'Ron Sharpe": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
-    "Daniel Gafford": "DOUBTFUL",
+    "Moussa Cisse": "OUT",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "Caleb Martin": "QUESTIONABLE",
-    "John Poulakidas": "QUESTIONABLE",
-    "Tyler Smith": "QUESTIONABLE",
-    "Klay Thompson": "DOUBTFUL"
+    "Caleb Martin": "OUT",
+    "John Poulakidas": "AVAILABLE",
+    "Tyler Smith": "AVAILABLE",
+    "Klay Thompson": "OUT"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
@@ -191,5 +193,20 @@
     "Julian Phillips": "OUT",
     "Zyon Pullin": "OUT",
     "Naz Reid": "QUESTIONABLE"
+  },
+  "Denver Nuggets": {
+    "DaRon Holmes II": "OUT",
+    "Curtis Jones": "OUT",
+    "KJ Simpson": "OUT",
+    "Peyton Watson": "OUT"
+  },
+  "Sacramento Kings": {
+    "Devin Carter": "OUT",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "QUESTIONABLE",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT"
   }
 }
