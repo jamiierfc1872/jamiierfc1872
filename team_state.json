@@ -72,17 +72,17 @@
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
     "Bryce McGowens": "OUT",
-    "Dejounte Murray": "QUESTIONABLE",
+    "Dejounte Murray": "OUT",
     "Josh Oduro": "OUT"
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
-    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Walter Clayton Jr.": "AVAILABLE",
     "Zach Edey": "OUT",
-    "GG Jackson": "DOUBTFUL",
-    "Ty Jerome": "DOUBTFUL",
+    "GG Jackson": "OUT",
+    "Ty Jerome": "OUT",
     "Jahmai Mashack": "AVAILABLE",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT"
@@ -194,6 +194,15 @@
     "Zyon Pullin": "OUT",
     "Naz Reid": "QUESTIONABLE"
   },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Tyrese Maxey": "OUT",
+    "Kelly Oubre Jr.": "OUT",
+    "Dalen Terry": "QUESTIONABLE",
+    "Jabari Walker": "OUT"
+  },
   "Denver Nuggets": {
     "DaRon Holmes II": "OUT",
     "Curtis Jones": "OUT",
@@ -208,14 +217,5 @@
     "Malik Monk": "QUESTIONABLE",
     "Keegan Murray": "OUT",
     "Domantas Sabonis": "OUT"
-  },
-  "Philadelphia 76ers": {
-    "Johni Broome": "OUT",
-    "Joel Embiid": "OUT",
-    "Paul George": "OUT",
-    "Tyrese Maxey": "OUT",
-    "Kelly Oubre Jr.": "OUT",
-    "Dalen Terry": "QUESTIONABLE",
-    "Jabari Walker": "OUT"
   }
 }
