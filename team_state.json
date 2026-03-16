@@ -20,14 +20,14 @@
   "Orlando Magic": {
     "Anthony Black": "OUT",
     "Colin Castleton": "OUT",
-    "Jett Howard": "QUESTIONABLE",
+    "Jett Howard": "AVAILABLE",
     "Jonathan Isaac": "OUT",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
   },
   "Atlanta Hawks": {
-    "RayJ Dennis": "QUESTIONABLE",
-    "Keshon Gilbert": "QUESTIONABLE",
+    "RayJ Dennis": "OUT",
+    "Keshon Gilbert": "OUT",
     "Jonathan Kuminga": "QUESTIONABLE",
     "Asa Newell": "QUESTIONABLE"
   },
@@ -115,7 +115,31 @@
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
-    "Kawhi Leonard": "DOUBTFUL"
+    "Kawhi Leonard": "OUT"
   },
-  "Oklahoma City Thunder": {}
+  "Detroit Pistons": {
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Chaz Lanier": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Isaiah Stewart": "OUT"
+  },
+  "Miami Heat": {
+    "Tyler Herro": "AVAILABLE",
+    "Kasparas Jakucionis": "AVAILABLE",
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Nikola Jovic": "PROBABLE",
+    "Pelle Larsson": "PROBABLE",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "AVAILABLE",
+    "Kel'el Ware": "AVAILABLE",
+    "Andrew Wiggins": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Brooks Barnhizer": "OUT",
+    "Branden Carlson": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Jalen Williams": "OUT"
+  }
 }
