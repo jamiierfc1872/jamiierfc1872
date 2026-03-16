@@ -40,11 +40,11 @@
     "Nikola Vucevic": "OUT"
   },
   "Portland Trail Blazers": {
-    "Vit Krejci": "DOUBTFUL",
+    "Vit Krejci": "OUT",
     "Damian Lillard": "OUT",
     "Caleb Love": "OUT",
     "Shaedon Sharpe": "OUT",
-    "Robert Williams III": "QUESTIONABLE",
+    "Robert Williams III": "OUT",
     "Hansen Yang": "OUT",
     "Chris Youngblood": "OUT"
   },
@@ -125,6 +125,7 @@
     "Isaiah Stewart": "OUT"
   },
   "Miami Heat": {
+    "Bam Adebayo": "QUESTIONABLE",
     "Tyler Herro": "AVAILABLE",
     "Kasparas Jakucionis": "AVAILABLE",
     "Jaime Jaquez Jr.": "AVAILABLE",
@@ -167,6 +168,14 @@
     "Jalen Brunson": "QUESTIONABLE",
     "Trey Jemison III": "OUT",
     "Miles McBride": "OUT"
+  },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "OUT",
+    "Sam Merrill": "QUESTIONABLE",
+    "Craig Porter Jr.": "OUT",
+    "Tyrese Proctor": "OUT",
+    "Olivier Sarr": "OUT",
+    "Jaylon Tyson": "PROBABLE"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
