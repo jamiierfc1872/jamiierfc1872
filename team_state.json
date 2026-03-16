@@ -1,13 +1,13 @@
 {
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
-    "LJ Cryer": "QUESTIONABLE",
+    "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
     "Draymond Green": "PROBABLE",
     "Al Horford": "OUT",
     "Moses Moody": "OUT",
-    "Quinten Post": "QUESTIONABLE"
+    "Quinten Post": "OUT"
   },
   "Washington Wizards": {
     "Leaky Black": "OUT",
@@ -135,6 +135,11 @@
     "Kel'el Ware": "AVAILABLE",
     "Andrew Wiggins": "OUT"
   },
+  "Charlotte Hornets": {
+    "PJ Hall": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT"
+  },
   "Oklahoma City Thunder": {
     "Brooks Barnhizer": "OUT",
     "Branden Carlson": "OUT",
@@ -142,9 +147,32 @@
     "Nikola Topic": "OUT",
     "Jalen Williams": "OUT"
   },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "T.J. McConnell": "QUESTIONABLE",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "QUESTIONABLE",
+    "Taelon Peter": "QUESTIONABLE",
+    "Micah Potter": "QUESTIONABLE",
+    "Ben Sheppard": "QUESTIONABLE",
+    "Pascal Siakam": "DOUBTFUL",
+    "Jalen Slawson": "QUESTIONABLE",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "QUESTIONABLE",
+    "Ivica Zubac": "QUESTIONABLE"
+  },
   "New York Knicks": {
     "Jalen Brunson": "QUESTIONABLE",
     "Trey Jemison III": "OUT",
     "Miles McBride": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "QUESTIONABLE",
+    "Ousmane Dieng": "QUESTIONABLE",
+    "Cormac Ryan": "OUT",
+    "Myles Turner": "QUESTIONABLE"
   }
 }
