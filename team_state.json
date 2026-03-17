@@ -81,7 +81,7 @@
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
-    "Giannis Antetokounmpo": "QUESTIONABLE",
+    "Giannis Antetokounmpo": "OUT",
     "Ousmane Dieng": "QUESTIONABLE",
     "Ryan Rollins": "QUESTIONABLE",
     "Cormac Ryan": "AVAILABLE",
@@ -194,5 +194,46 @@
     "Tristen Newton": "OUT",
     "Jae'Sean Tate": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Keshon Gilbert": "DOUBTFUL",
+    "Jonathan Kuminga": "QUESTIONABLE",
+    "Asa Newell": "DOUBTFUL"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "QUESTIONABLE",
+    "Daniel Gafford": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "QUESTIONABLE",
+    "John Poulakidas": "QUESTIONABLE",
+    "Tyler Smith": "QUESTIONABLE",
+    "Brandon Williams": "DOUBTFUL"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Darius Garland": "QUESTIONABLE",
+    "Kawhi Leonard": "QUESTIONABLE",
+    "Bennedict Mathurin": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Jahmai Mashack": "QUESTIONABLE",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT"
+  },
+  "Utah Jazz": {
+    "Ace Bailey": "QUESTIONABLE",
+    "Keyonte George": "OUT",
+    "Blake Hinson": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "John Konchar": "QUESTIONABLE",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
   }
 }
