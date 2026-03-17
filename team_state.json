@@ -66,10 +66,10 @@
     "Ivica Zubac": "QUESTIONABLE"
   },
   "New York Knicks": {
-    "Jalen Brunson": "DOUBTFUL",
+    "Jalen Brunson": "OUT",
     "Trey Jemison III": "OUT",
     "Miles McBride": "OUT",
-    "Mitchell Robinson": "QUESTIONABLE"
+    "Mitchell Robinson": "AVAILABLE"
   },
   "Cleveland Cavaliers": {
     "Jarrett Allen": "OUT",
@@ -166,6 +166,12 @@
     "Hansen Yang": "OUT",
     "Chris Youngblood": "OUT"
   },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Darius Garland": "QUESTIONABLE",
+    "Kawhi Leonard": "QUESTIONABLE",
+    "Bennedict Mathurin": "OUT"
+  },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
@@ -189,11 +195,15 @@
     "Collin Sexton": "QUESTIONABLE",
     "Anfernee Simons": "OUT"
   },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tristen Newton": "OUT",
-    "Jae'Sean Tate": "OUT",
-    "Fred VanVleet": "OUT"
+  "Utah Jazz": {
+    "Ace Bailey": "QUESTIONABLE",
+    "Keyonte George": "OUT",
+    "Blake Hinson": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "John Konchar": "QUESTIONABLE",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
   },
   "Atlanta Hawks": {
     "RayJ Dennis": "DOUBTFUL",
@@ -211,12 +221,6 @@
     "Tyler Smith": "QUESTIONABLE",
     "Brandon Williams": "DOUBTFUL"
   },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "Darius Garland": "QUESTIONABLE",
-    "Kawhi Leonard": "QUESTIONABLE",
-    "Bennedict Mathurin": "OUT"
-  },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
@@ -226,14 +230,13 @@
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT"
   },
-  "Utah Jazz": {
-    "Ace Bailey": "QUESTIONABLE",
-    "Keyonte George": "OUT",
-    "Blake Hinson": "OUT",
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "John Konchar": "QUESTIONABLE",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT"
+  "Los Angeles Lakers": {
+    "Maxi Kleber": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
   }
 }
