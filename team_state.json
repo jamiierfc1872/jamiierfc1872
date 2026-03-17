@@ -52,18 +52,18 @@
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "QUESTIONABLE",
-    "T.J. McConnell": "QUESTIONABLE",
-    "Andrew Nembhard": "QUESTIONABLE",
-    "Aaron Nesmith": "QUESTIONABLE",
-    "Taelon Peter": "QUESTIONABLE",
-    "Micah Potter": "QUESTIONABLE",
-    "Ben Sheppard": "QUESTIONABLE",
-    "Pascal Siakam": "DOUBTFUL",
-    "Jalen Slawson": "QUESTIONABLE",
-    "Ethan Thompson": "QUESTIONABLE",
-    "Obi Toppin": "QUESTIONABLE",
-    "Ivica Zubac": "QUESTIONABLE"
+    "Quenton Jackson": "AVAILABLE",
+    "T.J. McConnell": "AVAILABLE",
+    "Andrew Nembhard": "OUT",
+    "Aaron Nesmith": "AVAILABLE",
+    "Taelon Peter": "OUT",
+    "Micah Potter": "OUT",
+    "Ben Sheppard": "AVAILABLE",
+    "Pascal Siakam": "OUT",
+    "Jalen Slawson": "AVAILABLE",
+    "Ethan Thompson": "OUT",
+    "Obi Toppin": "AVAILABLE",
+    "Ivica Zubac": "AVAILABLE"
   },
   "New York Knicks": {
     "Jalen Brunson": "OUT",
@@ -83,9 +83,9 @@
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
     "Ousmane Dieng": "QUESTIONABLE",
-    "Ryan Rollins": "QUESTIONABLE",
+    "Ryan Rollins": "AVAILABLE",
     "Cormac Ryan": "AVAILABLE",
-    "Myles Turner": "QUESTIONABLE"
+    "Myles Turner": "OUT"
   },
   "Phoenix Suns": {
     "Grayson Allen": "DOUBTFUL",
