@@ -87,6 +87,12 @@
     "Cormac Ryan": "AVAILABLE",
     "Myles Turner": "QUESTIONABLE"
   },
+  "Phoenix Suns": {
+    "Grayson Allen": "DOUBTFUL",
+    "Dillon Brooks": "OUT",
+    "Haywood Highsmith": "QUESTIONABLE",
+    "Mark Williams": "OUT"
+  },
   "Minnesota Timberwolves": {
     "Joan Beringer": "OUT",
     "Anthony Edwards": "OUT",
@@ -118,5 +124,21 @@
     "Malik Monk": "QUESTIONABLE",
     "Keegan Murray": "OUT",
     "Domantas Sabonis": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Trayce Jackson-Davis": "OUT",
+    "A.J. Lawson": "OUT",
+    "Alijah Martin": "OUT",
+    "Collin Murray-Boyles": "DOUBTFUL"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Jaden Ivey": "OUT",
+    "Mac McClung": "OUT",
+    "Isaac Okoro": "DOUBTFUL",
+    "Collin Sexton": "QUESTIONABLE",
+    "Anfernee Simons": "OUT"
   }
 }
