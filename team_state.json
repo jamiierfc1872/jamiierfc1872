@@ -135,6 +135,16 @@
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
   },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "QUESTIONABLE",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Al Horford": "OUT",
+    "Moses Moody": "OUT",
+    "Gary Payton II": "PROBABLE",
+    "Quinten Post": "QUESTIONABLE"
+  },
   "Boston Celtics": {
     "John Tonje": "OUT",
     "Nikola Vucevic": "OUT"
@@ -146,6 +156,15 @@
     "Ben Saraf": "QUESTIONABLE",
     "Day'Ron Sharpe": "OUT",
     "Nolan Traore": "PROBABLE"
+  },
+  "Portland Trail Blazers": {
+    "Vit Krejci": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Robert Williams III": "QUESTIONABLE",
+    "Hansen Yang": "OUT",
+    "Chris Youngblood": "OUT"
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
