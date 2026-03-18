@@ -96,10 +96,10 @@
     "Jusuf Nurkic": "OUT"
   },
   "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Keshon Gilbert": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Keshon Gilbert": "OUT",
     "Jonathan Kuminga": "QUESTIONABLE",
-    "Asa Newell": "DOUBTFUL"
+    "Asa Newell": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "QUESTIONABLE",
@@ -128,5 +128,13 @@
     "Tristen Newton": "OUT",
     "Jae'Sean Tate": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Jaylen Clark": "QUESTIONABLE",
+    "Anthony Edwards": "OUT",
+    "Enrique Freeman": "OUT",
+    "Julian Phillips": "OUT",
+    "Naz Reid": "QUESTIONABLE",
+    "Rocco Zikarsky": "OUT"
   }
 }
