@@ -15,20 +15,36 @@
   },
   "Brooklyn Nets": {
     "Egor Demin": "OUT",
-    "Terance Mann": "PROBABLE",
-    "Michael Porter Jr.": "QUESTIONABLE",
+    "Terance Mann": "AVAILABLE",
+    "Michael Porter Jr.": "OUT",
     "Ben Saraf": "QUESTIONABLE",
     "Day'Ron Sharpe": "OUT",
-    "Nolan Traore": "PROBABLE"
+    "Nolan Traore": "AVAILABLE"
   },
   "Portland Trail Blazers": {
-    "Vit Krejci": "QUESTIONABLE",
+    "Vit Krejci": "OUT",
     "Damian Lillard": "OUT",
     "Caleb Love": "OUT",
     "Shaedon Sharpe": "OUT",
     "Robert Williams III": "QUESTIONABLE",
     "Hansen Yang": "OUT",
     "Chris Youngblood": "OUT"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Quenton Jackson": "QUESTIONABLE",
+    "T.J. McConnell": "QUESTIONABLE",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "QUESTIONABLE",
+    "Taelon Peter": "QUESTIONABLE",
+    "Micah Potter": "QUESTIONABLE",
+    "Ben Sheppard": "QUESTIONABLE",
+    "Pascal Siakam": "OUT",
+    "Jalen Slawson": "QUESTIONABLE",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "OUT",
+    "Ivica Zubac": "QUESTIONABLE"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
