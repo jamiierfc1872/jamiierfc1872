@@ -6,8 +6,8 @@
     "Stephen Curry": "OUT",
     "Al Horford": "OUT",
     "Moses Moody": "OUT",
-    "Gary Payton II": "PROBABLE",
-    "Quinten Post": "QUESTIONABLE"
+    "Gary Payton II": "AVAILABLE",
+    "Quinten Post": "AVAILABLE"
   },
   "Boston Celtics": {
     "John Tonje": "OUT",
@@ -185,5 +185,12 @@
     "Kel'el Ware": "AVAILABLE",
     "Andrew Wiggins": "OUT",
     "Jahmir Young": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Kyle Kuzma": "PROBABLE",
+    "Kevin Porter Jr.": "QUESTIONABLE",
+    "Myles Turner": "QUESTIONABLE"
   }
 }
