@@ -18,8 +18,8 @@
     "Branden -Carlson": "OUT",
     "Luguentz Dort": "OUT",
     "Isaiah Hartenstein": "OUT",
-    "Chet Holmgren": "QUESTIONABLE",
-    "Thomas Sorber": "OUT",
+    "Chet Holmgren": "AVAILABLE",
+    "Thomas -Sorber": "OUT",
     "Nikola Topic": "OUT",
     "Jalen Williams": "OUT"
   },
@@ -36,31 +36,31 @@
     "Damian Lillard": "OUT",
     "Caleb Love": "OUT",
     "Shaedon Sharpe": "OUT",
-    "Robert Williams III": "QUESTIONABLE",
+    "Robert Williams III": "AVAILABLE",
     "Hansen Yang": "OUT",
     "Chris Youngblood": "OUT"
   },
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "QUESTIONABLE",
-    "T.J. McConnell": "QUESTIONABLE",
+    "Quenton Jackson": "AVAILABLE",
+    "T.J. McConnell": "AVAILABLE",
     "Andrew Nembhard": "QUESTIONABLE",
-    "Aaron Nesmith": "QUESTIONABLE",
-    "Taelon Peter": "QUESTIONABLE",
+    "Aaron Nesmith": "AVAILABLE",
+    "Taelon Peter": "AVAILABLE",
     "Micah Potter": "QUESTIONABLE",
-    "Ben Sheppard": "QUESTIONABLE",
+    "Ben Sheppard": "AVAILABLE",
     "Pascal Siakam": "OUT",
-    "Jalen Slawson": "QUESTIONABLE",
-    "Ethan Thompson": "QUESTIONABLE",
+    "Jalen Slawson": "AVAILABLE",
+    "Ethan Thompson": "OUT",
     "Obi Toppin": "OUT",
-    "Ivica Zubac": "QUESTIONABLE"
+    "Ivica Zubac": "AVAILABLE"
   },
   "LA Clippers": {
-    "Nicolas Batum": "QUESTIONABLE",
+    "Nicolas Batum": "OUT",
     "Bradley Beal": "OUT",
     "Darius Garland": "AVAILABLE",
-    "Kawhi Leonard": "QUESTIONABLE",
+    "Kawhi Leonard": "AVAILABLE",
     "Bennedict Mathurin": "OUT"
   },
   "New Orleans Pelicans": {
@@ -75,7 +75,7 @@
     "Trayce Jackson-Davis": "AVAILABLE",
     "A.J. -Lawson": "OUT",
     "Alijah Martin": "OUT",
-    "Collin Murray-Boyles": "DOUBTFUL"
+    "Collin Murray-Boyles": "OUT"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
@@ -97,7 +97,7 @@
     "Jusuf Nurkic": "OUT"
   },
   "Minnesota Timberwolves": {
-    "Jaylen Clark": "QUESTIONABLE",
+    "Jaylen Clark": "AVAILABLE",
     "Anthony Edwards": "OUT",
     "Enrique Freeman": "OUT",
     "Julian Phillips": "OUT",
@@ -197,6 +197,11 @@
     "Dillon Brooks": "OUT",
     "Royce O'Neale": "QUESTIONABLE",
     "Mark Williams": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "OUT"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
