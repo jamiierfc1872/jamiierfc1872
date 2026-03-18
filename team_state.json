@@ -1,140 +1,25 @@
 {
-  "Detroit Pistons": {
-    "Isaac Jones": "OUT",
-    "Bobi Klintman": "OUT",
-    "Chaz Lanier": "OUT",
-    "Wendell Moore Jr.": "OUT",
-    "Isaiah Stewart": "OUT"
-  },
-  "Washington Wizards": {
-    "Leaky Black": "OUT",
-    "Bilal Coulibaly": "OUT",
-    "Anthony Davis": "OUT",
-    "Kyshawn George": "OUT",
-    "D'Angelo Russell": "OUT",
-    "Alex Sarr": "OUT",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
-  },
-  "Miami Heat": {
-    "Bam Adebayo": "OUT",
-    "Tyler Herro": "AVAILABLE",
-    "Kasparas Jakucionis": "AVAILABLE",
-    "Jaime Jaquez Jr.": "AVAILABLE",
-    "Nikola Jovic": "AVAILABLE",
-    "Pelle Larsson": "AVAILABLE",
-    "Terry Rozier": "OUT",
-    "Dru Smith": "AVAILABLE",
-    "Kel'el Ware": "AVAILABLE",
-    "Andrew Wiggins": "OUT"
-  },
-  "Charlotte Hornets": {
-    "Tosan Evbuomwan": "OUT",
-    "PJ Hall": "OUT",
-    "Liam McNeeley": "OUT",
-    "Antonio Reeves": "OUT",
-    "Tidjane Salaun": "OUT"
-  },
-  "Oklahoma City Thunder": {
-    "Brooks Barnhizer": "OUT",
-    "Branden Carlson": "OUT",
-    "Thomas Sorber": "OUT",
-    "Nikola Topic": "OUT",
-    "Jalen Williams": "OUT"
-  },
-  "Orlando Magic": {
-    "Anthony Black": "OUT",
-    "Colin Castleton": "OUT",
-    "Jonathan Isaac": "OUT",
-    "Alex Morales": "OUT",
-    "Franz Wagner": "OUT"
-  },
-  "Indiana Pacers": {
-    "Johnny Furphy": "OUT",
-    "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "AVAILABLE",
-    "T.J. McConnell": "AVAILABLE",
-    "Andrew Nembhard": "OUT",
-    "Aaron Nesmith": "AVAILABLE",
-    "Taelon Peter": "OUT",
-    "Micah Potter": "OUT",
-    "Ben Sheppard": "AVAILABLE",
-    "Pascal Siakam": "OUT",
-    "Jalen Slawson": "AVAILABLE",
-    "Ethan Thompson": "OUT",
-    "Obi Toppin": "AVAILABLE",
-    "Ivica Zubac": "AVAILABLE"
-  },
+  "Detroit Pistons": {},
+  "Washington Wizards": {},
+  "Miami Heat": {},
+  "Charlotte Hornets": {},
+  "Oklahoma City Thunder": {},
+  "Orlando Magic": {},
+  "Indiana Pacers": {},
   "New York Knicks": {
     "Jalen Brunson": "OUT",
     "Trey Jemison III": "OUT",
     "Miles McBride": "OUT",
     "Mitchell Robinson": "AVAILABLE"
   },
-  "Cleveland Cavaliers": {
-    "Jarrett Allen": "OUT",
-    "Sam Merrill": "AVAILABLE",
-    "Craig Porter Jr.": "OUT",
-    "Tyrese Proctor": "OUT",
-    "Olivier Sarr": "OUT",
-    "Jaylon Tyson": "AVAILABLE"
-  },
-  "Milwaukee Bucks": {
-    "Alex Antetokounmpo": "OUT",
-    "Giannis Antetokounmpo": "OUT",
-    "Ousmane Dieng": "AVAILABLE",
-    "Ryan Rollins": "AVAILABLE",
-    "Cormac Ryan": "AVAILABLE",
-    "Myles Turner": "OUT"
-  },
-  "Phoenix Suns": {
-    "Grayson Allen": "OUT",
-    "Dillon Brooks": "OUT",
-    "Haywood Highsmith": "AVAILABLE",
-    "Mark Williams": "OUT"
-  },
-  "Minnesota Timberwolves": {
-    "Joan Beringer": "OUT",
-    "Anthony Edwards": "OUT",
-    "Enrique Freeman": "OUT",
-    "Julian Phillips": "OUT",
-    "Zyon Pullin": "OUT",
-    "Naz Reid": "AVAILABLE"
-  },
-  "Philadelphia 76ers": {
-    "Johni Broome": "OUT",
-    "Joel Embiid": "OUT",
-    "Paul George": "OUT",
-    "Tyrese Maxey": "OUT",
-    "Kelly Oubre Jr.": "OUT",
-    "Dalen Terry": "AVAILABLE",
-    "Jabari Walker": "OUT"
-  },
-  "Denver Nuggets": {
-    "DaRon Holmes II": "OUT",
-    "Curtis Jones": "OUT",
-    "KJ Simpson": "OUT",
-    "Peyton Watson": "OUT"
-  },
-  "San Antonio Spurs": {
-    "Dylan Harper": "AVAILABLE",
-    "Harrison -Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Luke Kornet": "AVAILABLE",
-    "Emanuel -Miller": "OUT",
-    "Devin Vassell": "OUT"
-  },
-  "Sacramento Kings": {
-    "Patrick Baldwin Jr.": "OUT",
-    "Devin Carter": "OUT",
-    "Drew Eubanks": "OUT",
-    "De'Andre Hunter": "OUT",
-    "Zach LaVine": "OUT",
-    "Malik Monk": "OUT",
-    "Keegan Murray": "OUT",
-    "Domantas Sabonis": "OUT",
-    "Isaiah Stevens": "OUT"
-  },
+  "Cleveland Cavaliers": {},
+  "Milwaukee Bucks": {},
+  "Phoenix Suns": {},
+  "Minnesota Timberwolves": {},
+  "Philadelphia 76ers": {},
+  "Denver Nuggets": {},
+  "San Antonio Spurs": {},
+  "Sacramento Kings": {},
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "QUESTIONABLE",
