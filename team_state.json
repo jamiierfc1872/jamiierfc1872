@@ -27,7 +27,7 @@
     "Egor Demin": "OUT",
     "Terance Mann": "AVAILABLE",
     "Michael Porter Jr.": "OUT",
-    "Ben Saraf": "QUESTIONABLE",
+    "Ben Saraf": "OUT",
     "Day'Ron Sharpe": "OUT",
     "Nolan Traore": "AVAILABLE"
   },
@@ -101,7 +101,7 @@
     "Anthony Edwards": "OUT",
     "Enrique Freeman": "OUT",
     "Julian Phillips": "OUT",
-    "Naz Reid": "QUESTIONABLE",
+    "Naz Reid": "OUT",
     "Rocco Zikarsky": "OUT"
   },
   "Atlanta Hawks": {
@@ -144,5 +144,17 @@
     "Tristen Newton": "OUT",
     "Jae'Sean Tate": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "OUT",
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Isaiah Stewart": "OUT"
+  },
+  "Orlando Magic": {
+    "Anthony Black": "OUT",
+    "Jonathan Isaac": "OUT",
+    "Franz Wagner": "OUT"
   }
 }
