@@ -57,8 +57,9 @@
     "Ivica Zubac": "QUESTIONABLE"
   },
   "LA Clippers": {
+    "Nicolas Batum": "QUESTIONABLE",
     "Bradley Beal": "OUT",
-    "Darius Garland": "QUESTIONABLE",
+    "Darius Garland": "AVAILABLE",
     "Kawhi Leonard": "QUESTIONABLE",
     "Bennedict Mathurin": "OUT"
   },
@@ -95,6 +96,14 @@
     "Lauri Markkanen": "OUT",
     "Jusuf Nurkic": "OUT"
   },
+  "Minnesota Timberwolves": {
+    "Jaylen Clark": "QUESTIONABLE",
+    "Anthony Edwards": "OUT",
+    "Enrique Freeman": "OUT",
+    "Julian Phillips": "OUT",
+    "Naz Reid": "QUESTIONABLE",
+    "Rocco Zikarsky": "OUT"
+  },
   "Atlanta Hawks": {
     "RayJ Dennis": "OUT",
     "Keshon Gilbert": "OUT",
@@ -109,7 +118,14 @@
     "Caleb Martin": "QUESTIONABLE",
     "John Poulakidas": "QUESTIONABLE",
     "Tyler Smith": "QUESTIONABLE",
-    "Brandon Williams": "DOUBTFUL"
+    "Brandon Williams": "OUT"
+  },
+  "Denver Nuggets": {
+    "Aaron Gordon": "OUT",
+    "DaRon Holmes II": "OUT",
+    "Curtis Jones": "OUT",
+    "KJ Simpson": "OUT",
+    "Peyton Watson": "OUT"
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
@@ -128,13 +144,5 @@
     "Tristen Newton": "OUT",
     "Jae'Sean Tate": "OUT",
     "Fred VanVleet": "OUT"
-  },
-  "Minnesota Timberwolves": {
-    "Jaylen Clark": "QUESTIONABLE",
-    "Anthony Edwards": "OUT",
-    "Enrique Freeman": "OUT",
-    "Julian Phillips": "OUT",
-    "Naz Reid": "QUESTIONABLE",
-    "Rocco Zikarsky": "OUT"
   }
 }
