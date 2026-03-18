@@ -45,10 +45,10 @@
     "Tyrese Haliburton": "OUT",
     "Quenton Jackson": "AVAILABLE",
     "T.J. McConnell": "AVAILABLE",
-    "Andrew Nembhard": "QUESTIONABLE",
+    "Andrew Nembhard": "OUT",
     "Aaron Nesmith": "AVAILABLE",
     "Taelon Peter": "AVAILABLE",
-    "Micah Potter": "QUESTIONABLE",
+    "Micah Potter": "OUT",
     "Ben Sheppard": "AVAILABLE",
     "Pascal Siakam": "OUT",
     "Jalen Slawson": "AVAILABLE",
@@ -61,7 +61,9 @@
     "Bradley Beal": "OUT",
     "Darius Garland": "AVAILABLE",
     "Kawhi Leonard": "AVAILABLE",
-    "Bennedict Mathurin": "OUT"
+    "Bennedict Mathurin": "OUT",
+    "Norchad Omier": "OUT",
+    "TyTy Washington Jr.": "OUT"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
@@ -82,9 +84,9 @@
     "Noa Essengue": "OUT",
     "Jaden Ivey": "OUT",
     "Mac McClung": "OUT",
-    "Isaac Okoro": "DOUBTFUL",
-    "Collin Sexton": "QUESTIONABLE",
-    "Anfernee Simons": "OUT"
+    "Isaac Okoro": "OUT",
+    "Collin Sexton": "AVAILABLE",
+    "Anfernee -Simons": "OUT"
   },
   "Utah Jazz": {
     "Ace Bailey": "AVAILABLE",
@@ -107,17 +109,17 @@
   "Atlanta Hawks": {
     "RayJ Dennis": "OUT",
     "Keshon Gilbert": "OUT",
-    "Jonathan Kuminga": "QUESTIONABLE",
+    "Jonathan Kuminga": "AVAILABLE",
     "Asa Newell": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
-    "Daniel Gafford": "QUESTIONABLE",
+    "Moussa Cisse": "OUT",
+    "Daniel Gafford": "AVAILABLE",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "Caleb Martin": "QUESTIONABLE",
-    "John Poulakidas": "QUESTIONABLE",
-    "Tyler Smith": "QUESTIONABLE",
+    "Caleb Martin": "OUT",
+    "John Poulakidas": "OUT",
+    "Tyler Smith": "OUT",
     "Brandon Williams": "OUT"
   },
   "Denver Nuggets": {
