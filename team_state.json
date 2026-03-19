@@ -151,10 +151,22 @@
     "Day'Ron Sharpe": "OUT",
     "Ziaire Williams": "QUESTIONABLE"
   },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
+  },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
     "Collin Murray-Boyles": "DOUBTFUL"
+  },
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "OUT",
+    "Enrique Freeman": "OUT",
+    "Naz Reid": "QUESTIONABLE",
+    "Rocco Zikarsky": "OUT"
   }
 }
