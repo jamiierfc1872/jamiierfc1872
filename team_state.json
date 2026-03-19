@@ -51,7 +51,7 @@
   "LA Clippers": {
     "Bradley Beal": "OUT",
     "Darius Garland": "OUT",
-    "Kawhi Leonard": "QUESTIONABLE",
+    "Kawhi Leonard": "OUT",
     "Bennedict Mathurin": "OUT"
   },
   "New Orleans Pelicans": {
@@ -80,13 +80,14 @@
     "Jahmir Young": "OUT"
   },
   "Phoenix Suns": {
-    "Grayson Allen": "QUESTIONABLE",
+    "Grayson Allen": "OUT",
     "Dillon Brooks": "OUT",
-    "Haywood Highsmith": "QUESTIONABLE",
+    "Haywood Highsmith": "OUT",
     "Royce O'Neale": "OUT",
     "Mark Williams": "OUT"
   },
   "San Antonio Spurs": {
+    "Stephon Castle": "QUESTIONABLE",
     "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
     "Emanuel Miller": "OUT"
@@ -123,7 +124,7 @@
     "De'Andre Hunter": "OUT",
     "Zach LaVine": "OUT",
     "Malik Monk": "AVAILABLE",
-    "Keegan Murray": "OUT",
+    "Keegan -Murray": "OUT",
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
   },
