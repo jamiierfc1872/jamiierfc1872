@@ -168,5 +168,42 @@
     "Enrique Freeman": "OUT",
     "Naz Reid": "QUESTIONABLE",
     "Rocco Zikarsky": "OUT"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Keshon Gilbert": "DOUBTFUL",
+    "Jonathan Kuminga": "OUT",
+    "Asa Newell": "DOUBTFUL"
+  },
+  "Boston Celtics": {
+    "Max Shulga": "QUESTIONABLE",
+    "John Tonje": "OUT",
+    "Nikola Vucevic": "OUT",
+    "Amari Williams": "QUESTIONABLE"
+  },
+  "Denver Nuggets": {
+    "DaRon Holmes II": "OUT",
+    "Curtis Jones": "OUT",
+    "KJ Simpson": "OUT",
+    "Peyton Watson": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Taj Gibson": "DOUBTFUL",
+    "GG Jackson": "DOUBTFUL",
+    "Jahmai Mashack": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Vit Krejci": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Hansen Yang": "OUT",
+    "Chris Youngblood": "OUT"
   }
 }
