@@ -212,5 +212,24 @@
     "Kyle Kuzma": "PROBABLE",
     "Kevin Porter Jr.": "QUESTIONABLE",
     "Myles Turner": "QUESTIONABLE"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Joel Embiid": "DOUBTFUL",
+    "Paul George": "OUT",
+    "Tyrese Maxey": "OUT",
+    "Kelly Oubre Jr.": "OUT"
+  },
+  "Sacramento Kings": {
+    "Patrick Baldwin Jr.": "OUT",
+    "Devin Carter": "OUT",
+    "Nique Clifford": "QUESTIONABLE",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "QUESTIONABLE",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT"
   }
 }
