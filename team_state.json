@@ -36,6 +36,36 @@
     "Tyrese Proctor": "OUT",
     "Olivier Sarr": "OUT"
   },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Jaden Ivey": "OUT",
+    "Yuki Kawamura": "OUT",
+    "Mac McClung": "OUT",
+    "Isaac Okoro": "OUT",
+    "Collin Sexton": "PROBABLE",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "QUESTIONABLE"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Darius Garland": "OUT",
+    "Kawhi Leonard": "QUESTIONABLE",
+    "Bennedict Mathurin": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Bryce McGowens": "OUT",
+    "Dejounte Murray": "OUT",
+    "Josh Oduro": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "QUESTIONABLE",
+    "LeBron James": "QUESTIONABLE",
+    "Maxi Kleber": "OUT",
+    "Austin Reaves": "QUESTIONABLE"
+  },
   "Miami Heat": {
     "Bam Adebayo": "AVAILABLE",
     "Vladislav Goldin": "OUT",
@@ -51,7 +81,8 @@
   "Phoenix Suns": {
     "Grayson Allen": "QUESTIONABLE",
     "Dillon Brooks": "OUT",
-    "Royce O'Neale": "QUESTIONABLE",
+    "Haywood Highsmith": "QUESTIONABLE",
+    "Royce O'Neale": "OUT",
     "Mark Williams": "OUT"
   },
   "San Antonio Spurs": {
@@ -84,35 +115,5 @@
     "Keegan Murray": "OUT",
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
-  },
-  "Chicago Bulls": {
-    "Zach Collins": "OUT",
-    "Noa Essengue": "OUT",
-    "Jaden Ivey": "OUT",
-    "Yuki Kawamura": "OUT",
-    "Mac McClung": "OUT",
-    "Isaac Okoro": "OUT",
-    "Collin Sexton": "PROBABLE",
-    "Anfernee Simons": "OUT",
-    "Jalen Smith": "QUESTIONABLE"
-  },
-  "Los Angeles Lakers": {
-    "Luka Doncic": "QUESTIONABLE",
-    "LeBron James": "QUESTIONABLE",
-    "Maxi Kleber": "OUT",
-    "Austin Reaves": "QUESTIONABLE"
-  },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "Darius Garland": "OUT",
-    "Kawhi Leonard": "QUESTIONABLE",
-    "Bennedict Mathurin": "OUT"
-  },
-  "New Orleans Pelicans": {
-    "Trey Alexander": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Bryce McGowens": "OUT",
-    "Dejounte Murray": "OUT",
-    "Josh Oduro": "OUT"
   }
 }
