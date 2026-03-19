@@ -18,6 +18,7 @@
   },
   "Orlando Magic": {
     "Anthony Black": "OUT",
+    "Wendell Carter Jr.": "OUT",
     "Jonathan Isaac": "OUT",
     "Franz Wagner": "OUT"
   },
@@ -100,5 +101,18 @@
     "LeBron James": "QUESTIONABLE",
     "Maxi Kleber": "OUT",
     "Austin Reaves": "QUESTIONABLE"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Darius Garland": "OUT",
+    "Kawhi Leonard": "QUESTIONABLE",
+    "Bennedict Mathurin": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Bryce McGowens": "OUT",
+    "Dejounte Murray": "OUT",
+    "Josh Oduro": "OUT"
   }
 }
