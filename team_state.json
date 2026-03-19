@@ -8,11 +8,11 @@
   },
   "Washington Wizards": {
     "Leaky Black": "OUT",
-    "Bilal Coulibaly": "QUESTIONABLE",
+    "Bilal Coulibaly": "OUT",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
     "D'Angelo Russell": "OUT",
-    "Alex Sarr": "QUESTIONABLE",
+    "Alex Sarr": "AVAILABLE",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
@@ -30,6 +30,7 @@
   },
   "Cleveland Cavaliers": {
     "Jarrett Allen": "OUT",
+    "Donovan Mitchell": "QUESTIONABLE",
     "Craig Porter Jr.": "OUT",
     "Tyrese Proctor": "OUT",
     "Olivier Sarr": "OUT"
