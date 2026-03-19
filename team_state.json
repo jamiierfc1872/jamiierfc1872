@@ -97,6 +97,16 @@
     "Kevin Porter Jr.": "QUESTIONABLE",
     "Myles Turner": "QUESTIONABLE"
   },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Keyonte George": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "John Konchar": "DOUBTFUL",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT",
+    "Brice Sensabaugh": "OUT"
+  },
   "Philadelphia 76ers": {
     "Johni Broome": "OUT",
     "Joel Embiid": "DOUBTFUL",
@@ -115,15 +125,5 @@
     "Keegan Murray": "OUT",
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
-  },
-  "Utah Jazz": {
-    "Isaiah Collier": "OUT",
-    "Keyonte George": "OUT",
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "John Konchar": "DOUBTFUL",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT",
-    "Brice Sensabaugh": "OUT"
   }
 }
