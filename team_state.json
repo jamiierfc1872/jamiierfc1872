@@ -44,9 +44,9 @@
     "Yuki Kawamura": "OUT",
     "Mac McClung": "OUT",
     "Isaac Okoro": "OUT",
-    "Collin Sexton": "PROBABLE",
-    "Anfernee Simons": "OUT",
-    "Jalen Smith": "QUESTIONABLE"
+    "Collin Sexton": "AVAILABLE",
+    "Anfernee -Simons": "OUT",
+    "Jalen Smith": "OUT"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
@@ -62,8 +62,8 @@
     "Josh Oduro": "OUT"
   },
   "Los Angeles Lakers": {
-    "Luka Doncic": "QUESTIONABLE",
-    "LeBron James": "QUESTIONABLE",
+    "Luka Doncic": "AVAILABLE",
+    "LeBron James": "AVAILABLE",
     "Maxi Kleber": "OUT",
     "Austin Reaves": "QUESTIONABLE"
   },
@@ -123,7 +123,7 @@
     "De'Andre Hunter": "OUT",
     "Zach LaVine": "OUT",
     "Malik Monk": "AVAILABLE",
-    "Keegan -Murray": "OUT",
+    "Keegan Murray": "OUT",
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
   },
