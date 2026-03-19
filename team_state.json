@@ -1,18 +1,6 @@
 {
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "LJ Cryer": "OUT",
-    "Seth Curry": "OUT",
-    "Stephen Curry": "OUT",
-    "Al Horford": "OUT",
-    "Moses Moody": "OUT",
-    "Gary Payton II": "AVAILABLE",
-    "Quinten Post": "AVAILABLE"
-  },
-  "Boston Celtics": {
-    "John Tonje": "OUT",
-    "Nikola Vucevic": "OUT"
-  },
+  "Golden State Warriors": {},
+  "Boston Celtics": {},
   "Oklahoma City Thunder": {
     "Brooks Barnhizer": "AVAILABLE",
     "Branden -Carlson": "OUT",
@@ -23,23 +11,8 @@
     "Nikola Topic": "OUT",
     "Jalen Williams": "OUT"
   },
-  "Brooklyn Nets": {
-    "Egor Demin": "OUT",
-    "Terance Mann": "AVAILABLE",
-    "Michael Porter Jr.": "OUT",
-    "Ben Saraf": "OUT",
-    "Day'Ron Sharpe": "OUT",
-    "Nolan Traore": "AVAILABLE"
-  },
-  "Portland Trail Blazers": {
-    "Vit Krejci": "OUT",
-    "Damian Lillard": "OUT",
-    "Caleb Love": "OUT",
-    "Shaedon Sharpe": "OUT",
-    "Robert Williams III": "AVAILABLE",
-    "Hansen Yang": "OUT",
-    "Chris Youngblood": "OUT"
-  },
+  "Brooklyn Nets": {},
+  "Portland Trail Blazers": {},
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
@@ -56,62 +29,13 @@
     "Obi Toppin": "OUT",
     "Ivica Zubac": "AVAILABLE"
   },
-  "LA Clippers": {
-    "Nicolas Batum": "OUT",
-    "Bradley Beal": "OUT",
-    "Darius Garland": "AVAILABLE",
-    "Kawhi Leonard": "AVAILABLE",
-    "Bennedict Mathurin": "OUT",
-    "Norchad Omier": "OUT",
-    "TyTy Washington Jr.": "OUT"
-  },
-  "New Orleans Pelicans": {
-    "Trey Alexander": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Bryce McGowens": "OUT",
-    "Dejounte Murray": "AVAILABLE",
-    "Josh Oduro": "OUT"
-  },
-  "Toronto Raptors": {
-    "Chucky Hepburn": "OUT",
-    "Trayce Jackson-Davis": "AVAILABLE",
-    "A.J. -Lawson": "OUT",
-    "Alijah Martin": "OUT",
-    "Collin Murray-Boyles": "OUT"
-  },
-  "Chicago Bulls": {
-    "Zach Collins": "OUT",
-    "Noa Essengue": "OUT",
-    "Jaden Ivey": "OUT",
-    "Mac McClung": "OUT",
-    "Isaac Okoro": "OUT",
-    "Collin Sexton": "AVAILABLE",
-    "Anfernee -Simons": "OUT"
-  },
-  "Utah Jazz": {
-    "Ace Bailey": "AVAILABLE",
-    "Keyonte George": "OUT",
-    "Blake Hinson": "OUT",
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "John Konchar": "AVAILABLE",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT"
-  },
-  "Minnesota Timberwolves": {
-    "Jaylen Clark": "AVAILABLE",
-    "Anthony Edwards": "OUT",
-    "Enrique Freeman": "OUT",
-    "Julian Phillips": "OUT",
-    "Naz Reid": "OUT",
-    "Rocco Zikarsky": "OUT"
-  },
-  "Atlanta Hawks": {
-    "RayJ Dennis": "OUT",
-    "Keshon Gilbert": "OUT",
-    "Jonathan Kuminga": "AVAILABLE",
-    "Asa Newell": "OUT"
-  },
+  "LA Clippers": {},
+  "New Orleans Pelicans": {},
+  "Toronto Raptors": {},
+  "Chicago Bulls": {},
+  "Utah Jazz": {},
+  "Minnesota Timberwolves": {},
+  "Atlanta Hawks": {},
   "Dallas Mavericks": {
     "Moussa Cisse": "OUT",
     "Daniel Gafford": "AVAILABLE",
@@ -122,32 +46,10 @@
     "Tyler Smith": "OUT",
     "Brandon Williams": "OUT"
   },
-  "Denver Nuggets": {
-    "Aaron Gordon": "OUT",
-    "DaRon Holmes II": "OUT",
-    "Curtis Jones": "OUT",
-    "KJ Simpson": "OUT",
-    "Peyton Watson": "OUT"
-  },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Kentavious Caldwell-Pope": "OUT",
-    "Brandon Clarke": "OUT",
-    "Zach Edey": "OUT",
-    "Jahmai Mashack": "OUT",
-    "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT",
-    "Rayan Rupert": "OUT"
-  },
-  "Los Angeles Lakers": {
-    "Maxi Kleber": "OUT"
-  },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tristen Newton": "OUT",
-    "Jae'Sean Tate": "OUT",
-    "Fred VanVleet": "OUT"
-  },
+  "Denver Nuggets": {},
+  "Memphis Grizzlies": {},
+  "Los Angeles Lakers": {},
+  "Houston Rockets": {},
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
     "Isaac Jones": "OUT",
