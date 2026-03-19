@@ -11,6 +11,7 @@
     "Bilal Coulibaly": "OUT",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
+    "Julian Reese": "OUT",
     "D'Angelo Russell": "OUT",
     "Alex Sarr": "AVAILABLE",
     "Cam Whitmore": "OUT",
@@ -122,7 +123,7 @@
     "De'Andre Hunter": "OUT",
     "Zach LaVine": "OUT",
     "Malik Monk": "AVAILABLE",
-    "Keegan Murray": "OUT",
+    "Keegan -Murray": "OUT",
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT"
   },
@@ -151,41 +152,23 @@
     "Day'Ron Sharpe": "OUT",
     "Ziaire Williams": "QUESTIONABLE"
   },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tristen Newton": "OUT",
-    "Jae'Sean Tate": "OUT",
-    "Fred VanVleet": "OUT"
-  },
-  "Toronto Raptors": {
-    "Chucky Hepburn": "OUT",
-    "A.J. Lawson": "OUT",
-    "Alijah Martin": "OUT",
-    "Collin Murray-Boyles": "DOUBTFUL"
-  },
-  "Minnesota Timberwolves": {
-    "Anthony Edwards": "OUT",
-    "Enrique Freeman": "OUT",
-    "Naz Reid": "QUESTIONABLE",
-    "Rocco Zikarsky": "OUT"
-  },
   "Atlanta Hawks": {
     "RayJ Dennis": "DOUBTFUL",
     "Keshon Gilbert": "DOUBTFUL",
     "Jonathan Kuminga": "OUT",
     "Asa Newell": "DOUBTFUL"
   },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Jae'Sean Tate": "OUT",
+    "Fred VanVleet": "OUT"
+  },
   "Boston Celtics": {
     "Max Shulga": "QUESTIONABLE",
     "John Tonje": "OUT",
     "Nikola Vucevic": "OUT",
     "Amari Williams": "QUESTIONABLE"
-  },
-  "Denver Nuggets": {
-    "DaRon Holmes II": "OUT",
-    "Curtis Jones": "OUT",
-    "KJ Simpson": "OUT",
-    "Peyton Watson": "OUT"
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
@@ -205,5 +188,23 @@
     "Shaedon Sharpe": "OUT",
     "Hansen Yang": "OUT",
     "Chris Youngblood": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "OUT",
+    "Enrique Freeman": "OUT",
+    "Naz Reid": "QUESTIONABLE",
+    "Rocco Zikarsky": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "A.J. Lawson": "OUT",
+    "Alijah Martin": "OUT",
+    "Collin Murray-Boyles": "DOUBTFUL"
+  },
+  "Denver Nuggets": {
+    "DaRon Holmes II": "OUT",
+    "Curtis Jones": "OUT",
+    "KJ Simpson": "OUT",
+    "Peyton Watson": "OUT"
   }
 }
