@@ -8,6 +8,16 @@
     "Moses Moody": "OUT",
     "Quinten Post": "OUT"
   },
+  "Detroit Pistons": {
+    "Cade Cunningham": "OUT",
+    "Jalen Duren": "QUESTIONABLE",
+    "Kevin Huerter": "QUESTIONABLE",
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Marcus Sasser": "OUT",
+    "Isaiah Stewart": "OUT"
+  },
   "New York Knicks": {
     "Pacome Dadiet": "QUESTIONABLE",
     "Josh Hart": "OUT",
@@ -79,15 +89,5 @@
     "Curtis Jones": "OUT",
     "KJ Simpson": "OUT",
     "Peyton Watson": "OUT"
-  },
-  "Detroit Pistons": {
-    "Cade Cunningham": "OUT",
-    "Jalen Duren": "QUESTIONABLE",
-    "Kevin Huerter": "QUESTIONABLE",
-    "Isaac Jones": "OUT",
-    "Bobi Klintman": "OUT",
-    "Wendell Moore Jr.": "OUT",
-    "Marcus Sasser": "OUT",
-    "Isaiah Stewart": "OUT"
   }
 }
