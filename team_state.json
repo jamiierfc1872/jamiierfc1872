@@ -90,6 +90,13 @@
     "KJ Simpson": "OUT",
     "Peyton Watson": "OUT"
   },
+  "Oklahoma City Thunder": {
+    "Branden Carlson": "OUT",
+    "Payton Sandfort": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT",
+    "Jalen Williams": "OUT"
+  },
   "Washington Wizards": {
     "Leaky Black": "OUT",
     "Anthony Davis": "OUT",
@@ -106,6 +113,13 @@
     "Jonathan Isaac": "OUT",
     "Franz Wagner": "OUT"
   },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT"
+  },
   "Miami Heat": {
     "Simone Fontecchio": "QUESTIONABLE",
     "Vladislav Goldin": "OUT",
@@ -117,5 +131,14 @@
     "Kel'el Ware": "AVAILABLE",
     "Andrew Wiggins": "OUT",
     "Jahmir Young": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "QUESTIONABLE",
+    "John Poulakidas": "QUESTIONABLE",
+    "Tyler Smith": "QUESTIONABLE",
+    "Brandon Williams": "OUT"
   }
 }
