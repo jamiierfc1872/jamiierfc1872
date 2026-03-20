@@ -84,7 +84,7 @@
     "Chucky Hepburn": "OUT",
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
-    "Collin Murray-Boyles": "DOUBTFUL"
+    "Collin Murray-Boyles": "OUT"
   },
   "Denver Nuggets": {
     "DaRon Holmes II": "OUT",
@@ -205,5 +205,11 @@
     "Lauri Markkanen": "OUT",
     "Jusuf Nurkic": "OUT",
     "Brice Sensabaugh": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Gary Harris": "QUESTIONABLE",
+    "Kevin Porter Jr.": "QUESTIONABLE"
   }
 }
