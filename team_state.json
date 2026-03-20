@@ -19,12 +19,12 @@
     "Isaiah Stewart": "OUT"
   },
   "New York Knicks": {
-    "Pacome Dadiet": "QUESTIONABLE",
+    "Pacome Dadiet": "AVAILABLE",
     "Josh Hart": "OUT",
-    "Trey Jemison III": "QUESTIONABLE",
-    "Dillon Jones": "QUESTIONABLE",
+    "Trey Jemison III": "OUT",
+    "Dillon Jones": "AVAILABLE",
     "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "QUESTIONABLE"
+    "Kevin McCullar Jr.": "OUT"
   },
   "Brooklyn Nets": {
     "Noah Clowney": "OUT",
@@ -76,7 +76,7 @@
   "Minnesota Timberwolves": {
     "Anthony Edwards": "OUT",
     "Enrique Freeman": "OUT",
-    "Naz Reid": "QUESTIONABLE",
+    "Naz Reid": "OUT",
     "Rocco Zikarsky": "OUT"
   },
   "Toronto Raptors": {
@@ -187,5 +187,22 @@
     "John Poulakidas": "QUESTIONABLE",
     "Tyler Smith": "QUESTIONABLE",
     "Brandon Williams": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Tyrese Maxey": "OUT",
+    "Kelly Oubre Jr.": "OUT"
+  },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Keyonte George": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "John Konchar": "QUESTIONABLE",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT",
+    "Brice Sensabaugh": "OUT"
   }
 }
