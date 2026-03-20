@@ -36,10 +36,10 @@
     "Ziaire Williams": "AVAILABLE"
   },
   "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Keshon Gilbert": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Keshon Gilbert": "OUT",
     "Jonathan Kuminga": "OUT",
-    "Asa Newell": "DOUBTFUL"
+    "Asa Newell": "OUT"
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
@@ -57,6 +57,7 @@
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
+    "Cedric Coward": "QUESTIONABLE",
     "Zach Edey": "OUT",
     "Taj Gibson": "DOUBTFUL",
     "GG Jackson": "DOUBTFUL",
@@ -106,6 +107,12 @@
     "D'Angelo Russell": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Bryce McGowens": "OUT",
+    "Josh Oduro": "OUT"
   },
   "Los Angeles Lakers": {
     "Maxi Kleber": "OUT",
