@@ -10,8 +10,8 @@
   },
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
-    "Jalen Duren": "QUESTIONABLE",
-    "Kevin Huerter": "QUESTIONABLE",
+    "Jalen Duren": "AVAILABLE",
+    "Kevin Huerter": "OUT",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Wendell Moore Jr.": "OUT",
@@ -59,11 +59,12 @@
     "Brandon Clarke": "OUT",
     "Cedric Coward": "OUT",
     "Zach Edey": "OUT",
-    "Taj Gibson": "DOUBTFUL",
-    "GG Jackson": "DOUBTFUL",
+    "Taj Gibson": "OUT",
+    "GG Jackson": "OUT",
     "Jahmai Mashack": "OUT",
     "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT"
+    "Scotty Pippen Jr.": "OUT",
+    "Rayan Rupert": "OUT"
   },
   "Portland Trail Blazers": {
     "Vit Krejci": "OUT",
