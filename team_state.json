@@ -73,7 +73,7 @@
     "Draymond Green": "AVAILABLE",
     "Al Horford": "OUT",
     "Malevy Leons": "AVAILABLE",
-    "De'Anthony Melton": "QUESTIONABLE",
+    "De'Anthony Melton": "AVAILABLE",
     "Moses Moody": "OUT",
     "Gary Payton II": "OUT",
     "Kristaps Porzingis": "OUT",
@@ -88,17 +88,17 @@
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Quenton Jackson": "QUESTIONABLE",
-    "T.J. McConnell": "QUESTIONABLE",
-    "Andrew Nembhard": "QUESTIONABLE",
-    "Aaron Nesmith": "QUESTIONABLE",
+    "Quenton Jackson": "AVAILABLE",
+    "T.J. McConnell": "AVAILABLE",
+    "Andrew Nembhard": "AVAILABLE",
+    "Aaron Nesmith": "AVAILABLE",
     "Taelon Peter": "OUT",
-    "Micah Potter": "QUESTIONABLE",
-    "Ben Sheppard": "QUESTIONABLE",
-    "Pascal Siakam": "QUESTIONABLE",
+    "Micah Potter": "AVAILABLE",
+    "Ben Sheppard": "AVAILABLE",
+    "Pascal Siakam": "AVAILABLE",
     "Jalen Slawson": "OUT",
     "Ethan Thompson": "OUT",
-    "Obi Toppin": "QUESTIONABLE",
+    "Obi Toppin": "AVAILABLE",
     "Ivica Zubac": "OUT"
   },
   "San Antonio Spurs": {
@@ -130,16 +130,16 @@
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
-    "Kawhi Leonard": "QUESTIONABLE",
+    "Kawhi Leonard": "AVAILABLE",
     "Bennedict Mathurin": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "Caleb Martin": "QUESTIONABLE",
-    "John Poulakidas": "QUESTIONABLE",
-    "Tyler Smith": "QUESTIONABLE",
+    "Caleb Martin": "OUT",
+    "John Poulakidas": "OUT",
+    "Tyler Smith": "OUT",
     "Brandon Williams": "OUT"
   },
   "Philadelphia 76ers": {
@@ -207,5 +207,14 @@
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
     "Collin Murray-Boyles": "QUESTIONABLE"
+  },
+  "Portland Trail Blazers": {
+    "Jerami Grant": "QUESTIONABLE",
+    "Vit Krejci": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Hansen Yang": "OUT",
+    "Chris Youngblood": "OUT"
   }
 }
