@@ -171,10 +171,27 @@
     "Royce O'Neale": "OUT",
     "Mark Williams": "OUT"
   },
+  "New York Knicks": {
+    "Josh Hart": "QUESTIONABLE",
+    "Ariel Hukporti": "QUESTIONABLE",
+    "Trey Jemison III": "QUESTIONABLE",
+    "Dillon Jones": "QUESTIONABLE",
+    "Tyler Kolek": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Kevin McCullar Jr.": "QUESTIONABLE",
+    "Landry Shamet": "OUT"
+  },
   "Minnesota Timberwolves": {
     "Anthony Edwards": "OUT",
     "Enrique Freeman": "OUT",
     "Naz Reid": "QUESTIONABLE",
     "Rocco Zikarsky": "OUT"
+  },
+  "Boston Celtics": {
+    "Jaylen Brown": "PROBABLE",
+    "Max Shulga": "QUESTIONABLE",
+    "John Tonje": "OUT",
+    "Nikola Vucevic": "OUT",
+    "Amari Williams": "QUESTIONABLE"
   }
 }
