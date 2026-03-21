@@ -11,8 +11,8 @@
     "Leaky Black": "OUT",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
-    "Tre Johnson": "QUESTIONABLE",
-    "Will Riley": "QUESTIONABLE",
+    "Tre Johnson": "OUT",
+    "Will Riley": "AVAILABLE",
     "D'Angelo Russell": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
@@ -121,6 +121,7 @@
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
+    "Alperen Sengun": "QUESTIONABLE",
     "Jae'Sean Tate": "PROBABLE",
     "Fred VanVleet": "OUT"
   },
