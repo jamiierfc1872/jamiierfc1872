@@ -44,12 +44,43 @@
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
   },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Cedric Coward": "OUT",
+    "Zach Edey": "OUT",
+    "GG Jackson": "QUESTIONABLE",
+    "DeJon Jarreau": "QUESTIONABLE",
+    "Ty Jerome": "DOUBTFUL",
+    "Jahmai Mashack": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT"
+  },
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
     "PJ Hall": "OUT",
     "Liam McNeeley": "OUT",
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Draymond Green": "QUESTIONABLE",
+    "Al Horford": "OUT",
+    "Malevy Leons": "QUESTIONABLE",
+    "De'Anthony Melton": "QUESTIONABLE",
+    "Moses Moody": "OUT",
+    "Gary Payton II": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Quinten Post": "QUESTIONABLE"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Keshon Gilbert": "DOUBTFUL",
+    "Asa Newell": "DOUBTFUL"
   },
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
@@ -113,7 +144,7 @@
     "Keyonte George": "OUT",
     "Jaren Jackson Jr.": "OUT",
     "Walker Kessler": "OUT",
-    "John Konchar": "QUESTIONABLE",
+    "John Konchar": "PROBABLE",
     "Lauri Markkanen": "OUT",
     "Jusuf Nurkic": "OUT",
     "Brice Sensabaugh": "OUT"
@@ -131,23 +162,5 @@
     "Haywood Highsmith": "OUT",
     "Royce O'Neale": "DOUBTFUL",
     "Mark Williams": "OUT"
-  },
-  "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Keshon Gilbert": "DOUBTFUL",
-    "Asa Newell": "DOUBTFUL"
-  },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "Seth Curry": "OUT",
-    "Stephen Curry": "OUT",
-    "Draymond Green": "QUESTIONABLE",
-    "Al Horford": "OUT",
-    "Malevy Leons": "QUESTIONABLE",
-    "De'Anthony Melton": "QUESTIONABLE",
-    "Moses Moody": "OUT",
-    "Gary Payton II": "QUESTIONABLE",
-    "Kristaps Porzingis": "OUT",
-    "Quinten Post": "QUESTIONABLE"
   }
 }
