@@ -70,14 +70,14 @@
     "Jimmy Butler III": "OUT",
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
-    "Draymond Green": "QUESTIONABLE",
+    "Draymond Green": "AVAILABLE",
     "Al Horford": "OUT",
-    "Malevy Leons": "QUESTIONABLE",
+    "Malevy Leons": "AVAILABLE",
     "De'Anthony Melton": "QUESTIONABLE",
     "Moses Moody": "OUT",
     "Gary Payton II": "OUT",
     "Kristaps Porzingis": "OUT",
-    "Quinten Post": "QUESTIONABLE"
+    "Quinten Post": "AVAILABLE"
   },
   "Atlanta Hawks": {
     "RayJ Dennis": "OUT",
@@ -92,12 +92,12 @@
     "T.J. McConnell": "QUESTIONABLE",
     "Andrew Nembhard": "QUESTIONABLE",
     "Aaron Nesmith": "QUESTIONABLE",
-    "Taelon Peter": "QUESTIONABLE",
+    "Taelon Peter": "OUT",
     "Micah Potter": "QUESTIONABLE",
     "Ben Sheppard": "QUESTIONABLE",
     "Pascal Siakam": "QUESTIONABLE",
-    "Jalen Slawson": "QUESTIONABLE",
-    "Ethan Thompson": "QUESTIONABLE",
+    "Jalen Slawson": "OUT",
+    "Ethan Thompson": "OUT",
     "Obi Toppin": "QUESTIONABLE",
     "Ivica Zubac": "OUT"
   },
@@ -124,8 +124,8 @@
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
-    "Alperen Sengun": "QUESTIONABLE",
-    "Jae'Sean Tate": "PROBABLE",
+    "Alperen Sengun": "AVAILABLE",
+    "Jae'Sean Tate": "AVAILABLE",
     "Fred VanVleet": "OUT"
   },
   "LA Clippers": {
