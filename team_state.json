@@ -131,7 +131,9 @@
   "LA Clippers": {
     "Bradley Beal": "OUT",
     "Kawhi Leonard": "AVAILABLE",
-    "Bennedict Mathurin": "OUT"
+    "Bennedict Mathurin": "OUT",
+    "Norchad Omier": "OUT",
+    "Sean Pedulla": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "OUT",
@@ -173,6 +175,15 @@
     "Royce O'Neale": "OUT",
     "Mark Williams": "OUT"
   },
+  "Portland Trail Blazers": {
+    "Jerami Grant": "QUESTIONABLE",
+    "Vit Krejci": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Caleb Love": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Hansen Yang": "OUT",
+    "Chris Youngblood": "OUT"
+  },
   "Denver Nuggets": {
     "DaRon Holmes II": "AVAILABLE",
     "Curtis Jones": "AVAILABLE",
@@ -207,14 +218,5 @@
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
     "Collin Murray-Boyles": "QUESTIONABLE"
-  },
-  "Portland Trail Blazers": {
-    "Jerami Grant": "QUESTIONABLE",
-    "Vit Krejci": "QUESTIONABLE",
-    "Damian Lillard": "OUT",
-    "Caleb Love": "OUT",
-    "Shaedon Sharpe": "OUT",
-    "Hansen Yang": "OUT",
-    "Chris Youngblood": "OUT"
   }
 }
