@@ -21,11 +21,11 @@
   "Cleveland Cavaliers": {
     "Jarrett Allen": "OUT",
     "Tristan Enaruna": "OUT",
-    "Donovan Mitchell": "QUESTIONABLE",
+    "Donovan Mitchell": "AVAILABLE",
     "Craig Porter Jr.": "OUT",
     "Tyrese Proctor": "OUT",
     "Olivier Sarr": "OUT",
-    "Jaylon Tyson": "DOUBTFUL"
+    "Jaylon Tyson": "OUT"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
@@ -51,12 +51,13 @@
     "Brandon Clarke": "OUT",
     "Cedric Coward": "OUT",
     "Zach Edey": "OUT",
-    "GG Jackson": "QUESTIONABLE",
-    "DeJon Jarreau": "QUESTIONABLE",
-    "Ty Jerome": "DOUBTFUL",
+    "GG Jackson": "AVAILABLE",
+    "DeJon Jarreau": "AVAILABLE",
+    "Ty Jerome": "OUT",
     "Jahmai Mashack": "OUT",
     "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT"
+    "Scotty Pippen Jr.": "OUT",
+    "Rayan Rupert": "OUT"
   },
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
@@ -74,13 +75,14 @@
     "Malevy Leons": "QUESTIONABLE",
     "De'Anthony Melton": "QUESTIONABLE",
     "Moses Moody": "OUT",
-    "Gary Payton II": "QUESTIONABLE",
+    "Gary Payton II": "OUT",
     "Kristaps Porzingis": "OUT",
     "Quinten Post": "QUESTIONABLE"
   },
   "Atlanta Hawks": {
     "RayJ Dennis": "OUT",
     "Keshon Gilbert": "OUT",
+    "Jalen Johnson": "OUT",
     "Asa Newell": "OUT"
   },
   "Indiana Pacers": {
@@ -199,5 +201,11 @@
     "John Tonje": "OUT",
     "Nikola Vucevic": "OUT",
     "Amari Williams": "QUESTIONABLE"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "A.J. Lawson": "OUT",
+    "Alijah Martin": "OUT",
+    "Collin Murray-Boyles": "QUESTIONABLE"
   }
 }
