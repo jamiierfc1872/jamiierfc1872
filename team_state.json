@@ -68,10 +68,11 @@
     "Ivica Zubac": "OUT"
   },
   "San Antonio Spurs": {
-    "Stephon Castle": "QUESTIONABLE",
+    "Stephon Castle": "OUT",
     "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
-    "Emanuel Miller": "OUT"
+    "Emanuel Miller": "OUT",
+    "Victor Wembanyama": "QUESTIONABLE"
   },
   "Miami Heat": {
     "Simone Fontecchio": "AVAILABLE",
@@ -130,5 +131,23 @@
     "Haywood Highsmith": "OUT",
     "Royce O'Neale": "DOUBTFUL",
     "Mark Williams": "OUT"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Keshon Gilbert": "DOUBTFUL",
+    "Asa Newell": "DOUBTFUL"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Draymond Green": "QUESTIONABLE",
+    "Al Horford": "OUT",
+    "Malevy Leons": "QUESTIONABLE",
+    "De'Anthony Melton": "QUESTIONABLE",
+    "Moses Moody": "OUT",
+    "Gary Payton II": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Quinten Post": "QUESTIONABLE"
   }
 }
