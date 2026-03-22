@@ -1,7 +1,7 @@
 {
   "Portland Trail Blazers": {
-    "Jerami Grant": "QUESTIONABLE",
-    "Vit Krejci": "QUESTIONABLE",
+    "Jerami Grant": "OUT",
+    "Vit Krejci": "OUT",
     "Damian Lillard": "OUT",
     "Caleb Love": "OUT",
     "Shaedon Sharpe": "OUT",
@@ -18,7 +18,7 @@
     "Nic Claxton": "OUT",
     "Noah Clowney": "OUT",
     "Egor Demin": "OUT",
-    "Terance Mann": "PROBABLE",
+    "Terance Mann": "AVAILABLE",
     "Michael Porter Jr.": "OUT",
     "Day'Ron Sharpe": "OUT"
   },
@@ -82,5 +82,10 @@
     "Moses Moody": "QUESTIONABLE",
     "Kristaps Porzingis": "PROBABLE",
     "Quinten Post": "OUT"
+  },
+  "Orlando Magic": {
+    "Anthony Black": "OUT",
+    "Jonathan Isaac": "OUT",
+    "Franz Wagner": "OUT"
   }
 }
