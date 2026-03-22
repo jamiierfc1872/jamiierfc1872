@@ -125,5 +125,49 @@
     "Moses Moody": "QUESTIONABLE",
     "Kristaps Porzingis": "PROBABLE",
     "Quinten Post": "OUT"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "QUESTIONABLE",
+    "Keshon Gilbert": "QUESTIONABLE",
+    "Jalen Johnson": "QUESTIONABLE",
+    "Asa Newell": "QUESTIONABLE"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "QUESTIONABLE",
+    "Taelon Peter": "QUESTIONABLE",
+    "Pascal Siakam": "QUESTIONABLE",
+    "Jalen Slawson": "QUESTIONABLE",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "QUESTIONABLE",
+    "Ivica Zubac": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Cedric Coward": "OUT",
+    "Zach Edey": "OUT",
+    "Taj Gibson": "QUESTIONABLE",
+    "Jahmai Mashack": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Cam Spencer": "DOUBTFUL"
+  },
+  "Oklahoma City Thunder": {
+    "Ajay Mitchell": "OUT",
+    "Payton Sandfort": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Dominick Barlow": "DOUBTFUL",
+    "Johni Broome": "OUT",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Tyrese Maxey": "OUT",
+    "Kelly Oubre Jr.": "OUT"
   }
 }
