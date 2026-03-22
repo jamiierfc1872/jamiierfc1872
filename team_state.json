@@ -178,6 +178,15 @@
     "Jalen Smith": "QUESTIONABLE",
     "Guerschon Yabusele": "DOUBTFUL"
   },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Keyonte George": "OUT",
+    "Blake Hinson": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
+  },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "Seth Curry": "OUT",
@@ -196,14 +205,5 @@
     "John Poulakidas": "QUESTIONABLE",
     "Tyler Smith": "QUESTIONABLE",
     "Brandon Williams": "DOUBTFUL"
-  },
-  "Utah Jazz": {
-    "Isaiah Collier": "OUT",
-    "Keyonte George": "OUT",
-    "Blake Hinson": "OUT",
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT"
   }
 }
