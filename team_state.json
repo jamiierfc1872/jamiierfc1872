@@ -106,6 +106,7 @@
     "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
     "Emanuel Miller": "OUT",
+    "Devin Vassell": "OUT",
     "Victor Wembanyama": "AVAILABLE"
   },
   "Miami Heat": {
@@ -156,7 +157,7 @@
     "Keyonte George": "OUT",
     "Jaren Jackson Jr.": "OUT",
     "Walker Kessler": "OUT",
-    "John Konchar": "PROBABLE",
+    "John Konchar": "AVAILABLE",
     "Lauri Markkanen": "OUT",
     "Jusuf Nurkic": "OUT",
     "Brice Sensabaugh": "OUT"
@@ -164,8 +165,9 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
-    "Gary Harris": "QUESTIONABLE",
-    "Kevin Porter Jr.": "QUESTIONABLE"
+    "Gary Harris": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT"
   },
   "Phoenix Suns": {
     "Grayson Allen": "OUT",
@@ -189,6 +191,25 @@
     "Curtis Jones": "AVAILABLE",
     "KJ Simpson": "AVAILABLE",
     "Peyton Watson": "QUESTIONABLE"
+  },
+  "Brooklyn Nets": {
+    "Nic Claxton": "OUT",
+    "Noah Clowney": "OUT",
+    "Egor Demin": "OUT",
+    "Terance Mann": "PROBABLE",
+    "Michael Porter Jr.": "OUT",
+    "Day'Ron Sharpe": "OUT"
+  },
+  "Sacramento Kings": {
+    "Patrick Baldwin Jr.": "OUT",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Daeqwon Plowden": "QUESTIONABLE",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
   },
   "New York Knicks": {
     "Josh Hart": "QUESTIONABLE",
