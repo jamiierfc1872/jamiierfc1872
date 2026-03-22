@@ -12,7 +12,7 @@
     "DaRon Holmes II": "AVAILABLE",
     "Curtis Jones": "AVAILABLE",
     "KJ Simpson": "AVAILABLE",
-    "Peyton Watson": "QUESTIONABLE"
+    "Peyton Watson": "AVAILABLE"
   },
   "Brooklyn Nets": {
     "Nic Claxton": "OUT",
@@ -73,6 +73,38 @@
     "Alijah Martin": "OUT",
     "Collin Murray-Boyles": "QUESTIONABLE"
   },
+  "Phoenix Suns": {
+    "Grayson Allen": "OUT",
+    "Dillon Brooks": "OUT",
+    "Amir Coffey": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Royce O'Neale": "QUESTIONABLE",
+    "Mark Williams": "OUT"
+  },
+  "Orlando Magic": {
+    "Anthony Black": "OUT",
+    "Jonathan Isaac": "OUT",
+    "Franz Wagner": "OUT"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "OUT",
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Marcus Sasser": "OUT",
+    "Isaiah Stewart": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Jaden Ivey": "QUESTIONABLE",
+    "Yuki Kawamura": "OUT",
+    "Mac McClung": "OUT",
+    "Isaac Okoro": "DOUBTFUL",
+    "Anfernee Simons": "QUESTIONABLE",
+    "Jalen Smith": "QUESTIONABLE",
+    "Guerschon Yabusele": "DOUBTFUL"
+  },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "Seth Curry": "OUT",
@@ -82,10 +114,5 @@
     "Moses Moody": "QUESTIONABLE",
     "Kristaps Porzingis": "PROBABLE",
     "Quinten Post": "OUT"
-  },
-  "Orlando Magic": {
-    "Anthony Black": "OUT",
-    "Jonathan Isaac": "OUT",
-    "Franz Wagner": "OUT"
   }
 }
