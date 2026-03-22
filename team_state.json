@@ -72,7 +72,7 @@
     "Chucky Hepburn": "OUT",
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
-    "Collin Murray-Boyles": "QUESTIONABLE"
+    "Collin Murray-Boyles": "OUT"
   },
   "Phoenix Suns": {
     "Grayson Allen": "OUT",
@@ -205,5 +205,12 @@
     "John Poulakidas": "QUESTIONABLE",
     "Tyler Smith": "QUESTIONABLE",
     "Brandon Williams": "DOUBTFUL"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Gary Harris": "PROBABLE",
+    "Kyle Kuzma": "QUESTIONABLE",
+    "Kevin Porter Jr.": "OUT"
   }
 }
