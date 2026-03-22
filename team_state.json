@@ -169,5 +169,19 @@
     "Paul George": "OUT",
     "Tyrese Maxey": "OUT",
     "Kelly Oubre Jr.": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "QUESTIONABLE",
+    "John Poulakidas": "QUESTIONABLE",
+    "Tyler Smith": "QUESTIONABLE",
+    "Brandon Williams": "DOUBTFUL"
+  },
+  "Los Angeles Lakers": {
+    "Rui Hachimura": "QUESTIONABLE",
+    "Maxi Kleber": "QUESTIONABLE",
+    "Marcus Smart": "QUESTIONABLE"
   }
 }
