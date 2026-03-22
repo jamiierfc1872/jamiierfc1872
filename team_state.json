@@ -28,7 +28,7 @@
     "De'Andre Hunter": "OUT",
     "Zach LaVine": "OUT",
     "Keegan Murray": "OUT",
-    "Daeqwon Plowden": "QUESTIONABLE",
+    "Daeqwon Plowden": "OUT",
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
@@ -81,10 +81,27 @@
     "Royce O'Neale": "QUESTIONABLE",
     "Mark Williams": "OUT"
   },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Andrew Nembhard": "QUESTIONABLE",
+    "Aaron Nesmith": "QUESTIONABLE",
+    "Taelon Peter": "QUESTIONABLE",
+    "Pascal Siakam": "QUESTIONABLE",
+    "Jalen Slawson": "QUESTIONABLE",
+    "Ethan Thompson": "QUESTIONABLE",
+    "Obi Toppin": "QUESTIONABLE",
+    "Ivica Zubac": "OUT"
+  },
   "Orlando Magic": {
     "Anthony Black": "OUT",
     "Jonathan Isaac": "OUT",
     "Franz Wagner": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Rui Hachimura": "QUESTIONABLE",
+    "Maxi Kleber": "QUESTIONABLE",
+    "Marcus Smart": "QUESTIONABLE"
   },
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
@@ -93,6 +110,27 @@
     "Wendell Moore Jr.": "OUT",
     "Marcus Sasser": "OUT",
     "Isaiah Stewart": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Ajay Mitchell": "OUT",
+    "Payton Sandfort": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Dominick Barlow": "DOUBTFUL",
+    "Johni Broome": "OUT",
+    "Joel Embiid": "OUT",
+    "Paul George": "OUT",
+    "Tyrese Maxey": "OUT",
+    "Kelly Oubre Jr.": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Stephon Castle": "QUESTIONABLE",
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "OUT",
+    "Devin Vassell": "QUESTIONABLE"
   },
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
@@ -104,6 +142,24 @@
     "Terry Rozier": "OUT",
     "Andrew Wiggins": "PROBABLE",
     "Jahmir Young": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Cedric Coward": "OUT",
+    "Zach Edey": "OUT",
+    "Taj Gibson": "QUESTIONABLE",
+    "Jahmai Mashack": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Cam Spencer": "DOUBTFUL"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "QUESTIONABLE",
+    "Keshon Gilbert": "QUESTIONABLE",
+    "Jalen Johnson": "QUESTIONABLE",
+    "Asa Newell": "QUESTIONABLE"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
@@ -126,50 +182,6 @@
     "Kristaps Porzingis": "PROBABLE",
     "Quinten Post": "OUT"
   },
-  "Atlanta Hawks": {
-    "RayJ Dennis": "QUESTIONABLE",
-    "Keshon Gilbert": "QUESTIONABLE",
-    "Jalen Johnson": "QUESTIONABLE",
-    "Asa Newell": "QUESTIONABLE"
-  },
-  "Indiana Pacers": {
-    "Johnny Furphy": "OUT",
-    "Tyrese Haliburton": "OUT",
-    "Andrew Nembhard": "QUESTIONABLE",
-    "Aaron Nesmith": "QUESTIONABLE",
-    "Taelon Peter": "QUESTIONABLE",
-    "Pascal Siakam": "QUESTIONABLE",
-    "Jalen Slawson": "QUESTIONABLE",
-    "Ethan Thompson": "QUESTIONABLE",
-    "Obi Toppin": "QUESTIONABLE",
-    "Ivica Zubac": "OUT"
-  },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Kentavious Caldwell-Pope": "OUT",
-    "Brandon Clarke": "OUT",
-    "Cedric Coward": "OUT",
-    "Zach Edey": "OUT",
-    "Taj Gibson": "QUESTIONABLE",
-    "Jahmai Mashack": "OUT",
-    "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT",
-    "Cam Spencer": "DOUBTFUL"
-  },
-  "Oklahoma City Thunder": {
-    "Ajay Mitchell": "OUT",
-    "Payton Sandfort": "OUT",
-    "Thomas Sorber": "OUT",
-    "Nikola Topic": "OUT"
-  },
-  "Philadelphia 76ers": {
-    "Dominick Barlow": "DOUBTFUL",
-    "Johni Broome": "OUT",
-    "Joel Embiid": "OUT",
-    "Paul George": "OUT",
-    "Tyrese Maxey": "OUT",
-    "Kelly Oubre Jr.": "OUT"
-  },
   "Dallas Mavericks": {
     "Moussa Cisse": "QUESTIONABLE",
     "Kyrie Irving": "OUT",
@@ -178,10 +190,5 @@
     "John Poulakidas": "QUESTIONABLE",
     "Tyler Smith": "QUESTIONABLE",
     "Brandon Williams": "DOUBTFUL"
-  },
-  "Los Angeles Lakers": {
-    "Rui Hachimura": "QUESTIONABLE",
-    "Maxi Kleber": "QUESTIONABLE",
-    "Marcus Smart": "QUESTIONABLE"
   }
 }
