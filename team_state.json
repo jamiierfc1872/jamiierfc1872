@@ -46,19 +46,19 @@
     "Trae Young": "OUT"
   },
   "New York Knicks": {
-    "Josh Hart": "QUESTIONABLE",
-    "Ariel Hukporti": "QUESTIONABLE",
-    "Trey Jemison III": "QUESTIONABLE",
-    "Dillon Jones": "QUESTIONABLE",
-    "Tyler Kolek": "QUESTIONABLE",
+    "Josh Hart": "AVAILABLE",
+    "Ariel Hukporti": "AVAILABLE",
+    "Trey Jemison III": "AVAILABLE",
+    "Dillon Jones": "AVAILABLE",
+    "Tyler Kolek": "AVAILABLE",
     "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "QUESTIONABLE",
+    "Kevin McCullar Jr.": "OUT",
     "Landry Shamet": "OUT"
   },
   "Minnesota Timberwolves": {
     "Anthony Edwards": "OUT",
     "Enrique Freeman": "OUT",
-    "Naz Reid": "QUESTIONABLE",
+    "Naz Reid": "AVAILABLE",
     "Rocco Zikarsky": "OUT"
   },
   "Boston Celtics": {
@@ -196,5 +196,14 @@
     "John Poulakidas": "QUESTIONABLE",
     "Tyler Smith": "QUESTIONABLE",
     "Brandon Williams": "DOUBTFUL"
+  },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Keyonte George": "OUT",
+    "Blake Hinson": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
   }
 }
