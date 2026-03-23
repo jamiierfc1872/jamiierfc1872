@@ -2,13 +2,13 @@
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Andrew Nembhard": "QUESTIONABLE",
-    "Aaron Nesmith": "QUESTIONABLE",
-    "Taelon Peter": "DOUBTFUL",
-    "Pascal Siakam": "QUESTIONABLE",
-    "Jalen Slawson": "DOUBTFUL",
-    "Ethan Thompson": "DOUBTFUL",
-    "Obi Toppin": "QUESTIONABLE",
+    "Andrew Nembhard": "AVAILABLE",
+    "Aaron Nesmith": "AVAILABLE",
+    "Taelon Peter": "OUT",
+    "Pascal Siakam": "AVAILABLE",
+    "Jalen Slawson": "OUT",
+    "Ethan Thompson": "OUT",
+    "Obi Toppin": "AVAILABLE",
     "Ivica Zubac": "OUT"
   },
   "Orlando Magic": {
@@ -69,12 +69,12 @@
     "Brandon Clarke": "OUT",
     "Cedric Coward": "OUT",
     "Zach Edey": "OUT",
-    "Taj Gibson": "QUESTIONABLE",
+    "Taj Gibson": "AVAILABLE",
     "Jahmai Mashack": "OUT",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT",
-    "Javon Small": "QUESTIONABLE",
-    "Cam Spencer": "DOUBTFUL"
+    "Javon Small": "OUT",
+    "Cam Spencer": "OUT"
   },
   "Atlanta Hawks": {
     "RayJ Dennis": "OUT",
@@ -204,5 +204,8 @@
     "Tyrese Proctor": "QUESTIONABLE",
     "Olivier Sarr": "OUT",
     "Jaylon Tyson": "OUT"
+  },
+  "Denver Nuggets": {
+    "Peyton Watson": "OUT"
   }
 }
