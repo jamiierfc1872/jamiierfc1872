@@ -1,38 +1,8 @@
 {
-  "Portland Trail Blazers": {
-    "Jerami Grant": "OUT",
-    "Vit Krejci": "OUT",
-    "Damian Lillard": "OUT",
-    "Caleb Love": "OUT",
-    "Shaedon Sharpe": "OUT",
-    "Hansen Yang": "OUT",
-    "Chris Youngblood": "OUT"
-  },
-  "Denver Nuggets": {
-    "DaRon Holmes II": "AVAILABLE",
-    "Curtis Jones": "AVAILABLE",
-    "KJ Simpson": "AVAILABLE",
-    "Peyton Watson": "AVAILABLE"
-  },
-  "Brooklyn Nets": {
-    "Nic Claxton": "OUT",
-    "Noah Clowney": "OUT",
-    "Egor Demin": "OUT",
-    "Terance Mann": "AVAILABLE",
-    "Michael Porter Jr.": "OUT",
-    "Day'Ron Sharpe": "OUT"
-  },
-  "Sacramento Kings": {
-    "Patrick Baldwin Jr.": "AVAILABLE",
-    "Drew -Eubanks": "OUT",
-    "De'Andre Hunter": "OUT",
-    "Zach LaVine": "OUT",
-    "Keegan Murray": "OUT",
-    "Daeqwon Plowden": "OUT",
-    "Domantas Sabonis": "OUT",
-    "Isaiah Stevens": "OUT",
-    "Russell Westbrook": "OUT"
-  },
+  "Portland Trail Blazers": {},
+  "Denver Nuggets": {},
+  "Brooklyn Nets": {},
+  "Sacramento Kings": {},
   "Washington Wizards": {
     "Leaky Black": "AVAILABLE",
     "Justin Champagnie": "OUT",
@@ -45,16 +15,7 @@
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
-  "New York Knicks": {
-    "Josh Hart": "AVAILABLE",
-    "Ariel Hukporti": "AVAILABLE",
-    "Trey Jemison III": "AVAILABLE",
-    "Dillon Jones": "AVAILABLE",
-    "Tyler Kolek": "AVAILABLE",
-    "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "OUT",
-    "Landry Shamet": "OUT"
-  },
+  "New York Knicks": {},
   "Minnesota Timberwolves": {
     "Anthony Edwards": "OUT",
     "Enrique Freeman": "OUT",
@@ -68,20 +29,8 @@
     "Nikola Vucevic": "OUT",
     "Amari Williams": "AVAILABLE"
   },
-  "Toronto Raptors": {
-    "Chucky Hepburn": "OUT",
-    "A.J. Lawson": "OUT",
-    "Alijah Martin": "OUT",
-    "Collin Murray-Boyles": "OUT"
-  },
-  "Phoenix Suns": {
-    "Grayson Allen": "OUT",
-    "Dillon Brooks": "OUT",
-    "Amir Coffey": "OUT",
-    "Haywood Highsmith": "OUT",
-    "Royce O'Neale": "OUT",
-    "Mark Williams": "OUT"
-  },
+  "Toronto Raptors": {},
+  "Phoenix Suns": {},
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
