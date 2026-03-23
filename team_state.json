@@ -79,7 +79,7 @@
     "Dillon Brooks": "OUT",
     "Amir Coffey": "OUT",
     "Haywood Highsmith": "OUT",
-    "Royce O'Neale": "QUESTIONABLE",
+    "Royce O'Neale": "OUT",
     "Mark Williams": "OUT"
   },
   "Indiana Pacers": {
@@ -212,5 +212,11 @@
     "Gary Harris": "PROBABLE",
     "Kyle Kuzma": "QUESTIONABLE",
     "Kevin Porter Jr.": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "John Collins": "PROBABLE",
+    "Kawhi Leonard": "QUESTIONABLE",
+    "Bennedict Mathurin": "OUT"
   }
 }
