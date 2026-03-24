@@ -100,6 +100,7 @@
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
+    "Brandon Ingram": "OUT",
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
     "Collin Murray-Boyles": "AVAILABLE",
@@ -121,19 +122,19 @@
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
     "Al Horford": "OUT",
-    "De'Anthony Melton": "PROBABLE",
-    "Moses Moody": "QUESTIONABLE",
-    "Kristaps Porzingis": "PROBABLE",
+    "De'Anthony Melton": "AVAILABLE",
+    "Moses Moody": "AVAILABLE",
+    "Kristaps Porzingis": "AVAILABLE",
     "Quinten Post": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "Caleb Martin": "QUESTIONABLE",
-    "John Poulakidas": "QUESTIONABLE",
-    "Tyler Smith": "QUESTIONABLE",
-    "Brandon Williams": "DOUBTFUL"
+    "Caleb Martin": "OUT",
+    "John Poulakidas": "AVAILABLE",
+    "Tyler Smith": "AVAILABLE",
+    "Brandon Williams": "OUT"
   },
   "Brooklyn Nets": {
     "Noah Clowney": "OUT",
@@ -154,15 +155,17 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
-    "Gary Harris": "QUESTIONABLE",
-    "Kyle Kuzma": "QUESTIONABLE",
-    "Kevin Porter Jr.": "OUT"
+    "Gary Harris": "OUT",
+    "Kyle Kuzma": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Cam Thomas": "OUT"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
-    "John Collins": "QUESTIONABLE",
-    "Kawhi Leonard": "QUESTIONABLE",
-    "Bennedict Mathurin": "OUT"
+    "John Collins": "OUT",
+    "Kawhi Leonard": "AVAILABLE",
+    "Bennedict Mathurin": "OUT",
+    "Norchad Omier": "OUT"
   },
   "Sacramento Kings": {
     "Precious Achiuwa": "QUESTIONABLE",
@@ -207,5 +210,13 @@
   },
   "Denver Nuggets": {
     "Peyton Watson": "OUT"
+  },
+  "Phoenix Suns": {
+    "Grayson Allen": "QUESTIONABLE",
+    "Dillon Brooks": "OUT",
+    "Amir Coffey": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Royce O'Neale": "PROBABLE",
+    "Mark Williams": "OUT"
   }
 }
