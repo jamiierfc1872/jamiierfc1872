@@ -58,11 +58,6 @@
     "Royce O'Neale": "PROBABLE",
     "Mark Williams": "OUT"
   },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
-  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -72,5 +67,10 @@
     "Isaac Okoro": "DOUBTFUL",
     "Anfernee Simons": "DOUBTFUL",
     "Guerschon Yabusele": "DOUBTFUL"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
   }
 }
