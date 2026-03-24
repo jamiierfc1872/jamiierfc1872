@@ -64,6 +64,16 @@
     "Jalen Johnson": "QUESTIONABLE",
     "Asa Newell": "DOUBTFUL"
   },
+  "Detroit Pistons": {
+    "Cade Cunningham": "OUT",
+    "Javonte Green": "QUESTIONABLE",
+    "Isaac Jones": "QUESTIONABLE",
+    "Bobi Klintman": "QUESTIONABLE",
+    "Chaz Lanier": "QUESTIONABLE",
+    "Wendell Moore Jr.": "OUT",
+    "Marcus Sasser": "DOUBTFUL",
+    "Isaiah Stewart": "OUT"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -106,6 +116,12 @@
     "Terry Rozier": "OUT",
     "Andrew Wiggins": "AVAILABLE",
     "Jahmir Young": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Brooks Barnhizer": "OUT",
+    "Payton Sandfort": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT"
   },
   "Boston Celtics": {
     "Max Shulga": "QUESTIONABLE",
