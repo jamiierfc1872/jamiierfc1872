@@ -13,10 +13,10 @@
     "Russell Westbrook": "OUT"
   },
   "Charlotte Hornets": {
-    "Pat Connaughton": "QUESTIONABLE",
+    "Pat Connaughton": "OUT",
     "Tosan Evbuomwan": "OUT",
     "PJ Hall": "OUT",
-    "Kon Knueppel": "PROBABLE",
+    "Kon Knueppel": "AVAILABLE",
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "OUT"
   },
@@ -73,6 +73,7 @@
     "Chaz Lanier": "QUESTIONABLE",
     "Wendell Moore Jr.": "OUT",
     "Marcus Sasser": "DOUBTFUL",
+    "Tolu Smith": "QUESTIONABLE",
     "Isaiah Stewart": "OUT"
   },
   "Chicago Bulls": {
@@ -144,5 +145,12 @@
     "John Poulakidas": "QUESTIONABLE",
     "Tyler Smith": "QUESTIONABLE",
     "Brandon Williams": "QUESTIONABLE"
+  },
+  "Minnesota Timberwolves": {
+    "Ayo Dosunmu": "QUESTIONABLE",
+    "Anthony Edwards": "OUT",
+    "Enrique Freeman": "OUT",
+    "Zyon Pullin": "OUT",
+    "Rocco Zikarsky": "OUT"
   }
 }
