@@ -27,7 +27,7 @@
     "Josh Oduro": "OUT"
   },
   "New York Knicks": {
-    "Ariel Hukporti": "QUESTIONABLE",
+    "Ariel Hukporti": "OUT",
     "Trey Jemison III": "AVAILABLE",
     "Dillon Jones": "OUT",
     "Miles McBride": "OUT",
@@ -43,9 +43,9 @@
   "Cleveland Cavaliers": {
     "Jarrett Allen": "OUT",
     "Tristan Enaruna": "OUT",
-    "Larry Nance Jr.": "QUESTIONABLE",
+    "Larry Nance Jr.": "OUT",
     "Craig Porter Jr.": "OUT",
-    "Tyrese Proctor": "PROBABLE",
+    "Tyrese Proctor": "AVAILABLE",
     "Olivier Sarr": "OUT",
     "Jaylon Tyson": "OUT"
   },
@@ -151,6 +151,28 @@
     "Javon Small": "QUESTIONABLE",
     "Jaylen Wells": "OUT"
   },
+  "Washington Wizards": {
+    "Bilal Coulibaly": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "Tre Johnson": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Tristan Vukcevic": "QUESTIONABLE",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Kyle Filipowski": "DOUBTFUL",
+    "Keyonte George": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT",
+    "Brice Sensabaugh": "OUT",
+    "Cody Williams": "QUESTIONABLE"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
@@ -162,6 +184,14 @@
     "Enrique Freeman": "OUT",
     "Zyon Pullin": "OUT",
     "Rocco Zikarsky": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Al Horford": "OUT",
+    "Moses Moody": "OUT",
+    "Quinten Post": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "QUESTIONABLE",
@@ -180,35 +210,5 @@
     "Alijah Martin": "OUT",
     "Jakob Poeltl": "QUESTIONABLE",
     "Immanuel Quickley": "QUESTIONABLE"
-  },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "Seth Curry": "OUT",
-    "Stephen Curry": "OUT",
-    "Al Horford": "OUT",
-    "Moses Moody": "OUT",
-    "Quinten Post": "OUT"
-  },
-  "Utah Jazz": {
-    "Isaiah Collier": "OUT",
-    "Kyle Filipowski": "DOUBTFUL",
-    "Keyonte George": "OUT",
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT",
-    "Brice Sensabaugh": "OUT",
-    "Cody Williams": "QUESTIONABLE"
-  },
-  "Washington Wizards": {
-    "Bilal Coulibaly": "QUESTIONABLE",
-    "Anthony Davis": "OUT",
-    "Kyshawn George": "OUT",
-    "Tre Johnson": "OUT",
-    "D'Angelo Russell": "OUT",
-    "Alex Sarr": "OUT",
-    "Tristan Vukcevic": "QUESTIONABLE",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
   }
 }
