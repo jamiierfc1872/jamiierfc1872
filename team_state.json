@@ -58,6 +58,12 @@
     "Royce O'Neale": "PROBABLE",
     "Mark Williams": "OUT"
   },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Keshon Gilbert": "DOUBTFUL",
+    "Jalen Johnson": "QUESTIONABLE",
+    "Asa Newell": "DOUBTFUL"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -67,6 +73,39 @@
     "Isaac Okoro": "DOUBTFUL",
     "Anfernee Simons": "DOUBTFUL",
     "Guerschon Yabusele": "DOUBTFUL"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Joel Embiid": "QUESTIONABLE",
+    "Quentin Grimes": "QUESTIONABLE",
+    "Tyrese Martin": "DOUBTFUL",
+    "Tyrese Maxey": "OUT",
+    "Kelly Oubre Jr.": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Rui Hachimura": "QUESTIONABLE",
+    "Marcus Smart": "DOUBTFUL",
+    "Adou Thiero": "QUESTIONABLE"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Andrew Nembhard": "PROBABLE",
+    "Aaron Nesmith": "PROBABLE",
+    "Taelon Peter": "DOUBTFUL",
+    "Pascal Siakam": "PROBABLE",
+    "Jalen Slawson": "DOUBTFUL",
+    "Ethan Thompson": "DOUBTFUL",
+    "Obi Toppin": "PROBABLE",
+    "Ivica Zubac": "OUT"
+  },
+  "Miami Heat": {
+    "Vladislav Goldin": "OUT",
+    "Nikola Jovic": "AVAILABLE",
+    "Trevor Keels": "OUT",
+    "Terry Rozier": "OUT",
+    "Andrew Wiggins": "AVAILABLE",
+    "Jahmir Young": "OUT"
   },
   "Boston Celtics": {
     "Max Shulga": "QUESTIONABLE",
@@ -78,5 +117,15 @@
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "QUESTIONABLE",
+    "Daniel Gafford": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "OUT",
+    "John Poulakidas": "QUESTIONABLE",
+    "Tyler Smith": "QUESTIONABLE",
+    "Brandon Williams": "QUESTIONABLE"
   }
 }
