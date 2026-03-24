@@ -131,10 +131,36 @@
     "Nikola Vucevic": "OUT",
     "Amari Williams": "QUESTIONABLE"
   },
+  "San Antonio Spurs": {
+    "De'Aaron Fox": "OUT",
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Luke Kornet": "OUT",
+    "Emanuel Miller": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Ty Jerome": "OUT",
+    "Jahmai Mashack": "DOUBTFUL",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Javon Small": "QUESTIONABLE",
+    "Jaylen Wells": "OUT"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Ayo Dosunmu": "QUESTIONABLE",
+    "Anthony Edwards": "OUT",
+    "Enrique Freeman": "OUT",
+    "Zyon Pullin": "OUT",
+    "Rocco Zikarsky": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "QUESTIONABLE",
@@ -146,11 +172,12 @@
     "Tyler Smith": "QUESTIONABLE",
     "Brandon Williams": "QUESTIONABLE"
   },
-  "Minnesota Timberwolves": {
-    "Ayo Dosunmu": "QUESTIONABLE",
-    "Anthony Edwards": "OUT",
-    "Enrique Freeman": "OUT",
-    "Zyon Pullin": "OUT",
-    "Rocco Zikarsky": "OUT"
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Brandon Ingram": "QUESTIONABLE",
+    "A.J. Lawson": "OUT",
+    "Alijah Martin": "OUT",
+    "Jakob Poeltl": "QUESTIONABLE",
+    "Immanuel Quickley": "QUESTIONABLE"
   }
 }
