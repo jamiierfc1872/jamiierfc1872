@@ -31,7 +31,7 @@
   "Philadelphia 76ers": {
     "Johni Broome": "OUT",
     "Joel Embiid": "QUESTIONABLE",
-    "Quentin Grimes": "QUESTIONABLE",
+    "Quentin Grimes": "AVAILABLE",
     "Tyrese Martin": "OUT",
     "Tyrese Maxey": "OUT",
     "Kelly Oubre Jr.": "OUT"
@@ -205,6 +205,20 @@
     "Dejounte Murray": "QUESTIONABLE",
     "Josh Oduro": "OUT"
   },
+  "New York Knicks": {
+    "Trey Jemison III": "QUESTIONABLE",
+    "Dillon Jones": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Kevin McCullar Jr.": "QUESTIONABLE",
+    "Landry Shamet": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Pat Connaughton": "QUESTIONABLE",
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT"
+  },
   "Sacramento Kings": {
     "Precious Achiuwa": "QUESTIONABLE",
     "Nique Clifford": "OUT",
@@ -221,19 +235,5 @@
     "Jonathan Isaac": "OUT",
     "Jalen Suggs": "QUESTIONABLE",
     "Franz Wagner": "OUT"
-  },
-  "Charlotte Hornets": {
-    "Pat Connaughton": "QUESTIONABLE",
-    "Tosan Evbuomwan": "OUT",
-    "PJ Hall": "OUT",
-    "Antonio Reeves": "OUT",
-    "Tidjane Salaun": "OUT"
-  },
-  "New York Knicks": {
-    "Trey Jemison III": "QUESTIONABLE",
-    "Dillon Jones": "QUESTIONABLE",
-    "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "QUESTIONABLE",
-    "Landry Shamet": "OUT"
   }
 }
