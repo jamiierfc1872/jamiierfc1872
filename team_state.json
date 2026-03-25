@@ -62,6 +62,14 @@
     "Andrew Wiggins": "AVAILABLE",
     "Jahmir Young": "OUT"
   },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "OUT",
+    "Larry Nance Jr.": "QUESTIONABLE",
+    "Craig Porter Jr.": "OUT",
+    "Olivier Sarr": "OUT",
+    "Max Strus": "OUT",
+    "Jaylon Tyson": "OUT"
+  },
   "Oklahoma City Thunder": {
     "Brooks Barnhizer": "OUT",
     "Payton Sandfort": "OUT",
@@ -183,13 +191,5 @@
     "Bradley Beal": "OUT",
     "Kawhi Leonard": "QUESTIONABLE",
     "Jordan Miller": "QUESTIONABLE"
-  },
-  "Cleveland Cavaliers": {
-    "Jarrett Allen": "OUT",
-    "Larry Nance Jr.": "QUESTIONABLE",
-    "Craig Porter Jr.": "OUT",
-    "Olivier Sarr": "OUT",
-    "Max Strus": "OUT",
-    "Jaylon Tyson": "OUT"
   }
 }
