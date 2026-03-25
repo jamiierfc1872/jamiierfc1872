@@ -152,14 +152,18 @@
     "Quinten Post": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "DOUBTFUL",
     "Daniel Gafford": "QUESTIONABLE",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
     "Caleb Martin": "OUT",
-    "John Poulakidas": "QUESTIONABLE",
-    "Tyler Smith": "QUESTIONABLE",
+    "John Poulakidas": "PROBABLE",
+    "Tyler Smith": "PROBABLE",
     "Brandon Williams": "QUESTIONABLE"
+  },
+  "Denver Nuggets": {
+    "Aaron Gordon": "QUESTIONABLE",
+    "Peyton Watson": "QUESTIONABLE"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
