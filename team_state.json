@@ -1,18 +1,20 @@
 {
   "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Keshon Gilbert": "DOUBTFUL",
+    "RayJ Dennis": "OUT",
+    "Keshon Gilbert": "OUT",
     "Jalen Johnson": "QUESTIONABLE",
-    "Asa Newell": "DOUBTFUL"
+    "Asa Newell": "OUT"
   },
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
+    "Jalen Duren": "PROBABLE",
     "Javonte Green": "QUESTIONABLE",
+    "Tobias Harris": "PROBABLE",
     "Isaac Jones": "QUESTIONABLE",
     "Bobi Klintman": "QUESTIONABLE",
     "Chaz Lanier": "QUESTIONABLE",
     "Wendell Moore Jr.": "OUT",
-    "Marcus Sasser": "DOUBTFUL",
+    "Marcus Sasser": "OUT",
     "Tolu Smith": "QUESTIONABLE",
     "Isaiah Stewart": "OUT"
   },
@@ -30,7 +32,7 @@
     "Johni Broome": "OUT",
     "Joel Embiid": "QUESTIONABLE",
     "Quentin Grimes": "QUESTIONABLE",
-    "Tyrese Martin": "DOUBTFUL",
+    "Tyrese Martin": "OUT",
     "Tyrese Maxey": "OUT",
     "Kelly Oubre Jr.": "OUT"
   },
@@ -181,5 +183,13 @@
     "Bradley Beal": "OUT",
     "Kawhi Leonard": "QUESTIONABLE",
     "Jordan Miller": "QUESTIONABLE"
+  },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "OUT",
+    "Larry Nance Jr.": "QUESTIONABLE",
+    "Craig Porter Jr.": "OUT",
+    "Olivier Sarr": "OUT",
+    "Max Strus": "OUT",
+    "Jaylon Tyson": "OUT"
   }
 }
