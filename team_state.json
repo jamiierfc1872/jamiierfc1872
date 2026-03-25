@@ -30,7 +30,7 @@
   },
   "Philadelphia 76ers": {
     "Johni Broome": "OUT",
-    "Joel Embiid": "QUESTIONABLE",
+    "Joel Embiid": "AVAILABLE",
     "Quentin Grimes": "AVAILABLE",
     "Tyrese Martin": "OUT",
     "Tyrese Maxey": "OUT",
@@ -64,11 +64,12 @@
   },
   "Cleveland Cavaliers": {
     "Jarrett Allen": "OUT",
-    "Larry Nance Jr.": "QUESTIONABLE",
+    "Larry Nance Jr.": "AVAILABLE",
     "Craig Porter Jr.": "OUT",
     "Olivier Sarr": "OUT",
     "Max Strus": "OUT",
-    "Jaylon Tyson": "OUT"
+    "Jaylon Tyson": "OUT",
+    "Dean Wade": "QUESTIONABLE"
   },
   "Oklahoma City Thunder": {
     "Brooks Barnhizer": "OUT",
