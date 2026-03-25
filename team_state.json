@@ -56,6 +56,7 @@
     "Grayson Allen": "QUESTIONABLE",
     "Dillon Brooks": "OUT",
     "Amir Coffey": "OUT",
+    "Ryan Dunn": "QUESTIONABLE",
     "Haywood Highsmith": "OUT",
     "Royce O'Neale": "PROBABLE",
     "Mark Williams": "OUT"
@@ -185,6 +186,14 @@
     "Zyon Pullin": "OUT",
     "Rocco Zikarsky": "OUT"
   },
+  "Brooklyn Nets": {
+    "Noah Clowney": "OUT",
+    "Egor Demin": "OUT",
+    "Michael Porter Jr.": "OUT",
+    "Day'Ron Sharpe": "OUT",
+    "Nolan Traore": "OUT",
+    "Danny Wolf": "OUT"
+  },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "Seth Curry": "OUT",
@@ -203,6 +212,24 @@
     "Tyler Smith": "QUESTIONABLE",
     "Brandon Williams": "QUESTIONABLE"
   },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Gary Harris": "OUT",
+    "Kyle Kuzma": "QUESTIONABLE",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "QUESTIONABLE"
+  },
+  "Portland Trail Blazers": {
+    "Jerami Grant": "QUESTIONABLE",
+    "Jayson Kent": "OUT",
+    "Vit Krejci": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Robert Williams III": "QUESTIONABLE",
+    "Hansen Yang": "OUT",
+    "Chris Youngblood": "OUT"
+  },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "Brandon Ingram": "QUESTIONABLE",
@@ -211,20 +238,9 @@
     "Jakob Poeltl": "QUESTIONABLE",
     "Immanuel Quickley": "QUESTIONABLE"
   },
-  "Brooklyn Nets": {
-    "Noah Clowney": "OUT",
-    "Egor Demin": "OUT",
-    "Michael Porter Jr.": "OUT",
-    "Day'Ron Sharpe": "OUT",
-    "Nolan Traore": "OUT",
-    "Danny Wolf": "OUT"
-  },
-  "Milwaukee Bucks": {
-    "Alex Antetokounmpo": "OUT",
-    "Giannis Antetokounmpo": "OUT",
-    "Gary Harris": "OUT",
-    "Kyle Kuzma": "QUESTIONABLE",
-    "Kevin Porter Jr.": "OUT",
-    "Bobby Portis": "QUESTIONABLE"
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Kawhi Leonard": "QUESTIONABLE",
+    "Jordan Miller": "QUESTIONABLE"
   }
 }
