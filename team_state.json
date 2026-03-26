@@ -3,34 +3,34 @@
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
     "Bryce McGowens": "OUT",
-    "Trey Murphy III": "OUT",
+    "Trey Murphy III": "QUESTIONABLE",
     "Dejounte Murray": "AVAILABLE",
     "Josh Oduro": "OUT"
   },
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
-    "Jalen Duren": "AVAILABLE",
-    "Javonte Green": "AVAILABLE",
-    "Tobias Harris": "AVAILABLE",
+    "Jalen Duren": "PROBABLE",
+    "Javonte Green": "PROBABLE",
+    "Tobias Harris": "QUESTIONABLE",
     "Caris LeVert": "OUT",
     "Wendell Moore Jr.": "OUT",
-    "Duncan Robinson": "OUT",
-    "Marcus Sasser": "AVAILABLE",
+    "Duncan Robinson": "PROBABLE",
+    "Marcus Sasser": "PROBABLE",
     "Isaiah Stewart": "OUT",
-    "Ausar Thompson": "AVAILABLE"
+    "Ausar Thompson": "PROBABLE"
   },
   "New York Knicks": {
-    "Trey Jemison III": "OUT",
-    "Dillon Jones": "OUT",
+    "Trey Jemison III": "QUESTIONABLE",
+    "Dillon Jones": "QUESTIONABLE",
     "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "OUT",
+    "Kevin McCullar Jr.": "QUESTIONABLE",
     "Landry Shamet": "OUT"
   },
   "Charlotte Hornets": {
-    "Pat Connaughton": "AVAILABLE",
+    "Pat Connaughton": "QUESTIONABLE",
     "Tosan Evbuomwan": "OUT",
     "PJ Hall": "OUT",
-    "Liam McNeeley": "OUT",
+    "Liam McNeeley": "QUESTIONABLE",
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "OUT"
   },
@@ -50,101 +50,30 @@
     "Anthony Black": "OUT",
     "Colin Castleton": "OUT",
     "Jonathan Isaac": "OUT",
-    "Jalen Suggs": "AVAILABLE",
+    "Jalen Suggs": "QUESTIONABLE",
     "Franz Wagner": "OUT"
   },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "Jordan Miller": "QUESTIONABLE"
-  },
-  "Indiana Pacers": {
-    "Johnny Furphy": "OUT",
-    "Tyrese Haliburton": "OUT",
-    "Aaron Nesmith": "PROBABLE",
-    "Jalen Slawson": "DOUBTFUL",
-    "Obi Toppin": "QUESTIONABLE",
-    "Ivica Zubac": "OUT"
-  },
-  "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Keshon Gilbert": "DOUBTFUL",
-    "Asa Newell": "DOUBTFUL"
-  },
+  "LA Clippers": {},
+  "Indiana Pacers": {},
+  "Atlanta Hawks": {},
   "Boston Celtics": {
     "Jaylen Brown": "QUESTIONABLE",
     "Neemias Queta": "QUESTIONABLE",
     "Nikola Vucevic": "OUT",
     "Derrick White": "QUESTIONABLE"
   },
-  "Miami Heat": {
-    "Vladislav Goldin": "OUT",
-    "Jaime Jaquez Jr.": "QUESTIONABLE",
-    "Nikola Jovic": "AVAILABLE",
-    "Trevor Keels": "OUT",
-    "Terry Rozier": "OUT",
-    "Andrew Wiggins": "AVAILABLE",
-    "Jahmir Young": "OUT"
-  },
-  "Cleveland Cavaliers": {
-    "Jarrett Allen": "QUESTIONABLE",
-    "Tristan Enaruna": "OUT",
-    "Riley Minix": "OUT",
-    "Craig Porter Jr.": "OUT",
-    "Olivier Sarr": "OUT",
-    "Jaylon Tyson": "OUT",
-    "Dean Wade": "OUT"
-  },
-  "Chicago Bulls": {
-    "Zach Collins": "OUT",
-    "Rob Dillingham": "PROBABLE",
-    "Noa Essengue": "OUT",
-    "Jaden Ivey": "OUT",
-    "Yuki Kawamura": "OUT",
-    "Mac McClung": "OUT",
-    "Isaac Okoro": "PROBABLE",
-    "Nick Richards": "QUESTIONABLE",
-    "Anfernee Simons": "DOUBTFUL",
-    "Jalen Smith": "OUT",
-    "Guerschon Yabusele": "QUESTIONABLE"
-  },
-  "Oklahoma City Thunder": {
-    "Brooks Barnhizer": "OUT",
-    "Thomas Sorber": "OUT",
-    "Nikola Topic": "OUT"
-  },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
-  },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Kentavious Caldwell-Pope": "OUT",
-    "Brandon Clarke": "OUT",
-    "Zach Edey": "OUT",
-    "Ty Jerome": "OUT",
-    "Jahmai Mashack": "DOUBTFUL",
-    "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT",
-    "Jaylen Wells": "OUT"
-  },
+  "Miami Heat": {},
+  "Cleveland Cavaliers": {},
+  "Chicago Bulls": {},
+  "Oklahoma City Thunder": {},
+  "Houston Rockets": {},
+  "Memphis Grizzlies": {},
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
-    "A.J. Lawson": "AVAILABLE",
-    "Alijah Martin": "AVAILABLE",
+    "A.J. Lawson": "OUT",
+    "Alijah Martin": "OUT",
     "Immanuel Quickley": "OUT"
   },
-  "Denver Nuggets": {
-    "David Roddy": "OUT",
-    "KJ Simpson": "OUT"
-  },
-  "Dallas Mavericks": {
-    "Moussa Cisse": "DOUBTFUL",
-    "Daniel Gafford": "OUT",
-    "Kyrie Irving": "OUT",
-    "Dereck Lively II": "OUT",
-    "Caleb Martin": "OUT",
-    "John Poulakidas": "DOUBTFUL",
-    "Tyler Smith": "PROBABLE"
-  }
+  "Denver Nuggets": {},
+  "Dallas Mavericks": {}
 }
