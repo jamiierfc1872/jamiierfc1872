@@ -155,50 +155,52 @@
     "Quinten Post": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "DOUBTFUL",
-    "Daniel Gafford": "QUESTIONABLE",
+    "Moussa Cisse": "OUT",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
     "Caleb Martin": "OUT",
-    "John Poulakidas": "PROBABLE",
-    "Tyler Smith": "PROBABLE",
-    "Brandon Williams": "QUESTIONABLE"
+    "John Poulakidas": "AVAILABLE",
+    "Tyler Smith": "AVAILABLE",
+    "Brandon Williams": "AVAILABLE"
   },
   "Denver Nuggets": {
-    "Aaron Gordon": "QUESTIONABLE",
-    "Peyton Watson": "QUESTIONABLE"
+    "Aaron Gordon": "OUT",
+    "Peyton Watson": "AVAILABLE"
   },
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
     "Gary Harris": "OUT",
-    "Kyle Kuzma": "QUESTIONABLE",
+    "Kyle Kuzma": "OUT",
     "Kevin Porter Jr.": "OUT",
-    "Bobby Portis": "QUESTIONABLE",
-    "Myles Turner": "QUESTIONABLE"
+    "Bobby Portis": "OUT",
+    "Myles Turner": "OUT"
   },
   "Portland Trail Blazers": {
-    "Jerami Grant": "QUESTIONABLE",
+    "Jerami Grant": "AVAILABLE",
     "Jayson Kent": "OUT",
-    "Vit Krejci": "QUESTIONABLE",
+    "Vit Krejci": "OUT",
     "Damian Lillard": "OUT",
     "Shaedon Sharpe": "OUT",
-    "Robert Williams III": "QUESTIONABLE",
+    "Robert Williams III": "AVAILABLE",
     "Hansen Yang": "OUT",
     "Chris Youngblood": "OUT"
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
-    "Brandon Ingram": "QUESTIONABLE",
+    "Brandon Ingram": "AVAILABLE",
     "A.J. Lawson": "OUT",
     "Alijah Martin": "OUT",
-    "Jakob Poeltl": "QUESTIONABLE",
-    "Immanuel Quickley": "DOUBTFUL"
+    "Jakob Poeltl": "AVAILABLE",
+    "Immanuel Quickley": "OUT"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
-    "Kawhi Leonard": "QUESTIONABLE",
-    "Jordan Miller": "OUT"
+    "Kawhi Leonard": "AVAILABLE",
+    "Jordan Miller": "OUT",
+    "Norchad Omier": "OUT",
+    "TyTy Washington Jr.": "OUT"
   },
   "New Orleans Pelicans": {
     "Trey Alexander": "OUT",
