@@ -156,5 +156,19 @@
     "Caleb Martin": "OUT",
     "John Poulakidas": "DOUBTFUL",
     "Tyler Smith": "PROBABLE"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Al Horford": "OUT",
+    "Moses Moody": "OUT",
+    "Quinten Post": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "QUESTIONABLE",
+    "Rui Hachimura": "QUESTIONABLE",
+    "Marcus Smart": "OUT",
+    "Adou Thiero": "OUT"
   }
 }
