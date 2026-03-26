@@ -7,6 +7,18 @@
     "Dejounte Murray": "AVAILABLE",
     "Josh Oduro": "OUT"
   },
+  "Detroit Pistons": {
+    "Cade Cunningham": "OUT",
+    "Jalen Duren": "PROBABLE",
+    "Javonte Green": "PROBABLE",
+    "Tobias Harris": "QUESTIONABLE",
+    "Caris LeVert": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Duncan Robinson": "PROBABLE",
+    "Marcus Sasser": "PROBABLE",
+    "Isaiah Stewart": "OUT",
+    "Ausar Thompson": "PROBABLE"
+  },
   "New York Knicks": {
     "Trey Jemison III": "QUESTIONABLE",
     "Dillon Jones": "QUESTIONABLE",
@@ -22,14 +34,15 @@
     "Tidjane Salaun": "OUT"
   },
   "Sacramento Kings": {
-    "Precious Achiuwa": "QUESTIONABLE",
+    "Precious Achiuwa": "AVAILABLE",
     "Nique Clifford": "OUT",
     "Drew Eubanks": "OUT",
-    "Killian Hayes": "QUESTIONABLE",
+    "Killian Hayes": "AVAILABLE",
     "De'Andre Hunter": "OUT",
     "Zach LaVine": "OUT",
     "Keegan Murray": "OUT",
     "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
   },
   "Orlando Magic": {
@@ -38,17 +51,5 @@
     "Jonathan Isaac": "OUT",
     "Jalen Suggs": "QUESTIONABLE",
     "Franz Wagner": "OUT"
-  },
-  "Detroit Pistons": {
-    "Cade Cunningham": "OUT",
-    "Jalen Duren": "PROBABLE",
-    "Javonte Green": "PROBABLE",
-    "Tobias Harris": "QUESTIONABLE",
-    "Caris LeVert": "OUT",
-    "Wendell Moore Jr.": "OUT",
-    "Duncan Robinson": "PROBABLE",
-    "Marcus Sasser": "PROBABLE",
-    "Isaiah Stewart": "OUT",
-    "Ausar Thompson": "PROBABLE"
   }
 }
