@@ -20,10 +20,10 @@
     "Ausar Thompson": "PROBABLE"
   },
   "New York Knicks": {
-    "Trey Jemison III": "QUESTIONABLE",
-    "Dillon Jones": "QUESTIONABLE",
+    "Trey Jemison III": "OUT",
+    "Dillon Jones": "OUT",
     "Miles McBride": "OUT",
-    "Kevin McCullar Jr.": "QUESTIONABLE",
+    "Kevin McCullar Jr.": "OUT",
     "Landry Shamet": "OUT"
   },
   "Charlotte Hornets": {
@@ -52,5 +52,35 @@
     "Jonathan Isaac": "OUT",
     "Jalen Suggs": "QUESTIONABLE",
     "Franz Wagner": "OUT"
+  },
+  "Boston Celtics": {
+    "Jaylen Brown": "QUESTIONABLE",
+    "Neemias Queta": "QUESTIONABLE",
+    "Nikola Vucevic": "OUT",
+    "Derrick White": "QUESTIONABLE"
+  },
+  "Miami Heat": {
+    "Vladislav Goldin": "OUT",
+    "Jaime Jaquez Jr.": "QUESTIONABLE",
+    "Nikola Jovic": "AVAILABLE",
+    "Trevor Keels": "OUT",
+    "Terry Rozier": "OUT",
+    "Andrew Wiggins": "AVAILABLE",
+    "Jahmir Young": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "A.J. Lawson": "AVAILABLE",
+    "Alijah Martin": "AVAILABLE",
+    "Immanuel Quickley": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "DOUBTFUL",
+    "Daniel Gafford": "OUT",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "OUT",
+    "John Poulakidas": "DOUBTFUL",
+    "Tyler Smith": "PROBABLE"
   }
 }
