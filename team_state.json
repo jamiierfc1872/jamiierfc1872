@@ -3,21 +3,21 @@
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
     "Bryce McGowens": "OUT",
-    "Trey Murphy III": "QUESTIONABLE",
+    "Trey Murphy III": "OUT",
     "Dejounte Murray": "AVAILABLE",
     "Josh Oduro": "OUT"
   },
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
-    "Jalen Duren": "PROBABLE",
-    "Javonte Green": "PROBABLE",
-    "Tobias Harris": "QUESTIONABLE",
+    "Jalen Duren": "AVAILABLE",
+    "Javonte Green": "AVAILABLE",
+    "Tobias Harris": "AVAILABLE",
     "Caris LeVert": "OUT",
     "Wendell Moore Jr.": "OUT",
-    "Duncan Robinson": "PROBABLE",
-    "Marcus Sasser": "PROBABLE",
+    "Duncan Robinson": "QUESTIONABLE",
+    "Marcus Sasser": "AVAILABLE",
     "Isaiah Stewart": "OUT",
-    "Ausar Thompson": "PROBABLE"
+    "Ausar Thompson": "AVAILABLE"
   },
   "New York Knicks": {
     "Trey Jemison III": "OUT",
@@ -27,10 +27,10 @@
     "Landry Shamet": "OUT"
   },
   "Charlotte Hornets": {
-    "Pat Connaughton": "QUESTIONABLE",
+    "Pat Connaughton": "AVAILABLE",
     "Tosan Evbuomwan": "OUT",
     "PJ Hall": "OUT",
-    "Liam McNeeley": "QUESTIONABLE",
+    "Liam McNeeley": "OUT",
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "OUT"
   },
@@ -107,16 +107,36 @@
     "Jalen Smith": "OUT",
     "Guerschon Yabusele": "QUESTIONABLE"
   },
+  "Oklahoma City Thunder": {
+    "Brooks Barnhizer": "OUT",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "OUT"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Ty Jerome": "OUT",
+    "Jahmai Mashack": "DOUBTFUL",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Jaylen Wells": "OUT"
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "A.J. Lawson": "AVAILABLE",
     "Alijah Martin": "AVAILABLE",
     "Immanuel Quickley": "OUT"
+  },
+  "Denver Nuggets": {
+    "David Roddy": "OUT",
+    "KJ Simpson": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "DOUBTFUL",
