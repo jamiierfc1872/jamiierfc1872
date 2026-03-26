@@ -50,8 +50,25 @@
     "Anthony Black": "OUT",
     "Colin Castleton": "OUT",
     "Jonathan Isaac": "OUT",
-    "Jalen Suggs": "QUESTIONABLE",
+    "Jalen Suggs": "AVAILABLE",
     "Franz Wagner": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Jordan Miller": "QUESTIONABLE"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "Aaron Nesmith": "PROBABLE",
+    "Jalen Slawson": "DOUBTFUL",
+    "Obi Toppin": "QUESTIONABLE",
+    "Ivica Zubac": "OUT"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "DOUBTFUL",
+    "Keshon Gilbert": "DOUBTFUL",
+    "Asa Newell": "DOUBTFUL"
   },
   "Boston Celtics": {
     "Jaylen Brown": "QUESTIONABLE",
@@ -68,6 +85,33 @@
     "Andrew Wiggins": "AVAILABLE",
     "Jahmir Young": "OUT"
   },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "QUESTIONABLE",
+    "Tristan Enaruna": "OUT",
+    "Riley Minix": "OUT",
+    "Craig Porter Jr.": "OUT",
+    "Olivier Sarr": "OUT",
+    "Jaylon Tyson": "OUT",
+    "Dean Wade": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Rob Dillingham": "PROBABLE",
+    "Noa Essengue": "OUT",
+    "Jaden Ivey": "OUT",
+    "Yuki Kawamura": "OUT",
+    "Mac McClung": "OUT",
+    "Isaac Okoro": "PROBABLE",
+    "Nick Richards": "QUESTIONABLE",
+    "Anfernee Simons": "DOUBTFUL",
+    "Jalen Smith": "OUT",
+    "Guerschon Yabusele": "QUESTIONABLE"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
     "A.J. Lawson": "AVAILABLE",
@@ -82,27 +126,5 @@
     "Caleb Martin": "OUT",
     "John Poulakidas": "DOUBTFUL",
     "Tyler Smith": "PROBABLE"
-  },
-  "Atlanta Hawks": {
-    "RayJ Dennis": "DOUBTFUL",
-    "Keshon Gilbert": "DOUBTFUL",
-    "Asa Newell": "DOUBTFUL"
-  },
-  "Indiana Pacers": {
-    "Johnny Furphy": "OUT",
-    "Tyrese Haliburton": "OUT",
-    "Aaron Nesmith": "PROBABLE",
-    "Jalen Slawson": "DOUBTFUL",
-    "Obi Toppin": "QUESTIONABLE",
-    "Ivica Zubac": "OUT"
-  },
-  "Cleveland Cavaliers": {
-    "Jarrett Allen": "QUESTIONABLE",
-    "Tristan Enaruna": "OUT",
-    "Riley Minix": "OUT",
-    "Craig Porter Jr.": "OUT",
-    "Olivier Sarr": "OUT",
-    "Jaylon Tyson": "OUT",
-    "Dean Wade": "OUT"
   }
 }
