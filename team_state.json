@@ -157,20 +157,6 @@
     "John Poulakidas": "DOUBTFUL",
     "Tyler Smith": "PROBABLE"
   },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "Seth Curry": "OUT",
-    "Stephen Curry": "OUT",
-    "Al Horford": "OUT",
-    "Moses Moody": "OUT",
-    "Quinten Post": "OUT"
-  },
-  "Los Angeles Lakers": {
-    "Luka Doncic": "QUESTIONABLE",
-    "Rui Hachimura": "QUESTIONABLE",
-    "Marcus Smart": "OUT",
-    "Adou Thiero": "OUT"
-  },
   "Portland Trail Blazers": {
     "Jayson Kent": "OUT",
     "Vit Krejci": "DOUBTFUL",
@@ -190,5 +176,26 @@
     "Tristan Vukcevic": "QUESTIONABLE",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "OUT",
+    "Stephen Curry": "OUT",
+    "Al Horford": "OUT",
+    "Moses Moody": "OUT",
+    "Quinten Post": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Noah Clowney": "PROBABLE",
+    "Egor Demin": "OUT",
+    "Michael Porter Jr.": "OUT",
+    "Day'Ron Sharpe": "OUT",
+    "Danny Wolf": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "QUESTIONABLE",
+    "Rui Hachimura": "QUESTIONABLE",
+    "Marcus Smart": "OUT",
+    "Adou Thiero": "OUT"
   }
 }
