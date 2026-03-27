@@ -123,13 +123,13 @@
     "Chris Youngblood": "OUT"
   },
   "Washington Wizards": {
-    "Bilal Coulibaly": "QUESTIONABLE",
+    "Bilal Coulibaly": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
-    "Tre Johnson": "QUESTIONABLE",
+    "Tre Johnson": "AVAILABLE",
     "D'Angelo Russell": "OUT",
-    "Alex Sarr": "QUESTIONABLE",
-    "Tristan Vukcevic": "QUESTIONABLE",
+    "Alex Sarr": "AVAILABLE",
+    "Tristan Vukcevic": "AVAILABLE",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
@@ -138,6 +138,7 @@
     "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
     "Al Horford": "OUT",
+    "De'Anthony Melton": "QUESTIONABLE",
     "Moses Moody": "OUT",
     "Quinten Post": "OUT"
   },
