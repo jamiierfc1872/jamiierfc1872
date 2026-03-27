@@ -45,16 +45,16 @@
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
-    "Rob Dillingham": "PROBABLE",
-    "Noa Essengue": "OUT",
+    "Rob Dillingham": "AVAILABLE",
+    "Noa -Essengue": "OUT",
     "Jaden Ivey": "OUT",
     "Yuki Kawamura": "OUT",
     "Mac McClung": "OUT",
-    "Isaac Okoro": "PROBABLE",
-    "Nick Richards": "QUESTIONABLE",
+    "Isaac Okoro": "AVAILABLE",
+    "Nick -Richards": "OUT",
     "Anfernee Simons": "OUT",
     "Jalen Smith": "OUT",
-    "Guerschon Yabusele": "QUESTIONABLE"
+    "Guerschon Yabusele": "AVAILABLE"
   },
   "Oklahoma City Thunder": {
     "Brooks Barnhizer": "OUT",
@@ -88,6 +88,7 @@
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
+    "Trayce Jackson-Davis": "OUT",
     "A.J. Lawson": "AVAILABLE",
     "Alijah Martin": "AVAILABLE",
     "Immanuel Quickley": "OUT"
