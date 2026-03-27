@@ -170,5 +170,25 @@
     "Rui Hachimura": "QUESTIONABLE",
     "Marcus Smart": "OUT",
     "Adou Thiero": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Jayson Kent": "OUT",
+    "Vit Krejci": "DOUBTFUL",
+    "Damian Lillard": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Robert Williams III": "QUESTIONABLE",
+    "Hansen Yang": "OUT",
+    "Chris Youngblood": "OUT"
+  },
+  "Washington Wizards": {
+    "Bilal Coulibaly": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "Tre Johnson": "QUESTIONABLE",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "QUESTIONABLE",
+    "Tristan Vukcevic": "QUESTIONABLE",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
   }
 }
