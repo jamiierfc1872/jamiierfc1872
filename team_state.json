@@ -14,13 +14,14 @@
   "Atlanta Hawks": {
     "RayJ Dennis": "DOUBTFUL",
     "Keshon Gilbert": "DOUBTFUL",
+    "Jock Landale": "QUESTIONABLE",
     "Asa Newell": "DOUBTFUL"
   },
   "Boston Celtics": {
-    "Jaylen Brown": "QUESTIONABLE",
-    "Neemias Queta": "QUESTIONABLE",
+    "Jaylen Brown": "OUT",
+    "Neemias Queta": "AVAILABLE",
     "Nikola Vucevic": "OUT",
-    "Derrick White": "QUESTIONABLE"
+    "Derrick White": "AVAILABLE"
   },
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
@@ -32,11 +33,11 @@
     "Jahmir Young": "OUT"
   },
   "Cleveland Cavaliers": {
-    "Jarrett Allen": "QUESTIONABLE",
+    "Jarrett Allen": "PROBABLE",
     "Tristan Enaruna": "OUT",
-    "Riley Minix": "OUT",
+    "Riley Minix": "PROBABLE",
     "Craig Porter Jr.": "OUT",
-    "Olivier Sarr": "OUT",
+    "Olivier Sarr": "PROBABLE",
     "Jaylon Tyson": "OUT",
     "Dean Wade": "OUT"
   },
