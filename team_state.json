@@ -7,7 +7,7 @@
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
     "Aaron Nesmith": "PROBABLE",
-    "Jalen Slawson": "DOUBTFUL",
+    "Jalen Slawson": "PROBABLE",
     "Obi Toppin": "QUESTIONABLE",
     "Ivica Zubac": "OUT"
   },
@@ -180,5 +180,23 @@
     "Johni Broome": "OUT",
     "Tyrese Maxey": "QUESTIONABLE",
     "Kelly Oubre Jr.": "QUESTIONABLE"
+  },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT"
+  },
+  "Sacramento Kings": {
+    "Nique Clifford": "QUESTIONABLE",
+    "Drew Eubanks": "OUT",
+    "Killian Hayes": "QUESTIONABLE",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
   }
 }
