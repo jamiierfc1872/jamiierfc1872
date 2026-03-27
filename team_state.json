@@ -150,9 +150,17 @@
     "Danny Wolf": "OUT"
   },
   "Los Angeles Lakers": {
-    "Luka Doncic": "QUESTIONABLE",
-    "Rui Hachimura": "QUESTIONABLE",
+    "Luka Doncic": "AVAILABLE",
+    "Rui Hachimura": "AVAILABLE",
     "Marcus Smart": "OUT",
     "Adou Thiero": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Ayo Dosunmu": "QUESTIONABLE",
+    "Anthony Edwards": "OUT",
+    "Enrique Freeman": "OUT",
+    "Jaden McDaniels": "OUT",
+    "Zyon Pullin": "OUT",
+    "Rocco Zikarsky": "OUT"
   }
 }
