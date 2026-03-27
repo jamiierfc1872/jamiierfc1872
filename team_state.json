@@ -1,20 +1,22 @@
 {
   "LA Clippers": {
     "Bradley Beal": "OUT",
-    "Jordan Miller": "AVAILABLE"
+    "Jordan Miller": "AVAILABLE",
+    "Norchad Omier": "OUT",
+    "TyTy Washington Jr.": "OUT"
   },
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
-    "Aaron Nesmith": "PROBABLE",
-    "Jalen Slawson": "PROBABLE",
-    "Obi Toppin": "QUESTIONABLE",
+    "Aaron Nesmith": "AVAILABLE",
+    "Jalen Slawson": "AVAILABLE",
+    "Obi Toppin": "AVAILABLE",
     "Ivica Zubac": "OUT"
   },
   "Atlanta Hawks": {
     "RayJ Dennis": "OUT",
     "Keshon Gilbert": "OUT",
-    "Jock Landale": "QUESTIONABLE",
+    "Jock Landale": "OUT",
     "Asa Newell": "OUT"
   },
   "Boston Celtics": {
@@ -25,7 +27,7 @@
   },
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
-    "Jaime Jaquez Jr.": "PROBABLE",
+    "Jaime Jaquez Jr.": "AVAILABLE",
     "Nikola Jovic": "AVAILABLE",
     "Trevor Keels": "OUT",
     "Terry Rozier": "OUT",
@@ -198,5 +200,14 @@
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Alex Antetokounmpo": "OUT",
+    "Giannis Antetokounmpo": "OUT",
+    "Gary Harris": "QUESTIONABLE",
+    "Kyle Kuzma": "QUESTIONABLE",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "QUESTIONABLE",
+    "Myles Turner": "QUESTIONABLE"
   }
 }
