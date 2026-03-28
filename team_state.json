@@ -38,7 +38,7 @@
   "Philadelphia 76ers": {
     "Johni Broome": "OUT",
     "Tyrese Maxey": "AVAILABLE",
-    "Kelly Oubre Jr.": "QUESTIONABLE"
+    "Kelly Oubre Jr.": "AVAILABLE"
   },
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
@@ -168,5 +168,14 @@
     "Dillon Jones": "OUT",
     "Miles McBride": "QUESTIONABLE",
     "Landry Shamet": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "QUESTIONABLE",
+    "Stephen Curry": "OUT",
+    "Al Horford": "OUT",
+    "Moses Moody": "OUT",
+    "Quinten Post": "QUESTIONABLE",
+    "Will Richard": "QUESTIONABLE"
   }
 }
