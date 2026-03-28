@@ -57,12 +57,6 @@
     "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
   },
-  "Phoenix Suns": {
-    "Dillon Brooks": "OUT",
-    "Amir Coffey": "OUT",
-    "Haywood Highsmith": "OUT",
-    "Mark Williams": "OUT"
-  },
   "Atlanta Hawks": {
     "Dyson Daniels": "QUESTIONABLE",
     "RayJ Dennis": "DOUBTFUL",
@@ -71,5 +65,11 @@
     "Jock Landale": "QUESTIONABLE",
     "Asa Newell": "DOUBTFUL",
     "Onyeka Okongwu": "OUT"
+  },
+  "Phoenix Suns": {
+    "Dillon Brooks": "OUT",
+    "Amir Coffey": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Mark Williams": "OUT"
   }
 }
