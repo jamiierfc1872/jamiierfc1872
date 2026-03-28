@@ -1,46 +1,4 @@
 {
-  "LA Clippers": {},
-  "Indiana Pacers": {},
-  "Atlanta Hawks": {},
-  "Boston Celtics": {},
-  "Miami Heat": {},
-  "Cleveland Cavaliers": {
-    "Jarrett Allen": "AVAILABLE",
-    "Tristan Enaruna": "OUT",
-    "Riley Minix": "AVAILABLE",
-    "Craig Porter Jr.": "OUT",
-    "Olivier Sarr": "AVAILABLE",
-    "Jaylon Tyson": "OUT",
-    "Dean Wade": "OUT"
-  },
-  "Chicago Bulls": {},
-  "Oklahoma City Thunder": {},
-  "Houston Rockets": {},
-  "Memphis Grizzlies": {},
-  "New Orleans Pelicans": {},
-  "Toronto Raptors": {},
-  "Utah Jazz": {},
-  "Denver Nuggets": {},
-  "Dallas Mavericks": {
-    "Moussa Cisse": "OUT",
-    "Daniel Gafford": "OUT",
-    "Kyrie Irving": "OUT",
-    "Dereck Lively II": "OUT",
-    "Caleb Martin": "OUT",
-    "Khris Middleton": "OUT",
-    "John Poulakidas": "OUT",
-    "Tyler Smith": "AVAILABLE"
-  },
-  "Portland Trail Blazers": {},
-  "Washington Wizards": {},
-  "Golden State Warriors": {},
-  "Brooklyn Nets": {},
-  "Los Angeles Lakers": {
-    "Luka Doncic": "AVAILABLE",
-    "Rui Hachimura": "AVAILABLE",
-    "Marcus Smart": "OUT",
-    "Adou Thiero": "OUT"
-  },
   "San Antonio Spurs": {
     "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
