@@ -108,6 +108,13 @@
     "Haywood Highsmith": "OUT",
     "Mark Williams": "OUT"
   },
+  "Boston Celtics": {
+    "Jaylen Brown": "QUESTIONABLE",
+    "Neemias Queta": "QUESTIONABLE",
+    "Jayson Tatum": "QUESTIONABLE",
+    "Nikola Vucevic": "OUT",
+    "Derrick White": "QUESTIONABLE"
+  },
   "Orlando Magic": {
     "Anthony Black": "OUT",
     "Colin Castleton": "OUT",
@@ -122,9 +129,22 @@
     "Collin Murray-Boyles": "QUESTIONABLE",
     "Immanuel Quickley": "OUT"
   },
+  "Brooklyn Nets": {
+    "Egor Demin": "OUT",
+    "Josh Minott": "QUESTIONABLE",
+    "Michael Porter Jr.": "OUT",
+    "Day'Ron Sharpe": "OUT",
+    "Danny Wolf": "OUT"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "New York Knicks": {
+    "Ariel Hukporti": "OUT",
+    "Dillon Jones": "OUT",
+    "Miles McBride": "QUESTIONABLE",
+    "Landry Shamet": "OUT"
   }
 }
