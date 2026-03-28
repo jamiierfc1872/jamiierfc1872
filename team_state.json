@@ -67,12 +67,6 @@
     "Asa Newell": "QUESTIONABLE",
     "Onyeka Okongwu": "OUT"
   },
-  "Phoenix Suns": {
-    "Dillon Brooks": "OUT",
-    "Amir Coffey": "OUT",
-    "Haywood Highsmith": "OUT",
-    "Mark Williams": "OUT"
-  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -98,5 +92,18 @@
     "Scotty Pippen Jr.": "OUT",
     "Cam Spencer": "DOUBTFUL",
     "Jaylen Wells": "OUT"
+  },
+  "Phoenix Suns": {
+    "Dillon Brooks": "OUT",
+    "Amir Coffey": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Mark Williams": "OUT"
+  },
+  "Orlando Magic": {
+    "Anthony Black": "OUT",
+    "Colin Castleton": "OUT",
+    "Jonathan Isaac": "OUT",
+    "Alex Morales": "OUT",
+    "Franz Wagner": "OUT"
   }
 }
