@@ -108,6 +108,10 @@
     "Haywood Highsmith": "OUT",
     "Mark Williams": "OUT"
   },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Isaiah Jackson": "QUESTIONABLE"
+  },
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
     "Jaime Jaquez Jr.": "AVAILABLE",
@@ -163,11 +167,24 @@
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
   },
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Bryce McGowens": "OUT",
+    "Trey Murphy III": "QUESTIONABLE",
+    "Dejounte Murray": "QUESTIONABLE",
+    "Josh Oduro": "OUT"
+  },
   "New York Knicks": {
     "Ariel Hukporti": "OUT",
     "Dillon Jones": "OUT",
     "Miles McBride": "QUESTIONABLE",
     "Landry Shamet": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Brooks Barnhizer": "PROBABLE",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "PROBABLE"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
