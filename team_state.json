@@ -1,39 +1,9 @@
 {
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "Jordan Miller": "AVAILABLE",
-    "Norchad Omier": "OUT",
-    "TyTy Washington Jr.": "OUT"
-  },
-  "Indiana Pacers": {
-    "Johnny Furphy": "OUT",
-    "Tyrese Haliburton": "OUT",
-    "Aaron Nesmith": "AVAILABLE",
-    "Jalen Slawson": "AVAILABLE",
-    "Obi Toppin": "AVAILABLE",
-    "Ivica Zubac": "OUT"
-  },
-  "Atlanta Hawks": {
-    "RayJ Dennis": "OUT",
-    "Keshon Gilbert": "OUT",
-    "Jock Landale": "OUT",
-    "Asa Newell": "OUT"
-  },
-  "Boston Celtics": {
-    "Jaylen Brown": "OUT",
-    "Neemias Queta": "AVAILABLE",
-    "Nikola Vucevic": "OUT",
-    "Derrick White": "AVAILABLE"
-  },
-  "Miami Heat": {
-    "Vladislav Goldin": "OUT",
-    "Jaime Jaquez Jr.": "AVAILABLE",
-    "Nikola Jovic": "AVAILABLE",
-    "Trevor Keels": "OUT",
-    "Terry Rozier": "OUT",
-    "Andrew Wiggins": "AVAILABLE",
-    "Jahmir Young": "OUT"
-  },
+  "LA Clippers": {},
+  "Indiana Pacers": {},
+  "Atlanta Hawks": {},
+  "Boston Celtics": {},
+  "Miami Heat": {},
   "Cleveland Cavaliers": {
     "Jarrett Allen": "AVAILABLE",
     "Tristan Enaruna": "OUT",
@@ -43,71 +13,14 @@
     "Jaylon Tyson": "OUT",
     "Dean Wade": "OUT"
   },
-  "Chicago Bulls": {
-    "Zach Collins": "OUT",
-    "Rob Dillingham": "AVAILABLE",
-    "Noa -Essengue": "OUT",
-    "Jaden Ivey": "OUT",
-    "Yuki Kawamura": "OUT",
-    "Mac McClung": "OUT",
-    "Isaac Okoro": "AVAILABLE",
-    "Nick -Richards": "OUT",
-    "Anfernee Simons": "OUT",
-    "Jalen Smith": "OUT",
-    "Guerschon Yabusele": "AVAILABLE"
-  },
-  "Oklahoma City Thunder": {
-    "Brooks Barnhizer": "OUT",
-    "Chet Holmgren": "OUT",
-    "Thomas Sorber": "OUT",
-    "Nikola Topic": "OUT"
-  },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
-  },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Kentavious Caldwell-Pope": "OUT",
-    "Brandon Clarke": "OUT",
-    "Zach Edey": "OUT",
-    "Ty Jerome": "OUT",
-    "Jahmai Mashack": "OUT",
-    "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT",
-    "Rayan Rupert": "OUT",
-    "Jaylen Wells": "OUT"
-  },
-  "New Orleans Pelicans": {
-    "Trey Alexander": "OUT",
-    "Hunter Dickinson": "OUT",
-    "Bryce McGowens": "OUT",
-    "Trey Murphy III": "OUT",
-    "Dejounte Murray": "OUT",
-    "Josh Oduro": "OUT"
-  },
-  "Toronto Raptors": {
-    "Chucky Hepburn": "OUT",
-    "Trayce Jackson-Davis": "OUT",
-    "A.J. Lawson": "AVAILABLE",
-    "Alijah Martin": "AVAILABLE",
-    "Immanuel Quickley": "OUT"
-  },
-  "Utah Jazz": {
-    "Isaiah Collier": "OUT",
-    "Kyle Filipowski": "AVAILABLE",
-    "Keyonte George": "OUT",
-    "Blake Hinson": "OUT",
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT"
-  },
-  "Denver Nuggets": {
-    "David Roddy": "OUT",
-    "KJ Simpson": "OUT"
-  },
+  "Chicago Bulls": {},
+  "Oklahoma City Thunder": {},
+  "Houston Rockets": {},
+  "Memphis Grizzlies": {},
+  "New Orleans Pelicans": {},
+  "Toronto Raptors": {},
+  "Utah Jazz": {},
+  "Denver Nuggets": {},
   "Dallas Mavericks": {
     "Moussa Cisse": "OUT",
     "Daniel Gafford": "OUT",
@@ -118,44 +31,10 @@
     "John Poulakidas": "OUT",
     "Tyler Smith": "AVAILABLE"
   },
-  "Portland Trail Blazers": {
-    "Jayson Kent": "OUT",
-    "Vit Krejci": "OUT",
-    "Damian Lillard": "OUT",
-    "Shaedon Sharpe": "OUT",
-    "Robert Williams III": "AVAILABLE",
-    "Hansen Yang": "OUT",
-    "Chris Youngblood": "OUT"
-  },
-  "Washington Wizards": {
-    "Bilal Coulibaly": "AVAILABLE",
-    "Anthony Davis": "OUT",
-    "Kyshawn George": "OUT",
-    "Tre Johnson": "AVAILABLE",
-    "Julian Reese": "OUT",
-    "D'Angelo Russell": "OUT",
-    "Alex Sarr": "AVAILABLE",
-    "Tristan Vukcevic": "AVAILABLE",
-    "Cam Whitmore": "OUT",
-    "Trae Young": "OUT"
-  },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "Seth Curry": "OUT",
-    "Stephen Curry": "OUT",
-    "Al Horford": "OUT",
-    "De'Anthony Melton": "OUT",
-    "Moses Moody": "OUT",
-    "Quinten Post": "OUT",
-    "Nate Williams": "OUT"
-  },
-  "Brooklyn Nets": {
-    "Noah Clowney": "AVAILABLE",
-    "Egor Demin": "OUT",
-    "Michael Porter Jr.": "OUT",
-    "Day'Ron Sharpe": "OUT",
-    "Danny Wolf": "OUT"
-  },
+  "Portland Trail Blazers": {},
+  "Washington Wizards": {},
+  "Golden State Warriors": {},
+  "Brooklyn Nets": {},
   "Los Angeles Lakers": {
     "Luka Doncic": "AVAILABLE",
     "Rui Hachimura": "AVAILABLE",
