@@ -7,11 +7,12 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
-    "Gary Harris": "QUESTIONABLE",
-    "Kyle Kuzma": "QUESTIONABLE",
+    "Thanasis Antetokounmpo": "QUESTIONABLE",
+    "Gary Harris": "OUT",
+    "Kyle Kuzma": "OUT",
     "Kevin Porter Jr.": "OUT",
-    "Bobby Portis": "QUESTIONABLE",
-    "Myles Turner": "QUESTIONABLE"
+    "Bobby Portis": "OUT",
+    "Myles Turner": "AVAILABLE"
   },
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
@@ -71,5 +72,16 @@
     "Amir Coffey": "OUT",
     "Haywood Highsmith": "OUT",
     "Mark Williams": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Jaden Ivey": "OUT",
+    "Yuki Kawamura": "OUT",
+    "Mac McClung": "OUT",
+    "Nick Richards": "OUT",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "OUT",
+    "Guerschon Yabusele": "OUT"
   }
 }
