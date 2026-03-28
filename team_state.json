@@ -16,16 +16,16 @@
   },
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
-    "Jalen Duren": "PROBABLE",
-    "Tobias Harris": "PROBABLE",
+    "Jalen Duren": "AVAILABLE",
+    "Tobias Harris": "AVAILABLE",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Caris LeVert": "AVAILABLE",
     "Wendell Moore Jr.": "OUT",
-    "Duncan Robinson": "QUESTIONABLE",
+    "Duncan Robinson": "AVAILABLE",
     "Marcus Sasser": "AVAILABLE",
     "Isaiah Stewart": "OUT",
-    "Ausar Thompson": "PROBABLE"
+    "Ausar Thompson": "AVAILABLE"
   },
   "Minnesota Timberwolves": {
     "Ayo Dosunmu": "OUT",
@@ -93,6 +93,15 @@
     "Cam Spencer": "DOUBTFUL",
     "Jaylen Wells": "OUT"
   },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Keyonte George": "OUT",
+    "Blake Hinson": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
+  },
   "Phoenix Suns": {
     "Dillon Brooks": "OUT",
     "Amir Coffey": "OUT",
@@ -105,5 +114,17 @@
     "Jonathan Isaac": "OUT",
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Brandon Ingram": "QUESTIONABLE",
+    "Trayce Jackson-Davis": "QUESTIONABLE",
+    "Collin Murray-Boyles": "QUESTIONABLE",
+    "Immanuel Quickley": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
   }
 }
