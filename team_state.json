@@ -7,7 +7,7 @@
   "Milwaukee Bucks": {
     "Alex Antetokounmpo": "OUT",
     "Giannis Antetokounmpo": "OUT",
-    "Thanasis Antetokounmpo": "QUESTIONABLE",
+    "Thanasis Antetokounmpo": "OUT",
     "Gary Harris": "OUT",
     "Kyle Kuzma": "OUT",
     "Kevin Porter Jr.": "OUT",
@@ -64,7 +64,7 @@
     "Keshon Gilbert": "DOUBTFUL",
     "Jonathan Kuminga": "OUT",
     "Jock Landale": "QUESTIONABLE",
-    "Asa Newell": "DOUBTFUL",
+    "Asa Newell": "QUESTIONABLE",
     "Onyeka Okongwu": "OUT"
   },
   "Phoenix Suns": {
@@ -83,5 +83,20 @@
     "Anfernee Simons": "OUT",
     "Jalen Smith": "OUT",
     "Guerschon Yabusele": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Zach Edey": "OUT",
+    "Taj Gibson": "DOUBTFUL",
+    "Taylor Hendricks": "QUESTIONABLE",
+    "Ty Jerome": "OUT",
+    "Jahmai Mashack": "QUESTIONABLE",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Cam Spencer": "DOUBTFUL",
+    "Jaylen Wells": "OUT"
   }
 }
