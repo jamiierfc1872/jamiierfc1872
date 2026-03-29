@@ -28,13 +28,13 @@
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
-    "T.J. McConnell": "QUESTIONABLE",
-    "Andrew Nembhard": "QUESTIONABLE",
-    "Aaron Nesmith": "DOUBTFUL",
-    "Pascal Siakam": "QUESTIONABLE",
-    "Jalen Slawson": "QUESTIONABLE",
-    "Obi Toppin": "QUESTIONABLE",
-    "Jarace Walker": "QUESTIONABLE",
+    "T.J. McConnell": "AVAILABLE",
+    "Andrew Nembhard": "AVAILABLE",
+    "Aaron Nesmith": "OUT",
+    "Pascal Siakam": "AVAILABLE",
+    "Jalen Slawson": "AVAILABLE",
+    "Obi Toppin": "AVAILABLE",
+    "Jarace Walker": "OUT",
     "Ivica Zubac": "OUT"
   },
   "Boston Celtics": {
@@ -62,9 +62,9 @@
     "RJ Barrett": "QUESTIONABLE",
     "Jamison Battle": "OUT",
     "Chucky Hepburn": "OUT",
-    "Brandon Ingram": "QUESTIONABLE",
-    "Trayce Jackson-Davis": "QUESTIONABLE",
-    "Collin Murray-Boyles": "QUESTIONABLE",
+    "Brandon Ingram": "PROBABLE",
+    "Trayce Jackson-Davis": "PROBABLE",
+    "Collin Murray-Boyles": "PROBABLE",
     "Immanuel Quickley": "OUT"
   },
   "Sacramento Kings": {
@@ -83,7 +83,7 @@
     "Josh Minott": "OUT",
     "Michael Porter Jr.": "OUT",
     "Day'Ron Sharpe": "OUT",
-    "Jalen Wilson": "QUESTIONABLE",
+    "Jalen Wilson": "OUT",
     "Danny Wolf": "OUT"
   },
   "Washington Wizards": {
@@ -137,5 +137,16 @@
     "Moses Moody": "OUT",
     "Quinten Post": "QUESTIONABLE",
     "Will Richard": "QUESTIONABLE"
+  },
+  "Dallas Mavericks": {
+    "Marvin Bagley III": "QUESTIONABLE",
+    "Moussa Cisse": "QUESTIONABLE",
+    "Daniel Gafford": "PROBABLE",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Naji Marshall": "PROBABLE",
+    "Caleb Martin": "DOUBTFUL",
+    "John Poulakidas": "QUESTIONABLE",
+    "Tyler Smith": "QUESTIONABLE"
   }
 }
