@@ -43,6 +43,13 @@
     "Nikola Vucevic": "OUT",
     "Derrick White": "QUESTIONABLE"
   },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT",
+    "Grant Williams": "OUT"
+  },
   "Orlando Magic": {
     "Anthony Black": "OUT",
     "Colin Castleton": "OUT",
@@ -58,11 +65,23 @@
     "Collin Murray-Boyles": "QUESTIONABLE",
     "Immanuel Quickley": "OUT"
   },
+  "Sacramento Kings": {
+    "DeMar DeRozan": "OUT",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
+  },
   "Brooklyn Nets": {
     "Egor Demin": "OUT",
     "Josh Minott": "QUESTIONABLE",
     "Michael Porter Jr.": "OUT",
     "Day'Ron Sharpe": "OUT",
+    "Jalen Wilson": "PROBABLE",
     "Danny Wolf": "OUT"
   },
   "Washington Wizards": {
@@ -116,23 +135,5 @@
     "Moses Moody": "OUT",
     "Quinten Post": "QUESTIONABLE",
     "Will Richard": "QUESTIONABLE"
-  },
-  "Charlotte Hornets": {
-    "Tosan Evbuomwan": "OUT",
-    "PJ Hall": "OUT",
-    "Antonio Reeves": "OUT",
-    "Tidjane Salaun": "OUT",
-    "Grant Williams": "OUT"
-  },
-  "Sacramento Kings": {
-    "DeMar DeRozan": "OUT",
-    "Drew Eubanks": "OUT",
-    "De'Andre Hunter": "OUT",
-    "Zach LaVine": "OUT",
-    "Malik Monk": "OUT",
-    "Keegan Murray": "OUT",
-    "Domantas Sabonis": "OUT",
-    "Isaiah Stevens": "OUT",
-    "Russell Westbrook": "OUT"
   }
 }
