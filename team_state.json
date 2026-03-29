@@ -114,8 +114,8 @@
     "Trey Alexander": "OUT",
     "Hunter Dickinson": "OUT",
     "Bryce McGowens": "OUT",
-    "Trey Murphy III": "QUESTIONABLE",
-    "Dejounte Murray": "QUESTIONABLE",
+    "Trey Murphy III": "OUT",
+    "Dejounte Murray": "AVAILABLE",
     "Josh Oduro": "OUT"
   },
   "New York Knicks": {
@@ -156,6 +156,29 @@
     "Jalen Smith": "OUT",
     "Guerschon Yabusele": "QUESTIONABLE"
   },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Zach Edey": "OUT",
+    "Taj Gibson": "DOUBTFUL",
+    "DeJon Jarreau": "QUESTIONABLE",
+    "Ty Jerome": "OUT",
+    "Jahmai Mashack": "AVAILABLE",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Javon Small": "DOUBTFUL",
+    "Jaylen Wells": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Ayo Dosunmu": "QUESTIONABLE",
+    "Anthony Edwards": "QUESTIONABLE",
+    "Enrique Freeman": "OUT",
+    "Jaden McDaniels": "OUT",
+    "Zyon Pullin": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
   "Dallas Mavericks": {
     "Marvin Bagley III": "QUESTIONABLE",
     "Moussa Cisse": "QUESTIONABLE",
@@ -187,13 +210,5 @@
     "Duncan Robinson": "DOUBTFUL",
     "Isaiah Stewart": "OUT",
     "Ausar Thompson": "QUESTIONABLE"
-  },
-  "Minnesota Timberwolves": {
-    "Ayo Dosunmu": "QUESTIONABLE",
-    "Anthony Edwards": "QUESTIONABLE",
-    "Enrique Freeman": "OUT",
-    "Jaden McDaniels": "OUT",
-    "Zyon Pullin": "OUT",
-    "Rocco Zikarsky": "OUT"
   }
 }
