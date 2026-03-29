@@ -59,7 +59,7 @@
     "Franz Wagner": "OUT"
   },
   "Toronto Raptors": {
-    "RJ Barrett": "QUESTIONABLE",
+    "RJ Barrett": "PROBABLE",
     "Jamison Battle": "OUT",
     "Chucky Hepburn": "OUT",
     "Brandon Ingram": "PROBABLE",
@@ -166,5 +166,15 @@
     "Caleb Martin": "DOUBTFUL",
     "John Poulakidas": "QUESTIONABLE",
     "Tyler Smith": "QUESTIONABLE"
+  },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "OUT",
+    "Tristan Enaruna": "OUT",
+    "Riley Minix": "OUT",
+    "Craig Porter Jr.": "PROBABLE",
+    "Olivier Sarr": "OUT",
+    "Max Strus": "OUT",
+    "Jaylon Tyson": "OUT",
+    "Dean Wade": "OUT"
   }
 }
