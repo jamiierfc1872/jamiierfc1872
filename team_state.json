@@ -39,10 +39,10 @@
   },
   "Boston Celtics": {
     "Jaylen Brown": "OUT",
-    "Neemias Queta": "PROBABLE",
+    "Neemias Queta": "AVAILABLE",
     "Jayson Tatum": "AVAILABLE",
     "Nikola Vucevic": "OUT",
-    "Derrick White": "QUESTIONABLE"
+    "Derrick White": "OUT"
   },
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
@@ -64,7 +64,7 @@
     "Chucky Hepburn": "OUT",
     "Brandon Ingram": "PROBABLE",
     "Trayce Jackson-Davis": "PROBABLE",
-    "Collin Murray-Boyles": "PROBABLE",
+    "Collin Murray-Boyles": "OUT",
     "Immanuel Quickley": "OUT"
   },
   "Sacramento Kings": {
@@ -137,6 +137,24 @@
     "Moses Moody": "OUT",
     "Quinten Post": "QUESTIONABLE",
     "Will Richard": "QUESTIONABLE"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Tyrese Maxey": "AVAILABLE"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "QUESTIONABLE",
+    "Keshon Gilbert": "QUESTIONABLE"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Jaden Ivey": "OUT",
+    "Mac McClung": "OUT",
+    "Nick Richards": "QUESTIONABLE",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "OUT",
+    "Guerschon Yabusele": "QUESTIONABLE"
   },
   "Dallas Mavericks": {
     "Marvin Bagley III": "QUESTIONABLE",
