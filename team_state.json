@@ -51,6 +51,7 @@
     "Franz Wagner": "OUT"
   },
   "Toronto Raptors": {
+    "Jamison Battle": "OUT",
     "Chucky Hepburn": "OUT",
     "Brandon Ingram": "QUESTIONABLE",
     "Trayce Jackson-Davis": "QUESTIONABLE",
@@ -115,5 +116,23 @@
     "Moses Moody": "OUT",
     "Quinten Post": "QUESTIONABLE",
     "Will Richard": "QUESTIONABLE"
+  },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT",
+    "Grant Williams": "OUT"
+  },
+  "Sacramento Kings": {
+    "DeMar DeRozan": "OUT",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
   }
 }
