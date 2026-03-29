@@ -121,7 +121,7 @@
   "New York Knicks": {
     "Ariel Hukporti": "OUT",
     "Dillon Jones": "OUT",
-    "Miles McBride": "QUESTIONABLE",
+    "Miles McBride": "AVAILABLE",
     "Landry Shamet": "OUT"
   },
   "Oklahoma City Thunder": {
@@ -155,6 +155,17 @@
     "Anfernee Simons": "OUT",
     "Jalen Smith": "OUT",
     "Guerschon Yabusele": "QUESTIONABLE"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "OUT"
+  },
+  "Phoenix Suns": {
+    "Dillon Brooks": "OUT",
+    "Amir Coffey": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Mark Williams": "OUT"
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
