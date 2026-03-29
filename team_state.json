@@ -59,11 +59,11 @@
     "Russell Westbrook": "OUT"
   },
   "Atlanta Hawks": {
-    "Dyson Daniels": "QUESTIONABLE",
+    "Dyson Daniels": "OUT",
     "RayJ Dennis": "OUT",
     "Keshon Gilbert": "OUT",
     "Jonathan Kuminga": "OUT",
-    "Jock Landale": "QUESTIONABLE",
+    "Jock Landale": "AVAILABLE",
     "Asa Newell": "AVAILABLE",
     "Onyeka Okongwu": "OUT"
   },
@@ -82,15 +82,15 @@
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
-    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Walter Clayton Jr.": "AVAILABLE",
     "Zach Edey": "OUT",
-    "Taj Gibson": "DOUBTFUL",
-    "Taylor Hendricks": "QUESTIONABLE",
+    "Taj Gibson": "OUT",
+    "Taylor Hendricks": "OUT",
     "Ty Jerome": "OUT",
-    "Jahmai Mashack": "QUESTIONABLE",
+    "Jahmai Mashack": "AVAILABLE",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT",
-    "Cam Spencer": "DOUBTFUL",
+    "Cam Spencer": "OUT",
     "Jaylen Wells": "OUT"
   },
   "Utah Jazz": {
@@ -108,7 +108,10 @@
     "Haywood Highsmith": "OUT",
     "Mark Williams": "OUT"
   },
-  "LA Clippers": {},
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Isaiah Jackson": "QUESTIONABLE"
+  },
   "Miami Heat": {
     "Vladislav Goldin": "OUT",
     "Jaime Jaquez Jr.": "AVAILABLE",
@@ -159,21 +162,49 @@
     "Day'Ron Sharpe": "OUT",
     "Danny Wolf": "OUT"
   },
-  "Washington Wizards": {},
-  "Portland Trail Blazers": {},
+  "Washington Wizards": {
+    "Leaky Black": "QUESTIONABLE",
+    "Bilal Coulibaly": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "Tre Johnson": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Jerami Grant": "OUT",
+    "Vit Krejci": "OUT",
+    "Damian Lillard": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Robert Williams III": "QUESTIONABLE",
+    "Chris Youngblood": "OUT"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
   },
-  "New Orleans Pelicans": {},
+  "New Orleans Pelicans": {
+    "Trey Alexander": "OUT",
+    "Hunter Dickinson": "OUT",
+    "Bryce McGowens": "OUT",
+    "Trey Murphy III": "QUESTIONABLE",
+    "Dejounte Murray": "QUESTIONABLE",
+    "Josh Oduro": "OUT"
+  },
   "New York Knicks": {
     "Ariel Hukporti": "OUT",
     "Dillon Jones": "OUT",
     "Miles McBride": "QUESTIONABLE",
     "Landry Shamet": "OUT"
   },
-  "Oklahoma City Thunder": {},
+  "Oklahoma City Thunder": {
+    "Brooks Barnhizer": "PROBABLE",
+    "Thomas Sorber": "OUT",
+    "Nikola Topic": "PROBABLE"
+  },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "Seth Curry": "QUESTIONABLE",
