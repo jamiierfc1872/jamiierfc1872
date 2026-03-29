@@ -138,6 +138,9 @@
     "Quinten Post": "QUESTIONABLE",
     "Will Richard": "QUESTIONABLE"
   },
+  "Denver Nuggets": {
+    "Aaron Gordon": "QUESTIONABLE"
+  },
   "Philadelphia 76ers": {
     "Johni Broome": "OUT",
     "Tyrese Maxey": "AVAILABLE"
@@ -210,6 +213,15 @@
     "Max Strus": "OUT",
     "Jaylon Tyson": "OUT",
     "Dean Wade": "OUT"
+  },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Keyonte George": "OUT",
+    "Blake Hinson": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
   },
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
