@@ -7,7 +7,7 @@
     "Tyler Herro": "PROBABLE",
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Nikola Jovic": "AVAILABLE",
-    "Pelle Larsson": "PROBABLE",
+    "Pelle Larsson": "AVAILABLE",
     "Norman Powell": "OUT",
     "Terry Rozier": "OUT",
     "Andrew Wiggins": "AVAILABLE"
@@ -140,6 +140,12 @@
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
   },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Tidjane Salaun": "OUT"
+  },
   "Brooklyn Nets": {
     "Egor Demin": "OUT",
     "Terance Mann": "OUT",
@@ -162,11 +168,5 @@
     "Trayce Jackson-Davis": "OUT",
     "Collin Murray-Boyles": "QUESTIONABLE",
     "Immanuel Quickley": "OUT"
-  },
-  "Charlotte Hornets": {
-    "Tosan Evbuomwan": "OUT",
-    "PJ Hall": "OUT",
-    "Liam McNeeley": "OUT",
-    "Tidjane Salaun": "OUT"
   }
 }
