@@ -115,11 +115,6 @@
     "Thomas Sorber": "OUT",
     "Jalen Williams": "OUT"
   },
-  "Los Angeles Lakers": {
-    "Luka Doncic": "OUT",
-    "Marcus Smart": "OUT",
-    "Adou Thiero": "OUT"
-  },
   "Washington Wizards": {
     "Leaky Black": "QUESTIONABLE",
     "Bilal Coulibaly": "QUESTIONABLE",
@@ -130,5 +125,10 @@
     "D'Angelo Russell": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "OUT",
+    "Marcus Smart": "OUT",
+    "Adou Thiero": "OUT"
   }
 }
