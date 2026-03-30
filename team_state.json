@@ -3,6 +3,14 @@
     "Johni Broome": "OUT",
     "Tyrese Maxey": "AVAILABLE"
   },
+  "Miami Heat": {
+    "Jaime Jaquez Jr.": "AVAILABLE",
+    "Nikola Jovic": "AVAILABLE",
+    "Pelle Larsson": "PROBABLE",
+    "Norman Powell": "OUT",
+    "Terry Rozier": "OUT",
+    "Andrew Wiggins": "AVAILABLE"
+  },
   "Boston Celtics": {
     "Ron Harper Jr.": "QUESTIONABLE",
     "Neemias Queta": "DOUBTFUL",
@@ -12,7 +20,8 @@
   },
   "Atlanta Hawks": {
     "RayJ Dennis": "QUESTIONABLE",
-    "Keshon Gilbert": "QUESTIONABLE"
+    "Keshon Gilbert": "QUESTIONABLE",
+    "Jock Landale": "QUESTIONABLE"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
@@ -52,7 +61,7 @@
     "Jaylen Wells": "OUT"
   },
   "Minnesota Timberwolves": {
-    "Ayo Dosunmu": "QUESTIONABLE",
+    "Ayo Dosunmu": "AVAILABLE",
     "Anthony Edwards": "QUESTIONABLE",
     "Enrique Freeman": "OUT",
     "Jaden McDaniels": "OUT",
@@ -65,10 +74,11 @@
     "Daniel Gafford": "PROBABLE",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "Naji Marshall": "PROBABLE",
+    "Naji Marshall": "QUESTIONABLE",
     "Caleb Martin": "DOUBTFUL",
     "John Poulakidas": "QUESTIONABLE",
-    "Tyler Smith": "QUESTIONABLE"
+    "Tyler Smith": "QUESTIONABLE",
+    "P.J. Washington": "QUESTIONABLE"
   },
   "Cleveland Cavaliers": {
     "Jarrett Allen": "OUT",
