@@ -124,6 +124,7 @@
     "Anthony Gill": "QUESTIONABLE",
     "Julian Reese": "QUESTIONABLE",
     "D'Angelo Russell": "OUT",
+    "Alex Sarr": "QUESTIONABLE",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
@@ -139,6 +140,14 @@
     "Alex Morales": "OUT",
     "Franz Wagner": "OUT"
   },
+  "Brooklyn Nets": {
+    "Egor Demin": "OUT",
+    "Terance Mann": "OUT",
+    "Michael Porter Jr.": "OUT",
+    "Day'Ron Sharpe": "OUT",
+    "Jalen Wilson": "PROBABLE",
+    "Danny Wolf": "OUT"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Isaiah Crawford": "OUT",
@@ -153,5 +162,11 @@
     "Trayce Jackson-Davis": "OUT",
     "Collin Murray-Boyles": "QUESTIONABLE",
     "Immanuel Quickley": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Tidjane Salaun": "OUT"
   }
 }
