@@ -4,7 +4,7 @@
     "Tyrese Maxey": "AVAILABLE"
   },
   "Miami Heat": {
-    "Tyler Herro": "PROBABLE",
+    "Tyler Herro": "AVAILABLE",
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Nikola Jovic": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
@@ -168,5 +168,20 @@
     "Trayce Jackson-Davis": "OUT",
     "Collin Murray-Boyles": "QUESTIONABLE",
     "Immanuel Quickley": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Giannis Antetokounmpo": "OUT",
+    "Thanasis Antetokounmpo": "OUT",
+    "Gary Harris": "QUESTIONABLE",
+    "Kyle Kuzma": "PROBABLE",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT",
+    "Ryan Rollins": "PROBABLE"
+  },
+  "New York Knicks": {
+    "Ariel Hukporti": "QUESTIONABLE",
+    "Dillon Jones": "QUESTIONABLE",
+    "Miles McBride": "QUESTIONABLE",
+    "Landry Shamet": "OUT"
   }
 }
