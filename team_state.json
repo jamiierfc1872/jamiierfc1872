@@ -4,6 +4,7 @@
     "Tyrese Maxey": "AVAILABLE"
   },
   "Miami Heat": {
+    "Tyler Herro": "PROBABLE",
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Nikola Jovic": "AVAILABLE",
     "Pelle Larsson": "PROBABLE",
@@ -130,6 +131,13 @@
     "Luka Doncic": "OUT",
     "Marcus Smart": "OUT",
     "Adou Thiero": "OUT"
+  },
+  "Orlando Magic": {
+    "Anthony Black": "OUT",
+    "Colin Castleton": "OUT",
+    "Jonathan Isaac": "OUT",
+    "Alex Morales": "OUT",
+    "Franz Wagner": "OUT"
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
