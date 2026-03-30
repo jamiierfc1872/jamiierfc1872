@@ -154,21 +154,6 @@
     "Jalen Wilson": "PROBABLE",
     "Danny Wolf": "OUT"
   },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Isaiah Crawford": "OUT",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
-  },
-  "Toronto Raptors": {
-    "RJ Barrett": "PROBABLE",
-    "Jamison Battle": "OUT",
-    "Chucky Hepburn": "OUT",
-    "Brandon Ingram": "QUESTIONABLE",
-    "Trayce Jackson-Davis": "OUT",
-    "Collin Murray-Boyles": "QUESTIONABLE",
-    "Immanuel Quickley": "OUT"
-  },
   "Milwaukee Bucks": {
     "Giannis Antetokounmpo": "OUT",
     "Thanasis Antetokounmpo": "OUT",
@@ -183,5 +168,20 @@
     "Dillon Jones": "QUESTIONABLE",
     "Miles McBride": "QUESTIONABLE",
     "Landry Shamet": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Isaiah Crawford": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "Toronto Raptors": {
+    "RJ Barrett": "PROBABLE",
+    "Jamison Battle": "OUT",
+    "Chucky Hepburn": "OUT",
+    "Brandon Ingram": "QUESTIONABLE",
+    "Trayce Jackson-Davis": "OUT",
+    "Collin Murray-Boyles": "QUESTIONABLE",
+    "Immanuel Quickley": "OUT"
   }
 }
