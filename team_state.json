@@ -131,15 +131,15 @@
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
-    "Seth Curry": "QUESTIONABLE",
+    "Seth Curry": "AVAILABLE",
     "Stephen Curry": "OUT",
     "Al Horford": "OUT",
     "Moses Moody": "OUT",
-    "Quinten Post": "QUESTIONABLE",
-    "Will Richard": "QUESTIONABLE"
+    "Quinten Post": "AVAILABLE",
+    "Will Richard": "OUT"
   },
   "Denver Nuggets": {
-    "Aaron Gordon": "QUESTIONABLE"
+    "Aaron Gordon": "OUT"
   },
   "Philadelphia 76ers": {
     "Johni Broome": "OUT",
@@ -233,5 +233,10 @@
     "Duncan Robinson": "DOUBTFUL",
     "Isaiah Stewart": "OUT",
     "Ausar Thompson": "QUESTIONABLE"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "OUT",
+    "Marcus Smart": "OUT",
+    "Adou Thiero": "OUT"
   }
 }
