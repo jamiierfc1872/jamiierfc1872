@@ -141,6 +141,18 @@
     "Terry Rozier": "OUT",
     "Andrew Wiggins": "QUESTIONABLE"
   },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "T.J. McConnell": "OUT",
+    "Andrew Nembhard": "OUT",
+    "Aaron Nesmith": "OUT",
+    "Pascal Siakam": "PROBABLE",
+    "Jalen Slawson": "PROBABLE",
+    "Obi Toppin": "PROBABLE",
+    "Jarace Walker": "OUT",
+    "Ivica Zubac": "OUT"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -148,16 +160,6 @@
     "Anfernee Simons": "OUT",
     "Jalen Smith": "OUT",
     "Guerschon Yabusele": "QUESTIONABLE"
-  },
-  "Sacramento Kings": {
-    "Drew Eubanks": "OUT",
-    "De'Andre Hunter": "OUT",
-    "DaQuan Jeffries": "OUT",
-    "Zach LaVine": "OUT",
-    "Keegan Murray": "OUT",
-    "Domantas Sabonis": "OUT",
-    "Isaiah Stevens": "OUT",
-    "Russell Westbrook": "OUT"
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
@@ -171,5 +173,15 @@
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT",
     "Jaylen Wells": "OUT"
+  },
+  "Sacramento Kings": {
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "DaQuan Jeffries": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
   }
 }
