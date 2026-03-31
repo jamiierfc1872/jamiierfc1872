@@ -62,11 +62,11 @@
     "RJ Barrett": "AVAILABLE",
     "Jamison Battle": "OUT",
     "Chucky Hepburn": "OUT",
-    "Brandon Ingram": "PROBABLE",
+    "Brandon Ingram": "AVAILABLE",
     "Trayce Jackson-Davis": "OUT",
     "Alijah Martin": "OUT",
     "Jonathan Mogbo": "OUT",
-    "Collin Murray-Boyles": "PROBABLE",
+    "Collin Murray-Boyles": "AVAILABLE",
     "Immanuel Quickley": "OUT"
   },
   "Detroit Pistons": {
@@ -188,5 +188,15 @@
     "Aaron Gordon": "PROBABLE",
     "Spencer Jones": "OUT",
     "Zeke Nnaji": "OUT"
+  },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Keyonte George": "OUT",
+    "Elijah Harkless": "QUESTIONABLE",
+    "Blake Hinson": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
   }
 }
