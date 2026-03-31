@@ -27,24 +27,24 @@
   },
   "Dallas Mavericks": {
     "Marvin Bagley III": "OUT",
-    "Moussa Cisse": "QUESTIONABLE",
+    "Moussa Cisse": "AVAILABLE",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
     "Naji Marshall": "OUT",
     "Caleb Martin": "OUT",
-    "John Poulakidas": "PROBABLE",
-    "Tyler Smith": "PROBABLE",
-    "Klay Thompson": "DOUBTFUL",
+    "John Poulakidas": "AVAILABLE",
+    "Tyler Smith": "AVAILABLE",
+    "Klay Thompson": "OUT",
     "P.J. Washington": "OUT"
   },
   "Milwaukee Bucks": {
     "Giannis Antetokounmpo": "OUT",
     "Thanasis Antetokounmpo": "OUT",
-    "Gary Harris": "QUESTIONABLE",
-    "Kyle Kuzma": "PROBABLE",
+    "Gary Harris": "OUT",
+    "Kyle Kuzma": "AVAILABLE",
     "Kevin Porter Jr.": "OUT",
     "Bobby Portis": "OUT",
-    "Ryan Rollins": "PROBABLE"
+    "Ryan Rollins": "AVAILABLE"
   },
   "New York Knicks": {
     "Ariel Hukporti": "QUESTIONABLE",
@@ -183,5 +183,10 @@
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
+  },
+  "Denver Nuggets": {
+    "Aaron Gordon": "PROBABLE",
+    "Spencer Jones": "OUT",
+    "Zeke Nnaji": "OUT"
   }
 }
