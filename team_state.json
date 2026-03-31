@@ -42,11 +42,13 @@
     "Fred VanVleet": "OUT"
   },
   "Toronto Raptors": {
-    "RJ Barrett": "PROBABLE",
+    "RJ Barrett": "AVAILABLE",
     "Jamison Battle": "OUT",
     "Chucky Hepburn": "OUT",
     "Brandon Ingram": "QUESTIONABLE",
     "Trayce Jackson-Davis": "OUT",
+    "Alijah Martin": "OUT",
+    "Jonathan Mogbo": "OUT",
     "Collin Murray-Boyles": "QUESTIONABLE",
     "Immanuel Quickley": "OUT"
   },
@@ -60,5 +62,30 @@
   "LA Clippers": {
     "Bradley Beal": "OUT",
     "Isaiah Jackson": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Marvin Bagley III": "OUT",
+    "Moussa Cisse": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Naji Marshall": "OUT",
+    "Caleb Martin": "OUT",
+    "John Poulakidas": "PROBABLE",
+    "Tyler Smith": "PROBABLE",
+    "Klay Thompson": "DOUBTFUL",
+    "P.J. Washington": "OUT"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "OUT",
+    "Jalen Duren": "PROBABLE",
+    "Tobias Harris": "PROBABLE",
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Chaz Lanier": "OUT",
+    "Caris LeVert": "QUESTIONABLE",
+    "Wendell Moore Jr.": "OUT",
+    "Duncan Robinson": "PROBABLE",
+    "Marcus Sasser": "QUESTIONABLE",
+    "Isaiah Stewart": "OUT"
   }
 }
