@@ -47,9 +47,9 @@
     "Ryan Rollins": "AVAILABLE"
   },
   "New York Knicks": {
-    "Ariel Hukporti": "QUESTIONABLE",
-    "Dillon Jones": "QUESTIONABLE",
-    "Miles McBride": "QUESTIONABLE",
+    "Ariel Hukporti": "AVAILABLE",
+    "Dillon Jones": "AVAILABLE",
+    "Miles McBride": "AVAILABLE",
     "Landry Shamet": "OUT"
   },
   "Houston Rockets": {
@@ -62,24 +62,24 @@
     "RJ Barrett": "AVAILABLE",
     "Jamison Battle": "OUT",
     "Chucky Hepburn": "OUT",
-    "Brandon Ingram": "QUESTIONABLE",
+    "Brandon Ingram": "PROBABLE",
     "Trayce Jackson-Davis": "OUT",
     "Alijah Martin": "OUT",
     "Jonathan Mogbo": "OUT",
-    "Collin Murray-Boyles": "QUESTIONABLE",
+    "Collin Murray-Boyles": "PROBABLE",
     "Immanuel Quickley": "OUT"
   },
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
-    "Jalen Duren": "PROBABLE",
-    "Tobias Harris": "PROBABLE",
+    "Jalen Duren": "AVAILABLE",
+    "Tobias Harris": "AVAILABLE",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
-    "Caris LeVert": "QUESTIONABLE",
+    "Caris LeVert": "AVAILABLE",
     "Wendell Moore Jr.": "OUT",
-    "Duncan Robinson": "PROBABLE",
-    "Marcus Sasser": "QUESTIONABLE",
+    "Duncan Robinson": "AVAILABLE",
+    "Marcus Sasser": "AVAILABLE",
     "Isaiah Stewart": "OUT"
   },
   "Cleveland Cavaliers": {
