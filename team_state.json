@@ -86,7 +86,7 @@
     "Jarrett Allen": "OUT",
     "Tristan Enaruna": "OUT",
     "Riley Minix": "OUT",
-    "Craig Porter Jr.": "PROBABLE",
+    "Craig Porter Jr.": "AVAILABLE",
     "Olivier Sarr": "OUT",
     "Max Strus": "OUT",
     "Jaylon Tyson": "OUT",
@@ -95,6 +95,7 @@
   "Utah Jazz": {
     "Isaiah Collier": "OUT",
     "Keyonte George": "OUT",
+    "Elijah Harkless": "OUT",
     "Blake Hinson": "OUT",
     "Jaren Jackson Jr.": "OUT",
     "Walker Kessler": "OUT",
@@ -118,14 +119,14 @@
     "Jalen Williams": "OUT"
   },
   "Washington Wizards": {
-    "Leaky Black": "QUESTIONABLE",
-    "Bilal Coulibaly": "QUESTIONABLE",
+    "Leaky Black": "OUT",
+    "Bilal Coulibaly": "OUT",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
-    "Anthony Gill": "QUESTIONABLE",
-    "Julian Reese": "QUESTIONABLE",
+    "Anthony Gill": "AVAILABLE",
+    "Julian Reese": "OUT",
     "D'Angelo Russell": "OUT",
-    "Alex Sarr": "QUESTIONABLE",
+    "Alex Sarr": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
@@ -191,5 +192,9 @@
     "Damian Lillard": "OUT",
     "Shaedon Sharpe": "OUT",
     "Chris Youngblood": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Isaiah Jackson": "OUT"
   }
 }
