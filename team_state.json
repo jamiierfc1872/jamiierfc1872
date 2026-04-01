@@ -11,18 +11,18 @@
   },
   "Washington Wizards": {
     "Leaky Black": "QUESTIONABLE",
-    "Bilal Coulibaly": "QUESTIONABLE",
+    "Bilal Coulibaly": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
-    "Tre Johnson": "QUESTIONABLE",
+    "Tre Johnson": "AVAILABLE",
     "Julian Reese": "OUT",
     "D'Angelo Russell": "OUT",
-    "Alex Sarr": "QUESTIONABLE",
+    "Alex Sarr": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
   "Boston Celtics": {
-    "Ron Harper Jr.": "QUESTIONABLE",
+    "Ron Harper Jr.": "AVAILABLE",
     "Max Shulga": "QUESTIONABLE",
     "John Tonje": "QUESTIONABLE",
     "Nikola Vucevic": "OUT",
@@ -88,7 +88,7 @@
   "Utah Jazz": {
     "Isaiah Collier": "OUT",
     "Keyonte George": "OUT",
-    "Elijah Harkless": "QUESTIONABLE",
+    "Elijah Harkless": "OUT",
     "Blake Hinson": "OUT",
     "Jaren Jackson Jr.": "OUT",
     "Walker Kessler": "OUT",
