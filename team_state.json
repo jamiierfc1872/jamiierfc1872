@@ -30,10 +30,10 @@
   },
   "Boston Celtics": {
     "Ron Harper Jr.": "AVAILABLE",
-    "Max Shulga": "QUESTIONABLE",
-    "John Tonje": "QUESTIONABLE",
+    "Max Shulga": "AVAILABLE",
+    "John Tonje": "AVAILABLE",
     "Nikola Vucevic": "OUT",
-    "Amari Williams": "QUESTIONABLE"
+    "Amari Williams": "AVAILABLE"
   },
   "Miami Heat": {
     "Jaime Jaquez Jr.": "AVAILABLE",
@@ -176,6 +176,12 @@
     "Liam McNeeley": "OUT",
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Kobe Bufkin": "OUT",
+    "Dalton Knecht": "OUT",
+    "Marcus Smart": "OUT",
+    "Adou Thiero": "OUT"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "QUESTIONABLE",
