@@ -91,7 +91,7 @@
     "Dean Wade": "OUT"
   },
   "Los Angeles Lakers": {
-    "LeBron James": "QUESTIONABLE",
+    "LeBron James": "AVAILABLE",
     "Marcus Smart": "OUT"
   },
   "Portland Trail Blazers": {
@@ -103,7 +103,9 @@
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
-    "Isaiah Jackson": "OUT"
+    "Isaiah Jackson": "OUT",
+    "Norchad Omier": "OUT",
+    "Sean Pedulla": "OUT"
   },
   "Atlanta Hawks": {
     "RayJ Dennis": "QUESTIONABLE",
@@ -204,5 +206,16 @@
     "David Garcia": "OUT",
     "Luke Kornet": "OUT",
     "Emanuel Miller": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Stephen Curry": "OUT",
+    "Al Horford": "OUT",
+    "De'Anthony Melton": "OUT",
+    "Moses Moody": "OUT",
+    "Gary Payton II": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Quinten Post": "OUT",
+    "Gui Santos": "QUESTIONABLE"
   }
 }
