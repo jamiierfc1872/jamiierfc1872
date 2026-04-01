@@ -64,6 +64,12 @@
     "Jalen Smith": "OUT",
     "Guerschon Yabusele": "QUESTIONABLE"
   },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Isaiah Crawford": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
@@ -127,10 +133,19 @@
     "Quinten Post": "OUT",
     "Gui Santos": "QUESTIONABLE"
   },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Isaiah Crawford": "OUT",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
+  "Milwaukee Bucks": {
+    "Giannis Antetokounmpo": "OUT",
+    "Thanasis Antetokounmpo": "OUT",
+    "Gary Harris": "OUT",
+    "Kyle Kuzma": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT",
+    "Taurean Prince": "OUT",
+    "Myles Turner": "OUT"
+  },
+  "New York Knicks": {
+    "Jalen Brunson": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Mitchell Robinson": "OUT"
   }
 }
