@@ -58,11 +58,11 @@
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
-    "Josh Giddey": "QUESTIONABLE",
-    "Nick Richards": "QUESTIONABLE",
+    "Josh Giddey": "OUT",
+    "Nick Richards": "OUT",
     "Anfernee Simons": "OUT",
     "Jalen Smith": "OUT",
-    "Guerschon Yabusele": "QUESTIONABLE"
+    "Guerschon Yabusele": "AVAILABLE"
   },
   "Milwaukee Bucks": {
     "Giannis Antetokounmpo": "OUT",
@@ -91,12 +91,13 @@
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
     "Zach Edey": "OUT",
-    "Taj Gibson": "QUESTIONABLE",
-    "Taylor Hendricks": "DOUBTFUL",
+    "Taj Gibson": "OUT",
+    "Taylor Hendricks": "OUT",
     "Ty Jerome": "OUT",
     "Jahmai Mashack": "AVAILABLE",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT",
+    "Rayan Rupert": "OUT",
     "Jaylen Wells": "OUT"
   },
   "Sacramento Kings": {
@@ -111,12 +112,12 @@
     "Russell Westbrook": "OUT"
   },
   "Toronto Raptors": {
-    "Scottie Barnes": "QUESTIONABLE",
+    "Scottie Barnes": "PROBABLE",
     "Jamison Battle": "OUT",
     "Chucky Hepburn": "OUT",
     "Brandon Ingram": "OUT",
     "Immanuel Quickley": "OUT",
-    "Garrett Temple": "QUESTIONABLE"
+    "Garrett Temple": "PROBABLE"
   },
   "Denver Nuggets": {
     "Aaron Gordon": "PROBABLE",
@@ -191,5 +192,12 @@
     "Karlo Matkovic": "QUESTIONABLE",
     "Bryce McGowens": "OUT",
     "Trey Murphy III": "QUESTIONABLE"
+  },
+  "Cleveland Cavaliers": {
+    "Tristan Enaruna": "OUT",
+    "Riley Minix": "OUT",
+    "Olivier Sarr": "OUT",
+    "Jaylon Tyson": "OUT",
+    "Dean Wade": "OUT"
   }
 }
