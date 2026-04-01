@@ -41,7 +41,7 @@
     "Pelle Larsson": "AVAILABLE",
     "Norman Powell": "OUT",
     "Terry Rozier": "OUT",
-    "Andrew Wiggins": "QUESTIONABLE"
+    "Andrew Wiggins": "PROBABLE"
   },
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
@@ -78,6 +78,7 @@
     "Jaylen Wells": "OUT"
   },
   "Sacramento Kings": {
+    "Patrick Baldwin Jr.": "OUT",
     "Drew Eubanks": "OUT",
     "De'Andre Hunter": "OUT",
     "DaQuan Jeffries": "OUT",
@@ -86,6 +87,13 @@
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
+  },
+  "Toronto Raptors": {
+    "Scottie Barnes": "QUESTIONABLE",
+    "Jamison Battle": "OUT",
+    "Chucky Hepburn": "OUT",
+    "Brandon Ingram": "OUT",
+    "Immanuel Quickley": "OUT"
   },
   "Denver Nuggets": {
     "Aaron Gordon": "PROBABLE",
