@@ -64,11 +64,26 @@
     "Jalen Smith": "OUT",
     "Guerschon Yabusele": "QUESTIONABLE"
   },
+  "Milwaukee Bucks": {
+    "Giannis Antetokounmpo": "OUT",
+    "Thanasis Antetokounmpo": "OUT",
+    "Gary Harris": "OUT",
+    "Kyle Kuzma": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT",
+    "Taurean Prince": "OUT",
+    "Myles Turner": "OUT"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Isaiah Crawford": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "New York Knicks": {
+    "Jalen Brunson": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Mitchell Robinson": "OUT"
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
@@ -99,7 +114,8 @@
     "Jamison Battle": "OUT",
     "Chucky Hepburn": "OUT",
     "Brandon Ingram": "OUT",
-    "Immanuel Quickley": "OUT"
+    "Immanuel Quickley": "OUT",
+    "Garrett Temple": "OUT"
   },
   "Denver Nuggets": {
     "Aaron Gordon": "PROBABLE",
@@ -132,20 +148,5 @@
     "Kristaps Porzingis": "OUT",
     "Quinten Post": "OUT",
     "Gui Santos": "QUESTIONABLE"
-  },
-  "Milwaukee Bucks": {
-    "Giannis Antetokounmpo": "OUT",
-    "Thanasis Antetokounmpo": "OUT",
-    "Gary Harris": "OUT",
-    "Kyle Kuzma": "OUT",
-    "Kevin Porter Jr.": "OUT",
-    "Bobby Portis": "OUT",
-    "Taurean Prince": "OUT",
-    "Myles Turner": "OUT"
-  },
-  "New York Knicks": {
-    "Jalen Brunson": "QUESTIONABLE",
-    "Miles McBride": "OUT",
-    "Mitchell Robinson": "OUT"
   }
 }
