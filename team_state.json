@@ -49,9 +49,9 @@
     "T.J. McConnell": "OUT",
     "Andrew Nembhard": "OUT",
     "Aaron Nesmith": "OUT",
-    "Pascal Siakam": "PROBABLE",
-    "Jalen Slawson": "PROBABLE",
-    "Obi Toppin": "PROBABLE",
+    "Pascal Siakam": "AVAILABLE",
+    "Jalen Slawson": "AVAILABLE",
+    "Obi Toppin": "AVAILABLE",
     "Jarace Walker": "OUT",
     "Ivica Zubac": "OUT"
   },
@@ -112,12 +112,12 @@
     "Russell Westbrook": "OUT"
   },
   "Toronto Raptors": {
-    "Scottie Barnes": "PROBABLE",
+    "Scottie Barnes": "AVAILABLE",
     "Jamison Battle": "OUT",
     "Chucky Hepburn": "OUT",
     "Brandon Ingram": "OUT",
     "Immanuel Quickley": "OUT",
-    "Garrett Temple": "PROBABLE"
+    "Garrett Temple": "AVAILABLE"
   },
   "Denver Nuggets": {
     "Aaron Gordon": "PROBABLE",
@@ -149,7 +149,7 @@
     "Gary Payton II": "QUESTIONABLE",
     "Kristaps Porzingis": "OUT",
     "Quinten Post": "OUT",
-    "Gui Santos": "QUESTIONABLE"
+    "Gui Santos": "OUT"
   },
   "Minnesota Timberwolves": {
     "Anthony Edwards": "QUESTIONABLE",
@@ -188,16 +188,25 @@
     "Alex Caruso": "QUESTIONABLE",
     "Thomas Sorber": "OUT"
   },
-  "New Orleans Pelicans": {
-    "Karlo Matkovic": "QUESTIONABLE",
-    "Bryce McGowens": "OUT",
-    "Trey Murphy III": "QUESTIONABLE"
-  },
   "Cleveland Cavaliers": {
     "Tristan Enaruna": "OUT",
     "Riley Minix": "OUT",
     "Olivier Sarr": "OUT",
     "Jaylon Tyson": "OUT",
     "Dean Wade": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Karlo Matkovic": "QUESTIONABLE",
+    "Bryce McGowens": "OUT",
+    "Trey Murphy III": "QUESTIONABLE"
+  },
+  "Portland Trail Blazers": {
+    "Jerami Grant": "OUT",
+    "Jayson Kent": "DOUBTFUL",
+    "Vit Krejci": "OUT",
+    "Damian Lillard": "OUT",
+    "Shaedon Sharpe": "OUT",
+    "Hansen Yang": "DOUBTFUL",
+    "Chris Youngblood": "DOUBTFUL"
   }
 }
