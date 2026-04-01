@@ -149,5 +149,32 @@
     "Kristaps Porzingis": "OUT",
     "Quinten Post": "OUT",
     "Gui Santos": "QUESTIONABLE"
+  },
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "QUESTIONABLE",
+    "Enrique Freeman": "OUT",
+    "Jaden McDaniels": "OUT",
+    "Zyon Pullin": "OUT",
+    "Rocco Zikarsky": "OUT"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "OUT",
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Chaz Lanier": "OUT",
+    "Marcus Sasser": "QUESTIONABLE",
+    "Isaiah Stewart": "OUT"
+  },
+  "Phoenix Suns": {
+    "Amir Coffey": "OUT",
+    "Haywood Highsmith": "OUT",
+    "Mark Williams": "QUESTIONABLE"
+  },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT"
   }
 }
