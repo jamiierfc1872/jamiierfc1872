@@ -43,6 +43,16 @@
     "Jaylon Tyson": "OUT",
     "Dean Wade": "OUT"
   },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "QUESTIONABLE",
+    "Stephen Curry": "OUT",
+    "Al Horford": "OUT",
+    "De'Anthony Melton": "QUESTIONABLE",
+    "Moses Moody": "OUT",
+    "Quinten Post": "OUT",
+    "Gui Santos": "QUESTIONABLE"
+  },
   "New Orleans Pelicans": {
     "Karlo Matkovic": "OUT",
     "Bryce McGowens": "OUT",
@@ -83,15 +93,5 @@
     "Colin Castleton": "OUT",
     "Jonathan Isaac": "OUT",
     "Alex Morales": "OUT"
-  },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "Seth Curry": "QUESTIONABLE",
-    "Stephen Curry": "OUT",
-    "Al Horford": "OUT",
-    "De'Anthony Melton": "QUESTIONABLE",
-    "Moses Moody": "OUT",
-    "Quinten Post": "OUT",
-    "Gui Santos": "QUESTIONABLE"
   }
 }
