@@ -76,6 +76,28 @@
     "Bradley Beal": "OUT",
     "Isaiah Jackson": "OUT"
   },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "T.J. McConnell": "OUT",
+    "Andrew Nembhard": "OUT",
+    "Aaron Nesmith": "OUT",
+    "Pascal Siakam": "PROBABLE",
+    "Jalen Slawson": "DOUBTFUL",
+    "Obi Toppin": "PROBABLE",
+    "Jarace Walker": "OUT",
+    "Ivica Zubac": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Joel Embiid": "DOUBTFUL",
+    "Tyrese Maxey": "AVAILABLE"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "QUESTIONABLE",
+    "Keshon Gilbert": "QUESTIONABLE",
+    "Jock Landale": "OUT"
+  },
   "Brooklyn Nets": {
     "Nic Claxton": "PROBABLE",
     "Noah Clowney": "PROBABLE",
@@ -95,6 +117,9 @@
     "Anfernee Simons": "OUT",
     "Jalen Smith": "OUT",
     "Guerschon Yabusele": "PROBABLE"
+  },
+  "Boston Celtics": {
+    "Nikola Vucevic": "OUT"
   },
   "Toronto Raptors": {
     "Jamison Battle": "QUESTIONABLE",
