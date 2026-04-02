@@ -1,9 +1,23 @@
 {
-  "Atlanta Hawks": {},
-  "Orlando Magic": {},
-  "Philadelphia 76ers": {},
+  "Atlanta Hawks": {
+    "RayJ Dennis": "QUESTIONABLE",
+    "Keshon Gilbert": "QUESTIONABLE",
+    "Jock Landale": "QUESTIONABLE"
+  },
+  "Orlando Magic": {
+    "Anthony Black": "OUT",
+    "Colin Castleton": "OUT",
+    "Jonathan Isaac": "OUT",
+    "Alex Morales": "OUT",
+    "Franz Wagner": "QUESTIONABLE"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Joel Embiid": "OUT",
+    "Tyrese Maxey": "AVAILABLE"
+  },
   "Washington Wizards": {
-    "Leaky Black": "OUT",
+    "Leaky Black": "QUESTIONABLE",
     "Bilal Coulibaly": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
@@ -14,91 +28,136 @@
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
-  "Boston Celtics": {},
+  "Boston Celtics": {
+    "Ron Harper Jr.": "AVAILABLE",
+    "Max Shulga": "QUESTIONABLE",
+    "John Tonje": "QUESTIONABLE",
+    "Nikola Vucevic": "OUT",
+    "Amari Williams": "QUESTIONABLE"
+  },
   "Miami Heat": {
     "Jaime Jaquez Jr.": "AVAILABLE",
     "Nikola Jovic": "AVAILABLE",
     "Pelle Larsson": "AVAILABLE",
     "Norman Powell": "OUT",
     "Terry Rozier": "OUT",
-    "Andrew Wiggins": "AVAILABLE"
+    "Andrew Wiggins": "PROBABLE"
   },
-  "Indiana Pacers": {},
-  "Chicago Bulls": {},
-  "Milwaukee Bucks": {},
-  "Houston Rockets": {},
-  "New York Knicks": {},
-  "Memphis Grizzlies": {},
-  "Sacramento Kings": {},
-  "Toronto Raptors": {},
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "T.J. McConnell": "OUT",
+    "Andrew Nembhard": "OUT",
+    "Aaron Nesmith": "OUT",
+    "Pascal Siakam": "PROBABLE",
+    "Jalen Slawson": "PROBABLE",
+    "Obi Toppin": "PROBABLE",
+    "Jarace Walker": "OUT",
+    "Ivica Zubac": "OUT"
+  },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "QUESTIONABLE",
+    "Nick Richards": "QUESTIONABLE",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "OUT",
+    "Guerschon Yabusele": "QUESTIONABLE"
+  },
+  "Milwaukee Bucks": {
+    "Giannis Antetokounmpo": "OUT",
+    "Thanasis Antetokounmpo": "OUT",
+    "Gary Harris": "OUT",
+    "Kyle Kuzma": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT",
+    "Taurean Prince": "OUT",
+    "Ryan Rollins": "QUESTIONABLE",
+    "Myles Turner": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Isaiah Crawford": "OUT",
+    "Tristen Newton": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "New York Knicks": {
+    "Jalen Brunson": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Mitchell Robinson": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "Taj Gibson": "QUESTIONABLE",
+    "Taylor Hendricks": "DOUBTFUL",
+    "Ty Jerome": "OUT",
+    "Jahmai Mashack": "AVAILABLE",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Jaylen Wells": "OUT"
+  },
+  "Sacramento Kings": {
+    "Patrick Baldwin Jr.": "OUT",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "DaQuan Jeffries": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
+  },
+  "Toronto Raptors": {
+    "Scottie Barnes": "QUESTIONABLE",
+    "Jamison Battle": "OUT",
+    "Chucky Hepburn": "OUT",
+    "Brandon Ingram": "OUT",
+    "Immanuel Quickley": "OUT",
+    "Garrett Temple": "QUESTIONABLE"
+  },
   "Denver Nuggets": {
-    "Aaron Gordon": "AVAILABLE",
+    "Aaron Gordon": "PROBABLE",
     "Spencer Jones": "OUT",
     "Zeke Nnaji": "OUT"
   },
-  "Utah Jazz": {},
-  "San Antonio Spurs": {},
-  "Golden State Warriors": {},
-  "Minnesota Timberwolves": {
-    "Anthony Edwards": "QUESTIONABLE",
-    "Enrique Freeman": "OUT",
-    "Jaden McDaniels": "OUT",
-    "Zyon Pullin": "OUT",
-    "Rocco Zikarsky": "OUT"
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Keyonte George": "OUT",
+    "Elijah Harkless": "OUT",
+    "Blake Hinson": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
   },
-  "Detroit Pistons": {
-    "Cade Cunningham": "OUT",
-    "Isaac Jones": "OUT",
-    "Bobi Klintman": "OUT",
-    "Chaz Lanier": "OUT",
-    "Marcus Sasser": "QUESTIONABLE",
-    "Isaiah Stewart": "OUT"
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Luke Kornet": "OUT",
+    "Emanuel Miller": "OUT"
   },
-  "Phoenix Suns": {
-    "Amir Coffey": "OUT",
-    "Haywood Highsmith": "OUT",
-    "Mark Williams": "QUESTIONABLE"
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Stephen Curry": "OUT",
+    "Al Horford": "OUT",
+    "De'Anthony Melton": "OUT",
+    "Moses Moody": "OUT",
+    "Gary Payton II": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
+    "Quinten Post": "OUT",
+    "Gui Santos": "QUESTIONABLE"
   },
-  "Charlotte Hornets": {
-    "Tosan Evbuomwan": "OUT",
-    "PJ Hall": "OUT",
-    "Liam McNeeley": "OUT",
-    "Antonio Reeves": "OUT",
-    "Tidjane Salaun": "OUT"
-  },
-  "Los Angeles Lakers": {
-    "Kobe Bufkin": "OUT",
-    "Dalton Knecht": "OUT",
-    "Marcus Smart": "OUT",
-    "Adou Thiero": "OUT"
-  },
-  "Oklahoma City Thunder": {
-    "Alex Caruso": "QUESTIONABLE",
-    "Thomas Sorber": "OUT"
-  },
-  "Cleveland Cavaliers": {
-    "Tristan Enaruna": "OUT",
-    "Riley Minix": "OUT",
-    "Olivier Sarr": "OUT",
-    "Jaylon Tyson": "OUT",
-    "Dean Wade": "OUT"
-  },
-  "New Orleans Pelicans": {
-    "Karlo Matkovic": "QUESTIONABLE",
-    "Bryce McGowens": "OUT",
-    "Trey Murphy III": "QUESTIONABLE"
-  },
-  "Portland Trail Blazers": {
-    "Jerami Grant": "OUT",
-    "Jayson Kent": "DOUBTFUL",
-    "Vit Krejci": "OUT",
-    "Damian Lillard": "OUT",
-    "Shaedon Sharpe": "OUT",
-    "Hansen Yang": "DOUBTFUL",
-    "Chris Youngblood": "DOUBTFUL"
-  },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "Isaiah Jackson": "OUT"
-  }
+  "Minnesota Timberwolves": {},
+  "Detroit Pistons": {},
+  "Phoenix Suns": {},
+  "Charlotte Hornets": {},
+  "Los Angeles Lakers": {},
+  "Oklahoma City Thunder": {},
+  "Cleveland Cavaliers": {},
+  "New Orleans Pelicans": {},
+  "Portland Trail Blazers": {},
+  "LA Clippers": {}
 }
