@@ -50,12 +50,12 @@
   },
   "Portland Trail Blazers": {
     "Jerami Grant": "OUT",
-    "Jayson Kent": "DOUBTFUL",
+    "Jayson Kent": "QUESTIONABLE",
     "Vit Krejci": "OUT",
     "Damian Lillard": "OUT",
     "Shaedon Sharpe": "OUT",
     "Hansen Yang": "DOUBTFUL",
-    "Chris Youngblood": "DOUBTFUL"
+    "Chris Youngblood": "QUESTIONABLE"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
@@ -83,5 +83,15 @@
     "Colin Castleton": "OUT",
     "Jonathan Isaac": "OUT",
     "Alex Morales": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "QUESTIONABLE",
+    "Stephen Curry": "OUT",
+    "Al Horford": "OUT",
+    "De'Anthony Melton": "QUESTIONABLE",
+    "Moses Moody": "OUT",
+    "Quinten Post": "OUT",
+    "Gui Santos": "QUESTIONABLE"
   }
 }
