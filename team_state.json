@@ -120,7 +120,7 @@
     "Garrett Temple": "AVAILABLE"
   },
   "Denver Nuggets": {
-    "Aaron Gordon": "PROBABLE",
+    "Aaron Gordon": "AVAILABLE",
     "Spencer Jones": "OUT",
     "Zeke Nnaji": "OUT"
   },
@@ -208,5 +208,9 @@
     "Shaedon Sharpe": "OUT",
     "Hansen Yang": "DOUBTFUL",
     "Chris Youngblood": "DOUBTFUL"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Isaiah Jackson": "OUT"
   }
 }
