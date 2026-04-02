@@ -1,6 +1,6 @@
 {
   "Minnesota Timberwolves": {
-    "Anthony Edwards": "QUESTIONABLE",
+    "Anthony Edwards": "OUT",
     "Enrique Freeman": "OUT",
     "Jaden McDaniels": "OUT",
     "Zyon Pullin": "OUT",
@@ -11,7 +11,7 @@
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
     "Chaz Lanier": "OUT",
-    "Marcus Sasser": "QUESTIONABLE",
+    "Marcus Sasser": "AVAILABLE",
     "Isaiah Stewart": "OUT"
   },
   "Phoenix Suns": {
@@ -121,6 +121,15 @@
   "Boston Celtics": {
     "Nikola Vucevic": "OUT"
   },
+  "Milwaukee Bucks": {
+    "Giannis Antetokounmpo": "OUT",
+    "Thanasis Antetokounmpo": "QUESTIONABLE",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT",
+    "Ryan Rollins": "PROBABLE",
+    "Jericho Sims": "PROBABLE",
+    "Gary Trent Jr.": "QUESTIONABLE"
+  },
   "Toronto Raptors": {
     "Jamison Battle": "QUESTIONABLE",
     "Chucky Hepburn": "OUT",
@@ -137,5 +146,15 @@
     "Colin Castleton": "OUT",
     "Jonathan Isaac": "OUT",
     "Alex Morales": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Marvin Bagley III": "DOUBTFUL",
+    "Moussa Cisse": "QUESTIONABLE",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "DOUBTFUL",
+    "John Poulakidas": "PROBABLE",
+    "Tyler Smith": "PROBABLE",
+    "P.J. Washington": "DOUBTFUL"
   }
 }
