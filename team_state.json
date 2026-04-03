@@ -137,6 +137,12 @@
     "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
   },
+  "Denver Nuggets": {
+    "Tim Hardaway Jr.": "PROBABLE",
+    "Spencer Jones": "OUT",
+    "Zeke Nnaji": "OUT",
+    "Peyton Watson": "OUT"
+  },
   "Washington Wizards": {
     "Bilal Coulibaly": "QUESTIONABLE",
     "Anthony Davis": "OUT",
@@ -153,5 +159,15 @@
     "Norman Powell": "OUT",
     "Terry Rozier": "OUT",
     "Andrew Wiggins": "AVAILABLE"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "OUT",
+    "Tobias Harris": "QUESTIONABLE",
+    "Isaac Jones": "QUESTIONABLE",
+    "Bobi Klintman": "QUESTIONABLE",
+    "Chaz Lanier": "QUESTIONABLE",
+    "Wendell Moore Jr.": "QUESTIONABLE",
+    "Marcus Sasser": "PROBABLE",
+    "Isaiah Stewart": "OUT"
   }
 }
