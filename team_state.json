@@ -21,7 +21,7 @@
     "Grant Williams": "OUT"
   },
   "Minnesota Timberwolves": {
-    "Anthony Edwards": "QUESTIONABLE",
+    "Anthony Edwards": "AVAILABLE",
     "Enrique Freeman": "OUT",
     "Jaden McDaniels": "OUT",
     "Zyon Pullin": "OUT",
@@ -65,7 +65,7 @@
     "Thanasis Antetokounmpo": "QUESTIONABLE",
     "Kevin Porter Jr.": "OUT",
     "Bobby Portis": "OUT",
-    "Ryan Rollins": "PROBABLE",
+    "Ryan Rollins": "QUESTIONABLE",
     "Jericho Sims": "PROBABLE",
     "Gary Trent Jr.": "QUESTIONABLE"
   },
@@ -136,6 +136,10 @@
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
+  },
+  "San Antonio Spurs": {
+    "David Garcia": "OUT",
+    "Emanuel Miller": "OUT"
   },
   "Denver Nuggets": {
     "Tim Hardaway Jr.": "PROBABLE",
