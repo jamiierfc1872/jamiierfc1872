@@ -33,7 +33,7 @@
     "Adou Thiero": "OUT"
   },
   "Oklahoma City Thunder": {
-    "Alex Caruso": "QUESTIONABLE",
+    "Alex Caruso": "OUT",
     "Thomas Sorber": "OUT"
   },
   "Cleveland Cavaliers": {
@@ -45,27 +45,27 @@
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
-    "Seth Curry": "QUESTIONABLE",
+    "Seth Curry": "OUT",
     "Stephen Curry": "OUT",
     "Al Horford": "OUT",
-    "De'Anthony Melton": "QUESTIONABLE",
+    "De'Anthony Melton": "AVAILABLE",
     "Moses Moody": "OUT",
     "Quinten Post": "OUT",
-    "Gui Santos": "QUESTIONABLE"
+    "Gui Santos": "AVAILABLE"
   },
   "New Orleans Pelicans": {
     "Karlo Matkovic": "OUT",
     "Bryce McGowens": "OUT",
-    "Trey Murphy III": "QUESTIONABLE"
+    "Trey Murphy III": "AVAILABLE"
   },
   "Portland Trail Blazers": {
     "Jerami Grant": "OUT",
-    "Jayson Kent": "QUESTIONABLE",
+    "Jayson Kent": "AVAILABLE",
     "Vit Krejci": "OUT",
     "Damian Lillard": "OUT",
     "Shaedon Sharpe": "OUT",
-    "Hansen Yang": "DOUBTFUL",
-    "Chris Youngblood": "QUESTIONABLE"
+    "Hansen Yang": "OUT",
+    "Chris Youngblood": "AVAILABLE"
   },
   "San Antonio Spurs": {
     "David Garcia": "OUT",
@@ -74,7 +74,8 @@
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
-    "Isaiah Jackson": "OUT"
+    "Isaiah Jackson": "OUT",
+    "Norchad Omier": "OUT"
   },
   "Indiana Pacers": {
     "Johnny Furphy": "OUT",
@@ -179,5 +180,16 @@
     "John Poulakidas": "PROBABLE",
     "Tyler Smith": "PROBABLE",
     "P.J. Washington": "DOUBTFUL"
+  },
+  "Sacramento Kings": {
+    "Patrick Baldwin Jr.": "OUT",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "QUESTIONABLE",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
   }
 }
