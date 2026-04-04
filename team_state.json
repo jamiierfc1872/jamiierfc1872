@@ -44,6 +44,20 @@
     "Paul George": "PROBABLE",
     "Tyrese Maxey": "AVAILABLE"
   },
+  "Chicago Bulls": {
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "QUESTIONABLE",
+    "Lachlan Olbrich": "PROBABLE",
+    "Nick Richards": "QUESTIONABLE",
+    "Collin Sexton": "PROBABLE",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Immanuel Quickley": "OUT"
+  },
   "Boston Celtics": {
     "Nikola Vucevic": "QUESTIONABLE"
   },
