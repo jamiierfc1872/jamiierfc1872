@@ -10,31 +10,38 @@
     "Peyton Watson": "OUT"
   },
   "Washington Wizards": {
-    "Justin Champagnie": "QUESTIONABLE",
-    "Bilal Coulibaly": "QUESTIONABLE",
+    "Justin Champagnie": "AVAILABLE",
+    "Bilal Coulibaly": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
-    "Tre Johnson": "QUESTIONABLE",
+    "Tre Johnson": "AVAILABLE",
     "D'Angelo Russell": "OUT",
-    "Alex Sarr": "QUESTIONABLE",
-    "Tristan Vukcevic": "QUESTIONABLE",
+    "Alex Sarr": "OUT",
+    "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
   "Miami Heat": {
-    "Tyler Herro": "PROBABLE",
+    "Tyler Herro": "AVAILABLE",
     "Norman Powell": "OUT",
     "Terry Rozier": "OUT",
     "Andrew Wiggins": "AVAILABLE"
   },
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
+    "Jalen Duren": "QUESTIONABLE",
     "Tobias Harris": "QUESTIONABLE",
-    "Isaac Jones": "QUESTIONABLE",
-    "Bobi Klintman": "QUESTIONABLE",
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
     "Chaz Lanier": "QUESTIONABLE",
-    "Wendell Moore Jr.": "QUESTIONABLE",
-    "Marcus Sasser": "PROBABLE",
+    "Wendell Moore Jr.": "OUT",
+    "Marcus Sasser": "AVAILABLE",
     "Isaiah Stewart": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Joel Embiid": "OUT",
+    "Paul George": "PROBABLE",
+    "Tyrese Maxey": "AVAILABLE"
   }
 }
