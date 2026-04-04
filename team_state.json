@@ -44,6 +44,13 @@
     "Paul George": "PROBABLE",
     "Tyrese Maxey": "AVAILABLE"
   },
+  "Milwaukee Bucks": {
+    "Giannis Antetokounmpo": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT",
+    "Ryan Rollins": "QUESTIONABLE",
+    "Gary Trent Jr.": "OUT"
+  },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
@@ -60,6 +67,16 @@
   },
   "Boston Celtics": {
     "Nikola Vucevic": "QUESTIONABLE"
+  },
+  "Brooklyn Nets": {
+    "Nic Claxton": "OUT",
+    "Noah Clowney": "QUESTIONABLE",
+    "Egor Demin": "OUT",
+    "Terance Mann": "PROBABLE",
+    "Michael Porter Jr.": "OUT",
+    "Day'Ron Sharpe": "OUT",
+    "Ziaire Williams": "OUT",
+    "Danny Wolf": "OUT"
   },
   "Orlando Magic": {
     "Anthony Black": "OUT",
@@ -78,5 +95,14 @@
     "Isaiah Crawford": "OUT",
     "Tristen Newton": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "QUESTIONABLE",
+    "Stephen Curry": "QUESTIONABLE",
+    "Al Horford": "OUT",
+    "Moses Moody": "OUT",
+    "Quinten Post": "OUT",
+    "Gui Santos": "PROBABLE"
   }
 }
