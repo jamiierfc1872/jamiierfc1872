@@ -1,142 +1,25 @@
 {
-  "Indiana Pacers": {
-    "Johnny Furphy": "OUT",
-    "Tyrese Haliburton": "OUT",
-    "T.J. McConnell": "OUT",
-    "Andrew Nembhard": "OUT",
-    "Aaron Nesmith": "OUT",
-    "Pascal Siakam": "AVAILABLE",
-    "Jalen Slawson": "OUT",
-    "Obi Toppin": "AVAILABLE",
-    "Jarace Walker": "OUT",
-    "Ivica Zubac": "OUT"
-  },
-  "Charlotte Hornets": {
-    "Moussa Diabate": "OUT",
-    "Tosan Evbuomwan": "OUT",
-    "PJ Hall": "OUT",
-    "Liam McNeeley": "OUT",
-    "Antonio Reeves": "OUT",
-    "Tidjane Salaun": "OUT",
-    "Grant Williams": "OUT"
-  },
-  "Minnesota Timberwolves": {
-    "Anthony Edwards": "AVAILABLE",
-    "Enrique Freeman": "OUT",
-    "Jaden McDaniels": "OUT",
-    "Zyon Pullin": "OUT",
-    "Rocco Zikarsky": "OUT"
-  },
-  "Philadelphia 76ers": {
-    "Johni Broome": "OUT",
-    "Joel Embiid": "AVAILABLE",
-    "Tyrese Maxey": "AVAILABLE"
-  },
+  "Indiana Pacers": {},
+  "Charlotte Hornets": {},
+  "Minnesota Timberwolves": {},
+  "Philadelphia 76ers": {},
   "Atlanta Hawks": {
     "RayJ Dennis": "OUT",
     "Keshon Gilbert": "OUT",
     "Jock Landale": "OUT"
   },
-  "Brooklyn Nets": {
-    "Nic Claxton": "AVAILABLE",
-    "Noah Clowney": "AVAILABLE",
-    "Egor Demin": "OUT",
-    "Michael Porter Jr.": "OUT",
-    "Day'Ron Sharpe": "OUT",
-    "Danny Wolf": "OUT"
-  },
-  "Chicago Bulls": {
-    "Zach Collins": "OUT",
-    "Noa Essengue": "OUT",
-    "Josh Giddey": "AVAILABLE",
-    "Tre -Jones": "AVAILABLE",
-    "Mac -McClung": "AVAILABLE",
-    "Lachlan -Olbrich": "AVAILABLE",
-    "Nick -Richards": "OUT",
-    "Anfernee Simons": "OUT",
-    "Jalen Smith": "OUT",
-    "Guerschon Yabusele": "AVAILABLE"
-  },
-  "Boston Celtics": {
-    "Nikola Vucevic": "OUT"
-  },
-  "Milwaukee Bucks": {
-    "Giannis Antetokounmpo": "OUT",
-    "Thanasis Antetokounmpo": "AVAILABLE",
-    "Kevin Porter Jr.": "OUT",
-    "Bobby Portis": "OUT",
-    "Ryan Rollins": "OUT",
-    "Jericho Sims": "AVAILABLE",
-    "Gary Trent Jr.": "OUT"
-  },
-  "Toronto Raptors": {
-    "Jamison Battle": "AVAILABLE",
-    "Chucky Hepburn": "OUT",
-    "Immanuel Quickley": "OUT"
-  },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Kentavious Caldwell-Pope": "OUT",
-    "Brandon Clarke": "OUT",
-    "Walter Clayton Jr.": "OUT",
-    "Zach Edey": "OUT",
-    "Taj Gibson": "OUT",
-    "Ty Jerome": "OUT",
-    "Jahmai Mashack": "AVAILABLE",
-    "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT",
-    "Cam Spencer": "OUT",
-    "Jaylen Wells": "OUT"
-  },
-  "Utah Jazz": {
-    "Isaiah Collier": "OUT",
-    "Keyonte George": "OUT",
-    "Elijah Harkless": "OUT",
-    "Blake Hinson": "OUT",
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT"
-  },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Isaiah Crawford": "OUT",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
-  },
-  "Orlando Magic": {
-    "Anthony Black": "OUT",
-    "Colin Castleton": "OUT",
-    "Jonathan Isaac": "OUT",
-    "Alex Morales": "OUT"
-  },
-  "Dallas Mavericks": {
-    "Marvin Bagley III": "OUT",
-    "Moussa Cisse": "OUT",
-    "Kyrie Irving": "OUT",
-    "Dereck Lively II": "OUT",
-    "Caleb Martin": "OUT",
-    "John Poulakidas": "AVAILABLE",
-    "Tyler Smith": "AVAILABLE",
-    "P.J. Washington": "OUT"
-  },
-  "New Orleans Pelicans": {
-    "Karlo Matkovic": "OUT",
-    "Bryce McGowens": "OUT",
-    "Trey Murphy III": "AVAILABLE",
-    "Dejounte Murray": "OUT"
-  },
-  "Sacramento Kings": {
-    "Patrick Baldwin Jr.": "OUT",
-    "Drew Eubanks": "OUT",
-    "De'Andre Hunter": "OUT",
-    "Zach LaVine": "OUT",
-    "Malik Monk": "OUT",
-    "Keegan Murray": "OUT",
-    "Domantas Sabonis": "OUT",
-    "Isaiah Stevens": "OUT",
-    "Russell Westbrook": "OUT"
-  },
+  "Brooklyn Nets": {},
+  "Chicago Bulls": {},
+  "Boston Celtics": {},
+  "Milwaukee Bucks": {},
+  "Toronto Raptors": {},
+  "Memphis Grizzlies": {},
+  "Utah Jazz": {},
+  "Houston Rockets": {},
+  "Orlando Magic": {},
+  "Dallas Mavericks": {},
+  "New Orleans Pelicans": {},
+  "Sacramento Kings": {},
   "San Antonio Spurs": {
     "David Garcia": "OUT",
     "Emanuel Miller": "OUT"
