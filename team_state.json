@@ -29,11 +29,11 @@
   },
   "Detroit Pistons": {
     "Cade Cunningham": "OUT",
-    "Jalen Duren": "QUESTIONABLE",
-    "Tobias Harris": "QUESTIONABLE",
+    "Jalen Duren": "AVAILABLE",
+    "Tobias Harris": "AVAILABLE",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
-    "Chaz Lanier": "QUESTIONABLE",
+    "Chaz Lanier": "AVAILABLE",
     "Wendell Moore Jr.": "OUT",
     "Marcus Sasser": "AVAILABLE",
     "Isaiah Stewart": "OUT"
@@ -41,8 +41,25 @@
   "Philadelphia 76ers": {
     "Johni Broome": "OUT",
     "Joel Embiid": "OUT",
-    "Paul George": "PROBABLE",
+    "Paul George": "AVAILABLE",
     "Tyrese Maxey": "AVAILABLE"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Cedric Coward": "DOUBTFUL",
+    "Zach Edey": "OUT",
+    "Taj Gibson": "PROBABLE",
+    "GG Jackson": "DOUBTFUL",
+    "Ty Jerome": "OUT",
+    "Jahmai Mashack": "OUT",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Javon Small": "OUT",
+    "Cam Spencer": "OUT",
+    "Jaylen Wells": "OUT"
   },
   "Milwaukee Bucks": {
     "Giannis Antetokounmpo": "OUT",
@@ -50,6 +67,10 @@
     "Bobby Portis": "OUT",
     "Ryan Rollins": "QUESTIONABLE",
     "Gary Trent Jr.": "OUT"
+  },
+  "Phoenix Suns": {
+    "Amir Coffey": "QUESTIONABLE",
+    "Haywood Highsmith": "OUT"
   },
   "Chicago Bulls": {
     "Zach Collins": "OUT",
@@ -97,6 +118,14 @@
     "Jaylon Tyson": "OUT",
     "Dean Wade": "OUT"
   },
+  "Charlotte Hornets": {
+    "Moussa Diabate": "PROBABLE",
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT"
+  },
   "Minnesota Timberwolves": {
     "Anthony Edwards": "QUESTIONABLE",
     "Jaden McDaniels": "OUT"
@@ -112,6 +141,25 @@
     "Bryce McGowens": "OUT",
     "Trey Murphy III": "QUESTIONABLE",
     "Dejounte Murray": "QUESTIONABLE"
+  },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Keyonte George": "OUT",
+    "Elijah Harkless": "OUT",
+    "Blake Hinson": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Thomas Sorber": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "OUT",
+    "Austin Reaves": "OUT",
+    "Marcus Smart": "OUT",
+    "Jarred Vanderbilt": "QUESTIONABLE"
   },
   "Dallas Mavericks": {
     "Marvin Bagley III": "PROBABLE",
