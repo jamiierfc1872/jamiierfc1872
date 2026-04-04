@@ -4,7 +4,7 @@
     "Emanuel Miller": "OUT"
   },
   "Denver Nuggets": {
-    "Tim Hardaway Jr.": "PROBABLE",
+    "Tim Hardaway Jr.": "AVAILABLE",
     "Spencer Jones": "OUT",
     "Zeke Nnaji": "OUT",
     "Peyton Watson": "OUT"
@@ -43,5 +43,11 @@
     "Joel Embiid": "OUT",
     "Paul George": "PROBABLE",
     "Tyrese Maxey": "AVAILABLE"
+  },
+  "Orlando Magic": {
+    "Anthony Black": "OUT",
+    "Colin Castleton": "OUT",
+    "Jonathan Isaac": "OUT",
+    "Alex Morales": "OUT"
   }
 }
