@@ -132,12 +132,12 @@
     "Jarred Vanderbilt": "AVAILABLE"
   },
   "Dallas Mavericks": {
-    "Marvin Bagley III": "PROBABLE",
-    "Moussa Cisse": "QUESTIONABLE",
+    "Marvin Bagley III": "AVAILABLE",
+    "Moussa Cisse": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
     "Caleb Martin": "OUT",
-    "John Poulakidas": "PROBABLE",
+    "John Poulakidas": "AVAILABLE",
     "Tyler Smith": "QUESTIONABLE"
   },
   "LA Clippers": {
@@ -187,6 +187,11 @@
     "Keshon Gilbert": "QUESTIONABLE",
     "Jock Landale": "OUT"
   },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Tyrese Maxey": "AVAILABLE",
+    "Cameron Payne": "OUT"
+  },
   "San Antonio Spurs": {
     "Harrison Ingram": "OUT",
     "David Garcia": "OUT",
@@ -197,10 +202,5 @@
     "Spencer Jones": "OUT",
     "Zeke Nnaji": "QUESTIONABLE",
     "Peyton Watson": "OUT"
-  },
-  "Philadelphia 76ers": {
-    "Johni Broome": "OUT",
-    "Tyrese Maxey": "AVAILABLE",
-    "Cameron Payne": "OUT"
   }
 }
