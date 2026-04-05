@@ -171,21 +171,6 @@
     "John Poulakidas": "PROBABLE",
     "Tyler Smith": "QUESTIONABLE"
   },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Isaiah Crawford": "OUT",
-    "Tristen Newton": "OUT",
-    "Fred VanVleet": "OUT"
-  },
-  "Golden State Warriors": {
-    "Jimmy Butler III": "OUT",
-    "Seth Curry": "QUESTIONABLE",
-    "Stephen Curry": "QUESTIONABLE",
-    "Al Horford": "OUT",
-    "Moses Moody": "OUT",
-    "Quinten Post": "OUT",
-    "Gui Santos": "PROBABLE"
-  },
   "LA Clippers": {
     "Bradley Beal": "OUT",
     "Isaiah Jackson": "OUT"
@@ -199,5 +184,20 @@
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Isaiah Crawford": "AVAILABLE",
+    "Tristen Newton": "AVAILABLE",
+    "Fred VanVleet": "OUT"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Seth Curry": "QUESTIONABLE",
+    "Stephen Curry": "QUESTIONABLE",
+    "Al Horford": "OUT",
+    "Moses Moody": "OUT",
+    "Quinten Post": "OUT",
+    "Gui Santos": "PROBABLE"
   }
 }
