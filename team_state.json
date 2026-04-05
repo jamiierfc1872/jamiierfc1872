@@ -162,11 +162,21 @@
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
     "Seth Curry": "QUESTIONABLE",
     "Stephen Curry": "QUESTIONABLE",
     "Al Horford": "OUT",
     "Moses Moody": "OUT",
     "Quinten Post": "OUT",
     "Gui Santos": "PROBABLE"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "OUT",
+    "Tobias Harris": "QUESTIONABLE",
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Duncan Robinson": "QUESTIONABLE",
+    "Isaiah Stewart": "OUT"
   }
 }
