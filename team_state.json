@@ -88,7 +88,7 @@
     "Dean Wade": "OUT"
   },
   "Charlotte Hornets": {
-    "Moussa Diabate": "PROBABLE",
+    "Moussa Diabate": "AVAILABLE",
     "Tosan Evbuomwan": "OUT",
     "PJ Hall": "OUT",
     "Liam McNeeley": "OUT",
@@ -186,5 +186,10 @@
     "RayJ Dennis": "QUESTIONABLE",
     "Keshon Gilbert": "QUESTIONABLE",
     "Jock Landale": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "OUT"
   }
 }
