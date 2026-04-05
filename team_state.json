@@ -74,10 +74,10 @@
     "T.J. McConnell": "OUT",
     "Andrew Nembhard": "OUT",
     "Aaron Nesmith": "OUT",
-    "Ben Sheppard": "QUESTIONABLE",
+    "Ben Sheppard": "OUT",
     "Pascal Siakam": "OUT",
-    "Obi Toppin": "PROBABLE",
-    "Jarace Walker": "QUESTIONABLE",
+    "Obi Toppin": "AVAILABLE",
+    "Jarace Walker": "OUT",
     "Ivica Zubac": "OUT"
   },
   "Cleveland Cavaliers": {
@@ -178,5 +178,13 @@
     "Wendell Moore Jr.": "OUT",
     "Duncan Robinson": "QUESTIONABLE",
     "Isaiah Stewart": "OUT"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "QUESTIONABLE",
+    "Keshon Gilbert": "QUESTIONABLE",
+    "Jock Landale": "OUT"
+  },
+  "New York Knicks": {
+    "Trey Jemison III": "OUT"
   }
 }
