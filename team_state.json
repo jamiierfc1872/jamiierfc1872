@@ -67,12 +67,54 @@
     "Zeke Nnaji": "QUESTIONABLE",
     "Peyton Watson": "OUT"
   },
+  "Chicago Bulls": {
+    "Matas Buzelis": "OUT",
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "OUT",
+    "Lachlan Olbrich": "PROBABLE",
+    "Nick Richards": "OUT",
+    "Collin Sexton": "PROBABLE",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "OUT"
+  },
+  "Washington Wizards": {
+    "Justin Champagnie": "QUESTIONABLE",
+    "Bilal Coulibaly": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "Tre Johnson": "QUESTIONABLE",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Tristan Vukcevic": "QUESTIONABLE",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "OUT",
+    "Jaden McDaniels": "OUT"
+  },
   "Miami Heat": {
     "Tyler Herro": "PROBABLE",
     "Nikola Jovic": "OUT",
     "Norman Powell": "PROBABLE",
     "Terry Rozier": "OUT",
     "Andrew Wiggins": "AVAILABLE"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Sandro Mamukelashvili": "QUESTIONABLE",
+    "Collin Murray-Boyles": "QUESTIONABLE",
+    "Immanuel Quickley": "QUESTIONABLE"
+  },
+  "Milwaukee Bucks": {
+    "Giannis Antetokounmpo": "OUT",
+    "Kyle Kuzma": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT",
+    "Ryan Rollins": "OUT",
+    "Gary Trent Jr.": "OUT",
+    "Myles Turner": "OUT"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
@@ -83,5 +125,16 @@
     "Kristaps Porzingis": "QUESTIONABLE",
     "Quinten Post": "OUT",
     "Gui Santos": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Marvin Bagley III": "QUESTIONABLE",
+    "Moussa Cisse": "PROBABLE",
+    "Daniel Gafford": "DOUBTFUL",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "DOUBTFUL",
+    "John Poulakidas": "PROBABLE",
+    "Tyler Smith": "PROBABLE",
+    "Brandon Williams": "QUESTIONABLE"
   }
 }
