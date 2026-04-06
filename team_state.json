@@ -10,7 +10,7 @@
     "Isaiah Stewart": "DOUBTFUL"
   },
   "Orlando Magic": {
-    "Anthony Black": "OUT",
+    "Anthony Black": "QUESTIONABLE",
     "Jett Howard": "OUT",
     "Jonathan Isaac": "OUT",
     "Franz Wagner": "OUT"
@@ -22,28 +22,6 @@
     "RayJ Dennis": "QUESTIONABLE",
     "Keshon Gilbert": "QUESTIONABLE",
     "Jock Landale": "OUT"
-  },
-  "Philadelphia 76ers": {
-    "Johni Broome": "OUT",
-    "Tyrese Maxey": "AVAILABLE",
-    "Cameron Payne": "OUT"
-  },
-  "San Antonio Spurs": {
-    "Harrison Ingram": "OUT",
-    "David Garcia": "OUT",
-    "Emanuel Miller": "OUT"
-  },
-  "Portland Trail Blazers": {
-    "Jerami Grant": "OUT",
-    "Vit Krejci": "OUT",
-    "Damian Lillard": "OUT",
-    "Shaedon Sharpe": "OUT"
-  },
-  "Denver Nuggets": {
-    "Bruce Brown": "PROBABLE",
-    "Spencer Jones": "OUT",
-    "Zeke Nnaji": "QUESTIONABLE",
-    "Peyton Watson": "OUT"
   },
   "Cleveland Cavaliers": {
     "Thomas Bryant": "OUT",
@@ -66,5 +44,27 @@
     "Scotty Pippen Jr.": "OUT",
     "Javon Small": "OUT",
     "Jaylen Wells": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Tyrese Maxey": "AVAILABLE",
+    "Cameron Payne": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Harrison Ingram": "OUT",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Jerami Grant": "OUT",
+    "Vit Krejci": "OUT",
+    "Damian Lillard": "OUT",
+    "Shaedon Sharpe": "OUT"
+  },
+  "Denver Nuggets": {
+    "Bruce Brown": "PROBABLE",
+    "Spencer Jones": "OUT",
+    "Zeke Nnaji": "QUESTIONABLE",
+    "Peyton Watson": "OUT"
   }
 }
