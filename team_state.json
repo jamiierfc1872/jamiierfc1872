@@ -147,6 +147,17 @@
     "Tidjane Salaun": "OUT",
     "Coby White": "PROBABLE"
   },
+  "Utah Jazz": {
+    "Ace Bailey": "QUESTIONABLE",
+    "Isaiah Collier": "OUT",
+    "Kyle Filipowski": "QUESTIONABLE",
+    "Keyonte George": "OUT",
+    "Elijah Harkless": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
+  },
   "New Orleans Pelicans": {
     "Karlo Matkovic": "QUESTIONABLE",
     "Bryce McGowens": "OUT",
@@ -173,16 +184,5 @@
     "John Poulakidas": "PROBABLE",
     "Tyler Smith": "PROBABLE",
     "Brandon Williams": "QUESTIONABLE"
-  },
-  "Utah Jazz": {
-    "Ace Bailey": "QUESTIONABLE",
-    "Isaiah Collier": "OUT",
-    "Kyle Filipowski": "QUESTIONABLE",
-    "Keyonte George": "OUT",
-    "Elijah Harkless": "OUT",
-    "Jaren Jackson Jr.": "OUT",
-    "Walker Kessler": "OUT",
-    "Lauri Markkanen": "OUT",
-    "Jusuf Nurkic": "OUT"
   }
 }
