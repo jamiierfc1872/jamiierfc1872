@@ -42,6 +42,7 @@
     "Jahmai Mashack": "OUT",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT",
+    "Rayan Rupert": "OUT",
     "Javon Small": "OUT",
     "Jaylen Wells": "OUT"
   },
@@ -184,5 +185,11 @@
     "John Poulakidas": "PROBABLE",
     "Tyler Smith": "PROBABLE",
     "Brandon Williams": "QUESTIONABLE"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "OUT",
+    "LeBron James": "QUESTIONABLE",
+    "Austin Reaves": "OUT",
+    "Marcus Smart": "OUT"
   }
 }
