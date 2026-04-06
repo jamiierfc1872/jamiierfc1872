@@ -1,16 +1,16 @@
 {
   "Detroit Pistons": {
-    "Cade Cunningham": "DOUBTFUL",
-    "Tobias Harris": "DOUBTFUL",
+    "Cade Cunningham": "OUT",
+    "Tobias Harris": "OUT",
     "Isaac Jones": "OUT",
     "Bobi Klintman": "OUT",
-    "Caris LeVert": "QUESTIONABLE",
+    "Caris LeVert": "OUT",
     "Wendell Moore Jr.": "OUT",
-    "Duncan Robinson": "DOUBTFUL",
-    "Isaiah Stewart": "DOUBTFUL"
+    "Duncan Robinson": "OUT",
+    "Isaiah Stewart": "OUT"
   },
   "Orlando Magic": {
-    "Anthony Black": "PROBABLE",
+    "Anthony Black": "AVAILABLE",
     "Jett Howard": "OUT",
     "Jonathan Isaac": "OUT",
     "Franz Wagner": "OUT"
@@ -127,6 +127,31 @@
     "Ryan Rollins": "OUT",
     "Gary Trent Jr.": "OUT",
     "Myles Turner": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Nic Claxton": "OUT",
+    "Noah Clowney": "OUT",
+    "Egor Demin": "OUT",
+    "Terance Mann": "OUT",
+    "Michael Porter Jr.": "OUT",
+    "Ben Saraf": "PROBABLE",
+    "Day'Ron Sharpe": "OUT",
+    "Ziaire Williams": "OUT",
+    "Danny Wolf": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT",
+    "Coby White": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Karlo Matkovic": "QUESTIONABLE",
+    "Bryce McGowens": "OUT",
+    "Trey Murphy III": "OUT",
+    "Dejounte Murray": "QUESTIONABLE"
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
