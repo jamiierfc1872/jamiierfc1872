@@ -16,8 +16,8 @@
     "Bilal Coulibaly": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
-    "Jaden Hardy": "QUESTIONABLE",
-    "Tre Johnson": "QUESTIONABLE",
+    "Jaden Hardy": "OUT",
+    "Tre Johnson": "OUT",
     "D'Angelo Russell": "OUT",
     "Alex Sarr": "OUT",
     "Tristan Vukcevic": "OUT",
@@ -160,5 +160,18 @@
     "Donovan Mitchell": "QUESTIONABLE",
     "Jaylon Tyson": "QUESTIONABLE",
     "Dean Wade": "QUESTIONABLE"
+  },
+  "Detroit Pistons": {
+    "Cade Cunningham": "QUESTIONABLE",
+    "Isaac Jones": "OUT",
+    "Bobi Klintman": "OUT",
+    "Wendell Moore Jr.": "OUT",
+    "Isaiah Stewart": "QUESTIONABLE"
+  },
+  "Orlando Magic": {
+    "Jamal Cain": "QUESTIONABLE",
+    "Wendell Carter Jr.": "QUESTIONABLE",
+    "Jett Howard": "OUT",
+    "Jonathan Isaac": "OUT"
   }
 }
