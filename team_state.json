@@ -49,9 +49,9 @@
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
-    "Sandro Mamukelashvili": "QUESTIONABLE",
-    "Collin Murray-Boyles": "QUESTIONABLE",
-    "Immanuel Quickley": "QUESTIONABLE"
+    "Sandro Mamukelashvili": "PROBABLE",
+    "Collin Murray-Boyles": "PROBABLE",
+    "Immanuel Quickley": "PROBABLE"
   },
   "Milwaukee Bucks": {
     "Giannis Antetokounmpo": "OUT",
@@ -82,9 +82,9 @@
     "Coby White": "QUESTIONABLE"
   },
   "Utah Jazz": {
-    "Ace Bailey": "DOUBTFUL",
+    "Ace Bailey": "OUT",
     "Isaiah Collier": "OUT",
-    "Kyle Filipowski": "PROBABLE",
+    "Kyle Filipowski": "AVAILABLE",
     "Keyonte George": "OUT",
     "Elijah Harkless": "OUT",
     "Jaren Jackson Jr.": "OUT",
@@ -113,7 +113,7 @@
   },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
-    "LJ Cryer": "QUESTIONABLE",
+    "LJ Cryer": "OUT",
     "Stephen Curry": "PROBABLE",
     "Al Horford": "OUT",
     "Moses Moody": "OUT",
