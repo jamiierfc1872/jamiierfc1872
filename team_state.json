@@ -63,9 +63,9 @@
     "Shaedon Sharpe": "OUT"
   },
   "Denver Nuggets": {
-    "Bruce Brown": "PROBABLE",
+    "Bruce Brown": "AVAILABLE",
     "Spencer Jones": "OUT",
-    "Zeke Nnaji": "QUESTIONABLE",
+    "Zeke Nnaji": "AVAILABLE",
     "Peyton Watson": "OUT"
   },
   "Chicago Bulls": {
@@ -186,10 +186,22 @@
     "Tyler Smith": "PROBABLE",
     "Brandon Williams": "QUESTIONABLE"
   },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Isaiah Jackson": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Thomas Sorber": "OUT",
+    "Jalen Williams": "OUT"
+  },
   "Los Angeles Lakers": {
     "Luka Doncic": "OUT",
     "LeBron James": "QUESTIONABLE",
     "Austin Reaves": "OUT",
     "Marcus Smart": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Fred VanVleet": "OUT"
   }
 }
