@@ -11,14 +11,14 @@
     "Jalen Smith": "OUT"
   },
   "Washington Wizards": {
-    "Justin Champagnie": "QUESTIONABLE",
-    "Bilal Coulibaly": "QUESTIONABLE",
+    "Justin Champagnie": "AVAILABLE",
+    "Bilal Coulibaly": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
     "Tre Johnson": "QUESTIONABLE",
     "D'Angelo Russell": "OUT",
     "Alex Sarr": "OUT",
-    "Tristan Vukcevic": "QUESTIONABLE",
+    "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
   },
@@ -39,9 +39,9 @@
     "Ivica Zubac": "OUT"
   },
   "Miami Heat": {
-    "Tyler Herro": "PROBABLE",
+    "Tyler Herro": "AVAILABLE",
     "Nikola Jovic": "OUT",
-    "Norman Powell": "PROBABLE",
+    "Norman Powell": "AVAILABLE",
     "Terry Rozier": "OUT",
     "Andrew Wiggins": "AVAILABLE"
   },
@@ -91,10 +91,12 @@
     "Jusuf Nurkic": "OUT"
   },
   "New Orleans Pelicans": {
-    "Karlo Matkovic": "QUESTIONABLE",
+    "Jordan Hawkins": "QUESTIONABLE",
+    "Karlo Matkovic": "OUT",
     "Bryce McGowens": "OUT",
+    "Yves Missi": "QUESTIONABLE",
     "Trey Murphy III": "OUT",
-    "Dejounte Murray": "QUESTIONABLE"
+    "Dejounte Murray": "OUT"
   },
   "Sacramento Kings": {
     "Patrick Baldwin Jr.": "OUT",
