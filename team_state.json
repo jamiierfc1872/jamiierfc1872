@@ -4,12 +4,12 @@
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
     "Josh Giddey": "OUT",
-    "Lachlan Olbrich": "PROBABLE",
-    "Nick Richards": "OUT",
-    "Collin Sexton": "PROBABLE",
-    "Anfernee Simons": "OUT",
+    "Lachlan Olbrich": "AVAILABLE",
+    "Nick -Richards": "OUT",
+    "Collin Sexton": "AVAILABLE",
+    "Anfernee -Simons": "OUT",
     "Jalen Smith": "OUT",
-    "Patrick Williams": "PROBABLE"
+    "Patrick Williams": "AVAILABLE"
   },
   "Washington Wizards": {
     "Justin Champagnie": "AVAILABLE",
@@ -178,5 +178,32 @@
     "Wendell Carter Jr.": "QUESTIONABLE",
     "Jett Howard": "OUT",
     "Jonathan Isaac": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Zach Edey": "OUT",
+    "GG Jackson": "OUT",
+    "Ty Jerome": "OUT",
+    "Jahmai Mashack": "QUESTIONABLE",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Javon Small": "OUT",
+    "Cam Spencer": "OUT",
+    "Jaylen Wells": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Jerami Grant": "OUT",
+    "Vit Krejci": "DOUBTFUL",
+    "Damian Lillard": "OUT",
+    "Shaedon Sharpe": "DOUBTFUL"
+  },
+  "San Antonio Spurs": {
+    "Stephon Castle": "DOUBTFUL",
+    "Harrison Ingram": "QUESTIONABLE",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "QUESTIONABLE",
+    "Victor Wembanyama": "DOUBTFUL"
   }
 }
