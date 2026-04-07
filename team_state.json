@@ -49,9 +49,9 @@
   },
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT",
-    "Sandro Mamukelashvili": "PROBABLE",
-    "Collin Murray-Boyles": "PROBABLE",
-    "Immanuel Quickley": "PROBABLE"
+    "Sandro Mamukelashvili": "AVAILABLE",
+    "Collin Murray-Boyles": "AVAILABLE",
+    "Immanuel Quickley": "AVAILABLE"
   },
   "Milwaukee Bucks": {
     "Giannis Antetokounmpo": "OUT",
@@ -96,7 +96,7 @@
     "Jordan Hawkins": "QUESTIONABLE",
     "Karlo Matkovic": "OUT",
     "Bryce McGowens": "OUT",
-    "Yves Missi": "QUESTIONABLE",
+    "Yves Missi": "OUT",
     "Trey Murphy III": "OUT",
     "Dejounte Murray": "OUT"
   },
@@ -192,6 +192,10 @@
     "Javon Small": "OUT",
     "Cam Spencer": "OUT",
     "Jaylen Wells": "OUT"
+  },
+  "Denver Nuggets": {
+    "Spencer Jones": "OUT",
+    "Peyton Watson": "OUT"
   },
   "Portland Trail Blazers": {
     "Jerami Grant": "OUT",
