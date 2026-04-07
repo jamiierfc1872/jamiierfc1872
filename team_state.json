@@ -165,6 +165,17 @@
     "Trey Murphy III": "OUT",
     "Dejounte Murray": "QUESTIONABLE"
   },
+  "Sacramento Kings": {
+    "Patrick Baldwin Jr.": "OUT",
+    "DeMar DeRozan": "QUESTIONABLE",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
+  },
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "PROBABLE",
@@ -203,5 +214,8 @@
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Phoenix Suns": {
+    "Haywood Highsmith": "OUT"
   }
 }
