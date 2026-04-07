@@ -143,7 +143,7 @@
   },
   "Los Angeles Lakers": {
     "Luka Doncic": "OUT",
-    "LeBron James": "QUESTIONABLE",
+    "LeBron James": "OUT",
     "Austin Reaves": "OUT",
     "Marcus Smart": "OUT"
   },
@@ -153,5 +153,12 @@
   },
   "Phoenix Suns": {
     "Haywood Highsmith": "OUT"
+  },
+  "Cleveland Cavaliers": {
+    "Thomas Bryant": "OUT",
+    "Tristan Enaruna": "OUT",
+    "Donovan Mitchell": "QUESTIONABLE",
+    "Jaylon Tyson": "QUESTIONABLE",
+    "Dean Wade": "QUESTIONABLE"
   }
 }
