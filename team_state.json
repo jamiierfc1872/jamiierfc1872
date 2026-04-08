@@ -8,15 +8,30 @@
     "Thomas Bryant": "OUT",
     "Tristan Enaruna": "OUT",
     "Donovan Mitchell": "QUESTIONABLE",
-    "Jaylon Tyson": "QUESTIONABLE",
+    "Jaylon Tyson": "DOUBTFUL",
     "Dean Wade": "QUESTIONABLE"
+  },
+  "Milwaukee Bucks": {
+    "Giannis Antetokounmpo": "OUT",
+    "Kyle Kuzma": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT",
+    "Myles Turner": "OUT"
   },
   "Detroit Pistons": {
     "Cade Cunningham": "QUESTIONABLE",
+    "Kevin Huerter": "QUESTIONABLE",
     "Isaac Jones": "OUT",
-    "Bobi Klintman": "OUT",
-    "Wendell Moore Jr.": "OUT",
+    "Wendell Moore Jr.": "QUESTIONABLE",
     "Isaiah Stewart": "QUESTIONABLE"
+  },
+  "Minnesota Timberwolves": {
+    "Mike Conley": "OUT",
+    "Ayo Dosunmu": "OUT",
+    "Anthony Edwards": "OUT",
+    "Rudy Gobert": "QUESTIONABLE",
+    "Jaden McDaniels": "QUESTIONABLE",
+    "Julius Randle": "OUT"
   },
   "Orlando Magic": {
     "Jamal Cain": "QUESTIONABLE",
@@ -49,10 +64,10 @@
     "Shaedon Sharpe": "DOUBTFUL"
   },
   "San Antonio Spurs": {
-    "Stephon Castle": "DOUBTFUL",
-    "Harrison Ingram": "QUESTIONABLE",
+    "Stephon Castle": "OUT",
+    "Harrison Ingram": "AVAILABLE",
     "David Garcia": "OUT",
-    "Emanuel Miller": "QUESTIONABLE",
-    "Victor Wembanyama": "DOUBTFUL"
+    "Emanuel Miller": "AVAILABLE",
+    "Victor -Wembanyama": "OUT"
   }
 }
