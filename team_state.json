@@ -7,9 +7,9 @@
   "Cleveland Cavaliers": {
     "Thomas Bryant": "OUT",
     "Tristan Enaruna": "OUT",
-    "Donovan Mitchell": "QUESTIONABLE",
-    "Jaylon Tyson": "DOUBTFUL",
-    "Dean Wade": "QUESTIONABLE"
+    "Donovan Mitchell": "AVAILABLE",
+    "Jaylon Tyson": "OUT",
+    "Dean Wade": "AVAILABLE"
   },
   "Milwaukee Bucks": {
     "Giannis Antetokounmpo": "OUT",
@@ -19,11 +19,11 @@
     "Myles Turner": "OUT"
   },
   "Detroit Pistons": {
-    "Cade Cunningham": "QUESTIONABLE",
-    "Kevin Huerter": "QUESTIONABLE",
+    "Cade Cunningham": "AVAILABLE",
+    "Kevin Huerter": "OUT",
     "Isaac Jones": "OUT",
-    "Wendell Moore Jr.": "QUESTIONABLE",
-    "Isaiah Stewart": "QUESTIONABLE"
+    "Wendell Moore Jr.": "AVAILABLE",
+    "Isaiah Stewart": "AVAILABLE"
   },
   "Minnesota Timberwolves": {
     "Mike Conley": "OUT",
