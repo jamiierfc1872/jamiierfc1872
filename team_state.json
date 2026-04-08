@@ -29,7 +29,7 @@
     "Mike Conley": "OUT",
     "Ayo Dosunmu": "OUT",
     "Anthony Edwards": "OUT",
-    "Rudy Gobert": "OUT",
+    "Rudy Gobert": "QUESTIONABLE",
     "Jaden McDaniels": "QUESTIONABLE",
     "Julius Randle": "OUT"
   },
@@ -100,8 +100,5 @@
   "Toronto Raptors": {
     "Chucky Hepburn": "OUT"
   },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Fred VanVleet": "OUT"
-  }
+  "Houston Rockets": {}
 }
