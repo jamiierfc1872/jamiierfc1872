@@ -34,8 +34,8 @@
     "Julius Randle": "OUT"
   },
   "Orlando Magic": {
-    "Jamal Cain": "QUESTIONABLE",
-    "Wendell Carter Jr.": "QUESTIONABLE",
+    "Jamal Cain": "AVAILABLE",
+    "Wendell Carter Jr.": "AVAILABLE",
     "Jett Howard": "OUT",
     "Jonathan Isaac": "OUT"
   },
@@ -116,5 +116,17 @@
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Golden State Warriors": {
+    "Charles Bassey": "QUESTIONABLE",
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "PROBABLE",
+    "Stephen Curry": "QUESTIONABLE",
+    "Al Horford": "OUT",
+    "Moses Moody": "OUT",
+    "Kristaps Porzingis": "OUT",
+    "Quinten Post": "OUT",
+    "Will Richard": "DOUBTFUL",
+    "Gui Santos": "QUESTIONABLE"
   }
 }
