@@ -114,24 +114,25 @@
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "OUT",
-    "Stephen Curry": "PROBABLE",
+    "Stephen Curry": "AVAILABLE",
     "Al Horford": "OUT",
     "Moses Moody": "OUT",
-    "Kristaps Porzingis": "QUESTIONABLE",
+    "Kristaps Porzingis": "OUT",
     "Quinten Post": "OUT",
+    "Will Richard": "OUT",
     "Gui Santos": "OUT"
   },
   "Dallas Mavericks": {
-    "Marvin Bagley III": "PROBABLE",
-    "Moussa Cisse": "QUESTIONABLE",
-    "Daniel Gafford": "DOUBTFUL",
+    "Marvin Bagley III": "AVAILABLE",
+    "Moussa Cisse": "OUT",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "Caleb Martin": "DOUBTFUL",
-    "John Poulakidas": "PROBABLE",
-    "Tyler Smith": "PROBABLE",
-    "P.J. Washington": "DOUBTFUL",
-    "Brandon Williams": "DOUBTFUL"
+    "Caleb Martin": "OUT",
+    "John Poulakidas": "AVAILABLE",
+    "Tyler Smith": "AVAILABLE",
+    "P.J. Washington": "OUT",
+    "Brandon Williams": "OUT"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
@@ -143,6 +144,7 @@
   },
   "Los Angeles Lakers": {
     "Luka Doncic": "OUT",
+    "Jaxson Hayes": "OUT",
     "LeBron James": "OUT",
     "Austin Reaves": "OUT",
     "Marcus Smart": "OUT"
