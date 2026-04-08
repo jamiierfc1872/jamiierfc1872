@@ -24,35 +24,163 @@
     "Jett Howard": "OUT",
     "Jonathan Isaac": "OUT"
   },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Kentavious Caldwell-Pope": "OUT",
-    "Brandon Clarke": "OUT",
-    "Zach Edey": "OUT",
-    "GG Jackson": "OUT",
-    "Ty Jerome": "OUT",
-    "Jahmai Mashack": "QUESTIONABLE",
-    "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT",
-    "Javon Small": "OUT",
-    "Cam Spencer": "OUT",
-    "Jaylen Wells": "OUT"
+  "Memphis Grizzlies": {},
+  "Denver Nuggets": {},
+  "Portland Trail Blazers": {},
+  "San Antonio Spurs": {},
+  "Brooklyn Nets": {
+    "Nic Claxton": "OUT",
+    "Noah Clowney": "OUT",
+    "Egor Demin": "OUT",
+    "Terance Mann": "OUT",
+    "Michael Porter Jr.": "OUT",
+    "Ben Saraf": "PROBABLE",
+    "Day'Ron Sharpe": "OUT",
+    "Ziaire Williams": "OUT",
+    "Danny Wolf": "OUT"
   },
-  "Denver Nuggets": {
-    "Spencer Jones": "OUT",
-    "Peyton Watson": "OUT"
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT",
+    "Coby White": "QUESTIONABLE"
   },
-  "Portland Trail Blazers": {
-    "Jerami Grant": "OUT",
-    "Vit Krejci": "DOUBTFUL",
-    "Damian Lillard": "OUT",
-    "Shaedon Sharpe": "DOUBTFUL"
+  "Chicago Bulls": {
+    "Matas Buzelis": "OUT",
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "OUT",
+    "Lachlan Olbrich": "PROBABLE",
+    "Nick Richards": "OUT",
+    "Collin Sexton": "PROBABLE",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "OUT",
+    "Patrick Williams": "PROBABLE"
   },
-  "San Antonio Spurs": {
-    "Stephon Castle": "DOUBTFUL",
-    "Harrison Ingram": "QUESTIONABLE",
-    "David Garcia": "OUT",
-    "Emanuel Miller": "QUESTIONABLE",
-    "Victor Wembanyama": "DOUBTFUL"
+  "Dallas Mavericks": {
+    "Marvin Bagley III": "PROBABLE",
+    "Moussa Cisse": "QUESTIONABLE",
+    "Daniel Gafford": "DOUBTFUL",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Caleb Martin": "DOUBTFUL",
+    "John Poulakidas": "PROBABLE",
+    "Tyler Smith": "PROBABLE",
+    "P.J. Washington": "DOUBTFUL",
+    "Brandon Williams": "DOUBTFUL"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "QUESTIONABLE",
+    "Stephen Curry": "PROBABLE",
+    "Al Horford": "OUT",
+    "Moses Moody": "OUT",
+    "Kristaps Porzingis": "QUESTIONABLE",
+    "Quinten Post": "OUT",
+    "Gui Santos": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "Indiana Pacers": {
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "T.J. McConnell": "OUT",
+    "Andrew Nembhard": "OUT",
+    "Aaron Nesmith": "OUT",
+    "Ben Sheppard": "QUESTIONABLE",
+    "Pascal Siakam": "OUT",
+    "Obi Toppin": "PROBABLE",
+    "Jarace Walker": "QUESTIONABLE",
+    "Ivica Zubac": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Isaiah Jackson": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "OUT",
+    "LeBron James": "OUT",
+    "Austin Reaves": "OUT",
+    "Marcus Smart": "OUT"
+  },
+  "Miami Heat": {
+    "Tyler Herro": "PROBABLE",
+    "Nikola Jovic": "OUT",
+    "Norman Powell": "AVAILABLE",
+    "Terry Rozier": "OUT",
+    "Andrew Wiggins": "AVAILABLE"
+  },
+  "Milwaukee Bucks": {
+    "Giannis Antetokounmpo": "OUT",
+    "Kyle Kuzma": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT",
+    "Ryan Rollins": "OUT",
+    "Gary Trent Jr.": "OUT",
+    "Myles Turner": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "OUT",
+    "Jaden McDaniels": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Jordan Hawkins": "QUESTIONABLE",
+    "Karlo Matkovic": "OUT",
+    "Bryce McGowens": "OUT",
+    "Yves Missi": "QUESTIONABLE",
+    "Trey Murphy III": "OUT",
+    "Dejounte Murray": "OUT"
+  },
+  "Oklahoma City Thunder": {
+    "Thomas Sorber": "OUT",
+    "Jalen Williams": "OUT"
+  },
+  "Phoenix Suns": {
+    "Haywood Highsmith": "OUT"
+  },
+  "Sacramento Kings": {
+    "Patrick Baldwin Jr.": "OUT",
+    "DeMar DeRozan": "OUT",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
+  },
+  "Toronto Raptors": {
+    "Chucky Hepburn": "OUT",
+    "Sandro Mamukelashvili": "QUESTIONABLE",
+    "Collin Murray-Boyles": "QUESTIONABLE",
+    "Immanuel Quickley": "QUESTIONABLE"
+  },
+  "Utah Jazz": {
+    "Ace Bailey": "DOUBTFUL",
+    "Isaiah Collier": "OUT",
+    "Kyle Filipowski": "PROBABLE",
+    "Keyonte George": "OUT",
+    "Elijah Harkless": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
+  },
+  "Washington Wizards": {
+    "Justin Champagnie": "AVAILABLE",
+    "Bilal Coulibaly": "AVAILABLE",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "Jaden Hardy": "OUT",
+    "Tre Johnson": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Tristan Vukcevic": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
   }
 }
