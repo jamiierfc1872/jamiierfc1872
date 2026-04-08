@@ -1,7 +1,7 @@
 {
   "Atlanta Hawks": {
-    "RayJ Dennis": "QUESTIONABLE",
-    "Keshon Gilbert": "QUESTIONABLE",
+    "RayJ Dennis": "OUT",
+    "Keshon Gilbert": "OUT",
     "Jock Landale": "OUT"
   },
   "Cleveland Cavaliers": {
@@ -167,6 +167,11 @@
     "Nolan Traore": "OUT",
     "Ziaire Williams": "OUT",
     "Danny Wolf": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Tyrese Maxey": "AVAILABLE",
+    "Cameron Payne": "OUT"
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
