@@ -134,5 +134,54 @@
     "Quinten Post": "OUT",
     "Will Richard": "DOUBTFUL",
     "Gui Santos": "QUESTIONABLE"
+  },
+  "Brooklyn Nets": {
+    "Nic Claxton": "OUT",
+    "Noah Clowney": "OUT",
+    "Egor Demin": "OUT",
+    "Terance Mann": "OUT",
+    "Josh Minott": "OUT",
+    "Michael Porter Jr.": "OUT",
+    "Day'Ron Sharpe": "OUT",
+    "Nolan Traore": "OUT",
+    "Ziaire Williams": "OUT",
+    "Danny Wolf": "OUT"
+  },
+  "Indiana Pacers": {
+    "Kobe Brown": "QUESTIONABLE",
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "T.J. McConnell": "OUT",
+    "Andrew Nembhard": "OUT",
+    "Aaron Nesmith": "OUT",
+    "Ben Sheppard": "QUESTIONABLE",
+    "Pascal Siakam": "OUT",
+    "Jarace Walker": "QUESTIONABLE",
+    "Ivica Zubac": "OUT"
+  },
+  "Miami Heat": {
+    "Tyler Herro": "AVAILABLE",
+    "Nikola Jovic": "OUT",
+    "Norman Powell": "QUESTIONABLE",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "QUESTIONABLE",
+    "Andrew Wiggins": "AVAILABLE"
+  },
+  "New York Knicks": {
+    "Tyler Kolek": "QUESTIONABLE"
+  },
+  "Washington Wizards": {
+    "Justin Champagnie": "QUESTIONABLE",
+    "Bilal Coulibaly": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "Anthony Gill": "QUESTIONABLE",
+    "Jaden Hardy": "QUESTIONABLE",
+    "Tre Johnson": "QUESTIONABLE",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Tristan Vukcevic": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
   }
 }
