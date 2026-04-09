@@ -100,6 +100,13 @@
     "Will Richard": "OUT",
     "Gui Santos": "QUESTIONABLE"
   },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "OUT",
+    "Thomas Bryant": "OUT",
+    "Sam Merrill": "OUT",
+    "Donovan Mitchell": "OUT",
+    "Jaylon Tyson": "QUESTIONABLE"
+  },
   "Atlanta Hawks": {
     "RayJ Dennis": "DOUBTFUL",
     "Keshon Gilbert": "DOUBTFUL",
@@ -109,6 +116,14 @@
     "Kevin Huerter": "QUESTIONABLE",
     "Isaac Jones": "OUT",
     "Wendell Moore Jr.": "OUT"
+  },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Liam McNeeley": "OUT",
+    "Antonio Reeves": "OUT",
+    "Tidjane Salaun": "OUT",
+    "Coby White": "PROBABLE"
   },
   "New Orleans Pelicans": {
     "Saddiq Bey": "QUESTIONABLE",
@@ -124,5 +139,24 @@
     "Wendell Carter Jr.": "AVAILABLE",
     "Jett Howard": "OUT",
     "Jonathan Isaac": "OUT"
+  },
+  "Dallas Mavericks": {
+    "Moussa Cisse": "PROBABLE",
+    "Cooper Flagg": "PROBABLE",
+    "Daniel Gafford": "DOUBTFUL",
+    "Kyrie Irving": "OUT",
+    "Dereck Lively II": "OUT",
+    "Naji Marshall": "DOUBTFUL",
+    "Caleb Martin": "DOUBTFUL",
+    "John Poulakidas": "PROBABLE",
+    "Tyler Smith": "PROBABLE",
+    "P.J. Washington": "DOUBTFUL",
+    "Brandon Williams": "DOUBTFUL"
+  },
+  "Milwaukee Bucks": {
+    "Giannis Antetokounmpo": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT",
+    "Gary Trent Jr.": "OUT"
   }
 }
