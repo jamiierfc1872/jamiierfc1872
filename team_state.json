@@ -1,103 +1,18 @@
 {
-  "Atlanta Hawks": {
-    "RayJ Dennis": "OUT",
-    "Keshon Gilbert": "OUT",
-    "Jock Landale": "OUT"
-  },
-  "Cleveland Cavaliers": {
-    "Thomas Bryant": "OUT",
-    "Tristan Enaruna": "OUT",
-    "Donovan Mitchell": "AVAILABLE",
-    "Jaylon Tyson": "OUT",
-    "Dean Wade": "AVAILABLE"
-  },
-  "Milwaukee Bucks": {
-    "Giannis Antetokounmpo": "OUT",
-    "Kyle Kuzma": "OUT",
-    "Kevin Porter Jr.": "OUT",
-    "Bobby Portis": "OUT",
-    "Myles Turner": "OUT"
-  },
-  "Detroit Pistons": {
-    "Cade Cunningham": "AVAILABLE",
-    "Kevin Huerter": "OUT",
-    "Isaac Jones": "OUT",
-    "Wendell Moore Jr.": "AVAILABLE",
-    "Isaiah Stewart": "AVAILABLE"
-  },
-  "Minnesota Timberwolves": {
-    "Mike Conley": "OUT",
-    "Ayo Dosunmu": "OUT",
-    "Anthony Edwards": "OUT",
-    "Rudy Gobert": "OUT",
-    "Jaden McDaniels": "AVAILABLE",
-    "Julius Randle": "OUT"
-  },
-  "Orlando Magic": {
-    "Jamal Cain": "AVAILABLE",
-    "Wendell Carter Jr.": "AVAILABLE",
-    "Jett Howard": "OUT",
-    "Jonathan Isaac": "OUT"
-  },
-  "Memphis Grizzlies": {
-    "Santi Aldama": "OUT",
-    "Kentavious Caldwell-Pope": "OUT",
-    "Brandon Clarke": "OUT",
-    "Zach Edey": "OUT",
-    "GG Jackson": "OUT",
-    "Ty Jerome": "OUT",
-    "Jahmai Mashack": "AVAILABLE",
-    "Ja Morant": "OUT",
-    "Scotty Pippen Jr.": "OUT",
-    "Rayan Rupert": "OUT",
-    "Javon Small": "OUT",
-    "Cam Spencer": "OUT",
-    "Jaylen Wells": "OUT"
-  },
-  "Denver Nuggets": {
-    "Spencer Jones": "OUT",
-    "Peyton Watson": "OUT"
-  },
-  "Portland Trail Blazers": {
-    "Jerami Grant": "OUT",
-    "Vit Krejci": "OUT",
-    "Damian Lillard": "OUT",
-    "Shaedon Sharpe": "OUT"
-  },
-  "San Antonio Spurs": {
-    "Stephon Castle": "OUT",
-    "Harrison Ingram": "AVAILABLE",
-    "David Garcia": "OUT",
-    "Emanuel Miller": "AVAILABLE",
-    "Victor -Wembanyama": "OUT"
-  },
-  "Dallas Mavericks": {
-    "Moussa Cisse": "AVAILABLE",
-    "Cooper Flagg": "AVAILABLE",
-    "Daniel Gafford": "OUT",
-    "Kyrie Irving": "OUT",
-    "Dereck Lively II": "OUT",
-    "Naji Marshall": "OUT",
-    "Caleb Martin": "OUT",
-    "John Poulakidas": "AVAILABLE",
-    "Tyler Smith": "AVAILABLE",
-    "Klay Thompson": "OUT",
-    "P.J. Washington": "OUT",
-    "Brandon Williams": "OUT"
-  },
-  "Phoenix Suns": {
-    "Grayson Allen": "OUT",
-    "Haywood Highsmith": "OUT",
-    "Mark Williams": "OUT"
-  },
-  "Oklahoma City Thunder": {
-    "Thomas Sorber": "OUT"
-  },
-  "LA Clippers": {
-    "Bradley Beal": "OUT",
-    "Darius Garland": "OUT",
-    "Isaiah Jackson": "OUT"
-  },
+  "Atlanta Hawks": {},
+  "Cleveland Cavaliers": {},
+  "Milwaukee Bucks": {},
+  "Detroit Pistons": {},
+  "Minnesota Timberwolves": {},
+  "Orlando Magic": {},
+  "Memphis Grizzlies": {},
+  "Denver Nuggets": {},
+  "Portland Trail Blazers": {},
+  "San Antonio Spurs": {},
+  "Dallas Mavericks": {},
+  "Phoenix Suns": {},
+  "Oklahoma City Thunder": {},
+  "LA Clippers": {},
   "Chicago Bulls": {
     "Matas Buzelis": "OUT",
     "Zach Collins": "OUT",
