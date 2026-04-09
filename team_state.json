@@ -89,7 +89,7 @@
     "Marcus Smart": "QUESTIONABLE"
   },
   "Golden State Warriors": {
-    "Charles Bassey": "QUESTIONABLE",
+    "Charles Bassey": "PROBABLE",
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "PROBABLE",
     "Stephen Curry": "QUESTIONABLE",
@@ -97,7 +97,12 @@
     "Moses Moody": "OUT",
     "Kristaps Porzingis": "OUT",
     "Quinten Post": "OUT",
-    "Will Richard": "DOUBTFUL",
+    "Will Richard": "OUT",
     "Gui Santos": "QUESTIONABLE"
+  },
+  "Orlando Magic": {
+    "Wendell Carter Jr.": "AVAILABLE",
+    "Jett Howard": "OUT",
+    "Jonathan Isaac": "OUT"
   }
 }
