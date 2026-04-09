@@ -166,20 +166,24 @@
     "Jett Howard": "OUT",
     "Jonathan Isaac": "OUT"
   },
+  "Oklahoma City Thunder": {
+    "Alex Caruso": "OUT",
+    "Shai Gilgeous-Alexander": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Chet Holmgren": "OUT",
+    "Isaiah Joe": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Cason Wallace": "OUT",
+    "Jalen Williams": "OUT",
+    "Jaylin Williams": "OUT"
+  },
   "Denver Nuggets": {
     "Aaron Gordon": "QUESTIONABLE",
     "Nikola Jokic": "QUESTIONABLE",
     "Spencer Jones": "OUT",
     "Jamal Murray": "QUESTIONABLE",
     "Peyton Watson": "OUT"
-  },
-  "Minnesota Timberwolves": {
-    "Ayo Dosunmu": "QUESTIONABLE",
-    "Anthony Edwards": "QUESTIONABLE",
-    "Rudy Gobert": "OUT",
-    "Bones Hyland": "QUESTIONABLE",
-    "Joe Ingles": "OUT",
-    "Julius Randle": "QUESTIONABLE"
   },
   "Utah Jazz": {
     "Isaiah Collier": "OUT",
@@ -191,5 +195,13 @@
     "Lauri Markkanen": "OUT",
     "Jusuf Nurkic": "OUT",
     "Brice Sensabaugh": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Ayo Dosunmu": "QUESTIONABLE",
+    "Anthony Edwards": "QUESTIONABLE",
+    "Rudy Gobert": "OUT",
+    "Bones Hyland": "QUESTIONABLE",
+    "Joe Ingles": "OUT",
+    "Julius Randle": "QUESTIONABLE"
   }
 }
