@@ -48,15 +48,15 @@
     "Tyler Kolek": "OUT"
   },
   "Indiana Pacers": {
-    "Kobe Brown": "QUESTIONABLE",
+    "Kobe Brown": "OUT",
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
     "T.J. McConnell": "OUT",
     "Andrew Nembhard": "OUT",
     "Aaron Nesmith": "OUT",
-    "Ben Sheppard": "QUESTIONABLE",
+    "Ben Sheppard": "OUT",
     "Pascal Siakam": "OUT",
-    "Jarace Walker": "QUESTIONABLE",
+    "Jarace Walker": "AVAILABLE",
     "Ivica Zubac": "OUT"
   },
   "Brooklyn Nets": {
@@ -98,7 +98,7 @@
     "Kristaps Porzingis": "OUT",
     "Quinten Post": "OUT",
     "Will Richard": "OUT",
-    "Gui Santos": "QUESTIONABLE"
+    "Gui Santos": "OUT"
   },
   "Cleveland Cavaliers": {
     "Jarrett Allen": "OUT",
@@ -166,6 +166,13 @@
     "Jett Howard": "OUT",
     "Jonathan Isaac": "OUT"
   },
+  "Denver Nuggets": {
+    "Aaron Gordon": "QUESTIONABLE",
+    "Nikola Jokic": "QUESTIONABLE",
+    "Spencer Jones": "OUT",
+    "Jamal Murray": "QUESTIONABLE",
+    "Peyton Watson": "OUT"
+  },
   "Minnesota Timberwolves": {
     "Ayo Dosunmu": "QUESTIONABLE",
     "Anthony Edwards": "QUESTIONABLE",
@@ -173,5 +180,16 @@
     "Bones Hyland": "QUESTIONABLE",
     "Joe Ingles": "OUT",
     "Julius Randle": "QUESTIONABLE"
+  },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Kyle Filipowski": "OUT",
+    "Keyonte George": "OUT",
+    "Elijah Harkless": "QUESTIONABLE",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT",
+    "Brice Sensabaugh": "OUT"
   }
 }
