@@ -31,7 +31,7 @@
     "Nikola Jovic": "OUT",
     "Norman Powell": "QUESTIONABLE",
     "Terry Rozier": "OUT",
-    "Dru Smith": "QUESTIONABLE",
+    "Dru Smith": "OUT",
     "Andrew Wiggins": "AVAILABLE"
   },
   "Toronto Raptors": {
@@ -41,8 +41,8 @@
   "Boston Celtics": {
     "Jaylen Brown": "OUT",
     "Sam Hauser": "AVAILABLE",
-    "Neemias Queta": "QUESTIONABLE",
-    "Derrick White": "QUESTIONABLE"
+    "Neemias Queta": "AVAILABLE",
+    "Derrick White": "AVAILABLE"
   },
   "New York Knicks": {
     "Tyler Kolek": "OUT"
@@ -135,10 +135,11 @@
     "Dejounte Murray": "OUT",
     "Zion Williamson": "OUT"
   },
-  "Orlando Magic": {
-    "Wendell Carter Jr.": "AVAILABLE",
-    "Jett Howard": "OUT",
-    "Jonathan Isaac": "OUT"
+  "Milwaukee Bucks": {
+    "Giannis Antetokounmpo": "OUT",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT",
+    "Gary Trent Jr.": "OUT"
   },
   "Dallas Mavericks": {
     "Moussa Cisse": "PROBABLE",
@@ -153,10 +154,9 @@
     "P.J. Washington": "DOUBTFUL",
     "Brandon Williams": "DOUBTFUL"
   },
-  "Milwaukee Bucks": {
-    "Giannis Antetokounmpo": "OUT",
-    "Kevin Porter Jr.": "OUT",
-    "Bobby Portis": "OUT",
-    "Gary Trent Jr.": "OUT"
+  "Orlando Magic": {
+    "Wendell Carter Jr.": "AVAILABLE",
+    "Jett Howard": "OUT",
+    "Jonathan Isaac": "OUT"
   }
 }
