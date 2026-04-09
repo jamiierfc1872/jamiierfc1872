@@ -185,6 +185,23 @@
     "Jamal Murray": "QUESTIONABLE",
     "Peyton Watson": "OUT"
   },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Cedric Coward": "OUT",
+    "Zach Edey": "OUT",
+    "Taylor Hendricks": "OUT",
+    "GG Jackson": "OUT",
+    "Ty Jerome": "OUT",
+    "Jahmai Mashack": "AVAILABLE",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Javon Small": "QUESTIONABLE",
+    "Cam Spencer": "OUT",
+    "Jaylen Wells": "OUT"
+  },
   "Utah Jazz": {
     "Isaiah Collier": "OUT",
     "Kyle Filipowski": "OUT",
@@ -203,5 +220,16 @@
     "Bones Hyland": "QUESTIONABLE",
     "Joe Ingles": "OUT",
     "Julius Randle": "QUESTIONABLE"
+  },
+  "Sacramento Kings": {
+    "Patrick Baldwin Jr.": "OUT",
+    "DeMar DeRozan": "OUT",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
   }
 }
