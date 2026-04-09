@@ -46,9 +46,10 @@
     "Zach Edey": "OUT",
     "GG Jackson": "OUT",
     "Ty Jerome": "OUT",
-    "Jahmai Mashack": "QUESTIONABLE",
+    "Jahmai Mashack": "AVAILABLE",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT",
+    "Rayan Rupert": "OUT",
     "Javon Small": "OUT",
     "Cam Spencer": "OUT",
     "Jaylen Wells": "OUT"
@@ -59,9 +60,9 @@
   },
   "Portland Trail Blazers": {
     "Jerami Grant": "OUT",
-    "Vit Krejci": "DOUBTFUL",
+    "Vit Krejci": "OUT",
     "Damian Lillard": "OUT",
-    "Shaedon Sharpe": "DOUBTFUL"
+    "Shaedon Sharpe": "OUT"
   },
   "San Antonio Spurs": {
     "Stephon Castle": "OUT",
@@ -71,21 +72,21 @@
     "Victor -Wembanyama": "OUT"
   },
   "Dallas Mavericks": {
-    "Moussa Cisse": "PROBABLE",
-    "Cooper Flagg": "PROBABLE",
-    "Daniel Gafford": "DOUBTFUL",
+    "Moussa Cisse": "AVAILABLE",
+    "Cooper Flagg": "AVAILABLE",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "Naji Marshall": "DOUBTFUL",
-    "Caleb Martin": "DOUBTFUL",
-    "John Poulakidas": "PROBABLE",
-    "Tyler Smith": "PROBABLE",
-    "Klay Thompson": "DOUBTFUL",
-    "P.J. Washington": "DOUBTFUL",
-    "Brandon Williams": "DOUBTFUL"
+    "Naji Marshall": "OUT",
+    "Caleb Martin": "OUT",
+    "John Poulakidas": "AVAILABLE",
+    "Tyler Smith": "AVAILABLE",
+    "Klay Thompson": "OUT",
+    "P.J. Washington": "OUT",
+    "Brandon Williams": "OUT"
   },
   "Phoenix Suns": {
-    "Grayson Allen": "QUESTIONABLE",
+    "Grayson Allen": "OUT",
     "Haywood Highsmith": "OUT",
     "Mark Williams": "OUT"
   },
@@ -176,6 +177,12 @@
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Fred VanVleet": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "OUT",
+    "Jaxson Hayes": "OUT",
+    "Austin Reaves": "OUT",
+    "Marcus Smart": "QUESTIONABLE"
   },
   "Golden State Warriors": {
     "Charles Bassey": "QUESTIONABLE",
