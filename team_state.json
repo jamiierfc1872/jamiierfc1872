@@ -13,13 +13,13 @@
     "Patrick Williams": "PROBABLE"
   },
   "Washington Wizards": {
-    "Justin Champagnie": "QUESTIONABLE",
-    "Bilal Coulibaly": "QUESTIONABLE",
+    "Justin Champagnie": "AVAILABLE",
+    "Bilal Coulibaly": "OUT",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
-    "Anthony Gill": "QUESTIONABLE",
-    "Jaden Hardy": "QUESTIONABLE",
-    "Tre Johnson": "QUESTIONABLE",
+    "Anthony Gill": "AVAILABLE",
+    "Jaden Hardy": "OUT",
+    "Tre Johnson": "OUT",
     "D'Angelo Russell": "OUT",
     "Alex Sarr": "OUT",
     "Tristan Vukcevic": "OUT",
@@ -77,6 +77,7 @@
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
+    "Tari Eason": "QUESTIONABLE",
     "Fred VanVleet": "OUT"
   },
   "Los Angeles Lakers": {
