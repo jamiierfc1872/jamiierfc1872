@@ -5,12 +5,12 @@
     "Noa Essengue": "OUT",
     "Josh Giddey": "OUT",
     "Isaac Okoro": "OUT",
-    "Lachlan Olbrich": "PROBABLE",
-    "Nick Richards": "OUT",
-    "Collin Sexton": "PROBABLE",
-    "Anfernee Simons": "OUT",
+    "Lachlan Olbrich": "AVAILABLE",
+    "Nick -Richards": "OUT",
+    "Collin Sexton": "AVAILABLE",
+    "Anfernee -Simons": "OUT",
     "Jalen Smith": "OUT",
-    "Patrick Williams": "PROBABLE"
+    "Patrick Williams": "AVAILABLE"
   },
   "Washington Wizards": {
     "Justin Champagnie": "AVAILABLE",
@@ -154,9 +154,24 @@
     "P.J. Washington": "DOUBTFUL",
     "Brandon Williams": "DOUBTFUL"
   },
+  "San Antonio Spurs": {
+    "Stephon Castle": "QUESTIONABLE",
+    "Harrison Ingram": "QUESTIONABLE",
+    "David Garcia": "OUT",
+    "Emanuel Miller": "OUT",
+    "Victor Wembanyama": "QUESTIONABLE"
+  },
   "Orlando Magic": {
     "Wendell Carter Jr.": "AVAILABLE",
     "Jett Howard": "OUT",
     "Jonathan Isaac": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Ayo Dosunmu": "QUESTIONABLE",
+    "Anthony Edwards": "QUESTIONABLE",
+    "Rudy Gobert": "OUT",
+    "Bones Hyland": "QUESTIONABLE",
+    "Joe Ingles": "OUT",
+    "Julius Randle": "QUESTIONABLE"
   }
 }
