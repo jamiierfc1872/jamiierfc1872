@@ -89,9 +89,9 @@
     "Marcus Smart": "OUT"
   },
   "Golden State Warriors": {
-    "Charles Bassey": "PROBABLE",
+    "Charles Bassey": "AVAILABLE",
     "Jimmy Butler III": "OUT",
-    "LJ Cryer": "PROBABLE",
+    "LJ Cryer": "AVAILABLE",
     "Stephen Curry": "OUT",
     "Al Horford": "OUT",
     "Moses Moody": "OUT",
@@ -231,5 +231,21 @@
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Isaiah Jackson": "OUT"
+  },
+  "Phoenix Suns": {
+    "Devin Booker": "OUT",
+    "Jordan Goodwin": "OUT",
+    "Jalen Green": "QUESTIONABLE",
+    "Haywood Highsmith": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Jerami Grant": "OUT",
+    "Vit Krejci": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Shaedon Sharpe": "QUESTIONABLE"
   }
 }
