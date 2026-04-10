@@ -34,13 +34,13 @@
     "Andrew Wiggins": "AVAILABLE"
   },
   "Washington Wizards": {
-    "Justin Champagnie": "QUESTIONABLE",
-    "Bilal Coulibaly": "QUESTIONABLE",
+    "Justin Champagnie": "OUT",
+    "Bilal Coulibaly": "AVAILABLE",
     "Anthony Davis": "OUT",
     "Kyshawn George": "OUT",
-    "Anthony Gill": "QUESTIONABLE",
-    "Jaden Hardy": "QUESTIONABLE",
-    "Tre Johnson": "QUESTIONABLE",
+    "Anthony Gill": "AVAILABLE",
+    "Jaden Hardy": "AVAILABLE",
+    "Tre Johnson": "OUT",
     "D'Angelo Russell": "OUT",
     "Alex Sarr": "OUT",
     "Tristan Vukcevic": "OUT",
@@ -93,6 +93,18 @@
     "Tyler Kolek": "QUESTIONABLE",
     "Miles McBride": "OUT",
     "Mitchell Robinson": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Nic Claxton": "OUT",
+    "Noah Clowney": "OUT",
+    "Egor Demin": "OUT",
+    "Terance Mann": "OUT",
+    "Josh Minott": "OUT",
+    "Michael Porter Jr.": "OUT",
+    "Drake Powell": "OUT",
+    "Day'Ron Sharpe": "OUT",
+    "Ziaire Williams": "OUT",
+    "Danny Wolf": "OUT"
   },
   "Milwaukee Bucks": {
     "Giannis Antetokounmpo": "OUT",
