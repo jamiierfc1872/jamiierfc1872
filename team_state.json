@@ -4,7 +4,7 @@
     "Thomas Bryant": "OUT",
     "Sam Merrill": "OUT",
     "Donovan Mitchell": "OUT",
-    "Jaylon Tyson": "QUESTIONABLE"
+    "Jaylon Tyson": "PROBABLE"
   },
   "Atlanta Hawks": {
     "RayJ Dennis": "DOUBTFUL",
@@ -34,6 +34,11 @@
     "Dejounte Murray": "OUT",
     "Zion Williamson": "OUT"
   },
+  "New York Knicks": {
+    "Tyler Kolek": "QUESTIONABLE",
+    "Miles McBride": "OUT",
+    "Mitchell Robinson": "OUT"
+  },
   "Milwaukee Bucks": {
     "Giannis Antetokounmpo": "OUT",
     "Kevin Porter Jr.": "OUT",
@@ -41,6 +46,7 @@
     "Gary Trent Jr.": "OUT"
   },
   "Dallas Mavericks": {
+    "Marvin Bagley III": "QUESTIONABLE",
     "Moussa Cisse": "PROBABLE",
     "Cooper Flagg": "PROBABLE",
     "Daniel Gafford": "DOUBTFUL",
@@ -49,6 +55,7 @@
     "Naji Marshall": "DOUBTFUL",
     "Caleb Martin": "DOUBTFUL",
     "John Poulakidas": "PROBABLE",
+    "Dwight Powell": "QUESTIONABLE",
     "Tyler Smith": "PROBABLE",
     "P.J. Washington": "DOUBTFUL",
     "Brandon Williams": "DOUBTFUL"
