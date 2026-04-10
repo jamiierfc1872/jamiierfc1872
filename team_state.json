@@ -12,7 +12,7 @@
     "Jock Landale": "OUT"
   },
   "Detroit Pistons": {
-    "Kevin Huerter": "PROBABLE",
+    "Kevin Huerter": "AVAILABLE",
     "Isaac Jones": "OUT",
     "Wendell Moore Jr.": "OUT"
   },
@@ -58,11 +58,11 @@
     "Zion Williamson": "OUT"
   },
   "Boston Celtics": {
-    "Jaylen Brown": "QUESTIONABLE",
-    "Sam Hauser": "PROBABLE",
-    "Neemias Queta": "PROBABLE",
+    "Jaylen Brown": "AVAILABLE",
+    "Sam Hauser": "AVAILABLE",
+    "Neemias Queta": "AVAILABLE",
     "Jayson Tatum": "OUT",
-    "Derrick White": "PROBABLE"
+    "Derrick White": "AVAILABLE"
   },
   "Philadelphia 76ers": {
     "Johni Broome": "OUT",
@@ -77,7 +77,7 @@
     "T.J. McConnell": "OUT",
     "Andrew Nembhard": "OUT",
     "Aaron Nesmith": "OUT",
-    "Ben Sheppard": "QUESTIONABLE",
+    "Ben Sheppard": "OUT",
     "Pascal Siakam": "OUT",
     "Jarace Walker": "QUESTIONABLE",
     "Ivica Zubac": "OUT"
