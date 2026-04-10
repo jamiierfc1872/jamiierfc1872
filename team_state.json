@@ -71,7 +71,7 @@
     "Cameron Payne": "OUT"
   },
   "Indiana Pacers": {
-    "Kobe Brown": "QUESTIONABLE",
+    "Kobe Brown": "AVAILABLE",
     "Johnny Furphy": "OUT",
     "Tyrese Haliburton": "OUT",
     "T.J. McConnell": "OUT",
@@ -79,10 +79,11 @@
     "Aaron Nesmith": "OUT",
     "Ben Sheppard": "OUT",
     "Pascal Siakam": "OUT",
-    "Jarace Walker": "QUESTIONABLE",
+    "Jarace Walker": "AVAILABLE",
     "Ivica Zubac": "OUT"
   },
   "Toronto Raptors": {
+    "RJ Barrett": "OUT",
     "Chucky Hepburn": "OUT",
     "Trayce Jackson-Davis": "OUT",
     "Tyreke Key": "OUT",
@@ -108,6 +109,7 @@
   },
   "Milwaukee Bucks": {
     "Giannis Antetokounmpo": "OUT",
+    "Gary Harris": "OUT",
     "Pete Nance": "OUT",
     "Kevin Porter Jr.": "OUT",
     "Bobby Portis": "OUT",
@@ -115,20 +117,20 @@
     "Gary Trent Jr.": "OUT"
   },
   "Dallas Mavericks": {
-    "Marvin Bagley III": "QUESTIONABLE",
+    "Marvin Bagley III": "AVAILABLE",
     "Moussa Cisse": "AVAILABLE",
     "Cooper Flagg": "AVAILABLE",
-    "Daniel Gafford": "DOUBTFUL",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "Naji Marshall": "DOUBTFUL",
-    "Caleb Martin": "DOUBTFUL",
+    "Naji Marshall": "OUT",
+    "Caleb Martin": "OUT",
     "John Poulakidas": "AVAILABLE",
-    "Dwight Powell": "QUESTIONABLE",
+    "Dwight Powell": "AVAILABLE",
     "Tyler Smith": "AVAILABLE",
     "Klay Thompson": "OUT",
-    "P.J. Washington": "DOUBTFUL",
-    "Brandon Williams": "DOUBTFUL"
+    "P.J. Washington": "OUT",
+    "Brandon Williams": "OUT"
   },
   "San Antonio Spurs": {
     "Stephon Castle": "QUESTIONABLE",
@@ -143,19 +145,19 @@
     "Jonathan Isaac": "OUT"
   },
   "Chicago Bulls": {
-    "Matas Buzelis": "QUESTIONABLE",
-    "Zach Collins": "OUT",
+    "Matas Buzelis": "AVAILABLE",
+    "Zach -Collins": "OUT",
     "Noa Essengue": "OUT",
     "Josh Giddey": "OUT",
-    "Leonard Miller": "PROBABLE",
-    "Isaac Okoro": "DOUBTFUL",
-    "Lachlan Olbrich": "PROBABLE",
-    "Nick Richards": "OUT",
-    "Collin Sexton": "PROBABLE",
-    "Anfernee Simons": "OUT",
+    "Leonard Miller": "AVAILABLE",
+    "Isaac -Okoro": "OUT",
+    "Lachlan Olbrich": "AVAILABLE",
+    "Nick -Richards": "OUT",
+    "Collin Sexton": "AVAILABLE",
+    "Anfernee -Simons": "OUT",
     "Jalen Smith": "OUT",
-    "Patrick Williams": "PROBABLE",
-    "Guerschon Yabusele": "OUT"
+    "Patrick Williams": "AVAILABLE",
+    "Guerschon -Yabusele": "OUT"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
