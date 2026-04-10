@@ -12,7 +12,7 @@
     "Jock Landale": "OUT"
   },
   "Detroit Pistons": {
-    "Kevin Huerter": "QUESTIONABLE",
+    "Kevin Huerter": "PROBABLE",
     "Isaac Jones": "OUT",
     "Wendell Moore Jr.": "OUT"
   },
@@ -23,6 +23,20 @@
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "OUT",
     "Coby White": "PROBABLE"
+  },
+  "Washington Wizards": {
+    "Justin Champagnie": "QUESTIONABLE",
+    "Bilal Coulibaly": "QUESTIONABLE",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "Anthony Gill": "QUESTIONABLE",
+    "Jaden Hardy": "QUESTIONABLE",
+    "Tre Johnson": "QUESTIONABLE",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Tristan Vukcevic": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
   },
   "New Orleans Pelicans": {
     "Saddiq Bey": "OUT",
@@ -129,12 +143,13 @@
     "Brice Sensabaugh": "OUT"
   },
   "Minnesota Timberwolves": {
-    "Ayo Dosunmu": "QUESTIONABLE",
+    "Ayo Dosunmu": "AVAILABLE",
     "Anthony Edwards": "QUESTIONABLE",
     "Rudy Gobert": "OUT",
-    "Bones Hyland": "QUESTIONABLE",
+    "Bones Hyland": "OUT",
     "Joe Ingles": "OUT",
-    "Julius Randle": "QUESTIONABLE"
+    "Julius Randle": "OUT",
+    "Naz Reid": "QUESTIONABLE"
   },
   "Sacramento Kings": {
     "Patrick Baldwin Jr.": "OUT",
