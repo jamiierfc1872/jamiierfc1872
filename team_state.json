@@ -145,6 +145,7 @@
     "Zach Collins": "OUT",
     "Noa Essengue": "OUT",
     "Josh Giddey": "OUT",
+    "Leonard Miller": "PROBABLE",
     "Isaac Okoro": "DOUBTFUL",
     "Lachlan Olbrich": "PROBABLE",
     "Nick Richards": "OUT",
@@ -255,5 +256,11 @@
     "Jordan Goodwin": "OUT",
     "Jalen Green": "QUESTIONABLE",
     "Haywood Highsmith": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "OUT",
+    "Jaxson Hayes": "OUT",
+    "Luke Kennard": "QUESTIONABLE",
+    "Austin Reaves": "OUT"
   }
 }
