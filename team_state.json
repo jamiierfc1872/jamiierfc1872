@@ -236,16 +236,16 @@
     "Bradley Beal": "OUT",
     "Isaiah Jackson": "OUT"
   },
-  "Phoenix Suns": {
-    "Devin Booker": "OUT",
-    "Jordan Goodwin": "OUT",
-    "Jalen Green": "QUESTIONABLE",
-    "Haywood Highsmith": "OUT"
-  },
   "Portland Trail Blazers": {
     "Jerami Grant": "OUT",
     "Vit Krejci": "QUESTIONABLE",
     "Damian Lillard": "OUT",
     "Shaedon Sharpe": "QUESTIONABLE"
+  },
+  "Phoenix Suns": {
+    "Devin Booker": "OUT",
+    "Jordan Goodwin": "OUT",
+    "Jalen Green": "QUESTIONABLE",
+    "Haywood Highsmith": "OUT"
   }
 }
