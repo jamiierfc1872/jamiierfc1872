@@ -22,7 +22,16 @@
     "Liam McNeeley": "OUT",
     "Antonio Reeves": "OUT",
     "Tidjane Salaun": "OUT",
-    "Coby White": "PROBABLE"
+    "Coby White": "AVAILABLE"
+  },
+  "Miami Heat": {
+    "Tyler Herro": "QUESTIONABLE",
+    "Nikola Jovic": "OUT",
+    "Davion Mitchell": "QUESTIONABLE",
+    "Norman Powell": "QUESTIONABLE",
+    "Terry Rozier": "OUT",
+    "Dru Smith": "OUT",
+    "Andrew Wiggins": "AVAILABLE"
   },
   "Washington Wizards": {
     "Justin Champagnie": "QUESTIONABLE",
@@ -47,6 +56,13 @@
     "Trey Murphy III": "OUT",
     "Dejounte Murray": "OUT",
     "Zion Williamson": "OUT"
+  },
+  "Boston Celtics": {
+    "Jaylen Brown": "QUESTIONABLE",
+    "Sam Hauser": "PROBABLE",
+    "Neemias Queta": "PROBABLE",
+    "Jayson Tatum": "OUT",
+    "Derrick White": "PROBABLE"
   },
   "Philadelphia 76ers": {
     "Johni Broome": "OUT",
@@ -80,6 +96,7 @@
   },
   "Milwaukee Bucks": {
     "Giannis Antetokounmpo": "OUT",
+    "Pete Nance": "OUT",
     "Kevin Porter Jr.": "OUT",
     "Bobby Portis": "OUT",
     "Gary Trent Jr.": "OUT"
@@ -110,6 +127,20 @@
     "Wendell Carter Jr.": "AVAILABLE",
     "Jett Howard": "OUT",
     "Jonathan Isaac": "OUT"
+  },
+  "Chicago Bulls": {
+    "Matas Buzelis": "QUESTIONABLE",
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "OUT",
+    "Isaac Okoro": "DOUBTFUL",
+    "Lachlan Olbrich": "PROBABLE",
+    "Nick Richards": "OUT",
+    "Collin Sexton": "PROBABLE",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "OUT",
+    "Patrick Williams": "PROBABLE",
+    "Guerschon Yabusele": "OUT"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
@@ -153,7 +184,7 @@
     "Isaiah Collier": "OUT",
     "Kyle Filipowski": "OUT",
     "Keyonte George": "OUT",
-    "Elijah Harkless": "QUESTIONABLE",
+    "Elijah Harkless": "OUT",
     "Jaren Jackson Jr.": "OUT",
     "Walker Kessler": "OUT",
     "Lauri Markkanen": "OUT",
