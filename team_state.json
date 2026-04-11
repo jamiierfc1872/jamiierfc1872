@@ -146,24 +146,6 @@
     "P.J. Washington": "DOUBTFUL",
     "Brandon Williams": "DOUBTFUL"
   },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Kevin Durant": "OUT",
-    "Alperen Sengun": "OUT",
-    "Jabari Smith Jr.": "OUT",
-    "Amen Thompson": "OUT",
-    "Fred VanVleet": "OUT"
-  },
-  "New Orleans Pelicans": {
-    "Saddiq Bey": "OUT",
-    "Herbert Jones": "OUT",
-    "Karlo Matkovic": "OUT",
-    "Bryce McGowens": "OUT",
-    "Yves Missi": "OUT",
-    "Trey Murphy III": "OUT",
-    "Dejounte Murray": "OUT",
-    "Zion Williamson": "OUT"
-  },
   "Denver Nuggets": {
     "Christian Braun": "OUT",
     "Aaron Gordon": "OUT",
@@ -174,16 +156,13 @@
     "Jamal Murray": "OUT",
     "Peyton Watson": "OUT"
   },
-  "Minnesota Timberwolves": {
-    "Kyle Anderson": "OUT",
-    "Mike Conley": "OUT",
-    "Ayo Dosunmu": "OUT",
-    "Anthony Edwards": "OUT",
-    "Rudy Gobert": "OUT",
-    "Bones Hyland": "OUT",
-    "Jaden McDaniels": "OUT",
-    "Julius Randle": "OUT",
-    "Naz Reid": "OUT"
+  "San Antonio Spurs": {
+    "Stephon Castle": "QUESTIONABLE",
+    "David Garcia": "OUT",
+    "Luke Kornet": "OUT",
+    "Emanuel Miller": "OUT",
+    "Devin Vassell": "QUESTIONABLE",
+    "Victor Wembanyama": "QUESTIONABLE"
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
@@ -203,6 +182,35 @@
     "Cam Spencer": "OUT",
     "Jaylen Wells": "OUT"
   },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Kevin Durant": "OUT",
+    "Alperen Sengun": "OUT",
+    "Jabari Smith Jr.": "OUT",
+    "Amen Thompson": "OUT",
+    "Fred VanVleet": "OUT"
+  },
+  "New Orleans Pelicans": {
+    "Saddiq Bey": "OUT",
+    "Herbert Jones": "OUT",
+    "Karlo Matkovic": "OUT",
+    "Bryce McGowens": "OUT",
+    "Yves Missi": "OUT",
+    "Trey Murphy III": "OUT",
+    "Dejounte Murray": "OUT",
+    "Zion Williamson": "OUT"
+  },
+  "Minnesota Timberwolves": {
+    "Kyle Anderson": "OUT",
+    "Mike Conley": "OUT",
+    "Ayo Dosunmu": "OUT",
+    "Anthony Edwards": "OUT",
+    "Rudy Gobert": "OUT",
+    "Bones Hyland": "OUT",
+    "Jaden McDaniels": "OUT",
+    "Julius Randle": "OUT",
+    "Naz Reid": "OUT"
+  },
   "Phoenix Suns": {
     "Grayson Allen": "OUT",
     "Devin Booker": "OUT",
@@ -213,6 +221,18 @@
     "Haywood Highsmith": "QUESTIONABLE",
     "Royce O'Neale": "OUT",
     "Mark Williams": "QUESTIONABLE"
+  },
+  "Oklahoma City Thunder": {
+    "Alex Caruso": "OUT",
+    "Shai Gilgeous-Alexander": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Chet Holmgren": "OUT",
+    "Isaiah Joe": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Cason Wallace": "OUT",
+    "Jalen Williams": "OUT",
+    "Jaylin Williams": "OUT"
   },
   "Sacramento Kings": {
     "DeMar DeRozan": "OUT",
