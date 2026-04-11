@@ -52,7 +52,7 @@
   },
   "Detroit Pistons": {
     "Jalen Duren": "OUT",
-    "Wendell Moore Jr.": "OUT"
+    "Wendell Moore Jr.": "QUESTIONABLE"
   },
   "Indiana Pacers": {
     "Kobe Brown": "QUESTIONABLE",
@@ -184,5 +184,45 @@
     "Jaden McDaniels": "OUT",
     "Julius Randle": "OUT",
     "Naz Reid": "OUT"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Adama Bal": "QUESTIONABLE",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Cedric Coward": "OUT",
+    "Zach Edey": "OUT",
+    "Taylor Hendricks": "OUT",
+    "GG Jackson": "OUT",
+    "Ty Jerome": "OUT",
+    "Jahmai Mashack": "AVAILABLE",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Javon Small": "PROBABLE",
+    "Cam Spencer": "OUT",
+    "Jaylen Wells": "OUT"
+  },
+  "Phoenix Suns": {
+    "Grayson Allen": "OUT",
+    "Devin Booker": "OUT",
+    "Dillon Brooks": "OUT",
+    "Collin Gillespie": "QUESTIONABLE",
+    "Jordan Goodwin": "QUESTIONABLE",
+    "Jalen Green": "QUESTIONABLE",
+    "Haywood Highsmith": "QUESTIONABLE",
+    "Royce O'Neale": "OUT",
+    "Mark Williams": "QUESTIONABLE"
+  },
+  "Sacramento Kings": {
+    "DeMar DeRozan": "OUT",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
   }
 }
