@@ -96,5 +96,54 @@
     "Tristan Vukcevic": "OUT",
     "Cam Whitmore": "OUT",
     "Trae Young": "OUT"
+  },
+  "Brooklyn Nets": {
+    "Nic Claxton": "OUT",
+    "Noah Clowney": "OUT",
+    "Egor Demin": "OUT",
+    "Terance Mann": "OUT",
+    "Josh Minott": "OUT",
+    "Michael Porter Jr.": "OUT",
+    "Day'Ron Sharpe": "OUT",
+    "Nolan Traore": "QUESTIONABLE",
+    "Ziaire Williams": "OUT",
+    "Danny Wolf": "OUT"
+  },
+  "Chicago Bulls": {
+    "Matas Buzelis": "OUT",
+    "Zach Collins": "OUT",
+    "Noa Essengue": "OUT",
+    "Josh Giddey": "OUT",
+    "Isaac Okoro": "OUT",
+    "Lachlan Olbrich": "PROBABLE",
+    "Nick Richards": "OUT",
+    "Collin Sexton": "PROBABLE",
+    "Anfernee Simons": "OUT",
+    "Jalen Smith": "OUT",
+    "Patrick Williams": "PROBABLE",
+    "Guerschon Yabusele": "OUT"
+  },
+  "Indiana Pacers": {
+    "Kobe Brown": "QUESTIONABLE",
+    "Johnny Furphy": "OUT",
+    "Tyrese Haliburton": "OUT",
+    "T.J. McConnell": "OUT",
+    "Andrew Nembhard": "OUT",
+    "Aaron Nesmith": "OUT",
+    "Ben Sheppard": "QUESTIONABLE",
+    "Pascal Siakam": "OUT",
+    "Jarace Walker": "QUESTIONABLE",
+    "Ivica Zubac": "OUT"
+  },
+  "Milwaukee Bucks": {
+    "Giannis Antetokounmpo": "OUT",
+    "Gary Harris": "QUESTIONABLE",
+    "Kyle Kuzma": "OUT",
+    "Pete Nance": "QUESTIONABLE",
+    "Kevin Porter Jr.": "OUT",
+    "Bobby Portis": "OUT",
+    "Ryan Rollins": "OUT",
+    "Gary Trent Jr.": "OUT",
+    "Myles Turner": "OUT"
   }
 }
