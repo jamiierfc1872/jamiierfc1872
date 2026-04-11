@@ -8,10 +8,29 @@
     "Dru Smith": "OUT",
     "Andrew Wiggins": "AVAILABLE"
   },
+  "Toronto Raptors": {
+    "RJ Barrett": "QUESTIONABLE",
+    "Chucky Hepburn": "OUT",
+    "Trayce Jackson-Davis": "QUESTIONABLE",
+    "Collin Murray-Boyles": "QUESTIONABLE"
+  },
+  "Detroit Pistons": {
+    "Jalen Duren": "OUT",
+    "Wendell Moore Jr.": "OUT"
+  },
   "Orlando Magic": {
     "Wendell Carter Jr.": "AVAILABLE",
     "Jett Howard": "QUESTIONABLE",
     "Jonathan Isaac": "QUESTIONABLE"
+  },
+  "Boston Celtics": {
+    "Jaylen Brown": "OUT",
+    "Sam Hauser": "DOUBTFUL",
+    "Payton Pritchard": "DOUBTFUL",
+    "Neemias Queta": "OUT",
+    "Jayson Tatum": "OUT",
+    "Nikola Vucevic": "DOUBTFUL",
+    "Derrick White": "OUT"
   },
   "Dallas Mavericks": {
     "Marvin Bagley III": "DOUBTFUL",
