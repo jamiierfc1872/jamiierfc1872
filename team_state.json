@@ -172,19 +172,19 @@
     "Jaylin Williams": "OUT"
   },
   "Denver Nuggets": {
-    "Christian Braun": "QUESTIONABLE",
-    "Aaron Gordon": "QUESTIONABLE",
-    "Cameron Johnson": "QUESTIONABLE",
-    "Nikola Jokic": "QUESTIONABLE",
+    "Christian Braun": "OUT",
+    "Aaron Gordon": "OUT",
+    "Cameron Johnson": "OUT",
+    "Nikola Jokic": "OUT",
     "Spencer Jones": "OUT",
-    "Jamal Murray": "QUESTIONABLE",
+    "Jamal Murray": "OUT",
     "Peyton Watson": "OUT"
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
-    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Walter Clayton Jr.": "OUT",
     "Cedric Coward": "OUT",
     "Zach Edey": "OUT",
     "Taylor Hendricks": "OUT",
@@ -193,7 +193,7 @@
     "Jahmai Mashack": "AVAILABLE",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT",
-    "Javon Small": "QUESTIONABLE",
+    "Javon Small": "AVAILABLE",
     "Cam Spencer": "OUT",
     "Jaylen Wells": "OUT"
   },
@@ -210,7 +210,7 @@
   },
   "Minnesota Timberwolves": {
     "Ayo Dosunmu": "AVAILABLE",
-    "Anthony Edwards": "QUESTIONABLE",
+    "Anthony Edwards": "AVAILABLE",
     "Rudy Gobert": "OUT",
     "Bones Hyland": "OUT",
     "Joe Ingles": "OUT",
@@ -219,20 +219,20 @@
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
-    "Tari Eason": "QUESTIONABLE",
+    "Tari Eason": "AVAILABLE",
     "Fred VanVleet": "OUT"
   },
   "Golden State Warriors": {
-    "Charles Bassey": "PROBABLE",
+    "Charles Bassey": "AVAILABLE",
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "OUT",
     "Seth Curry": "OUT",
-    "Stephen Curry": "PROBABLE",
+    "Stephen Curry": "AVAILABLE",
     "Moses Moody": "OUT",
-    "Kristaps Porzingis": "PROBABLE",
+    "Kristaps Porzingis": "AVAILABLE",
     "Quinten Post": "OUT",
-    "Will Richard": "QUESTIONABLE",
-    "Gui Santos": "QUESTIONABLE"
+    "Will Richard": "AVAILABLE",
+    "Gui Santos": "AVAILABLE"
   },
   "Sacramento Kings": {
     "Patrick Baldwin Jr.": "OUT",
@@ -251,20 +251,20 @@
   },
   "Portland Trail Blazers": {
     "Jerami Grant": "OUT",
-    "Vit Krejci": "QUESTIONABLE",
+    "Vit Krejci": "OUT",
     "Damian Lillard": "OUT",
-    "Shaedon Sharpe": "QUESTIONABLE"
+    "Shaedon Sharpe": "AVAILABLE"
   },
   "Phoenix Suns": {
     "Devin Booker": "OUT",
     "Jordan Goodwin": "OUT",
-    "Jalen Green": "QUESTIONABLE",
+    "Jalen Green": "OUT",
     "Haywood Highsmith": "OUT"
   },
   "Los Angeles Lakers": {
     "Luka Doncic": "OUT",
     "Jaxson Hayes": "OUT",
-    "Luke Kennard": "QUESTIONABLE",
+    "Luke Kennard": "AVAILABLE",
     "Austin Reaves": "OUT"
   }
 }
