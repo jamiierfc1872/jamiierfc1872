@@ -52,7 +52,7 @@
   },
   "Detroit Pistons": {
     "Jalen Duren": "OUT",
-    "Wendell Moore Jr.": "OUT"
+    "Wendell Moore Jr.": "QUESTIONABLE"
   },
   "Indiana Pacers": {
     "Kobe Brown": "QUESTIONABLE",
@@ -156,8 +156,32 @@
     "Jamal Murray": "OUT",
     "Peyton Watson": "OUT"
   },
-  "San Antonio Spurs": {},
-  "Memphis Grizzlies": {},
+  "San Antonio Spurs": {
+    "Stephon Castle": "QUESTIONABLE",
+    "David Garcia": "OUT",
+    "Luke Kornet": "OUT",
+    "Emanuel Miller": "OUT",
+    "Devin Vassell": "QUESTIONABLE",
+    "Victor Wembanyama": "QUESTIONABLE"
+  },
+  "Memphis Grizzlies": {
+    "Santi Aldama": "OUT",
+    "Adama Bal": "QUESTIONABLE",
+    "Kentavious Caldwell-Pope": "OUT",
+    "Brandon Clarke": "OUT",
+    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Cedric Coward": "OUT",
+    "Zach Edey": "OUT",
+    "Taylor Hendricks": "OUT",
+    "GG Jackson": "OUT",
+    "Ty Jerome": "OUT",
+    "Jahmai Mashack": "AVAILABLE",
+    "Ja Morant": "OUT",
+    "Scotty Pippen Jr.": "OUT",
+    "Javon Small": "PROBABLE",
+    "Cam Spencer": "OUT",
+    "Jaylen Wells": "OUT"
+  },
   "Houston Rockets": {
     "Steven Adams": "OUT",
     "Kevin Durant": "OUT",
@@ -187,7 +211,38 @@
     "Julius Randle": "OUT",
     "Naz Reid": "OUT"
   },
-  "Phoenix Suns": {},
-  "Oklahoma City Thunder": {},
-  "Sacramento Kings": {}
+  "Phoenix Suns": {
+    "Grayson Allen": "OUT",
+    "Devin Booker": "OUT",
+    "Dillon Brooks": "OUT",
+    "Collin Gillespie": "QUESTIONABLE",
+    "Jordan Goodwin": "QUESTIONABLE",
+    "Jalen Green": "QUESTIONABLE",
+    "Haywood Highsmith": "QUESTIONABLE",
+    "Royce O'Neale": "OUT",
+    "Mark Williams": "QUESTIONABLE"
+  },
+  "Oklahoma City Thunder": {
+    "Alex Caruso": "OUT",
+    "Shai Gilgeous-Alexander": "OUT",
+    "Isaiah Hartenstein": "OUT",
+    "Chet Holmgren": "OUT",
+    "Isaiah Joe": "OUT",
+    "Ajay Mitchell": "OUT",
+    "Thomas Sorber": "OUT",
+    "Cason Wallace": "OUT",
+    "Jalen Williams": "OUT",
+    "Jaylin Williams": "OUT"
+  },
+  "Sacramento Kings": {
+    "DeMar DeRozan": "OUT",
+    "Drew Eubanks": "OUT",
+    "De'Andre Hunter": "OUT",
+    "Zach LaVine": "OUT",
+    "Malik Monk": "OUT",
+    "Keegan Murray": "OUT",
+    "Domantas Sabonis": "OUT",
+    "Isaiah Stevens": "OUT",
+    "Russell Westbrook": "OUT"
+  }
 }
