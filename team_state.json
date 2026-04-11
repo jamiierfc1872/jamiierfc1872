@@ -20,6 +20,7 @@
     "Andrew Wiggins": "AVAILABLE"
   },
   "Brooklyn Nets": {
+    "Ochai Agbaji": "PROBABLE",
     "Nic Claxton": "OUT",
     "Noah Clowney": "OUT",
     "Egor Demin": "OUT",
@@ -164,6 +165,14 @@
     "Devin Vassell": "QUESTIONABLE",
     "Victor Wembanyama": "QUESTIONABLE"
   },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "LJ Cryer": "OUT",
+    "Draymond Green": "QUESTIONABLE",
+    "Moses Moody": "OUT",
+    "Quinten Post": "OUT",
+    "Will Richard": "QUESTIONABLE"
+  },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
     "Adama Bal": "QUESTIONABLE",
@@ -244,5 +253,11 @@
     "Domantas Sabonis": "OUT",
     "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "OUT",
+    "Jaxson Hayes": "QUESTIONABLE",
+    "LeBron James": "QUESTIONABLE",
+    "Austin Reaves": "OUT"
   }
 }
