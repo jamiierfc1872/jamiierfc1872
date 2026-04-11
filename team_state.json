@@ -44,5 +44,57 @@
     "Tyler Smith": "PROBABLE",
     "P.J. Washington": "DOUBTFUL",
     "Brandon Williams": "DOUBTFUL"
+  },
+  "Atlanta Hawks": {
+    "Nickeil Alexander-Walker": "QUESTIONABLE",
+    "Dyson Daniels": "QUESTIONABLE",
+    "RayJ Dennis": "QUESTIONABLE",
+    "Keshon Gilbert": "QUESTIONABLE",
+    "Jalen Johnson": "QUESTIONABLE",
+    "Jonathan Kuminga": "QUESTIONABLE",
+    "Jock Landale": "OUT",
+    "CJ McCollum": "QUESTIONABLE",
+    "Onyeka Okongwu": "QUESTIONABLE"
+  },
+  "Charlotte Hornets": {
+    "Tosan Evbuomwan": "OUT",
+    "PJ Hall": "OUT",
+    "Antonio Reeves": "OUT",
+    "Coby White": "PROBABLE"
+  },
+  "Cleveland Cavaliers": {
+    "Jarrett Allen": "OUT",
+    "Thomas Bryant": "OUT",
+    "Keon Ellis": "OUT",
+    "James Harden": "OUT",
+    "Sam Merrill": "OUT",
+    "Donovan Mitchell": "OUT",
+    "Evan Mobley": "OUT",
+    "Dennis Schroder": "OUT",
+    "Dean Wade": "OUT"
+  },
+  "New York Knicks": {
+    "OG Anunoby": "OUT",
+    "Jalen Brunson": "OUT",
+    "Josh Hart": "OUT",
+    "Tyler Kolek": "OUT",
+    "Mitchell Robinson": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Joel Embiid": "OUT",
+    "Tyrese Maxey": "AVAILABLE"
+  },
+  "Washington Wizards": {
+    "Bilal Coulibaly": "OUT",
+    "Anthony Davis": "OUT",
+    "Kyshawn George": "OUT",
+    "Anthony Gill": "QUESTIONABLE",
+    "Tre Johnson": "OUT",
+    "D'Angelo Russell": "OUT",
+    "Alex Sarr": "OUT",
+    "Tristan Vukcevic": "OUT",
+    "Cam Whitmore": "OUT",
+    "Trae Young": "OUT"
   }
 }
