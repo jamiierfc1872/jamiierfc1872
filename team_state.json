@@ -4,7 +4,7 @@
     "Dyson Daniels": "OUT",
     "RayJ Dennis": "AVAILABLE",
     "Keshon Gilbert": "AVAILABLE",
-    "Mouhamed Gueye": "QUESTIONABLE",
+    "Mouhamed Gueye": "AVAILABLE",
     "Jalen Johnson": "OUT",
     "Jonathan Kuminga": "OUT",
     "Jock Landale": "OUT",
@@ -36,10 +36,10 @@
     "Danny Wolf": "OUT"
   },
   "Toronto Raptors": {
-    "RJ Barrett": "QUESTIONABLE",
+    "RJ Barrett": "AVAILABLE",
     "Chucky Hepburn": "OUT",
-    "Trayce Jackson-Davis": "QUESTIONABLE",
-    "Collin Murray-Boyles": "QUESTIONABLE"
+    "Trayce Jackson-Davis": "AVAILABLE",
+    "Collin Murray-Boyles": "AVAILABLE"
   },
   "Charlotte Hornets": {
     "Tosan Evbuomwan": "OUT",
@@ -57,7 +57,7 @@
   },
   "Detroit Pistons": {
     "Jalen Duren": "OUT",
-    "Wendell Moore Jr.": "QUESTIONABLE"
+    "Wendell Moore Jr.": "OUT"
   },
   "Indiana Pacers": {
     "Kobe Brown": "AVAILABLE",
@@ -73,9 +73,9 @@
   },
   "Milwaukee Bucks": {
     "Giannis Antetokounmpo": "OUT",
-    "Gary Harris": "QUESTIONABLE",
+    "Gary Harris": "OUT",
     "Kyle Kuzma": "OUT",
-    "Pete Nance": "QUESTIONABLE",
+    "Pete Nance": "OUT",
     "Kevin Porter Jr.": "OUT",
     "Bobby Portis": "OUT",
     "Ryan Rollins": "OUT",
@@ -173,7 +173,7 @@
   "Golden State Warriors": {
     "Jimmy Butler III": "OUT",
     "LJ Cryer": "OUT",
-    "Draymond Green": "QUESTIONABLE",
+    "Draymond Green": "OUT",
     "Moses Moody": "OUT",
     "Quinten Post": "OUT",
     "Will Richard": "QUESTIONABLE"
