@@ -131,12 +131,12 @@
     "Noa Essengue": "OUT",
     "Josh Giddey": "OUT",
     "Isaac Okoro": "OUT",
-    "Lachlan Olbrich": "PROBABLE",
-    "Nick Richards": "OUT",
-    "Collin Sexton": "PROBABLE",
-    "Anfernee Simons": "OUT",
+    "Lachlan Olbrich": "AVAILABLE",
+    "Nick -Richards": "OUT",
+    "Collin Sexton": "AVAILABLE",
+    "Anfernee -Simons": "OUT",
     "Jalen Smith": "OUT",
-    "Patrick Williams": "PROBABLE",
+    "Patrick Williams": "AVAILABLE",
     "Guerschon Yabusele": "OUT"
   },
   "Dallas Mavericks": {
@@ -234,12 +234,12 @@
     "Grayson Allen": "OUT",
     "Devin Booker": "OUT",
     "Dillon Brooks": "OUT",
-    "Collin Gillespie": "QUESTIONABLE",
-    "Jordan Goodwin": "QUESTIONABLE",
-    "Jalen Green": "QUESTIONABLE",
-    "Haywood Highsmith": "QUESTIONABLE",
+    "Collin Gillespie": "OUT",
+    "Jordan Goodwin": "OUT",
+    "Jalen Green": "OUT",
+    "Haywood Highsmith": "AVAILABLE",
     "Royce O'Neale": "OUT",
-    "Mark Williams": "QUESTIONABLE"
+    "Mark Williams": "OUT"
   },
   "Oklahoma City Thunder": {
     "Alex Caruso": "OUT",
@@ -266,9 +266,9 @@
   },
   "Portland Trail Blazers": {
     "Jerami Grant": "OUT",
-    "Vit Krejci": "QUESTIONABLE",
+    "Vit Krejci": "AVAILABLE",
     "Damian Lillard": "OUT",
-    "Matisse Thybulle": "PROBABLE"
+    "Matisse Thybulle": "AVAILABLE"
   },
   "Utah Jazz": {
     "Isaiah Collier": "OUT",
