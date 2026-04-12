@@ -157,7 +157,7 @@
     "Aaron Gordon": "OUT",
     "Tim Hardaway Jr.": "OUT",
     "Cameron Johnson": "OUT",
-    "Nikola Jokic": "QUESTIONABLE",
+    "Nikola Jokic": "AVAILABLE",
     "Spencer Jones": "OUT",
     "Jamal Murray": "OUT",
     "Peyton Watson": "OUT"
@@ -176,7 +176,7 @@
     "Draymond Green": "OUT",
     "Moses Moody": "OUT",
     "Quinten Post": "OUT",
-    "Will Richard": "QUESTIONABLE"
+    "Will Richard": "AVAILABLE"
   },
   "LA Clippers": {
     "Bradley Beal": "OUT",
@@ -185,10 +185,10 @@
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
-    "Adama Bal": "QUESTIONABLE",
+    "Adama Bal": "OUT",
     "Kentavious Caldwell-Pope": "OUT",
     "Brandon Clarke": "OUT",
-    "Walter Clayton Jr.": "QUESTIONABLE",
+    "Walter Clayton Jr.": "OUT",
     "Cedric Coward": "OUT",
     "Zach Edey": "OUT",
     "Taylor Hendricks": "OUT",
@@ -197,7 +197,7 @@
     "Jahmai Mashack": "AVAILABLE",
     "Ja Morant": "OUT",
     "Scotty Pippen Jr.": "OUT",
-    "Javon Small": "PROBABLE",
+    "Javon Small": "AVAILABLE",
     "Cam Spencer": "OUT",
     "Jaylen Wells": "OUT"
   },
@@ -283,7 +283,7 @@
   "Los Angeles Lakers": {
     "Luka Doncic": "OUT",
     "Jaxson Hayes": "OUT",
-    "LeBron James": "QUESTIONABLE",
+    "LeBron James": "AVAILABLE",
     "Austin Reaves": "OUT"
   }
 }
