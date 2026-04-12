@@ -140,17 +140,17 @@
     "Guerschon Yabusele": "OUT"
   },
   "Dallas Mavericks": {
-    "Marvin Bagley III": "DOUBTFUL",
-    "Moussa Cisse": "PROBABLE",
-    "Daniel Gafford": "DOUBTFUL",
+    "Marvin Bagley III": "OUT",
+    "Moussa Cisse": "AVAILABLE",
+    "Daniel Gafford": "OUT",
     "Kyrie Irving": "OUT",
     "Dereck Lively II": "OUT",
-    "Naji Marshall": "DOUBTFUL",
-    "Caleb Martin": "DOUBTFUL",
-    "John Poulakidas": "PROBABLE",
-    "Tyler Smith": "PROBABLE",
-    "P.J. Washington": "DOUBTFUL",
-    "Brandon Williams": "DOUBTFUL"
+    "Naji Marshall": "OUT",
+    "Caleb Martin": "OUT",
+    "John Poulakidas": "AVAILABLE",
+    "Tyler Smith": "AVAILABLE",
+    "P.J. Washington": "OUT",
+    "Brandon Williams": "OUT"
   },
   "Denver Nuggets": {
     "Christian Braun": "OUT",
@@ -163,7 +163,7 @@
     "Peyton Watson": "OUT"
   },
   "San Antonio Spurs": {
-    "Stephon Castle": "QUESTIONABLE",
+    "Stephon Castle": "AVAILABLE",
     "David Garcia": "OUT",
     "Luke Kornet": "OUT",
     "Emanuel Miller": "OUT",
