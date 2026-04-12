@@ -259,5 +259,21 @@
     "Jaxson Hayes": "QUESTIONABLE",
     "LeBron James": "QUESTIONABLE",
     "Austin Reaves": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Jerami Grant": "OUT",
+    "Vit Krejci": "QUESTIONABLE",
+    "Damian Lillard": "OUT",
+    "Matisse Thybulle": "PROBABLE"
+  },
+  "Utah Jazz": {
+    "Isaiah Collier": "OUT",
+    "Kyle Filipowski": "OUT",
+    "Keyonte George": "OUT",
+    "Elijah Harkless": "OUT",
+    "Jaren Jackson Jr.": "OUT",
+    "Walker Kessler": "OUT",
+    "Lauri Markkanen": "OUT",
+    "Jusuf Nurkic": "OUT"
   }
 }
