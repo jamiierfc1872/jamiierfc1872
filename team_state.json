@@ -173,6 +173,11 @@
     "Quinten Post": "OUT",
     "Will Richard": "QUESTIONABLE"
   },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Isaiah Jackson": "OUT",
+    "Kawhi Leonard": "QUESTIONABLE"
+  },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
     "Adama Bal": "QUESTIONABLE",
@@ -254,12 +259,6 @@
     "Isaiah Stevens": "OUT",
     "Russell Westbrook": "OUT"
   },
-  "Los Angeles Lakers": {
-    "Luka Doncic": "OUT",
-    "Jaxson Hayes": "QUESTIONABLE",
-    "LeBron James": "QUESTIONABLE",
-    "Austin Reaves": "OUT"
-  },
   "Portland Trail Blazers": {
     "Jerami Grant": "OUT",
     "Vit Krejci": "QUESTIONABLE",
@@ -275,5 +274,11 @@
     "Walker Kessler": "OUT",
     "Lauri Markkanen": "OUT",
     "Jusuf Nurkic": "OUT"
+  },
+  "Los Angeles Lakers": {
+    "Luka Doncic": "OUT",
+    "Jaxson Hayes": "QUESTIONABLE",
+    "LeBron James": "QUESTIONABLE",
+    "Austin Reaves": "OUT"
   }
 }
