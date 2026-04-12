@@ -94,12 +94,12 @@
   },
   "Boston Celtics": {
     "Jaylen Brown": "OUT",
-    "Hugo Gonzalez": "QUESTIONABLE",
-    "Sam Hauser": "DOUBTFUL",
-    "Payton Pritchard": "DOUBTFUL",
+    "Hugo Gonzalez": "OUT",
+    "Sam Hauser": "OUT",
+    "Payton Pritchard": "OUT",
     "Neemias Queta": "OUT",
     "Jayson Tatum": "OUT",
-    "Nikola Vucevic": "DOUBTFUL",
+    "Nikola Vucevic": "OUT",
     "Derrick White": "OUT"
   },
   "Washington Wizards": {
@@ -181,7 +181,7 @@
   "LA Clippers": {
     "Bradley Beal": "OUT",
     "Isaiah Jackson": "OUT",
-    "Kawhi Leonard": "QUESTIONABLE"
+    "Kawhi Leonard": "OUT"
   },
   "Memphis Grizzlies": {
     "Santi Aldama": "OUT",
