@@ -1,7 +1,4 @@
 {
-  "Charlotte Hornets": {
-    "PJ Hall": "OUT"
-  },
   "Miami Heat": {
     "Simone Fontecchio": "AVAILABLE",
     "Tyler Herro": "AVAILABLE",
@@ -9,5 +6,8 @@
     "Pelle Larsson": "QUESTIONABLE",
     "Dru Smith": "OUT",
     "Andrew Wiggins": "AVAILABLE"
+  },
+  "Charlotte Hornets": {
+    "PJ Hall": "OUT"
   }
 }
