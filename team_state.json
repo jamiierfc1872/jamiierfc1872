@@ -9,11 +9,11 @@
     "Andrew Wiggins": "AVAILABLE"
   },
   "Portland Trail Blazers": {
-    "Jerami Grant": "QUESTIONABLE",
+    "Jerami Grant": "AVAILABLE",
     "Damian Lillard": "OUT"
   },
   "Phoenix Suns": {
-    "Grayson Allen": "QUESTIONABLE"
+    "Grayson Allen": "OUT"
   },
   "Orlando Magic": {
     "Wendell Carter Jr.": "AVAILABLE",
@@ -26,6 +26,13 @@
     "Tyrese Maxey": "AVAILABLE",
     "Trendon Watford": "PROBABLE"
   },
-  "Golden State Warriors": {},
-  "LA Clippers": {}
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Moses Moody": "OUT",
+    "Quinten Post": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Isaiah Jackson": "QUESTIONABLE"
+  }
 }
