@@ -1,1 +1,22 @@
-{}
+{
+  "Orlando Magic": {
+    "Wendell Carter Jr.": "AVAILABLE",
+    "Jett Howard": "AVAILABLE",
+    "Jonathan Isaac": "OUT"
+  },
+  "Philadelphia 76ers": {
+    "Johni Broome": "OUT",
+    "Joel Embiid": "OUT",
+    "Tyrese Maxey": "AVAILABLE",
+    "Trendon Watford": "AVAILABLE"
+  },
+  "Golden State Warriors": {
+    "Jimmy Butler III": "OUT",
+    "Moses Moody": "OUT",
+    "Quinten Post": "OUT"
+  },
+  "LA Clippers": {
+    "Bradley Beal": "OUT",
+    "Isaiah Jackson": "AVAILABLE"
+  }
+}
