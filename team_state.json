@@ -1,6 +1,6 @@
 {
   "Charlotte Hornets": {
-    "Moussa Diabate": "QUESTIONABLE"
+    "Moussa Diabate": "AVAILABLE"
   },
   "Orlando Magic": {
     "Wendell Carter Jr.": "AVAILABLE",
@@ -30,6 +30,10 @@
     "Enrique Freeman": "OUT",
     "Zyon Pullin": "OUT",
     "Rocco Zikarsky": "OUT"
+  },
+  "Denver Nuggets": {
+    "Spencer Jones": "QUESTIONABLE",
+    "Peyton Watson": "OUT"
   },
   "Atlanta Hawks": {
     "RayJ Dennis": "AVAILABLE",
