@@ -15,5 +15,20 @@
   "Phoenix Suns": {
     "Grayson Allen": "QUESTIONABLE",
     "Mark Williams": "QUESTIONABLE"
+  },
+  "Atlanta Hawks": {
+    "RayJ Dennis": "AVAILABLE",
+    "Keshon -Gilbert": "AVAILABLE",
+    "Christian -Koloko": "AVAILABLE",
+    "Jock -Landale": "OUT"
+  },
+  "Cleveland Cavaliers": {
+    "Thomas Bryant": "OUT",
+    "Tristan Enaruna": "OUT",
+    "Riley Minix": "OUT",
+    "Olivier Sarr": "OUT"
+  },
+  "Toronto Raptors": {
+    "Immanuel Quickley": "QUESTIONABLE"
   }
 }
