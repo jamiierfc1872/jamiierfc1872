@@ -16,11 +16,8 @@
     "Grayson Allen": "QUESTIONABLE",
     "Mark Williams": "QUESTIONABLE"
   },
-  "Atlanta Hawks": {
-    "RayJ Dennis": "AVAILABLE",
-    "Keshon -Gilbert": "AVAILABLE",
-    "Christian -Koloko": "AVAILABLE",
-    "Jock -Landale": "OUT"
+  "Toronto Raptors": {
+    "Immanuel Quickley": "QUESTIONABLE"
   },
   "Cleveland Cavaliers": {
     "Thomas Bryant": "OUT",
@@ -28,7 +25,10 @@
     "Riley Minix": "OUT",
     "Olivier Sarr": "OUT"
   },
-  "Toronto Raptors": {
-    "Immanuel Quickley": "QUESTIONABLE"
+  "Atlanta Hawks": {
+    "RayJ Dennis": "AVAILABLE",
+    "Keshon -Gilbert": "AVAILABLE",
+    "Christian -Koloko": "AVAILABLE",
+    "Jock -Landale": "OUT"
   }
 }
