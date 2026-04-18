@@ -24,15 +24,7 @@
     "Luka Doncic": "OUT",
     "Austin Reaves": "OUT"
   },
-  "Philadelphia 76ers": {
-    "Joel Embiid": "OUT",
-    "Tyrese Maxey": "AVAILABLE"
-  },
-  "Orlando Magic": {
-    "Wendell Carter Jr.": "AVAILABLE",
-    "Jonathan Isaac": "QUESTIONABLE"
-  },
-  "San Antonio Spurs": {
-    "Jordan McLaughlin": "OUT"
-  }
+  "Philadelphia 76ers": {},
+  "Orlando Magic": {},
+  "San Antonio Spurs": {}
 }
