@@ -17,7 +17,7 @@
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
-    "Kevin Durant": "OUT",
+    "Kevin Durant": "QUESTIONABLE",
     "Fred VanVleet": "OUT"
   },
   "Los Angeles Lakers": {
@@ -28,20 +28,13 @@
     "Joel Embiid": "OUT",
     "Tyrese Maxey": "AVAILABLE"
   },
-  "Phoenix Suns": {
-    "Grayson Allen": "QUESTIONABLE",
-    "Mark Williams": "QUESTIONABLE"
-  },
-  "Oklahoma City Thunder": {
-    "Thomas Sorber": "OUT"
-  },
+  "Phoenix Suns": {},
+  "Oklahoma City Thunder": {},
   "Orlando Magic": {
     "Wendell Carter Jr.": "AVAILABLE",
     "Jonathan Isaac": "QUESTIONABLE"
   },
-  "Portland Trail Blazers": {
-    "Damian Lillard": "OUT"
-  },
+  "Portland Trail Blazers": {},
   "San Antonio Spurs": {
     "Jordan McLaughlin": "OUT"
   }
