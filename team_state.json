@@ -24,7 +24,25 @@
     "Luka Doncic": "OUT",
     "Austin Reaves": "OUT"
   },
-  "Philadelphia 76ers": {},
-  "Orlando Magic": {},
-  "San Antonio Spurs": {}
+  "Philadelphia 76ers": {
+    "Joel Embiid": "OUT",
+    "Tyrese Maxey": "AVAILABLE"
+  },
+  "Phoenix Suns": {
+    "Grayson Allen": "QUESTIONABLE",
+    "Mark Williams": "QUESTIONABLE"
+  },
+  "Oklahoma City Thunder": {
+    "Thomas Sorber": "OUT"
+  },
+  "Orlando Magic": {
+    "Wendell Carter Jr.": "AVAILABLE",
+    "Jonathan Isaac": "QUESTIONABLE"
+  },
+  "Portland Trail Blazers": {
+    "Damian Lillard": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Jordan McLaughlin": "OUT"
+  }
 }
