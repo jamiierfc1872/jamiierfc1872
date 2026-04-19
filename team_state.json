@@ -11,14 +11,27 @@
     "Thomas Sorber": "OUT"
   },
   "Orlando Magic": {
-    "Desmond Bane": "PROBABLE",
+    "Desmond Bane": "AVAILABLE",
     "Wendell Carter Jr.": "AVAILABLE",
-    "Jonathan Isaac": "QUESTIONABLE"
+    "Jonathan Isaac": "OUT"
   },
   "Portland Trail Blazers": {
     "Damian Lillard": "OUT"
   },
   "San Antonio Spurs": {
     "Jordan McLaughlin": "OUT"
+  },
+  "Toronto Raptors": {
+    "Immanuel Quickley": "QUESTIONABLE"
+  },
+  "Cleveland Cavaliers": {
+    "Thomas Bryant": "OUT"
+  },
+  "Atlanta Hawks": {
+    "Jock Landale": "OUT",
+    "Onyeka Okongwu": "QUESTIONABLE"
+  },
+  "New York Knicks": {
+    "OG Anunoby": "PROBABLE"
   }
 }
