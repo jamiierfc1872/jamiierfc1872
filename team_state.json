@@ -12,28 +12,10 @@
   "New York Knicks": {
     "OG Anunoby": "PROBABLE"
   },
-  "Minnesota Timberwolves": {},
-  "Denver Nuggets": {},
-  "Oklahoma City Thunder": {
-    "Thomas Sorber": "OUT"
+  "Minnesota Timberwolves": {
+    "Anthony Edwards": "QUESTIONABLE"
   },
-  "Orlando Magic": {
-    "Desmond Bane": "AVAILABLE",
-    "Wendell Carter Jr.": "AVAILABLE",
-    "Jonathan Isaac": "OUT"
-  },
-  "Philadelphia 76ers": {
-    "Joel Embiid": "OUT",
-    "Tyrese Maxey": "AVAILABLE"
-  },
-  "Phoenix Suns": {
-    "Grayson Allen": "AVAILABLE",
-    "Mark Williams": "OUT"
-  },
-  "Portland Trail Blazers": {
-    "Damian Lillard": "OUT"
-  },
-  "San Antonio Spurs": {
-    "Jordan McLaughlin": "OUT"
+  "Denver Nuggets": {
+    "Peyton Watson": "OUT"
   }
 }
