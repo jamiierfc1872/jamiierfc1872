@@ -7,7 +7,7 @@
   },
   "Atlanta Hawks": {
     "Jock Landale": "OUT",
-    "Onyeka Okongwu": "QUESTIONABLE"
+    "Onyeka Okongwu": "AVAILABLE"
   },
   "New York Knicks": {
     "OG Anunoby": "PROBABLE"
@@ -25,15 +25,15 @@
   "Boston Celtics": {
     "Ron Harper Jr.": "PROBABLE"
   },
-  "Houston Rockets": {
-    "Steven Adams": "OUT",
-    "Kevin Durant": "QUESTIONABLE",
-    "Fred VanVleet": "OUT"
-  },
   "Portland Trail Blazers": {
     "Damian Lillard": "OUT"
   },
   "San Antonio Spurs": {
     "Jordan McLaughlin": "OUT"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Kevin Durant": "QUESTIONABLE",
+    "Fred VanVleet": "OUT"
   }
 }
