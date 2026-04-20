@@ -1,6 +1,6 @@
 {
   "Toronto Raptors": {
-    "Immanuel Quickley": "QUESTIONABLE"
+    "Immanuel Quickley": "OUT"
   },
   "Cleveland Cavaliers": {
     "Thomas Bryant": "OUT"
@@ -24,5 +24,16 @@
   },
   "Boston Celtics": {
     "Ron Harper Jr.": "PROBABLE"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Kevin Durant": "QUESTIONABLE",
+    "Fred VanVleet": "OUT"
+  },
+  "Portland Trail Blazers": {
+    "Damian Lillard": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Jordan McLaughlin": "OUT"
   }
 }
