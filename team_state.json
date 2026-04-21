@@ -1,27 +1,24 @@
 {
-  "Toronto Raptors": {
-    "Immanuel Quickley": "QUESTIONABLE"
+  "Philadelphia 76ers": {
+    "Joel Embiid": "OUT",
+    "Tyrese Maxey": "AVAILABLE"
   },
-  "Cleveland Cavaliers": {
-    "Thomas Bryant": "OUT"
+  "Boston Celtics": {
+    "Ron Harper Jr.": "PROBABLE"
   },
-  "Atlanta Hawks": {
-    "Jock Landale": "OUT",
-    "Onyeka Okongwu": "QUESTIONABLE"
+  "Portland Trail Blazers": {
+    "Damian Lillard": "OUT"
   },
-  "New York Knicks": {
-    "OG Anunoby": "PROBABLE"
+  "San Antonio Spurs": {
+    "Jordan McLaughlin": "OUT"
   },
-  "Minnesota Timberwolves": {
-    "Anthony Edwards": "QUESTIONABLE"
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Kevin Durant": "QUESTIONABLE",
+    "Fred VanVleet": "OUT"
   },
-  "Denver Nuggets": {
-    "Peyton Watson": "OUT"
-  },
-  "Philadelphia 76ers": {},
-  "Boston Celtics": {},
-  "Portland Trail Blazers": {},
-  "San Antonio Spurs": {},
-  "Houston Rockets": {},
-  "Los Angeles Lakers": {}
+  "Los Angeles Lakers": {
+    "Luka Doncic": "OUT",
+    "Austin Reaves": "OUT"
+  }
 }
