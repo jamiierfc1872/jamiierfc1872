@@ -3,28 +3,16 @@
     "Jonathan Isaac": "OUT"
   },
   "Phoenix Suns": {
-    "Grayson Allen": "AVAILABLE",
-    "Jordan Goodwin": "OUT",
-    "Mark Williams": "OUT"
+    "Grayson Allen": "QUESTIONABLE",
+    "Jordan Goodwin": "QUESTIONABLE",
+    "Mark Williams": "QUESTIONABLE"
   },
   "Oklahoma City Thunder": {
     "Thomas Sorber": "OUT"
   },
-  "Atlanta Hawks": {
-    "Jock Landale": "OUT"
-  },
-  "Cleveland Cavaliers": {
-    "Thomas Bryant": "QUESTIONABLE"
-  },
-  "Toronto Raptors": {
-    "Immanuel Quickley": "QUESTIONABLE",
-    "Ja'Kobe Walter": "QUESTIONABLE"
-  },
-  "Denver Nuggets": {
-    "Aaron Gordon": "PROBABLE",
-    "Peyton Watson": "OUT"
-  },
-  "Minnesota Timberwolves": {
-    "Anthony Edwards": "QUESTIONABLE"
-  }
+  "Atlanta Hawks": {},
+  "Cleveland Cavaliers": {},
+  "Toronto Raptors": {},
+  "Denver Nuggets": {},
+  "Minnesota Timberwolves": {}
 }
