@@ -17,5 +17,14 @@
     "Jaylen Clark": "QUESTIONABLE",
     "Anthony Edwards": "QUESTIONABLE",
     "Terrence Shannon Jr.": "QUESTIONABLE"
+  },
+  "Philadelphia 76ers": {
+    "Joel Embiid": "DOUBTFUL",
+    "Tyrese Maxey": "AVAILABLE"
+  },
+  "Houston Rockets": {
+    "Steven Adams": "OUT",
+    "Kevin Durant": "QUESTIONABLE",
+    "Fred VanVleet": "OUT"
   }
 }
