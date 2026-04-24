@@ -1,7 +1,5 @@
 {
-  "Atlanta Hawks": {
-    "Jock Landale": "OUT"
-  },
+  "Atlanta Hawks": {},
   "Cleveland Cavaliers": {
     "Thomas Bryant": "AVAILABLE"
   },
@@ -9,15 +7,8 @@
     "Immanuel Quickley": "OUT",
     "Ja'Kobe Walter": "AVAILABLE"
   },
-  "Denver Nuggets": {
-    "Aaron Gordon": "OUT",
-    "Peyton Watson": "OUT"
-  },
-  "Minnesota Timberwolves": {
-    "Jaylen Clark": "OUT",
-    "Anthony Edwards": "AVAILABLE",
-    "Terrence Shannon Jr.": "OUT"
-  },
+  "Denver Nuggets": {},
+  "Minnesota Timberwolves": {},
   "Philadelphia 76ers": {
     "Joel Embiid": "DOUBTFUL",
     "Tyrese Maxey": "AVAILABLE"
