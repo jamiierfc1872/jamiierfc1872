@@ -10,12 +10,12 @@
     "Ja'Kobe Walter": "AVAILABLE"
   },
   "Denver Nuggets": {
-    "Aaron Gordon": "QUESTIONABLE",
+    "Aaron Gordon": "OUT",
     "Peyton Watson": "OUT"
   },
   "Minnesota Timberwolves": {
     "Jaylen Clark": "OUT",
-    "Anthony Edwards": "QUESTIONABLE",
+    "Anthony Edwards": "AVAILABLE",
     "Terrence Shannon Jr.": "OUT"
   },
   "Philadelphia 76ers": {
@@ -30,6 +30,10 @@
     "Steven Adams": "OUT",
     "Kevin Durant": "QUESTIONABLE",
     "Fred VanVleet": "OUT"
+  },
+  "San Antonio Spurs": {
+    "Jordan McLaughlin": "OUT",
+    "Victor Wembanyama": "QUESTIONABLE"
   },
   "Portland Trail Blazers": {
     "Damian Lillard": "OUT"
