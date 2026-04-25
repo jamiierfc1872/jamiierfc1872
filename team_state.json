@@ -5,16 +5,16 @@
   },
   "Los Angeles Lakers": {
     "Luka Doncic": "OUT",
-    "Austin Reaves": "OUT"
+    "Austin Reaves": "QUESTIONABLE"
   },
   "Houston Rockets": {
     "Steven Adams": "OUT",
-    "Kevin Durant": "OUT",
+    "Kevin Durant": "QUESTIONABLE",
     "Fred VanVleet": "OUT"
   },
   "San Antonio Spurs": {
     "Jordan McLaughlin": "OUT",
-    "Victor Wembanyama": "OUT"
+    "Victor Wembanyama": "QUESTIONABLE"
   },
   "Portland Trail Blazers": {
     "Damian Lillard": "OUT"
@@ -22,16 +22,8 @@
   "Orlando Magic": {
     "Jonathan Isaac": "DOUBTFUL"
   },
-  "Oklahoma City Thunder": {
-    "Isaiah Joe": "DOUBTFUL",
-    "Thomas Sorber": "OUT",
-    "Jalen Williams": "OUT"
-  },
-  "Phoenix Suns": {
-    "Grayson Allen": "QUESTIONABLE",
-    "Jordan Goodwin": "QUESTIONABLE",
-    "Mark Williams": "OUT"
-  },
+  "Oklahoma City Thunder": {},
+  "Phoenix Suns": {},
   "Atlanta Hawks": {
     "Jock Landale": "OUT"
   },
